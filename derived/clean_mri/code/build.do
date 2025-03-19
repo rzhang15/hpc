@@ -11,7 +11,7 @@ global dropbox_dir "$sci_equip"
 cd "$github/science-equipment/derived/clean_mri/code"
 
 global raw "${dropbox_dir}/raw"
-global derived_output "${dropbox_dir}/derived_output"
+global derived_output "${dropbox_dir}/derived_output_hpc"
 
 program main 
 
@@ -94,8 +94,8 @@ program nsf_mri_compute
 
 	}
 
-	* Special indicator for beowolf clusters, GPU, CPU, linux, XSEDE
-	foreach var in beowulf gpu cpu linux xsede {
+	* Special indicator for beowolf clusters, GPU, CPU, linux
+	foreach var in beowulf gpu cpu linux {
 		gen `var' = (strpos(title, "`var'") > 0) | (strpos(abstract, "`var'") > 0)
 	}
 
