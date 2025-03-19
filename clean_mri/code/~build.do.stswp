@@ -1,0 +1,123 @@
+set more off
+clear all
+capture log close
+program drop _all
+set scheme modern
+version 18
+global dropbox_dir "~/dropbox (harvard university)/scientific equipment"
+
+* Ruby's macros 
+global dropbox_dir "$sci_equip"
+cd "$github/science-equipment/derived/clean_mri/code"
+
+global raw "${dropbox_dir}/raw"
+global derived_output "${dropbox_dir}/derived_output"
+
+program main 
+
+// 	append_nsf_mri_grants
+// 	nsf_mri_compute
+	merge_institution_data 
+	
+end 
+
+program append_nsf_mri_grants
+
+	import excel "$raw/NSF/MRI/2006before.xls", firstrow case(lower) clear
+	
+		tempfile mri1
+		save `mri1', replace
+		
+	import excel "$raw/NSF/MRI/2007to2015.xls", firstrow case(lower) clear
+	
+		tempfile mri2 
+		save `mri2', replace
+		 
+	import excel "$raw/NSF/MRI/2016after.xls", firstrow case(lower) clear
+	
+		append using `mri2'
+		append using `mri1'
+		
+	drop program*
+	gen start_year = substr(startdate, -4, 4)
+	gen end_year = substr(enddate, -4, 4)
+	destring *_year, replace
+	
+	gsort -start_year -startdate
+	
+	save "$derived_output/clean_mri/all_mri_grants.dta", replace
+	
+end 
+
+program nsf_mri_compute
+
+	use "$derived_output/clean_mri/all_mri_grants.dta", clear
+
+		drop copinames piemailaddress organizationstreet ///
+				organizationcity organizationstate ///
+				organizationzip organizationphone
+				
+		ren (awardnumber awardedamounttodate arraamount ///
+			principalinvestigator awardinstrument lastamendmentdate) ///
+			(award_id award_amt arra_amt pi award_type amenddate) 
+		
+			foreach var in award arra {
+				foreach sym in "$" "," {
+					replace `var'_amt = subinstr(`var'_amt, "`sym'", "", .)
+				}
+			}
+			
+			destring award_amt arra_amt, replace force
+	
+	* Define HPC resources
+	gen hpc = 0 
+	gen grid_cluster = 0
+	
+	foreach var in abstract title {
+		replace `var' = lower(`var')
+		replace `var' = ustrtrim(`var')
+		replace `var' = subinstr(`var', "high-performance", "high performance", .)
+		
+		* Likely HPC 
+		replace grid_cluster = 1 if (strpos(`var', " cluster") > 0) | (strpos(`var', " grid") > 0)
+		replace hpc = 0.5 if (strpos(`var', "comput") > 0) & grid_cluster 
+		replace hpc = 0.5 if (strpos(`var', "gpu") > 0) & grid_cluster 
+		replace hpc = 0.5 if (strpos(`var', "cpu") > 0) & grid_cluster 
+		replace hpc = 0.5 if (strpos(`var', "linux") > 0) & grid_cluster 
+		replace hpc = 0.5 if (strpos(`var', "research cluster") > 0) | (strpos(`var', "research grid") > 0)
+		
+		* Definitely HPC
+		replace hpc = 1 if (strpos(`var', "high performance comput") > 0) 
+		replace hpc = 1 if (strpos(`var', "hpc") > 0) 
+		replace hpc = 1 if (strpos(`var', "supercomput") > 0) 
+		replace hpc = 1 if (strpos(`var', "beowulf") > 0) 
+
+	}
+
+	* Special indicator for beowolf clusters, GPU, CPU, linux, XSEDE
+	foreach var in beowulf gpu cpu linux xsede {
+		gen `var' = (strpos(title, "`var'") > 0) | (strpos(abstract, "`var'") > 0)
+	}
+
+	* Not HPC 
+	replace hpc = 0 if strpos(title, "spectro") > 0
+	replace hpc = 0 if strpos(title, "diffractometer") > 0
+	replace hpc = 0 if strpos(title, "tomography") > 0
+	
+	keep if hpc != 0
+	
+	sort nsfdirectorate nsforganization organization start_year
+	
+	* Save the data as the raw list of MRI grants
+	save "$derived_output/clean_mri/mri_compute_grants", replace 
+	export excel "$derived_output/clean_mri/mri_compute_grants_raw.xlsx", firstrow(variables) replace
+	
+end 
+
+program merge_institution_data
+
+	import excel "$derived_output/clean_mri/mri_compute_grants_clean.xlsx", firstrow case(lower) clear
+	
+end 
+
+main
