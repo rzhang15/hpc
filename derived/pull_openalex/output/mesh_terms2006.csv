@@ -1,0 +1,958 @@
+id,which_mesh,term,is_major_topic,qualifier_name
+W2010637767,1,Gene Expression Profiling,TRUE,instrumentation
+W2010637767,2,Oligonucleotide Array Sequence Analysis,TRUE,instrumentation
+W2010637767,3,"Quality Assurance, Health Care",TRUE,methods
+W2010637767,4,Equipment Design,FALSE,
+W2010637767,5,Equipment Failure Analysis,FALSE,
+W2010637767,6,Gene Expression Profiling,FALSE,methods
+W2010637767,7,Gene Expression Profiling,FALSE,
+W2010637767,8,Oligonucleotide Array Sequence Analysis,FALSE,
+W2010637767,9,"Quality Assurance, Health Care",FALSE,
+W2010637767,10,Quality Control,FALSE,
+W2010637767,11,Reproducibility of Results,FALSE,
+W2010637767,12,Sensitivity and Specificity,FALSE,
+W2010637767,13,United States,FALSE,
+W2003315067,1,Ecology,TRUE,methods
+W2003315067,2,Geography,TRUE,methods
+W2003315067,3,"Models, Biological",TRUE,
+W2003315067,4,Animals,FALSE,
+W2003315067,5,Ecology,FALSE,
+W2003315067,6,Geography,FALSE,
+W2003315067,7,Mites,FALSE,
+W2022207223,1,Adenylyl Cyclases,TRUE,metabolism
+W2022207223,2,Bacterial Proteins,TRUE,toxicity
+W2022207223,3,Bacterial Toxins,TRUE,toxicity
+W2022207223,4,Cyclic AMP-Dependent Protein Kinases,TRUE,metabolism
+W2022207223,5,Endotoxins,TRUE,toxicity
+W2022207223,6,Insect Proteins,TRUE,agonists
+W2022207223,7,Lepidoptera,TRUE,drug effects
+W2022207223,8,"Receptors, Cell Surface",TRUE,agonists
+W2022207223,9,Adenylyl Cyclase Inhibitors,FALSE,
+W2022207223,10,Adenylyl Cyclases,FALSE,
+W2022207223,11,Animals,FALSE,
+W2022207223,12,Apoptosis,FALSE,drug effects
+W2022207223,13,Apoptosis,FALSE,
+W2022207223,14,Bacillus thuringiensis Toxins,FALSE,
+W2022207223,15,Bacterial Proteins,FALSE,
+W2022207223,16,Bacterial Toxins,FALSE,
+W2022207223,17,Cell Death,FALSE,
+W2022207223,18,"Cells, Cultured",FALSE,
+W2022207223,19,Cyclic AMP,FALSE,metabolism
+W2022207223,20,Cyclic AMP,FALSE,
+W2022207223,21,Cyclic AMP-Dependent Protein Kinases,FALSE,antagonists & inhibitors
+W2022207223,22,Cyclic AMP-Dependent Protein Kinases,FALSE,
+W2022207223,23,Endocytosis,FALSE,
+W2022207223,24,Endocytosis,FALSE,drug effects
+W2022207223,25,Endotoxins,FALSE,
+W2022207223,26,Enzyme Inhibitors,FALSE,
+W2022207223,27,Enzyme Inhibitors,FALSE,pharmacology
+W2022207223,28,GTP-Binding Proteins,FALSE,
+W2022207223,29,GTP-Binding Proteins,FALSE,metabolism
+W2022207223,30,Hemolysin Proteins,FALSE,
+W2022207223,31,Insect Proteins,FALSE,metabolism
+W2022207223,32,Insect Proteins,FALSE,
+W2022207223,33,Lepidoptera,FALSE,enzymology
+W2022207223,34,Lepidoptera,FALSE,cytology
+W2022207223,35,Lepidoptera,FALSE,
+W2022207223,36,"Receptors, Cell Surface",FALSE,metabolism
+W2022207223,37,"Receptors, Cell Surface",FALSE,
+W2022207223,38,Signal Transduction,FALSE,
+W2165994754,1,Microscopy,TRUE,standards
+W2165994754,2,Calibration,FALSE,
+W2165994754,3,Microscopy,FALSE,
+W2165994754,4,Photons,FALSE,
+W2143572820,1,Artifacts,TRUE,
+W2143572820,2,Auditory Cortex,TRUE,physiology
+W2143572820,3,Brain Mapping,TRUE,
+W2143572820,4,Cochlear Implants,TRUE,
+W2143572820,5,"Evoked Potentials, Auditory",TRUE,physiology
+W2143572820,6,Auditory Cortex,FALSE,
+W2143572820,7,Child,FALSE,
+W2143572820,8,"Child, Preschool",FALSE,
+W2143572820,9,Electrodes,FALSE,
+W2143572820,10,"Evoked Potentials, Auditory",FALSE,
+W2143572820,11,Humans,FALSE,
+W2082774686,1,Glioma,TRUE,metabolism
+W2082774686,2,Magnetic Resonance Spectroscopy,TRUE,methods
+W2082774686,3,Analysis of Variance,FALSE,
+W2082774686,4,Animals,FALSE,
+W2082774686,5,Contrast Media,FALSE,pharmacokinetics
+W2082774686,6,Contrast Media,FALSE,
+W2082774686,7,Glioma,FALSE,
+W2082774686,8,Heterocyclic Compounds,FALSE,pharmacokinetics
+W2082774686,9,Heterocyclic Compounds,FALSE,
+W2082774686,10,Hydrogen-Ion Concentration,FALSE,
+W2082774686,11,Magnetic Resonance Spectroscopy,FALSE,
+W2082774686,12,Organometallic Compounds,FALSE,
+W2082774686,13,Organometallic Compounds,FALSE,pharmacokinetics
+W2082774686,14,Rats,FALSE,
+W2082774686,15,Reproducibility of Results,FALSE,
+W2082774686,16,"Tumor Cells, Cultured",FALSE,
+W1974699587,1,Volcanic Eruptions,TRUE,statistics & numerical data
+W1974699587,2,Animals,FALSE,
+W1974699587,3,Ecosystem,FALSE,
+W1974699587,4,Geography,FALSE,
+W1974699587,5,Geological Phenomena,FALSE,
+W1974699587,6,Geology,FALSE,
+W1974699587,7,Oceans and Seas,FALSE,
+W1974699587,8,Time Factors,FALSE,
+W1974699587,9,Volcanic Eruptions,FALSE,
+W2125792150,1,Artificial Organs,TRUE,
+W2125792150,2,Biomimetic Materials,TRUE,
+W2125792150,3,Electrodes,TRUE,
+W2125792150,4,"Muscle, Skeletal",TRUE,
+W2125792150,5,"Nanotubes, Carbon",TRUE,
+W2125792150,6,Biomechanical Phenomena,FALSE,
+W2125792150,7,Bionics,FALSE,
+W2125792150,8,Electric Power Supplies,FALSE,
+W2125792150,9,Electrochemistry,FALSE,
+W2125792150,10,Hydrogen,FALSE,
+W2125792150,11,Hydrogen,FALSE,chemistry
+W2125792150,12,Lifting,FALSE,
+W2125792150,13,"Muscle, Skeletal",FALSE,physiology
+W2125792150,14,Oxidation-Reduction,FALSE,
+W2125792150,15,Oxygen,FALSE,
+W2125792150,16,Oxygen,FALSE,chemistry
+W2125792150,17,Robotics,FALSE,
+W2125792150,18,"Stress, Mechanical",FALSE,
+W2153781522,1,Dust,TRUE,analysis
+W2153781522,2,Floors and Floorcoverings,TRUE,
+W2153781522,3,Soil,TRUE,analysis
+W2153781522,4,Dust,FALSE,
+W2153781522,5,Environmental Exposure,FALSE,
+W2153781522,6,"Microscopy, Electron, Scanning",FALSE,
+W2153781522,7,Particle Size,FALSE,
+W2153781522,8,Shoes,FALSE,
+W2153781522,9,Soil,FALSE,
+W2028715633,1,Immunoglobulin G,TRUE,therapeutic use
+W2028715633,2,Protein Engineering,TRUE,
+W2028715633,3,Amino Acid Substitution,FALSE,
+W2028715633,4,Amino Acid Substitution,FALSE,genetics
+W2028715633,5,Animals,FALSE,
+W2028715633,6,"Binding Sites, Antibody",FALSE,
+W2028715633,7,Female,FALSE,
+W2028715633,8,Histocompatibility Antigens Class I,FALSE,
+W2028715633,9,Histocompatibility Antigens Class I,FALSE,metabolism
+W2028715633,10,Histocompatibility Antigens Class I,FALSE,immunology
+W2028715633,11,Humans,FALSE,
+W2028715633,12,Immunoglobulin G,FALSE,metabolism
+W2028715633,13,Immunoglobulin G,FALSE,genetics
+W2028715633,14,Immunoglobulin G,FALSE,
+W2028715633,15,Mice,FALSE,
+W2028715633,16,"Mutagenesis, Site-Directed",FALSE,
+W2028715633,17,Mutation,FALSE,
+W2028715633,18,"Receptors, Fc",FALSE,immunology
+W2028715633,19,"Receptors, Fc",FALSE,metabolism
+W2028715633,20,"Receptors, Fc",FALSE,
+W2165190188,1,Face,TRUE,
+W2165190188,2,Form Perception,TRUE,
+W2165190188,3,Visual Perception,TRUE,
+W2165190188,4,"Discrimination, Psychological",FALSE,
+W2165190188,5,Facial Expression,FALSE,
+W2165190188,6,Humans,FALSE,
+W2165190188,7,Judgment,FALSE,
+W2165190188,8,"Recognition, Psychology",FALSE,
+W2024126284,1,Apoptosis,TRUE,
+W2024126284,2,Histone Deacetylases,TRUE,metabolism
+W2024126284,3,JNK Mitogen-Activated Protein Kinases,TRUE,antagonists & inhibitors
+W2024126284,4,Neurons,TRUE,enzymology
+W2024126284,5,Neurons,TRUE,cytology
+W2024126284,6,Animals,FALSE,
+W2024126284,7,Cell Nucleus,FALSE,enzymology
+W2024126284,8,Cell Nucleus,FALSE,
+W2024126284,9,Enzyme Inhibitors,FALSE,pharmacology
+W2024126284,10,Enzyme Inhibitors,FALSE,
+W2024126284,11,Extracellular Signal-Regulated MAP Kinases,FALSE,metabolism
+W2024126284,12,Extracellular Signal-Regulated MAP Kinases,FALSE,antagonists & inhibitors
+W2024126284,13,Extracellular Signal-Regulated MAP Kinases,FALSE,
+W2024126284,14,Histone Deacetylase Inhibitors,FALSE,
+W2024126284,15,Histone Deacetylases,FALSE,genetics
+W2024126284,16,Histone Deacetylases,FALSE,
+W2024126284,17,JNK Mitogen-Activated Protein Kinases,FALSE,metabolism
+W2024126284,18,JNK Mitogen-Activated Protein Kinases,FALSE,
+W2024126284,19,Mice,FALSE,
+W2024126284,20,Neurons,FALSE,drug effects
+W2024126284,21,Neurons,FALSE,
+W2024126284,22,Phosphatidylinositol 3-Kinases,FALSE,metabolism
+W2024126284,23,Phosphatidylinositol 3-Kinases,FALSE,
+W2024126284,24,Phosphoinositide-3 Kinase Inhibitors,FALSE,
+W2024126284,25,Phosphorylation,FALSE,
+W2024126284,26,Proto-Oncogene Proteins c-jun,FALSE,metabolism
+W2024126284,27,Proto-Oncogene Proteins c-jun,FALSE,genetics
+W2024126284,28,Proto-Oncogene Proteins c-jun,FALSE,
+W2024126284,29,"RNA, Messenger",FALSE,metabolism
+W2024126284,30,"RNA, Messenger",FALSE,
+W2024126284,31,Rats,FALSE,
+W2024126284,32,"Transcription, Genetic",FALSE,
+W1983152177,1,Auditory Cortex,TRUE,physiology
+W1983152177,2,Auditory Pathways,TRUE,physiology
+W1983152177,3,Body Temperature,TRUE,physiology
+W1983152177,4,Functional Laterality,TRUE,physiology
+W1983152177,5,Sound Localization,TRUE,physiology
+W1983152177,6,Acoustic Stimulation,FALSE,
+W1983152177,7,Animals,FALSE,
+W1983152177,8,Auditory Cortex,FALSE,
+W1983152177,9,Auditory Cortex,FALSE,anatomy & histology
+W1983152177,10,Auditory Pathways,FALSE,
+W1983152177,11,Auditory Pathways,FALSE,anatomy & histology
+W1983152177,12,Body Temperature,FALSE,
+W1983152177,13,Brain Mapping,FALSE,
+W1983152177,14,Cats,FALSE,
+W1983152177,15,"Conditioning, Psychological",FALSE,
+W1983152177,16,"Conditioning, Psychological",FALSE,physiology
+W1983152177,17,Discrimination Learning,FALSE,
+W1983152177,18,Discrimination Learning,FALSE,physiology
+W1983152177,19,"Disease Models, Animal",FALSE,
+W1983152177,20,Eye Movements,FALSE,
+W1983152177,21,Eye Movements,FALSE,physiology
+W1983152177,22,"Fixation, Ocular",FALSE,
+W1983152177,23,"Fixation, Ocular",FALSE,physiology
+W1983152177,24,Functional Laterality,FALSE,
+W1983152177,25,"Hearing Loss, Central",FALSE,
+W1983152177,26,"Hearing Loss, Central",FALSE,physiopathology
+W1983152177,27,"Hypothermia, Induced",FALSE,
+W1983152177,28,"Hypothermia, Induced",FALSE,instrumentation
+W1983152177,29,"Hypothermia, Induced",FALSE,methods
+W1983152177,30,Orientation,FALSE,
+W1983152177,31,Orientation,FALSE,physiology
+W1983152177,32,Psychomotor Performance,FALSE,
+W1983152177,33,Psychomotor Performance,FALSE,physiology
+W1983152177,34,Sound Localization,FALSE,
+W1983152177,35,Space Perception,FALSE,
+W1983152177,36,Space Perception,FALSE,physiology
+W1966845882,1,"Brain Injury, Chronic",TRUE,diagnosis
+W1966845882,2,Personality Disorders,TRUE,diagnosis
+W1966845882,3,Adolescent,FALSE,
+W1966845882,4,"Brain Injury, Chronic",FALSE,
+W1966845882,5,"Brain Injury, Chronic",FALSE,rehabilitation
+W1966845882,6,"Brain Injury, Chronic",FALSE,epidemiology
+W1966845882,7,Child,FALSE,
+W1966845882,8,"Child, Preschool",FALSE,
+W1966845882,9,Cross-Sectional Studies,FALSE,
+W1966845882,10,Female,FALSE,
+W1966845882,11,Follow-Up Studies,FALSE,
+W1966845882,12,Frontal Lobe,FALSE,
+W1966845882,13,Frontal Lobe,FALSE,injuries
+W1966845882,14,Humans,FALSE,
+W1966845882,15,Injury Severity Score,FALSE,
+W1966845882,16,Male,FALSE,
+W1966845882,17,"Outcome Assessment, Health Care",FALSE,
+W1966845882,18,Personality Assessment,FALSE,
+W1966845882,19,Personality Disorders,FALSE,epidemiology
+W1966845882,20,Personality Disorders,FALSE,rehabilitation
+W1966845882,21,Personality Disorders,FALSE,
+W1966845882,22,Prefrontal Cortex,FALSE,injuries
+W1966845882,23,Prefrontal Cortex,FALSE,
+W1966845882,24,Prospective Studies,FALSE,
+W1966845882,25,Risk Factors,FALSE,
+W2107147451,1,Carbon,TRUE,chemistry
+W2107147451,2,Microwaves,TRUE,
+W2107147451,3,Nanostructures,TRUE,chemistry
+W2107147451,4,Nanostructures,TRUE,radiation effects
+W2107147451,5,Polymers,TRUE,chemistry
+W2107147451,6,Pyrroles,TRUE,chemistry
+W2107147451,7,Carbon,FALSE,
+W2107147451,8,Electric Conductivity,FALSE,
+W2107147451,9,Nanostructures,FALSE,ultrastructure
+W2107147451,10,Nanostructures,FALSE,
+W2107147451,11,Oxidation-Reduction,FALSE,
+W2107147451,12,Particle Size,FALSE,
+W2107147451,13,Polymers,FALSE,
+W2107147451,14,Pyrroles,FALSE,
+W2107147451,15,Temperature,FALSE,
+W1991905557,1,Fetal Hemoglobin,TRUE,genetics
+W1991905557,2,Gene Expression Regulation,TRUE,drug effects
+W1991905557,3,Activating Transcription Factor 2,FALSE,metabolism
+W1991905557,4,Cyclic AMP Response Element-Binding Protein,FALSE,metabolism
+W1991905557,5,Enzyme Inhibitors,FALSE,pharmacology
+W1991905557,6,Histone Deacetylase Inhibitors,FALSE,
+W1991905557,7,Histones,FALSE,metabolism
+W1991905557,8,Humans,FALSE,
+W1991905557,9,K562 Cells,FALSE,
+W1991905557,10,Phosphorylation,FALSE,drug effects
+W1991905557,11,Transcriptional Activation,FALSE,
+W1991905557,12,gamma-Globulins,FALSE,genetics
+W1991905557,13,p38 Mitogen-Activated Protein Kinases,FALSE,metabolism
+W2095372251,1,Gene Expression,TRUE,immunology
+W2095372251,2,Lymphocyte Activation,TRUE,immunology
+W2095372251,3,"Models, Immunological",TRUE,
+W2095372251,4,NF-kappa B,TRUE,immunology
+W2095372251,5,NFATC Transcription Factors,TRUE,metabolism
+W2095372251,6,Signal Transduction,TRUE,immunology
+W2095372251,7,T-Lymphocytes,TRUE,immunology
+W2095372251,8,Animals,FALSE,
+W2095372251,9,Computer Simulation,FALSE,
+W2095372251,10,Gene Expression,FALSE,
+W2095372251,11,Humans,FALSE,
+W2095372251,12,Lymphocyte Activation,FALSE,
+W2095372251,13,NF-kappa B,FALSE,
+W2095372251,14,NFATC Transcription Factors,FALSE,
+W2095372251,15,Signal Transduction,FALSE,
+W2095372251,16,T-Lymphocytes,FALSE,
+W2048165254,1,Amyloid,TRUE,chemistry
+W2048165254,2,Oligopeptides,TRUE,chemistry
+W2048165254,3,tau Proteins,TRUE,chemistry
+W2048165254,4,Amino Acid Substitution,FALSE,
+W2048165254,5,Amyloid,FALSE,
+W2048165254,6,Amyloid,FALSE,ultrastructure
+W2048165254,7,Circular Dichroism,FALSE,
+W2048165254,8,Congo Red,FALSE,
+W2048165254,9,Humans,FALSE,
+W2048165254,10,Hydrophobic and Hydrophilic Interactions,FALSE,
+W2048165254,11,"Microscopy, Electron, Transmission",FALSE,
+W2048165254,12,Oligopeptides,FALSE,
+W2048165254,13,Principal Component Analysis,FALSE,
+W2048165254,14,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",FALSE,
+W2048165254,15,"Spectrophotometry, Infrared",FALSE,
+W2048165254,16,"Spectroscopy, Fourier Transform Infrared",FALSE,
+W2048165254,17,Thermodynamics,FALSE,
+W2048165254,18,tau Proteins,FALSE,ultrastructure
+W2048165254,19,tau Proteins,FALSE,
+W2073239333,1,DNA,TRUE,chemistry
+W2073239333,2,DNA Nucleotidyltransferases,TRUE,chemistry
+W2073239333,3,Integrases,TRUE,chemistry
+W2073239333,4,Nucleic Acid Conformation,TRUE,
+W2073239333,5,Viral Proteins,TRUE,chemistry
+W2073239333,6,Base Sequence,FALSE,
+W2073239333,7,DNA,FALSE,
+W2073239333,8,DNA Nucleotidyltransferases,FALSE,metabolism
+W2073239333,9,DNA Nucleotidyltransferases,FALSE,
+W2073239333,10,Integrases,FALSE,metabolism
+W2073239333,11,Integrases,FALSE,
+W2073239333,12,Macromolecular Substances,FALSE,
+W2073239333,13,Mathematics,FALSE,
+W2073239333,14,"Microscopy, Atomic Force",FALSE,
+W2073239333,15,"Models, Molecular",FALSE,
+W2073239333,16,Molecular Sequence Data,FALSE,
+W2073239333,17,Plasmids,FALSE,
+W2073239333,18,Plasmids,FALSE,genetics
+W2073239333,19,Protein Conformation,FALSE,
+W2073239333,20,"Recombination, Genetic",FALSE,
+W2073239333,21,Viral Proteins,FALSE,
+W2073239333,22,Viral Proteins,FALSE,metabolism
+W2008214995,1,"DNA, Bacterial",TRUE,genetics
+W2008214995,2,"DNA, Bacterial",TRUE,chemistry
+W2008214995,3,Escherichia coli,TRUE,genetics
+W2008214995,4,Escherichia coli Proteins,TRUE,chemistry
+W2008214995,5,Escherichia coli Proteins,TRUE,metabolism
+W2008214995,6,Lac Repressors,TRUE,chemistry
+W2008214995,7,Lac Repressors,TRUE,metabolism
+W2008214995,8,Base Sequence,FALSE,
+W2008214995,9,Binding Sites,FALSE,
+W2008214995,10,Binding Sites,FALSE,genetics
+W2008214995,11,Biomechanical Phenomena,FALSE,
+W2008214995,12,"DNA, Bacterial",FALSE,
+W2008214995,13,Escherichia coli,FALSE,
+W2008214995,14,Escherichia coli Proteins,FALSE,
+W2008214995,15,Escherichia coli Proteins,FALSE,genetics
+W2008214995,16,"Gene Expression Regulation, Bacterial",FALSE,
+W2008214995,17,"Genes, Bacterial",FALSE,
+W2008214995,18,Lac Operon,FALSE,
+W2008214995,19,Lac Repressors,FALSE,
+W2008214995,20,Lac Repressors,FALSE,genetics
+W2008214995,21,"Models, Molecular",FALSE,
+W2008214995,22,Nucleic Acid Conformation,FALSE,
+W2008214995,23,Protein Conformation,FALSE,
+W2008214995,24,"Protein Structure, Quaternary",FALSE,
+W2008214995,25,Thermodynamics,FALSE,
+W2095346513,1,Prostate-Specific Antigen,TRUE,analysis
+W2095346513,2,Prostate-Specific Antigen,TRUE,biosynthesis
+W2095346513,3,Prostatic Neoplasms,TRUE,pathology
+W2095346513,4,Aged,FALSE,
+W2095346513,5,"Aged, 80 and over",FALSE,
+W2095346513,6,Disease Progression,FALSE,
+W2095346513,7,Humans,FALSE,
+W2095346513,8,Male,FALSE,
+W2095346513,9,Middle Aged,FALSE,
+W2095346513,10,Predictive Value of Tests,FALSE,
+W2095346513,11,Prostate-Specific Antigen,FALSE,
+W2095346513,12,Prostatic Neoplasms,FALSE,
+W2095346513,13,Reproducibility of Results,FALSE,
+W2095346513,14,Sensitivity and Specificity,FALSE,
+W2095346513,15,Survival Analysis,FALSE,
+W2095346513,16,Time Factors,FALSE,
+W2104980219,1,Face,TRUE,
+W2104980219,2,"Neural Networks, Computer",TRUE,
+W2104980219,3,Racial Groups,TRUE,
+W2104980219,4,"Recognition, Psychology",TRUE,
+W2104980219,5,Asians,FALSE,
+W2104980219,6,Computer Simulation,FALSE,
+W2104980219,7,Discrimination Learning,FALSE,
+W2104980219,8,Equipment Design,FALSE,
+W2104980219,9,Female,FALSE,
+W2104980219,10,Humans,FALSE,
+W2104980219,11,Male,FALSE,
+W2104980219,12,"Models, Psychological",FALSE,
+W2104980219,13,Principal Component Analysis,FALSE,methods
+W2104980219,14,Principal Component Analysis,FALSE,
+W2104980219,15,Sex Factors,FALSE,
+W2104980219,16,Whites,FALSE,
+W2138473241,1,Algorithms,TRUE,
+W2138473241,2,Image Enhancement,TRUE,methods
+W2138473241,3,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2138473241,4,"Signal Processing, Computer-Assisted",TRUE,
+W2138473241,5,Fourier Analysis,FALSE,
+W2138473241,6,Image Enhancement,FALSE,
+W2138473241,7,"Image Interpretation, Computer-Assisted",FALSE,
+W2138473241,8,Information Storage and Retrieval,FALSE,methods
+W2138473241,9,Information Storage and Retrieval,FALSE,
+W2138473241,10,"Numerical Analysis, Computer-Assisted",FALSE,
+W2138473241,11,Reproducibility of Results,FALSE,
+W2138473241,12,Sensitivity and Specificity,FALSE,
+W2078877464,1,"Cholesterol, Dietary",TRUE,pharmacology
+W2078877464,2,Hippocampus,TRUE,drug effects
+W2078877464,3,Maze Learning,TRUE,drug effects
+W2078877464,4,Space Perception,TRUE,drug effects
+W2078877464,5,Synapses,TRUE,drug effects
+W2078877464,6,Aging,FALSE,
+W2078877464,7,Aging,FALSE,psychology
+W2078877464,8,Animals,FALSE,
+W2078877464,9,Body Weight,FALSE,
+W2078877464,10,Body Weight,FALSE,drug effects
+W2078877464,11,Brain,FALSE,metabolism
+W2078877464,12,Brain,FALSE,
+W2078877464,13,Cholesterol,FALSE,blood
+W2078877464,14,Cholesterol,FALSE,metabolism
+W2078877464,15,Cholesterol,FALSE,
+W2078877464,16,"Cholesterol, Dietary",FALSE,
+W2078877464,17,Diet,FALSE,
+W2078877464,18,Electric Stimulation,FALSE,
+W2078877464,19,Electrophysiology,FALSE,
+W2078877464,20,Glutamates,FALSE,physiology
+W2078877464,21,Glutamates,FALSE,
+W2078877464,22,Hippocampus,FALSE,
+W2078877464,23,Male,FALSE,
+W2078877464,24,Maze Learning,FALSE,
+W2078877464,25,Memory,FALSE,drug effects
+W2078877464,26,Memory,FALSE,
+W2078877464,27,Neuronal Plasticity,FALSE,drug effects
+W2078877464,28,Neuronal Plasticity,FALSE,
+W2078877464,29,Patch-Clamp Techniques,FALSE,
+W2078877464,30,Pyramidal Cells,FALSE,drug effects
+W2078877464,31,Pyramidal Cells,FALSE,metabolism
+W2078877464,32,Pyramidal Cells,FALSE,
+W2078877464,33,Rats,FALSE,
+W2078877464,34,"Rats, Wistar",FALSE,
+W2078877464,35,Space Perception,FALSE,
+W2078877464,36,Synapses,FALSE,
+W2002914719,1,Face,TRUE,physiology
+W2002914719,2,Learning,TRUE,
+W2002914719,3,Movement,TRUE,physiology
+W2002914719,4,"Recognition, Psychology",TRUE,
+W2002914719,5,Adult,FALSE,
+W2002914719,6,Face,FALSE,
+W2002914719,7,Facial Expression,FALSE,
+W2002914719,8,Female,FALSE,
+W2002914719,9,Gait,FALSE,
+W2002914719,10,"Generalization, Psychological",FALSE,
+W2002914719,11,Humans,FALSE,
+W2002914719,12,Male,FALSE,
+W2002914719,13,Motion Perception,FALSE,
+W2002914719,14,Movement,FALSE,
+W2002914719,15,"Pattern Recognition, Visual",FALSE,
+W2002914719,16,Photic Stimulation,FALSE,
+W2002914719,17,Photic Stimulation,FALSE,methods
+W2002914719,18,Videotape Recording,FALSE,
+W2089957297,1,"Gene Expression Regulation, Developmental",TRUE,
+W2089957297,2,Oocytes,TRUE,metabolism
+W2089957297,3,"Promoter Regions, Genetic",TRUE,
+W2089957297,4,Spermatozoa,TRUE,metabolism
+W2089957297,5,Transcription Factors,TRUE,genetics
+W2089957297,6,Animals,FALSE,
+W2089957297,7,"Databases, Factual",FALSE,
+W2089957297,8,Expressed Sequence Tags,FALSE,
+W2089957297,9,Female,FALSE,
+W2089957297,10,In Situ Hybridization,FALSE,
+W2089957297,11,Male,FALSE,
+W2089957297,12,Mice,FALSE,
+W2089957297,13,"Mice, Inbred Strains",FALSE,
+W2089957297,14,Oocytes,FALSE,
+W2089957297,15,Ovary,FALSE,metabolism
+W2089957297,16,Ovary,FALSE,cytology
+W2089957297,17,Ovary,FALSE,
+W2089957297,18,Recombinant Proteins,FALSE,metabolism
+W2089957297,19,Recombinant Proteins,FALSE,
+W2089957297,20,Reverse Transcriptase Polymerase Chain Reaction,FALSE,
+W2089957297,21,Spermatozoa,FALSE,
+W2089957297,22,Testis,FALSE,cytology
+W2089957297,23,Testis,FALSE,metabolism
+W2089957297,24,Testis,FALSE,
+W2089957297,25,Transcription Factors,FALSE,metabolism
+W2089957297,26,Transcription Factors,FALSE,
+W2089957297,27,Xenopus,FALSE,
+W2079260040,1,Cytosol,TRUE,metabolism
+W2079260040,2,Glucose,TRUE,biosynthesis
+W2079260040,3,Insulin,TRUE,pharmacology
+W2079260040,4,Liver,TRUE,metabolism
+W2079260040,5,Liver,TRUE,drug effects
+W2079260040,6,Animals,FALSE,
+W2079260040,7,Carbon Isotopes,FALSE,
+W2079260040,8,Cytosol,FALSE,
+W2079260040,9,Cytosol,FALSE,drug effects
+W2079260040,10,Deuterium,FALSE,
+W2079260040,11,Female,FALSE,
+W2079260040,12,Gluconeogenesis,FALSE,
+W2079260040,13,Glucose,FALSE,
+W2079260040,14,Glycogenolysis,FALSE,
+W2079260040,15,Hepatocytes,FALSE,
+W2079260040,16,Hepatocytes,FALSE,cytology
+W2079260040,17,Hepatocytes,FALSE,drug effects
+W2079260040,18,Hepatocytes,FALSE,metabolism
+W2079260040,19,In Vitro Techniques,FALSE,
+W2079260040,20,Insulin,FALSE,
+W2079260040,21,Liver,FALSE,
+W2079260040,22,Liver,FALSE,cytology
+W2079260040,23,Magnetic Resonance Spectroscopy,FALSE,
+W2079260040,24,Mice,FALSE,
+W2079260040,25,"Mice, Inbred C57BL",FALSE,
+W2079260040,26,Oxidation-Reduction,FALSE,
+W2079260040,27,Perfusion,FALSE,
+W2079260040,28,Phosphoenolpyruvate,FALSE,
+W2079260040,29,Phosphoenolpyruvate,FALSE,metabolism
+W2162234949,1,Artificial Intelligence,TRUE,
+W2162234949,2,Information Storage and Retrieval,TRUE,methods
+W2162234949,3,MEDLINE,TRUE,
+W2162234949,4,Natural Language Processing,TRUE,
+W2162234949,5,"Pattern Recognition, Automated",TRUE,methods
+W2162234949,6,Periodicals as Topic,TRUE,
+W2162234949,7,Terminology as Topic,TRUE,
+W2162234949,8,Database Management Systems,FALSE,
+W2162234949,9,Information Storage and Retrieval,FALSE,
+W2162234949,10,"Pattern Recognition, Automated",FALSE,
+W1796499594,1,Fibromyalgia,TRUE,drug therapy
+W1796499594,2,Pain Threshold,TRUE,drug effects
+W1796499594,3,Adolescent,FALSE,
+W1796499594,4,Adult,FALSE,
+W1796499594,5,Aged,FALSE,
+W1796499594,6,Antipsychotic Agents,FALSE,
+W1796499594,7,Antipsychotic Agents,FALSE,administration & dosage
+W1796499594,8,Antipsychotic Agents,FALSE,adverse effects
+W1796499594,9,Benzodiazepines,FALSE,
+W1796499594,10,Benzodiazepines,FALSE,adverse effects
+W1796499594,11,Benzodiazepines,FALSE,administration & dosage
+W1796499594,12,"Dose-Response Relationship, Drug",FALSE,
+W1796499594,13,Female,FALSE,
+W1796499594,14,Fibromyalgia,FALSE,
+W1796499594,15,Fibromyalgia,FALSE,physiopathology
+W1796499594,16,Fibromyalgia,FALSE,psychology
+W1796499594,17,Humans,FALSE,
+W1796499594,18,Male,FALSE,
+W1796499594,19,Middle Aged,FALSE,
+W1796499594,20,Olanzapine,FALSE,
+W1796499594,21,Pain Measurement,FALSE,drug effects
+W1796499594,22,Pain Measurement,FALSE,
+W1796499594,23,Pain Threshold,FALSE,
+W1796499594,24,Pain Threshold,FALSE,physiology
+W1796499594,25,Quality of Life,FALSE,
+W1796499594,26,Retrospective Studies,FALSE,
+W1796499594,27,Sleep Stages,FALSE,
+W1796499594,28,Sleep Stages,FALSE,physiology
+W1796499594,29,Sleep Stages,FALSE,drug effects
+W1796499594,30,Treatment Outcome,FALSE,
+W1796499594,31,Weight Gain,FALSE,
+W1796499594,32,Weight Gain,FALSE,drug effects
+W1796499594,33,Weight Gain,FALSE,physiology
+W1969764781,1,Fatty Acids,TRUE,metabolism
+W1969764781,2,Heart,TRUE,physiology
+W1969764781,3,Lipid Metabolism,TRUE,physiology
+W1969764781,4,Animals,FALSE,
+W1969764781,5,Cardiotonic Agents,FALSE,pharmacology
+W1969764781,6,Cardiotonic Agents,FALSE,
+W1969764781,7,Citric Acid Cycle,FALSE,drug effects
+W1969764781,8,Citric Acid Cycle,FALSE,physiology
+W1969764781,9,Citric Acid Cycle,FALSE,
+W1969764781,10,Fatty Acids,FALSE,
+W1969764781,11,Heart,FALSE,
+W1969764781,12,Isoproterenol,FALSE,
+W1969764781,13,Isoproterenol,FALSE,pharmacology
+W1969764781,14,Lactic Acid,FALSE,
+W1969764781,15,Lactic Acid,FALSE,metabolism
+W1969764781,16,Lipid Metabolism,FALSE,drug effects
+W1969764781,17,Lipid Metabolism,FALSE,
+W1969764781,18,Magnetic Resonance Spectroscopy,FALSE,
+W1969764781,19,Mice,FALSE,
+W1969764781,20,Organ Culture Techniques,FALSE,
+W1969764781,21,Oxidation-Reduction,FALSE,drug effects
+W1969764781,22,Oxidation-Reduction,FALSE,
+W1969764781,23,Perfusion,FALSE,
+W1969764781,24,Pyruvic Acid,FALSE,metabolism
+W1969764781,25,Pyruvic Acid,FALSE,
+W1969764781,26,Triglycerides,FALSE,biosynthesis
+W1969764781,27,Triglycerides,FALSE,
+W1989296373,1,Nanotechnology,TRUE,ethics
+W1989296373,2,Policy Making,TRUE,
+W1989296373,3,Politics,TRUE,
+W1989296373,4,"Ethics, Research",FALSE,
+W1989296373,5,Humans,FALSE,
+W1989296373,6,Interdisciplinary Communication,FALSE,
+W1989296373,7,Nanotechnology,FALSE,economics
+W1989296373,8,Nanotechnology,FALSE,
+W1989296373,9,Nanotechnology,FALSE,legislation & jurisprudence
+W1989296373,10,Social Change,FALSE,
+W2044678834,1,Apoferritins,TRUE,chemistry
+W2044678834,2,Lanthanoid Series Elements,TRUE,chemistry
+W2044678834,3,Protons,TRUE,
+W2044678834,4,Water,TRUE,chemistry
+W2044678834,5,Apoferritins,FALSE,
+W2044678834,6,Catalysis,FALSE,
+W2044678834,7,Contrast Media,FALSE,
+W2044678834,8,Contrast Media,FALSE,chemistry
+W2044678834,9,Contrast Media,FALSE,chemical synthesis
+W2044678834,10,Drug Compounding,FALSE,
+W2044678834,11,Drug Compounding,FALSE,methods
+W2044678834,12,Europium,FALSE,
+W2044678834,13,Europium,FALSE,chemistry
+W2044678834,14,Lanthanoid Series Elements,FALSE,
+W2044678834,15,Magnetic Resonance Spectroscopy,FALSE,
+W2044678834,16,"Models, Biological",FALSE,
+W2044678834,17,Water,FALSE,
+W2088501048,1,Acoustic Stimulation,TRUE,methods
+W2088501048,2,Auditory Cortex,TRUE,physiology
+W2088501048,3,Acoustic Stimulation,FALSE,
+W2088501048,4,Analysis of Variance,FALSE,
+W2088501048,5,Animals,FALSE,
+W2088501048,6,Auditory Cortex,FALSE,
+W2088501048,7,Electric Stimulation,FALSE,
+W2088501048,8,Electrodes,FALSE,
+W2088501048,9,Female,FALSE,
+W2088501048,10,Rats,FALSE,
+W2088501048,11,"Rats, Sprague-Dawley",FALSE,
+W1964602459,1,Computational Biology,TRUE,
+W1964602459,2,"Models, Statistical",TRUE,
+W1964602459,3,Research Design,TRUE,
+W1964602459,4,"Sequence Analysis, DNA",TRUE,statistics & numerical data
+W1964602459,5,"Data Interpretation, Statistical",FALSE,
+W1964602459,6,"Sequence Analysis, DNA",FALSE,
+W2090031565,1,Brain Mapping,TRUE,
+W2090031565,2,Memory,TRUE,physiology
+W2090031565,3,Neuroanatomy,TRUE,
+W2090031565,4,Sound,TRUE,
+W2090031565,5,Acoustic Stimulation,FALSE,
+W2090031565,6,Acoustic Stimulation,FALSE,methods
+W2090031565,7,Adult,FALSE,
+W2090031565,8,Female,FALSE,
+W2090031565,9,Humans,FALSE,
+W2090031565,10,"Image Processing, Computer-Assisted",FALSE,
+W2090031565,11,Magnetic Resonance Imaging,FALSE,
+W2090031565,12,Magnetic Resonance Imaging,FALSE,methods
+W2090031565,13,Male,FALSE,
+W2090031565,14,Memory,FALSE,
+W2090031565,15,Middle Aged,FALSE,
+W2090031565,16,Oxygen,FALSE,
+W2090031565,17,Oxygen,FALSE,blood
+W2090031565,18,Reaction Time,FALSE,
+W2090031565,19,Reaction Time,FALSE,physiology
+W2090031565,20,Semantics,FALSE,
+W2090031565,21,Temporal Lobe,FALSE,
+W2090031565,22,Temporal Lobe,FALSE,blood supply
+W2090031565,23,Temporal Lobe,FALSE,physiology
+W2013588642,1,DNA,TRUE,metabolism
+W2013588642,2,DNA-Binding Proteins,TRUE,metabolism
+W2013588642,3,Gene Expression Regulation,TRUE,
+W2013588642,4,Gene Silencing,TRUE,
+W2013588642,5,Germ Cells,TRUE,metabolism
+W2013588642,6,Repressor Proteins,TRUE,metabolism
+W2013588642,7,Transcription Factors,TRUE,metabolism
+W2013588642,8,Transcription Factors,TRUE,genetics
+W2013588642,9,Animals,FALSE,
+W2013588642,10,Base Sequence,FALSE,
+W2013588642,11,CCCTC-Binding Factor,FALSE,
+W2013588642,12,DNA,FALSE,
+W2013588642,13,DNA,FALSE,genetics
+W2013588642,14,DNA,FALSE,chemistry
+W2013588642,15,DNA-Binding Proteins,FALSE,
+W2013588642,16,Germ Cells,FALSE,
+W2013588642,17,Liver,FALSE,
+W2013588642,18,Liver,FALSE,metabolism
+W2013588642,19,Male,FALSE,
+W2013588642,20,Mice,FALSE,
+W2013588642,21,Molecular Sequence Data,FALSE,
+W2013588642,22,Plasmids,FALSE,
+W2013588642,23,"Promoter Regions, Genetic",FALSE,
+W2013588642,24,"Promoter Regions, Genetic",FALSE,genetics
+W2013588642,25,RNA Interference,FALSE,
+W2013588642,26,Regulatory Factor X Transcription Factors,FALSE,
+W2013588642,27,Regulatory Factor X1,FALSE,
+W2013588642,28,Repressor Proteins,FALSE,
+W2013588642,29,"Sequence Homology, Nucleic Acid",FALSE,
+W2013588642,30,Sp1 Transcription Factor,FALSE,
+W2013588642,31,Sp1 Transcription Factor,FALSE,metabolism
+W2013588642,32,Sp3 Transcription Factor,FALSE,
+W2013588642,33,Sp3 Transcription Factor,FALSE,metabolism
+W2013588642,34,Testis,FALSE,
+W2013588642,35,Testis,FALSE,metabolism
+W2013588642,36,Transcription Factor TFIIA,FALSE,
+W2013588642,37,Transcription Factor TFIIA,FALSE,metabolism
+W2013588642,38,Transcription Factors,FALSE,
+W2013588642,39,Transcription Factors,FALSE,antagonists & inhibitors
+W2013588642,40,"Transcription, Genetic",FALSE,
+W2013588642,41,Transcriptional Activation,FALSE,
+W2013588642,42,Zinc Fingers,FALSE,
+W1979281407,1,"Anemia, Sickle Cell",TRUE,pathology
+W1979281407,2,Erythrocyte Membrane,TRUE,chemistry
+W1979281407,3,"Erythrocytes, Abnormal",TRUE,chemistry
+W1979281407,4,Isotope Labeling,TRUE,
+W1979281407,5,Membrane Proteins,TRUE,chemistry
+W1979281407,6,Proteomics,TRUE,
+W1979281407,7,Tandem Mass Spectrometry,TRUE,
+W1979281407,8,"Anemia, Sickle Cell",FALSE,
+W1979281407,9,Case-Control Studies,FALSE,
+W1979281407,10,Confidence Intervals,FALSE,
+W1979281407,11,Erythrocyte Membrane,FALSE,
+W1979281407,12,"Erythrocytes, Abnormal",FALSE,
+W1979281407,13,Humans,FALSE,
+W1979281407,14,Membrane Proteins,FALSE,analysis
+W1979281407,15,Membrane Proteins,FALSE,
+W2143844552,1,Blood Proteins,TRUE,analysis
+W2143844552,2,Ovarian Neoplasms,TRUE,diagnosis
+W2143844552,3,Prostatic Neoplasms,TRUE,diagnosis
+W2143844552,4,Proteomics,TRUE,
+W2143844552,5,Artificial Intelligence,FALSE,
+W2143844552,6,"Biomarkers, Tumor",FALSE,blood
+W2143844552,7,"Biomarkers, Tumor",FALSE,
+W2143844552,8,Blood Proteins,FALSE,metabolism
+W2143844552,9,Blood Proteins,FALSE,
+W2143844552,10,Computational Biology,FALSE,
+W2143844552,11,"Databases, Protein",FALSE,
+W2143844552,12,Female,FALSE,
+W2143844552,13,Humans,FALSE,
+W2143844552,14,Male,FALSE,
+W2143844552,15,Mass Spectrometry,FALSE,
+W2143844552,16,Ovarian Neoplasms,FALSE,blood
+W2143844552,17,Ovarian Neoplasms,FALSE,
+W2143844552,18,Prostatic Neoplasms,FALSE,
+W2143844552,19,Prostatic Neoplasms,FALSE,blood
+W2143844552,20,Serum,FALSE,
+W1941120413,1,Bacterial Proteins,TRUE,chemistry
+W1941120413,2,PII Nitrogen Regulatory Proteins,TRUE,chemistry
+W1941120413,3,Staphylococcus aureus,TRUE,chemistry
+W1941120413,4,Bacterial Proteins,FALSE,
+W1941120413,5,Binding Sites,FALSE,
+W1941120413,6,Crystallography,FALSE,
+W1941120413,7,Dimerization,FALSE,
+W1941120413,8,Escherichia coli Proteins,FALSE,chemistry
+W1941120413,9,Escherichia coli Proteins,FALSE,
+W1941120413,10,"Models, Molecular",FALSE,
+W1941120413,11,PII Nitrogen Regulatory Proteins,FALSE,
+W1941120413,12,Polymers,FALSE,
+W1941120413,13,Polymers,FALSE,chemistry
+W1941120413,14,"Protein Structure, Tertiary",FALSE,
+W1941120413,15,Staphylococcus aureus,FALSE,
+W2039722009,1,DNA-Directed RNA Polymerases,TRUE,biosynthesis
+W2039722009,2,Escherichia coli,TRUE,
+W2039722009,3,Mitochondrial Proteins,TRUE,biosynthesis
+W2039722009,4,Physarum polycephalum,TRUE,enzymology
+W2039722009,5,Protozoan Proteins,TRUE,biosynthesis
+W2039722009,6,Recombinant Fusion Proteins,TRUE,biosynthesis
+W2039722009,7,Animals,FALSE,
+W2039722009,8,"Cloning, Molecular",FALSE,methods
+W2039722009,9,"Cloning, Molecular",FALSE,
+W2039722009,10,DNA-Directed RNA Polymerases,FALSE,genetics
+W2039722009,11,DNA-Directed RNA Polymerases,FALSE,isolation & purification
+W2039722009,12,DNA-Directed RNA Polymerases,FALSE,
+W2039722009,13,Mitochondria,FALSE,metabolism
+W2039722009,14,Mitochondria,FALSE,
+W2039722009,15,Mitochondria,FALSE,genetics
+W2039722009,16,Mitochondrial Proteins,FALSE,genetics
+W2039722009,17,Mitochondrial Proteins,FALSE,isolation & purification
+W2039722009,18,Mitochondrial Proteins,FALSE,
+W2039722009,19,Physarum polycephalum,FALSE,
+W2039722009,20,Physarum polycephalum,FALSE,genetics
+W2039722009,21,Protozoan Proteins,FALSE,
+W2039722009,22,Protozoan Proteins,FALSE,genetics
+W2039722009,23,Protozoan Proteins,FALSE,isolation & purification
+W2039722009,24,RNA Editing,FALSE,
+W2039722009,25,RNA Editing,FALSE,genetics
+W2039722009,26,Recombinant Fusion Proteins,FALSE,genetics
+W2039722009,27,Recombinant Fusion Proteins,FALSE,isolation & purification
+W2039722009,28,Recombinant Fusion Proteins,FALSE,
+W2039722009,29,"Transcription, Genetic",FALSE,
+W2120761203,1,Electronic Data Processing,TRUE,
+W2120761203,2,"Gene Expression Regulation, Fungal",TRUE,physiology
+W2120761203,3,"Genes, Fungal",TRUE,physiology
+W2120761203,4,MEDLINE,TRUE,
+W2120761203,5,Saccharomyces cerevisiae,TRUE,physiology
+W2120761203,6,"Vocabulary, Controlled",TRUE,
+W2120761203,7,"Gene Expression Regulation, Fungal",FALSE,
+W2120761203,8,"Genes, Fungal",FALSE,
+W2120761203,9,Saccharomyces cerevisiae,FALSE,
+W2054595658,1,"Microscopy, Atomic Force",TRUE,methods
+W2054595658,2,Nanostructures,TRUE,
+W2054595658,3,Peptides,TRUE,chemistry
+W2054595658,4,Carbon Monoxide,FALSE,
+W2054595658,5,"Image Processing, Computer-Assisted",FALSE,
+W2054595658,6,"Microscopy, Atomic Force",FALSE,
+W2054595658,7,"Models, Molecular",FALSE,
+W2054595658,8,Peptides,FALSE,
+W2054595658,9,Protein Conformation,FALSE,
+W2093164485,1,Cochlear Implants,TRUE,
+W2093164485,2,Cochlear Nucleus,TRUE,physiopathology
+W2093164485,3,Deafness,TRUE,physiopathology
+W2093164485,4,Feedback,TRUE,
+W2093164485,5,Phonetics,TRUE,
+W2093164485,6,Adult,FALSE,
+W2093164485,7,Analysis of Variance,FALSE,
+W2093164485,8,Auditory Perception,FALSE,
+W2093164485,9,Child,FALSE,
+W2093164485,10,Cochlear Nucleus,FALSE,
+W2093164485,11,Deafness,FALSE,
+W2093164485,12,Deafness,FALSE,rehabilitation
+W2093164485,13,Female,FALSE,
+W2093164485,14,Humans,FALSE,
+W2093164485,15,Male,FALSE,
+W2093164485,16,Middle Aged,FALSE,
+W1513236514,1,Algorithms,TRUE,
+W1513236514,2,Artifacts,TRUE,
+W1513236514,3,Brain Mapping,TRUE,methods
+W1513236514,4,Image Enhancement,TRUE,methods
+W1513236514,5,"Image Interpretation, Computer-Assisted",TRUE,methods
+W1513236514,6,Magnetic Resonance Imaging,TRUE,methods
+W1513236514,7,Noise,TRUE,prevention & control
+W1513236514,8,Brain Mapping,FALSE,
+W1513236514,9,Image Enhancement,FALSE,
+W1513236514,10,"Image Interpretation, Computer-Assisted",FALSE,
+W1513236514,11,Magnetic Resonance Imaging,FALSE,
+W1513236514,12,Noise,FALSE,
+W1513236514,13,Reproducibility of Results,FALSE,
+W1513236514,14,Sensitivity and Specificity,FALSE,
+W1988815273,1,Amino Acids,TRUE,physiology
+W1988815273,2,Escherichia coli,TRUE,metabolism
+W1988815273,3,"Gene Expression Regulation, Bacterial",TRUE,
+W1988815273,4,Homeostasis,TRUE,
+W1988815273,5,Ribosomes,TRUE,metabolism
+W1988815273,6,Amino Acids,FALSE,
+W1988815273,7,Escherichia coli,FALSE,enzymology
+W1988815273,8,Escherichia coli,FALSE,
+W1988815273,9,"Promoter Regions, Genetic",FALSE,
+W1988815273,10,"Promoter Regions, Genetic",FALSE,drug effects
+W1988815273,11,Ribosomes,FALSE,genetics
+W1988815273,12,Ribosomes,FALSE,
+W1974138994,1,Bacterial Proteins,TRUE,metabolism
+W1974138994,2,Cytochrome P-450 Enzyme System,TRUE,metabolism
+W1974138994,3,Mixed Function Oxygenases,TRUE,metabolism
+W1974138994,4,Phenylalanine,TRUE,metabolism
+W1974138994,5,Bacterial Proteins,FALSE,
+W1974138994,6,Bacterial Proteins,FALSE,genetics
+W1974138994,7,Bacterial Proteins,FALSE,chemistry
+W1974138994,8,Binding Sites,FALSE,
+W1974138994,9,Binding Sites,FALSE,genetics
+W1974138994,10,Cytochrome P-450 Enzyme System,FALSE,
+W1974138994,11,Cytochrome P-450 Enzyme System,FALSE,genetics
+W1974138994,12,Cytochrome P-450 Enzyme System,FALSE,chemistry
+W1974138994,13,Kinetics,FALSE,
+W1974138994,14,Mixed Function Oxygenases,FALSE,genetics
+W1974138994,15,Mixed Function Oxygenases,FALSE,
+W1974138994,16,Mixed Function Oxygenases,FALSE,chemistry
+W1974138994,17,Mutation,FALSE,
+W1974138994,18,NADPH-Ferrihemoprotein Reductase,FALSE,
+W1974138994,19,Phenylalanine,FALSE,
+W1974138994,20,Phenylalanine,FALSE,chemistry
+W1974138994,21,Phenylalanine,FALSE,genetics
+W1974138994,22,Protein Binding,FALSE,
+W1974138994,23,Protein Binding,FALSE,genetics
+W1974138994,24,Substrate Specificity,FALSE,
+W1974138994,25,Substrate Specificity,FALSE,genetics
+W1971758734,1,Biomarkers,TRUE,metabolism
+W1971758734,2,"Biomarkers, Tumor",TRUE,metabolism
+W1971758734,3,Computational Biology,TRUE,methods
+W1971758734,4,Gene Expression Profiling,TRUE,methods
+W1971758734,5,Gene Expression Regulation,TRUE,
+W1971758734,6,"Gene Expression Regulation, Leukemic",TRUE,
+W1971758734,7,Algorithms,FALSE,
+W1971758734,8,Biomarkers,FALSE,
+W1971758734,9,"Biomarkers, Tumor",FALSE,
+W1971758734,10,"Cell Line, Tumor",FALSE,
+W1971758734,11,Cluster Analysis,FALSE,
+W1971758734,12,Computational Biology,FALSE,
+W1971758734,13,Gene Expression Profiling,FALSE,
+W1971758734,14,Genomics,FALSE,
+W1971758734,15,Humans,FALSE,
+W1971758734,16,Lupus Vulgaris,FALSE,
+W1971758734,17,Lupus Vulgaris,FALSE,metabolism
+W1971758734,18,"Models, Genetic",FALSE,
+W1971758734,19,"Models, Statistical",FALSE,
+W1971758734,20,Oligonucleotide Array Sequence Analysis,FALSE,
+W2098208479,1,Antigen-Presenting Cells,TRUE,immunology
+W2098208479,2,CD4-Positive T-Lymphocytes,TRUE,immunology
+W2098208479,3,Lymphocyte Activation,TRUE,
+W2098208479,4,"Receptors, Antigen, T-Cell",TRUE,physiology
+W2098208479,5,Animals,FALSE,
+W2098208479,6,Antigen-Presenting Cells,FALSE,
+W2098208479,7,CD4-Positive T-Lymphocytes,FALSE,
+W2098208479,8,CD4-Positive T-Lymphocytes,FALSE,metabolism
+W2098208479,9,Down-Regulation,FALSE,
+W2098208479,10,Down-Regulation,FALSE,immunology
+W2098208479,11,Mice,FALSE,
+W2098208479,12,"Mice, Transgenic",FALSE,
+W2098208479,13,"Receptors, Antigen, T-Cell",FALSE,
+W2162965939,1,Cell Phone,TRUE,economics
+W2162965939,2,Computer-Aided Design,TRUE,
+W2162965939,3,"Models, Economic",TRUE,
+W2162965939,4,"Models, Statistical",TRUE,
+W2162965939,5,Cell Phone,FALSE,
+W2162965939,6,Computer Communication Networks,FALSE,
+W2162965939,7,Computer Simulation,FALSE,
+W2162965939,8,Equipment Design,FALSE,
+W2162965939,9,Equipment Failure Analysis,FALSE,
+W2162965939,10,Periodicity,FALSE,
+W2011381153,1,Guanidines,TRUE,chemistry
+W2011381153,2,Oligopeptides,TRUE,analysis
+W2011381153,3,"Spectrometry, Mass, Electrospray Ionization",TRUE,methods
+W2011381153,4,tau Proteins,TRUE,analysis
+W2011381153,5,Amyloid,FALSE,chemistry
+W2011381153,6,Amyloid,FALSE,
+W2011381153,7,"Chromatography, High Pressure Liquid",FALSE,
+W2011381153,8,Guanidines,FALSE,
+W2011381153,9,Methylurea Compounds,FALSE,chemistry
+W2011381153,10,Methylurea Compounds,FALSE,
+W2011381153,11,Mutation,FALSE,
+W2011381153,12,Oligopeptides,FALSE,
+W2011381153,13,Oligopeptides,FALSE,chemistry
+W2011381153,14,Peptide Mapping,FALSE,
+W2011381153,15,Protein Isoforms,FALSE,
+W2011381153,16,"Spectrometry, Mass, Electrospray Ionization",FALSE,
+W2011381153,17,tau Proteins,FALSE,chemistry
+W2011381153,18,tau Proteins,FALSE,
+W2432892924,1,Agriculture,TRUE,trends
+W2432892924,2,Conservation of Energy Resources,TRUE,trends
+W2432892924,3,Social Problems,TRUE,
+W2432892924,4,Agriculture,FALSE,
+W2432892924,5,Conservation of Energy Resources,FALSE,
+W2432892924,6,Fossil Fuels,FALSE,
+W2432892924,7,Fuel Oils,FALSE,
+W2432892924,8,Humans,FALSE,
+W2432892924,9,Hydrolases,FALSE,
+W2432892924,10,Hydrolysis,FALSE,
+W2432892924,11,United States,FALSE,
+W1999323796,1,Auditory Perceptual Disorders,TRUE,diagnosis
+W1999323796,2,"Evoked Potentials, Auditory",TRUE,physiology
+W1999323796,3,Language,TRUE,
+W1999323796,4,Multilingualism,TRUE,
+W1999323796,5,Acoustic Stimulation,FALSE,
+W1999323796,6,Adult,FALSE,
+W1999323796,7,"Aged, 80 and over",FALSE,
+W1999323796,8,"Audiometry, Pure-Tone",FALSE,
+W1999323796,9,Auditory Perceptual Disorders,FALSE,physiopathology
+W1999323796,10,Auditory Perceptual Disorders,FALSE,
+W1999323796,11,Case-Control Studies,FALSE,
+W1999323796,12,Dichotic Listening Tests,FALSE,
+W1999323796,13,"Evoked Potentials, Auditory",FALSE,
+W1999323796,14,Functional Laterality,FALSE,physiology
+W1999323796,15,Functional Laterality,FALSE,
+W1999323796,16,Humans,FALSE,
+W1999323796,17,Male,FALSE,
+W2411518799,1,Research,TRUE,trends
+W2411518799,2,Universities,TRUE,
+W2411518799,3,Anatomy,FALSE,
+W2411518799,4,Anatomy,FALSE,education
+W2411518799,5,Anatomy,FALSE,trends
+W2411518799,6,Biology,FALSE,
+W2411518799,7,Biology,FALSE,education
+W2411518799,8,Biology,FALSE,trends
+W2411518799,9,Humans,FALSE,
+W2411518799,10,Neurobiology,FALSE,
+W2411518799,11,Neurobiology,FALSE,education
+W2411518799,12,Neurobiology,FALSE,trends
+W2411518799,13,Research,FALSE,
+W2411518799,14,Research,FALSE,education
+W2411518799,15,United States,FALSE,

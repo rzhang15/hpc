@@ -1,0 +1,1374 @@
+id,which_topic,topic_id,topic,subfield_id,subfield,field,field_id,domain_id,domain
+W2094963548,1,T10074,Carbon Nanotubes in Composites,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2094963548,2,T14089,Nanotechnology research and applications,2204,Biomedical Engineering,Engineering,22,3,Physical Sciences
+W2094963548,3,T10083,Graphene research and applications,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W3207805732,1,T10001,Geological and Geochemical Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W3207805732,2,T10413,High-pressure geophysics and materials,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W3207805732,3,T10110,earthquake and tectonic studies,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2012987308,1,T10246,Mobile Ad Hoc Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2012987308,2,T11158,Wireless Networks and Protocols,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2012987308,3,T10796,Cooperative Communication and Network Coding,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2026324572,1,T10001,Geological and Geochemical Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2026324572,2,T12157,Geochemistry and Geologic Mapping,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2026324572,3,T13205,Geological and Geophysical Studies Worldwide,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2051057783,1,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2051057783,2,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W2051057783,3,T11309,Music and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2127039475,1,T10001,Geological and Geochemical Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2127039475,2,T12157,Geochemistry and Geologic Mapping,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2127039475,3,T10110,earthquake and tectonic studies,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2119985366,1,T10363,Low-power high-performance VLSI design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2119985366,2,T10323,Analog and Mixed-Signal Circuit Design,2204,Biomedical Engineering,Engineering,22,3,Physical Sciences
+W2119985366,3,T10558,Advancements in Semiconductor Devices and Circuit Design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1983707293,1,T10217,Cardiac electrophysiology and arrhythmias,2705,Cardiology and Cardiovascular Medicine,Medicine,27,4,Health Sciences
+W1983707293,2,T10493,Ion channel regulation and function,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W1983707293,3,T11601,Neuroscience and Neural Engineering,2804,Cellular and Molecular Neuroscience,Neuroscience,28,1,Life Sciences
+W2033208205,1,T10387,Fatty Acid Research and Health,2916,Nutrition and Dietetics,Nursing,29,4,Health Sciences
+W2033208205,2,T11308,Sphingolipid Metabolism and Signaling,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2033208205,3,T11337,Tryptophan and brain disorders,2803,Biological Psychiatry,Neuroscience,28,1,Life Sciences
+W2147547332,1,T10246,Mobile Ad Hoc Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2147547332,2,T11158,Wireless Networks and Protocols,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2147547332,3,T10796,Cooperative Communication and Network Coding,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2133900169,1,T10283,Hearing Loss and Rehabilitation,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2133900169,2,T10788,Neuroscience and Music Perception,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2133900169,3,T10581,Neural dynamics and brain function,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2101368485,1,T10048,Particle physics theoretical and experimental studies,3106,Nuclear and High Energy Physics,Physics and Astronomy,31,3,Physical Sciences
+W2101368485,2,T10224,Quantum Chromodynamics and Particle Interactions,3106,Nuclear and High Energy Physics,Physics and Astronomy,31,3,Physical Sciences
+W2101368485,3,T10527,High-Energy Particle Collisions Research,3106,Nuclear and High Energy Physics,Physics and Astronomy,31,3,Physical Sciences
+W2149647794,1,T11470,Legume Nitrogen Fixing Symbiosis,1110,Plant Science,Agricultural and Biological Sciences,11,1,Life Sciences
+W2149647794,2,T12305,Cassava research and cyanide,1110,Plant Science,Agricultural and Biological Sciences,11,1,Life Sciences
+W2149647794,3,T11578,Plant Pathogenic Bacteria Studies,1110,Plant Science,Agricultural and Biological Sciences,11,1,Life Sciences
+W2160529651,1,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2160529651,2,T10846,Photonic Crystal and Fiber Optics,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2160529651,3,T10205,Advanced Fiber Optic Sensors,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1931521890,1,T10246,Mobile Ad Hoc Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1931521890,2,T10138,Network Traffic and Congestion Control,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1931521890,3,T11158,Wireless Networks and Protocols,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2112476086,1,T11470,Legume Nitrogen Fixing Symbiosis,1110,Plant Science,Agricultural and Biological Sciences,11,1,Life Sciences
+W2112476086,2,T11247,Plant nutrient uptake and metabolism,1110,Plant Science,Agricultural and Biological Sciences,11,1,Life Sciences
+W2122231705,1,T10074,Carbon Nanotubes in Composites,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2122231705,2,T10338,Advanced Sensor and Energy Harvesting Materials,2204,Biomedical Engineering,Engineering,22,3,Physical Sciences
+W2122231705,3,T12776,Electrohydrodynamics and Fluid Dynamics,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1592789700,1,T11591,NF-κB Signaling Pathways,1306,Cancer Research,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W1592789700,2,T10952,PI3K/AKT/mTOR signaling in cancer,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W1592789700,3,T11503,Cytokine Signaling Pathways and Interactions,2730,Oncology,Medicine,27,4,Health Sciences
+W1996897475,1,T12193,Trigeminal Neuralgia and Treatments,2734,Pathology and Forensic Medicine,Medicine,27,4,Health Sciences
+W1996897475,2,T13543,Oropharyngeal Anatomy and Pathologies,2745,Rheumatology,Medicine,27,4,Health Sciences
+W1996897475,3,T12301,Facial Nerve Paralysis Treatment and Research,2728,Neurology,Medicine,27,4,Health Sciences
+W1967861055,1,T11693,Cryptography and Residue Arithmetic,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W1967861055,2,T11130,Coding theory and cryptography,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W1967861055,3,T10951,Cryptographic Implementations and Security,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2166828164,1,T10001,Geological and Geochemical Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2166828164,2,T10413,High-pressure geophysics and materials,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2166828164,3,T10110,earthquake and tectonic studies,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W1967483268,1,T10110,earthquake and tectonic studies,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W1967483268,2,T13205,Geological and Geophysical Studies Worldwide,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W1967483268,3,T10001,Geological and Geochemical Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2072203934,1,T10413,High-pressure geophysics and materials,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2072203934,2,T10001,Geological and Geochemical Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2072203934,3,T10110,earthquake and tectonic studies,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W128390138,1,T10283,Hearing Loss and Rehabilitation,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W128390138,2,T10788,Neuroscience and Music Perception,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W128390138,3,T10334,"Hearing, Cochlea, Tinnitus, Genetics",2809,Sensory Systems,Neuroscience,28,1,Life Sciences
+W4241598541,1,T11094,Face Recognition and Perception,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W4241598541,2,T11448,Face recognition and analysis,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W4241598541,3,T11118,Evolutionary Psychology and Human Behavior,3205,Experimental and Cognitive Psychology,Psychology,32,2,Social Sciences
+W1602128787,1,T11075,Insect Resistance and Genetics,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W1602128787,2,T11515,Bacillus and Francisella bacterial research,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W1602128787,3,T11641,Insect and Pesticide Research,1109,Insect Science,Agricultural and Biological Sciences,11,1,Life Sciences
+W2030480705,1,T11470,Legume Nitrogen Fixing Symbiosis,1110,Plant Science,Agricultural and Biological Sciences,11,1,Life Sciences
+W2030480705,2,T12824,Infections and bacterial resistance,1310,Endocrinology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2030480705,3,T11048,Bacteriophages and microbial interactions,2303,Ecology,Environmental Science,23,3,Physical Sciences
+W3125400005,1,T10551,Scheduling and Optimization Algorithms,2209,Industrial and Manufacturing Engineering,Engineering,22,3,Physical Sciences
+W3125400005,2,T11814,Advanced Manufacturing and Logistics Optimization,2209,Industrial and Manufacturing Engineering,Engineering,22,3,Physical Sciences
+W3125400005,3,T12782,Assembly Line Balancing Optimization,2209,Industrial and Manufacturing Engineering,Engineering,22,3,Physical Sciences
+W2110253856,1,T10995,Methane Hydrates and Related Phenomena,2304,Environmental Chemistry,Environmental Science,23,3,Physical Sciences
+W2110253856,2,T10399,Hydrocarbon exploration and reservoir analysis,2211,Mechanics of Materials,Engineering,22,3,Physical Sciences
+W2110253856,3,T10271,Seismic Imaging and Inversion Techniques,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2161565432,1,T10120,Bacterial Genetics and Biotechnology,1311,Genetics,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2161565432,2,T11048,Bacteriophages and microbial interactions,2303,Ecology,Environmental Science,23,3,Physical Sciences
+W2161565432,3,T10123,DNA Repair Mechanisms,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2126430068,1,T10159,Ionosphere and magnetosphere dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2126430068,2,T10251,Solar and Space Plasma Dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2126430068,3,T11786,Geomagnetism and Paleomagnetism Studies,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2099064944,1,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2099064944,2,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2099064944,3,T10767,Advanced Photonic Communication Systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2093570658,1,T10334,"Hearing, Cochlea, Tinnitus, Genetics",2809,Sensory Systems,Neuroscience,28,1,Life Sciences
+W2093570658,2,T10542,Vestibular and auditory disorders,2808,Neurology,Neuroscience,28,1,Life Sciences
+W2093570658,3,T12032,Multisensory perception and integration,3205,Experimental and Cognitive Psychology,Psychology,32,2,Social Sciences
+W2170286695,1,T12224,Nanofabrication and Lithography Techniques,2204,Biomedical Engineering,Engineering,22,3,Physical Sciences
+W2170286695,2,T12080,Injection Molding Process and Properties,2210,Mechanical Engineering,Engineering,22,3,Physical Sciences
+W2170286695,3,T10783,Additive Manufacturing and 3D Printing Technologies,2203,Automotive Engineering,Engineering,22,3,Physical Sciences
+W1606599757,1,T11279,Lanthanide and Transition Metal Complexes,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W1606599757,2,T12381,Electron Spin Resonance Studies,1304,Biophysics,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W1606599757,3,T10378,Advanced MRI Techniques and Applications,2741,"Radiology, Nuclear Medicine and Imaging",Medicine,27,4,Health Sciences
+W2026747071,1,T10074,Carbon Nanotubes in Composites,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2026747071,2,T10083,Graphene research and applications,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2026747071,3,T10018,Advancements in Battery Materials,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2166255004,1,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2166255004,2,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2166255004,3,T10374,Advanced Graph Theory Research,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W2082064696,1,T10918,Memory Processes and Influences,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2082064696,2,T12268,Deception detection and forensic psychology,3207,Social Psychology,Psychology,32,2,Social Sciences
+W2082064696,3,T11894,Radiology practices and education,2741,"Radiology, Nuclear Medicine and Imaging",Medicine,27,4,Health Sciences
+W2112573321,1,T11075,Insect Resistance and Genetics,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2112573321,2,T11641,Insect and Pesticide Research,1109,Insect Science,Agricultural and Biological Sciences,11,1,Life Sciences
+W2112573321,3,T11436,Entomopathogenic Microorganisms in Pest Control,1109,Insect Science,Agricultural and Biological Sciences,11,1,Life Sciences
+W2111151050,1,T10120,Bacterial Genetics and Biotechnology,1311,Genetics,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2111151050,2,T11162,Enzyme Structure and Function,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2111151050,3,T10521,RNA and protein synthesis mechanisms,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W3121240870,1,T10551,Scheduling and Optimization Algorithms,2209,Industrial and Manufacturing Engineering,Engineering,22,3,Physical Sciences
+W3121240870,2,T10328,Supply Chain and Inventory Management,1404,Management Information Systems,"Business, Management and Accounting",14,2,Social Sciences
+W3121240870,3,T10974,Advanced Queuing Theory Analysis,1404,Management Information Systems,"Business, Management and Accounting",14,2,Social Sciences
+W1915893077,1,T10772,Distributed systems and fault tolerance,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1915893077,2,T12127,Software System Performance and Reliability,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1915893077,3,T10054,Parallel Computing and Optimization Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2140748974,1,T10430,Software Engineering Techniques and Practices,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W2140748974,2,T10260,Software Engineering Research,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W2140748974,3,T10639,Advanced Software Engineering Methodologies,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W1979645075,1,T11279,Lanthanide and Transition Metal Complexes,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W1979645075,2,T11395,Radiopharmaceutical Chemistry and Applications,2741,"Radiology, Nuclear Medicine and Imaging",Medicine,27,4,Health Sciences
+W1979645075,3,T10163,Metal complexes synthesis and properties,2730,Oncology,Medicine,27,4,Health Sciences
+W1989136205,1,T10918,Memory Processes and Influences,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W1989136205,2,T11094,Face Recognition and Perception,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W1989136205,3,T12268,Deception detection and forensic psychology,3207,Social Psychology,Psychology,32,2,Social Sciences
+W2013151703,1,T12157,Geochemistry and Geologic Mapping,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2013151703,2,T10110,earthquake and tectonic studies,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2013151703,3,T10001,Geological and Geochemical Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2054849413,1,T11162,Enzyme Structure and Function,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2054849413,2,T10120,Bacterial Genetics and Biotechnology,1311,Genetics,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2054849413,3,T10521,RNA and protein synthesis mechanisms,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2158299124,1,T10566,Laser-Matter Interactions and Applications,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2158299124,2,T10683,Mass Spectrometry Techniques and Applications,1607,Spectroscopy,Chemistry,16,3,Physical Sciences
+W2158299124,3,T11177,Spectroscopy and Quantum Chemical Studies,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2071607316,1,T11279,Lanthanide and Transition Metal Complexes,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2071607316,2,T10378,Advanced MRI Techniques and Applications,2741,"Radiology, Nuclear Medicine and Imaging",Medicine,27,4,Health Sciences
+W2071607316,3,T11395,Radiopharmaceutical Chemistry and Applications,2741,"Radiology, Nuclear Medicine and Imaging",Medicine,27,4,Health Sciences
+W2131975357,1,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2131975357,2,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W2131975357,3,T10283,Hearing Loss and Rehabilitation,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2010759107,1,T10074,Carbon Nanotubes in Composites,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2010759107,2,T11449,Mechanical and Optical Resonators,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2010759107,3,T14089,Nanotechnology research and applications,2204,Biomedical Engineering,Engineering,22,3,Physical Sciences
+W1965006728,1,T11708,Photochromic and Fluorescence Chemistry,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W1965006728,2,T11419,Supramolecular Self-Assembly in Materials,2502,Biomaterials,Materials Science,25,3,Physical Sciences
+W1965006728,3,T14318,Polydiacetylene-based materials and applications,1605,Organic Chemistry,Chemistry,16,3,Physical Sciences
+W2010482300,1,T10363,Low-power high-performance VLSI design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2010482300,2,T10323,Analog and Mixed-Signal Circuit Design,2204,Biomedical Engineering,Engineering,22,3,Physical Sciences
+W2010482300,3,T13182,Quantum-Dot Cellular Automata,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W2010851803,1,T10283,Hearing Loss and Rehabilitation,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2010851803,2,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2010851803,3,T10534,Structural Health Monitoring Techniques,2205,Civil and Structural Engineering,Engineering,22,3,Physical Sciences
+W2027476872,1,T11027,Metabolism and Genetic Disorders,1308,Clinical Biochemistry,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2027476872,2,T12073,Isotope Analysis in Ecology,2303,Ecology,Environmental Science,23,3,Physical Sciences
+W2027476872,3,T10836,Metabolomics and Mass Spectrometry Studies,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2109938855,1,T10301,Mitochondrial Function and Pathology,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2109938855,2,T10492,Microtubule and mitosis dynamics,1307,Cell Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2109938855,3,T10949,Genetic Neurodegenerative Diseases,2804,Cellular and Molecular Neuroscience,Neuroscience,28,1,Life Sciences
+W2146802367,1,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2146802367,2,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2146802367,3,T10767,Advanced Photonic Communication Systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1987061332,1,T10271,Seismic Imaging and Inversion Techniques,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W1987061332,2,T11757,Seismic Waves and Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W1987061332,3,T10110,earthquake and tectonic studies,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2072118863,1,T10566,Laser-Matter Interactions and Applications,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2072118863,2,T11177,Spectroscopy and Quantum Chemical Studies,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2072118863,3,T10020,Quantum Information and Cryptography,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2003684207,1,T10639,Advanced Software Engineering Methodologies,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2003684207,2,T12127,Software System Performance and Reliability,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2003684207,3,T10260,Software Engineering Research,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W2070864421,1,T11279,Lanthanide and Transition Metal Complexes,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2070864421,2,T10973,Radioactive element chemistry and processing,1604,Inorganic Chemistry,Chemistry,16,3,Physical Sciences
+W2070864421,3,T11809,Advanced NMR Techniques and Applications,1607,Spectroscopy,Chemistry,16,3,Physical Sciences
+W2070955243,1,T10581,Neural dynamics and brain function,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2070955243,2,T10502,Advanced Memory and Neural Computing,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2070955243,3,T11601,Neuroscience and Neural Engineering,2804,Cellular and Molecular Neuroscience,Neuroscience,28,1,Life Sciences
+W2134182598,1,T10138,Network Traffic and Congestion Control,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2134182598,2,T11409,Advanced Wireless Network Optimization,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2134182598,3,T11158,Wireless Networks and Protocols,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2144615954,1,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2144615954,2,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2144615954,3,T10767,Advanced Photonic Communication Systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2010096171,1,T11279,Lanthanide and Transition Metal Complexes,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2010096171,2,T10163,Metal complexes synthesis and properties,2730,Oncology,Medicine,27,4,Health Sciences
+W2010096171,3,T11395,Radiopharmaceutical Chemistry and Applications,2741,"Radiology, Nuclear Medicine and Imaging",Medicine,27,4,Health Sciences
+W2153332352,1,T10246,Mobile Ad Hoc Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2153332352,2,T11158,Wireless Networks and Protocols,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2153332352,3,T10796,Cooperative Communication and Network Coding,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2111762712,1,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2111762712,2,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2111762712,3,T10714,Software-Defined Networks and 5G,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2533272068,1,T10363,Low-power high-performance VLSI design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2533272068,2,T10323,Analog and Mixed-Signal Circuit Design,2204,Biomedical Engineering,Engineering,22,3,Physical Sciences
+W2533272068,3,T11522,VLSI and FPGA Design Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2016192374,1,T10074,Carbon Nanotubes in Composites,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2016192374,2,T10083,Graphene research and applications,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2016192374,3,T11449,Mechanical and Optical Resonators,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2137716917,1,T12288,Optimization and Search Problems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2137716917,2,T10567,Vehicle Routing Optimization Methods,2209,Industrial and Manufacturing Engineering,Engineering,22,3,Physical Sciences
+W2137716917,3,T11942,Transportation and Mobility Innovations,2203,Automotive Engineering,Engineering,22,3,Physical Sciences
+W2131231480,1,T10001,Geological and Geochemical Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2131231480,2,T10109,Paleontology and Stratigraphy of Fossils,1911,Paleontology,Earth and Planetary Sciences,19,3,Physical Sciences
+W2131231480,3,T10965,Geological formations and processes,1904,Earth-Surface Processes,Earth and Planetary Sciences,19,3,Physical Sciences
+W2101225689,1,T10575,Wireless Communication Networks Research,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2101225689,2,T11409,Advanced Wireless Network Optimization,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2101225689,3,T10651,"IPv6, Mobility, Handover, Networks, Security",2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1974204068,1,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1974204068,2,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W1974204068,3,T11447,Blind Source Separation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1964591888,1,T11609,Geophysical Methods and Applications,2212,Ocean Engineering,Engineering,22,3,Physical Sciences
+W1964591888,2,T10271,Seismic Imaging and Inversion Techniques,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W1964591888,3,T11757,Seismic Waves and Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2099284114,1,T10159,Ionosphere and magnetosphere dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2099284114,2,T12424,Earthquake Detection and Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2099284114,3,T10251,Solar and Space Plasma Dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W1964237042,1,T10159,Ionosphere and magnetosphere dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W1964237042,2,T10251,Solar and Space Plasma Dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W1964237042,3,T11786,Geomagnetism and Paleomagnetism Studies,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2068848220,1,T10320,Neural Networks and Applications,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2068848220,2,T10538,Data Mining Algorithms and Applications,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W2068848220,3,T12072,Machine Learning and Algorithms,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2131445932,1,T11478,Caching and Content Delivery,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2131445932,2,T10742,Peer-to-Peer Network Technologies,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2131445932,3,T12326,Network Packet Processing and Optimization,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W1982733079,1,T10179,Supercapacitor Materials and Fabrication,2504,"Electronic, Optical and Magnetic Materials",Materials Science,25,3,Physical Sciences
+W1982733079,2,T10660,Conducting polymers and applications,2507,Polymers and Plastics,Materials Science,25,3,Physical Sciences
+W1982733079,3,T10338,Advanced Sensor and Energy Harvesting Materials,2204,Biomedical Engineering,Engineering,22,3,Physical Sciences
+W2100838035,1,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2100838035,2,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2100838035,3,T10767,Advanced Photonic Communication Systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2086068744,1,T10639,Advanced Software Engineering Methodologies,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2086068744,2,T10679,Service-Oriented Architecture and Web Services,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W2086068744,3,T10703,Business Process Modeling and Analysis,1404,Management Information Systems,"Business, Management and Accounting",14,2,Social Sciences
+W2003102661,1,T12608,Spatial Neglect and Hemispheric Dysfunction,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2003102661,2,T10427,Visual perception and processing mechanisms,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2003102661,3,T10381,Ophthalmology and Visual Impairment Studies,2713,Epidemiology,Medicine,27,4,Health Sciences
+W2028945745,1,T12381,Electron Spin Resonance Studies,1304,Biophysics,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2028945745,2,T10378,Advanced MRI Techniques and Applications,2741,"Radiology, Nuclear Medicine and Imaging",Medicine,27,4,Health Sciences
+W2028945745,3,T10724,Ion Transport and Channel Regulation,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2068017761,1,T10120,Bacterial Genetics and Biotechnology,1311,Genetics,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2068017761,2,T10521,RNA and protein synthesis mechanisms,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2068017761,3,T11048,Bacteriophages and microbial interactions,2303,Ecology,Environmental Science,23,3,Physical Sciences
+W1991114512,1,T11797,graph theory and CDMA systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1991114512,2,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1991114512,3,T12176,Optimization and Packing Problems,2209,Industrial and Manufacturing Engineering,Engineering,22,3,Physical Sciences
+W1990036830,1,T11871,Advanced Statistical Methods and Models,2613,Statistics and Probability,Mathematics,26,3,Physical Sciences
+W1990036830,2,T10968,Statistical Distribution Estimation and Applications,2613,Statistics and Probability,Mathematics,26,3,Physical Sciences
+W1990036830,3,T11443,Advanced Statistical Process Monitoring,1804,"Statistics, Probability and Uncertainty",Decision Sciences,18,2,Social Sciences
+W2054623339,1,T10120,Bacterial Genetics and Biotechnology,1311,Genetics,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2054623339,2,T10521,RNA and protein synthesis mechanisms,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2054623339,3,T10878,CRISPR and Genetic Engineering,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2158298951,1,T10772,Distributed systems and fault tolerance,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2158298951,2,T11478,Caching and Content Delivery,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2158298951,3,T12238,Green IT and Sustainability,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2168427624,1,T10260,Software Engineering Research,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W2168427624,2,T11675,Open Source Software Innovations,1706,Computer Science Applications,Computer Science,17,3,Physical Sciences
+W2168427624,3,T10430,Software Engineering Techniques and Practices,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W1532902213,1,T12592,Opinion Dynamics and Social Influence,3109,Statistical and Nonlinear Physics,Physics and Astronomy,31,3,Physical Sciences
+W1532902213,2,T11239,Social Capital and Networks,3312,Sociology and Political Science,Social Sciences,33,2,Social Sciences
+W1532902213,3,T12892,Social Power and Status Dynamics,3312,Sociology and Political Science,Social Sciences,33,2,Social Sciences
+W2010296261,1,T10406,Planetary Science and Exploration,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2010296261,2,T10325,Astro and Planetary Science,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2010296261,3,T10995,Methane Hydrates and Related Phenomena,2304,Environmental Chemistry,Environmental Science,23,3,Physical Sciences
+W2031489865,1,T10406,Planetary Science and Exploration,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2031489865,2,T10325,Astro and Planetary Science,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2031489865,3,T13126,Scientific Research and Discoveries,3109,Statistical and Nonlinear Physics,Physics and Astronomy,31,3,Physical Sciences
+W2065377080,1,T10735,Mesoporous Materials and Catalysis,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2065377080,2,T10192,Catalytic Processes in Materials Science,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2065377080,3,T10353,Zeolite Catalysis and Synthesis,1604,Inorganic Chemistry,Chemistry,16,3,Physical Sciences
+W2130420690,1,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2130420690,2,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2130420690,3,T11522,VLSI and FPGA Design Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2086826931,1,T10086,Alzheimer's disease research and treatments,2737,Physiology,Medicine,27,4,Health Sciences
+W2086826931,2,T11476,Graph theory and applications,2608,Geometry and Topology,Mathematics,26,3,Physical Sciences
+W2086826931,3,T11830,Point processes and geometric inequalities,2604,Applied Mathematics,Mathematics,26,3,Physical Sciences
+W2088753863,1,T10971,Olfactory and Sensory Function Studies,2809,Sensory Systems,Neuroscience,28,1,Life Sciences
+W2088753863,2,T12032,Multisensory perception and integration,3205,Experimental and Cognitive Psychology,Psychology,32,2,Social Sciences
+W2088753863,3,T11431,Action Observation and Synchronization,3207,Social Psychology,Psychology,32,2,Social Sciences
+W2169074970,1,T10575,Wireless Communication Networks Research,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2169074970,2,T11158,Wireless Networks and Protocols,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2117325710,1,T10575,Wireless Communication Networks Research,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2117325710,2,T11158,Wireless Networks and Protocols,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2117325710,3,T11409,Advanced Wireless Network Optimization,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2158594469,1,T11158,Wireless Networks and Protocols,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2158594469,2,T10246,Mobile Ad Hoc Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2158594469,3,T10796,Cooperative Communication and Network Coding,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1979346920,1,T10201,Speech Recognition and Synthesis,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W1979346920,2,T10403,Phonetics and Phonology Research,3205,Experimental and Cognitive Psychology,Psychology,32,2,Social Sciences
+W1979346920,3,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2015513816,1,T11609,Geophysical Methods and Applications,2212,Ocean Engineering,Engineering,22,3,Physical Sciences
+W2015513816,2,T10572,Geophysical and Geoelectrical Methods,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2015513816,3,T11757,Seismic Waves and Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2034729107,1,T10074,Carbon Nanotubes in Composites,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2034729107,2,T10478,Diamond and Carbon-based Materials Research,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2034729107,3,T10083,Graphene research and applications,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2063508512,1,T10715,Distributed and Parallel Computing Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2063508512,2,T13274,Expert finding and Q&A systems,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W2063508512,3,T10028,Topic Modeling,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2096723148,1,T10269,Epigenetics and DNA Methylation,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2096723148,2,T13157,Cancer-related gene regulation,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2096723148,3,T11772,Genetics and Neurodevelopmental Disorders,1311,Genetics,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2128001653,1,T10159,Ionosphere and magnetosphere dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2128001653,2,T10251,Solar and Space Plasma Dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2128001653,3,T10655,GNSS positioning and interference,2202,Aerospace Engineering,Engineering,22,3,Physical Sciences
+W1923912130,1,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1923912130,2,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1923912130,3,T10767,Advanced Photonic Communication Systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1992152562,1,T11450,Model-Driven Software Engineering Techniques,1712,Software,Computer Science,17,3,Physical Sciences
+W1992152562,2,T10639,Advanced Software Engineering Methodologies,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W1992152562,3,T12601,Web Applications and Data Management,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W305182149,1,T10894,Groundwater flow and contamination studies,2305,Environmental Engineering,Environmental Science,23,3,Physical Sciences
+W305182149,2,T11609,Geophysical Methods and Applications,2212,Ocean Engineering,Engineering,22,3,Physical Sciences
+W305182149,3,T10271,Seismic Imaging and Inversion Techniques,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2113598359,1,T10427,Visual perception and processing mechanisms,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2113598359,2,T12032,Multisensory perception and integration,3205,Experimental and Cognitive Psychology,Psychology,32,2,Social Sciences
+W2113598359,3,T10971,Olfactory and Sensory Function Studies,2809,Sensory Systems,Neuroscience,28,1,Life Sciences
+W1500478216,1,T10374,Advanced Graph Theory Research,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W1500478216,2,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1500478216,3,T12288,Optimization and Search Problems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1996512513,1,T11733,X-ray Spectroscopy and Fluorescence Analysis,3108,Radiation,Physics and Astronomy,31,3,Physical Sciences
+W1996512513,2,T12039,Electron and X-Ray Spectroscopy Techniques,2508,"Surfaces, Coatings and Films",Materials Science,25,3,Physical Sciences
+W1996512513,3,T11949,Nuclear Physics and Applications,3108,Radiation,Physics and Astronomy,31,3,Physical Sciences
+W2016622356,1,T10353,Zeolite Catalysis and Synthesis,1604,Inorganic Chemistry,Chemistry,16,3,Physical Sciences
+W2016622356,2,T10735,Mesoporous Materials and Catalysis,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2016622356,3,T10192,Catalytic Processes in Materials Science,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2029686497,1,T11693,Cryptography and Residue Arithmetic,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W2029686497,2,T11130,Coding theory and cryptography,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2029686497,3,T10951,Cryptographic Implementations and Security,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2045659544,1,T10159,Ionosphere and magnetosphere dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2045659544,2,T10251,Solar and Space Plasma Dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2045659544,3,T12424,Earthquake Detection and Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2118384664,1,T11236,Control Systems and Identification,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2118384664,2,T11749,Iterative Learning Control Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2118384664,3,T13717,Advanced Algorithms and Applications,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2132796791,1,T10246,Mobile Ad Hoc Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2132796791,2,T10796,Cooperative Communication and Network Coding,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2132796791,3,T11896,Opportunistic and Delay-Tolerant Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1988536330,1,T11949,Nuclear Physics and Applications,3108,Radiation,Physics and Astronomy,31,3,Physical Sciences
+W1988536330,2,T10093,Nuclear physics research studies,3106,Nuclear and High Energy Physics,Physics and Astronomy,31,3,Physical Sciences
+W1988536330,3,T10597,Nuclear reactor physics and engineering,2202,Aerospace Engineering,Engineering,22,3,Physical Sciences
+W2092978073,1,T11609,Geophysical Methods and Applications,2212,Ocean Engineering,Engineering,22,3,Physical Sciences
+W2092978073,2,T10271,Seismic Imaging and Inversion Techniques,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2092978073,3,T11757,Seismic Waves and Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2170907495,1,T12477,Toxin Mechanisms and Immunotoxins,2403,Immunology,Immunology and Microbiology,24,1,Life Sciences
+W2170907495,2,T10617,Cellular transport and secretion,1307,Cell Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2170907495,3,T10493,Ion channel regulation and function,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2048130943,1,T11261,Quantum chaos and dynamical systems,3109,Statistical and Nonlinear Physics,Physics and Astronomy,31,3,Physical Sciences
+W2048130943,2,T12748,Molecular spectroscopy and chirality,1607,Spectroscopy,Chemistry,16,3,Physical Sciences
+W2048130943,3,T10566,Laser-Matter Interactions and Applications,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2079359208,1,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2079359208,2,T10772,Distributed systems and fault tolerance,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2079359208,3,T10138,Network Traffic and Congestion Control,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W4254598290,1,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W4254598290,2,T11522,VLSI and FPGA Design Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W4254598290,3,T10363,Low-power high-performance VLSI design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2005353846,1,T10735,Mesoporous Materials and Catalysis,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2005353846,2,T10903,Porphyrin and Phthalocyanine Chemistry,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2005353846,3,T11286,Polyoxometalates: Synthesis and Applications,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2086649610,1,T10666,Photonic Crystals and Applications,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2228582170,1,T10048,Particle physics theoretical and experimental studies,3106,Nuclear and High Energy Physics,Physics and Astronomy,31,3,Physical Sciences
+W2228582170,2,T10224,Quantum Chromodynamics and Particle Interactions,3106,Nuclear and High Energy Physics,Physics and Astronomy,31,3,Physical Sciences
+W2228582170,3,T10527,High-Energy Particle Collisions Research,3106,Nuclear and High Energy Physics,Physics and Astronomy,31,3,Physical Sciences
+W1980517167,1,T10432,DNA and Nucleic Acid Chemistry,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W1980517167,2,T10207,Advanced biosensing and bioanalysis techniques,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W1980517167,3,T10725,RNA Interference and Gene Delivery,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2041150840,1,T10824,Image Retrieval and Classification Techniques,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2041150840,2,T11710,Biomedical Text Mining and Ontologies,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2041150840,3,T14339,Image Processing and 3D Reconstruction,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2088095562,1,T10772,Distributed systems and fault tolerance,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2088095562,2,T10715,Distributed and Parallel Computing Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2088095562,3,T12288,Optimization and Search Problems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2409010920,1,T10283,Hearing Loss and Rehabilitation,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2409010920,2,T10788,Neuroscience and Music Perception,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2409010920,3,T10334,"Hearing, Cochlea, Tinnitus, Genetics",2809,Sensory Systems,Neuroscience,28,1,Life Sciences
+W2158101245,1,T10472,Semiconductor materials and devices,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2158101245,2,T10558,Advancements in Semiconductor Devices and Circuit Design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2158101245,3,T14117,Integrated Circuits and Semiconductor Failure Analysis,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1498373062,1,T10246,Mobile Ad Hoc Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1498373062,2,T11158,Wireless Networks and Protocols,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1498373062,3,T10761,Vehicular Ad Hoc Networks (VANETs),2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2036341517,1,T10163,Metal complexes synthesis and properties,2730,Oncology,Medicine,27,4,Health Sciences
+W2036341517,2,T10612,Magnetism in coordination complexes,2504,"Electronic, Optical and Magnetic Materials",Materials Science,25,3,Physical Sciences
+W2036341517,3,T10903,Porphyrin and Phthalocyanine Chemistry,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2090068203,1,T11075,Insect Resistance and Genetics,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2090068203,2,T10294,Cell death mechanisms and regulation,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2090068203,3,T10169,Protein Kinase Regulation and GTPase Signaling,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W1495556346,1,T10251,Solar and Space Plasma Dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W1495556346,2,T12516,Advanced Mathematical Theories and Applications,3109,Statistical and Nonlinear Physics,Physics and Astronomy,31,3,Physical Sciences
+W1495556346,3,T10095,Cosmology and Gravitation Theories,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W1997826618,1,T10180,Analytical chemistry methods development,1602,Analytical Chemistry,Chemistry,16,3,Physical Sciences
+W1997826618,2,T10735,Mesoporous Materials and Catalysis,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W1997826618,3,T10908,Analytical Chemistry and Chromatography,1607,Spectroscopy,Chemistry,16,3,Physical Sciences
+W2147657819,1,T11522,VLSI and FPGA Design Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2147657819,2,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2147657819,3,T10904,Embedded Systems Design Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2151334846,1,T11522,VLSI and FPGA Design Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2151334846,2,T10363,Low-power high-performance VLSI design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2151334846,3,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2153278771,1,T11814,Advanced Manufacturing and Logistics Optimization,2209,Industrial and Manufacturing Engineering,Engineering,22,3,Physical Sciences
+W2153278771,2,T10551,Scheduling and Optimization Algorithms,2209,Industrial and Manufacturing Engineering,Engineering,22,3,Physical Sciences
+W2153278771,3,T12782,Assembly Line Balancing Optimization,2209,Industrial and Manufacturing Engineering,Engineering,22,3,Physical Sciences
+W3103219100,1,T10666,Photonic Crystals and Applications,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W3103219100,2,T10299,Photonic and Optical Devices,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W3103219100,3,T10295,Plasmonic and Surface Plasmon Research,2204,Biomedical Engineering,Engineering,22,3,Physical Sciences
+W2011631883,1,T10538,Data Mining Algorithms and Applications,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W2011631883,2,T12535,Machine Learning and Data Classification,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2011631883,3,T11106,Data Management and Algorithms,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2080141896,1,T10735,Mesoporous Materials and Catalysis,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2080141896,2,T10353,Zeolite Catalysis and Synthesis,1604,Inorganic Chemistry,Chemistry,16,3,Physical Sciences
+W2080141896,3,T10192,Catalytic Processes in Materials Science,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W1529382436,1,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W1529382436,2,T10363,Low-power high-performance VLSI design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1529382436,3,T12495,Electrostatic Discharge in Electronics,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1861403082,1,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W1861403082,2,T11447,Blind Source Separation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1861403082,3,T11236,Control Systems and Identification,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W1997003081,1,T11075,Insect Resistance and Genetics,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W1997003081,2,T11403,Invertebrate Immune Response Mechanisms,2403,Immunology,Immunology and Microbiology,24,1,Life Sciences
+W1997003081,3,T11436,Entomopathogenic Microorganisms in Pest Control,1109,Insect Science,Agricultural and Biological Sciences,11,1,Life Sciences
+W2018220912,1,T10666,Photonic Crystals and Applications,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2018220912,2,T10299,Photonic and Optical Devices,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2018220912,3,T11169,Silicon Nanostructures and Photoluminescence,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2035196880,1,T11609,Geophysical Methods and Applications,2212,Ocean Engineering,Engineering,22,3,Physical Sciences
+W2035196880,2,T11757,Seismic Waves and Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2035196880,3,T10572,Geophysical and Geoelectrical Methods,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2065485883,1,T11279,Lanthanide and Transition Metal Complexes,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2065485883,2,T12381,Electron Spin Resonance Studies,1304,Biophysics,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2065485883,3,T11809,Advanced NMR Techniques and Applications,1607,Spectroscopy,Chemistry,16,3,Physical Sciences
+W2145754593,1,T10159,Ionosphere and magnetosphere dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2145754593,2,T10251,Solar and Space Plasma Dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2145754593,3,T12424,Earthquake Detection and Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2150586297,1,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2150586297,2,T10374,Advanced Graph Theory Research,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W2150586297,3,T11797,graph theory and CDMA systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2017325501,1,T10283,Hearing Loss and Rehabilitation,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2017325501,2,T11692,Noise Effects and Management,3616,Speech and Hearing,Health Professions,36,4,Health Sciences
+W2017325501,3,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1580801488,1,T12288,Optimization and Search Problems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1580801488,2,T10246,Mobile Ad Hoc Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1580801488,3,T10374,Advanced Graph Theory Research,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W1996478192,1,T11279,Lanthanide and Transition Metal Complexes,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W1996478192,2,T10612,Magnetism in coordination complexes,2504,"Electronic, Optical and Magnetic Materials",Materials Science,25,3,Physical Sciences
+W1996478192,3,T10378,Advanced MRI Techniques and Applications,2741,"Radiology, Nuclear Medicine and Imaging",Medicine,27,4,Health Sciences
+W2117900096,1,T11034,Digital Filter Design and Implementation,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2117900096,2,T11697,Numerical Methods and Algorithms,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W2117900096,3,T10054,Parallel Computing and Optimization Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W1594186711,1,T10575,Wireless Communication Networks Research,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1594186711,2,T11409,Advanced Wireless Network Optimization,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1594186711,3,T10125,Advanced Wireless Communication Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2055814179,1,T10522,Medical Imaging Techniques and Applications,2741,"Radiology, Nuclear Medicine and Imaging",Medicine,27,4,Health Sciences
+W2055814179,2,T10417,Lung Cancer Treatments and Mutations,2740,Pulmonary and Respiratory Medicine,Medicine,27,4,Health Sciences
+W2055814179,3,T10583,Cancer-related Molecular Pathways,2730,Oncology,Medicine,27,4,Health Sciences
+W2070025468,1,T11663,Viral Infectious Diseases and Gene Expression in Insects,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2070025468,2,T11075,Insect Resistance and Genetics,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2070025468,3,T10725,RNA Interference and Gene Delivery,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2112214347,1,T12158,Guidance and Control Systems,2202,Aerospace Engineering,Engineering,22,3,Physical Sciences
+W2112214347,2,T10040,Adaptive Control of Nonlinear Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2112214347,3,T14083,Extremum Seeking Control Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2119691639,1,T10120,Bacterial Genetics and Biotechnology,1311,Genetics,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2119691639,2,T11048,Bacteriophages and microbial interactions,2303,Ecology,Environmental Science,23,3,Physical Sciences
+W2119691639,3,T10521,RNA and protein synthesis mechanisms,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2160398679,1,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2160398679,2,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2160398679,3,T10767,Advanced Photonic Communication Systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2535846987,1,T10363,Low-power high-performance VLSI design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2535846987,2,T10054,Parallel Computing and Optimization Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2535846987,3,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1605273425,1,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1605273425,2,T10283,Hearing Loss and Rehabilitation,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W1605273425,3,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W2026965282,1,T10432,DNA and Nucleic Acid Chemistry,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2026965282,2,T10207,Advanced biosensing and bioanalysis techniques,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2026965282,3,T10521,RNA and protein synthesis mechanisms,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2037113669,1,T11362,Membrane Separation and Gas Transport,2210,Mechanical Engineering,Engineering,22,3,Physical Sciences
+W2037113669,2,T10409,Fuel Cells and Related Materials,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2037113669,3,T10663,Advanced Battery Technologies Research,2203,Automotive Engineering,Engineering,22,3,Physical Sciences
+W2058128696,1,T10271,Seismic Imaging and Inversion Techniques,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2058128696,2,T11757,Seismic Waves and Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2058128696,3,T10892,Drilling and Well Engineering,2212,Ocean Engineering,Engineering,22,3,Physical Sciences
+W2068480330,1,T10159,Ionosphere and magnetosphere dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2068480330,2,T11786,Geomagnetism and Paleomagnetism Studies,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2068480330,3,T10251,Solar and Space Plasma Dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W1964660522,1,T10660,Conducting polymers and applications,2507,Polymers and Plastics,Materials Science,25,3,Physical Sciences
+W1964660522,2,T10045,Organic Electronics and Photovoltaics,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1964660522,3,T10281,Advanced Battery Materials and Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1833324549,1,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W1833324549,2,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1833324549,3,T10822,Acoustic Wave Phenomena Research,2204,Biomedical Engineering,Engineering,22,3,Physical Sciences
+W2007555176,1,T10406,Planetary Science and Exploration,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2007555176,2,T10325,Astro and Planetary Science,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2007555176,3,T10017,Geology and Paleoclimatology Research,1902,Atmospheric Science,Earth and Planetary Sciences,19,3,Physical Sciences
+W2115015414,1,T10159,Ionosphere and magnetosphere dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2115015414,2,T10251,Solar and Space Plasma Dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2115015414,3,T10655,GNSS positioning and interference,2202,Aerospace Engineering,Engineering,22,3,Physical Sciences
+W2117239355,1,T10159,Ionosphere and magnetosphere dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2117239355,2,T10251,Solar and Space Plasma Dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2117239355,3,T10655,GNSS positioning and interference,2202,Aerospace Engineering,Engineering,22,3,Physical Sciences
+W2166310608,1,T12603,NMR spectroscopy and applications,3106,Nuclear and High Energy Physics,Physics and Astronomy,31,3,Physical Sciences
+W2166310608,2,T11447,Blind Source Separation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2166310608,3,T11236,Control Systems and Identification,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W1535239931,1,T10914,Tactile and Sensory Interactions,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W1535239931,2,T12481,Digital Accessibility for Disabilities,3307,Human Factors and Ergonomics,Social Sciences,33,2,Social Sciences
+W1535239931,3,T13310,Subtitles and Audiovisual Media,1203,Language and Linguistics,Arts and Humanities,12,2,Social Sciences
+W2016106002,1,T12155,Microwave Dielectric Ceramics Synthesis,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2016106002,2,T12506,Nuclear materials and radiation effects,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2016106002,3,T10107,Ferroelectric and Piezoelectric Materials,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2062605470,1,T11016,Monoclonal and Polyclonal Antibodies Research,2741,"Radiology, Nuclear Medicine and Imaging",Medicine,27,4,Health Sciences
+W2062605470,2,T12867,Advanced Biosensing Techniques and Applications,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2062605470,3,T11124,Protein purification and stability,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2140500469,1,T11027,Metabolism and Genetic Disorders,1308,Clinical Biochemistry,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2140500469,2,T11399,Muscle metabolism and nutrition,1307,Cell Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2140500469,3,T10351,Liver Disease Diagnosis and Treatment,2713,Epidemiology,Medicine,27,4,Health Sciences
+W2175565551,1,T13177,Geological and Geophysical Studies,1907,Geology,Earth and Planetary Sciences,19,3,Physical Sciences
+W2175565551,2,T10001,Geological and Geochemical Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2175565551,3,T10110,earthquake and tectonic studies,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2417367372,1,T10283,Hearing Loss and Rehabilitation,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2417367372,2,T10788,Neuroscience and Music Perception,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2417367372,3,T12032,Multisensory perception and integration,3205,Experimental and Cognitive Psychology,Psychology,32,2,Social Sciences
+W1968304884,1,T11236,Control Systems and Identification,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W1968304884,2,T10244,Chaos control and synchronization,3109,Statistical and Nonlinear Physics,Physics and Astronomy,31,3,Physical Sciences
+W1968304884,3,T10711,Target Tracking and Data Fusion in Sensor Networks,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2143510297,1,T10901,Advanced Data Compression Techniques,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2143510297,2,T10741,Video Coding and Compression Technologies,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2143510297,3,T10688,Image and Signal Denoising Methods,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2145815611,1,T10187,Radio Frequency Integrated Circuit Design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2145815611,2,T10262,Microwave Engineering and Waveguides,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2145815611,3,T11803,Superconducting and THz Device Technology,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2148456726,1,T10470,Usability and User Interface Design,1709,Human-Computer Interaction,Computer Science,17,3,Physical Sciences
+W2148456726,2,T10789,Interactive and Immersive Displays,1709,Human-Computer Interaction,Computer Science,17,3,Physical Sciences
+W2148456726,3,T10742,Peer-to-Peer Network Technologies,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2044747634,1,T12383,Aeolian processes and effects,1904,Earth-Surface Processes,Earth and Planetary Sciences,19,3,Physical Sciences
+W2044747634,2,T11371,Wind and Air Flow Studies,2305,Environmental Engineering,Environmental Science,23,3,Physical Sciences
+W2044747634,3,T12350,Particle Dynamics in Fluid Flows,2212,Ocean Engineering,Engineering,22,3,Physical Sciences
+W2097723507,1,T11708,Photochromic and Fluorescence Chemistry,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2097723507,2,T12236,Photoreceptor and optogenetics research,2804,Cellular and Molecular Neuroscience,Neuroscience,28,1,Life Sciences
+W2097723507,3,T10903,Porphyrin and Phthalocyanine Chemistry,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2105213866,1,T11094,Face Recognition and Perception,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2105213866,2,T11448,Face recognition and analysis,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2105213866,3,T10057,Face and Expression Recognition,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2114837057,1,T10159,Ionosphere and magnetosphere dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2114837057,2,T10251,Solar and Space Plasma Dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2114837057,3,T12424,Earthquake Detection and Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2118115901,1,T11697,Numerical Methods and Algorithms,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W2118115901,2,T12661,Iterative Methods for Nonlinear Equations,2612,Numerical Analysis,Mathematics,26,3,Physical Sciences
+W2118115901,3,T11236,Control Systems and Identification,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2150707086,1,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2150707086,2,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2150707086,3,T10767,Advanced Photonic Communication Systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2160576155,1,T11409,Advanced Wireless Network Optimization,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2160576155,2,T10138,Network Traffic and Congestion Control,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2160576155,3,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1820005447,1,T10246,Mobile Ad Hoc Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1820005447,2,T11896,Opportunistic and Delay-Tolerant Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1820005447,3,T10761,Vehicular Ad Hoc Networks (VANETs),2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1844910271,1,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1844910271,2,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W1844910271,3,T10931,Direction-of-Arrival Estimation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1984787553,1,T10540,Advanced Fluorescence Microscopy Techniques,1304,Biophysics,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W1984787553,2,T10303,Photosynthetic Processes and Mechanisms,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W1984787553,3,T11177,Spectroscopy and Quantum Chemical Studies,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2027083121,1,T11923,Mine drainage and remediation techniques,2304,Environmental Chemistry,Environmental Science,23,3,Physical Sciences
+W2027083121,2,T12157,Geochemistry and Geologic Mapping,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2027083121,3,T10398,Groundwater and Isotope Geochemistry,1906,Geochemistry and Petrology,Earth and Planetary Sciences,19,3,Physical Sciences
+W2545253533,1,T10363,Low-power high-performance VLSI design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2545253533,2,T10558,Advancements in Semiconductor Devices and Circuit Design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2545253533,3,T10323,Analog and Mixed-Signal Circuit Design,2204,Biomedical Engineering,Engineering,22,3,Physical Sciences
+W3122595732,1,T13417,Biomedical Ethics and Regulation,2737,Physiology,Medicine,27,4,Health Sciences
+W3122595732,2,T10582,Ethics in Clinical Research,2739,"Public Health, Environmental and Occupational Health",Medicine,27,4,Health Sciences
+W3122595732,3,T11537,Ethics in medical practice,3600,General Health Professions,Health Professions,36,4,Health Sciences
+W4234192746,1,T11522,VLSI and FPGA Design Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W4234192746,2,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W4234192746,3,T10363,Low-power high-performance VLSI design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1515607503,1,T10575,Wireless Communication Networks Research,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1515607503,2,T11409,Advanced Wireless Network Optimization,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1515607503,3,T10148,Advanced MIMO Systems Optimization,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1902119814,1,T10720,Complexity and Algorithms in Graphs,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W1902119814,2,T10374,Advanced Graph Theory Research,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W1902119814,3,T10567,Vehicle Routing Optimization Methods,2209,Industrial and Manufacturing Engineering,Engineering,22,3,Physical Sciences
+W1983296614,1,T10054,Parallel Computing and Optimization Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W1983296614,2,T10904,Embedded Systems Design Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W1983296614,3,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2095782825,1,T10659,Marine animal studies overview,2303,Ecology,Environmental Science,23,3,Physical Sciences
+W2095782825,2,T12388,Identification and Quantification in Food,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2095782825,3,T11698,Underwater Acoustics Research,1910,Oceanography,Earth and Planetary Sciences,19,3,Physical Sciences
+W2132531954,1,T10022,Semiconductor Quantum Structures and Devices,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2132531954,2,T10558,Advancements in Semiconductor Devices and Circuit Design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2132531954,3,T10299,Photonic and Optical Devices,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2164937466,1,T10363,Low-power high-performance VLSI design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2164937466,2,T13182,Quantum-Dot Cellular Automata,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W2164937466,3,T10682,Quantum Computing Algorithms and Architecture,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W1671669295,1,T10138,Network Traffic and Congestion Control,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1671669295,2,T12326,Network Packet Processing and Optimization,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W1671669295,3,T10714,Software-Defined Networks and 5G,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1838694778,1,T11206,Model Reduction and Neural Networks,3109,Statistical and Nonlinear Physics,Physics and Astronomy,31,3,Physical Sciences
+W1838694778,2,T11416,Numerical methods for differential equations,2612,Numerical Analysis,Mathematics,26,3,Physical Sciences
+W1838694778,3,T12810,Real-time simulation and control systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W1888604153,1,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1888604153,2,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1888604153,3,T10767,Advanced Photonic Communication Systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2083548381,1,T10317,Advanced Database Systems and Queries,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2083548381,2,T11106,Data Management and Algorithms,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2083548381,3,T10215,Semantic Web and Ontologies,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2116529986,1,T10159,Ionosphere and magnetosphere dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2116529986,2,T12424,Earthquake Detection and Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2116529986,3,T10655,GNSS positioning and interference,2202,Aerospace Engineering,Engineering,22,3,Physical Sciences
+W2126452887,1,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2126452887,2,T13664,Genome Rearrangement Algorithms,1311,Genetics,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2126452887,3,T11797,graph theory and CDMA systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2129930389,1,T10996,Computational Geometry and Mesh Generation,1704,Computer Graphics and Computer-Aided Design,Computer Science,17,3,Physical Sciences
+W2129930389,2,T12923,Digital Image Processing Techniques,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2129930389,3,T12288,Optimization and Search Problems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2140245997,1,T10575,Wireless Communication Networks Research,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2140245997,2,T10936,Millimeter-Wave Propagation and Modeling,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2140245997,3,T10148,Advanced MIMO Systems Optimization,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2141795511,1,T10478,Diamond and Carbon-based Materials Research,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2141795511,2,T11920,Pulsed Power Technology Applications,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2141795511,3,T10472,Semiconductor materials and devices,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2155028043,1,T10743,Software Testing and Debugging Techniques,1712,Software,Computer Science,17,3,Physical Sciences
+W2155028043,2,T12423,Software Reliability and Analysis Research,1712,Software,Computer Science,17,3,Physical Sciences
+W2155028043,3,T12072,Machine Learning and Algorithms,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W1567608917,1,T10001,Geological and Geochemical Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W1567608917,2,T10017,Geology and Paleoclimatology Research,1902,Atmospheric Science,Earth and Planetary Sciences,19,3,Physical Sciences
+W1567608917,3,T10413,High-pressure geophysics and materials,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2003777400,1,T10945,Lysosomal Storage Disorders Research,2737,Physiology,Medicine,27,4,Health Sciences
+W2003777400,2,T13415,Calcium signaling and nucleotide metabolism,1314,Physiology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2003777400,3,T10602,Glycosylation and Glycoproteins Research,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2114498007,1,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2114498007,2,T10283,Hearing Loss and Rehabilitation,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2114498007,3,T10822,Acoustic Wave Phenomena Research,2204,Biomedical Engineering,Engineering,22,3,Physical Sciences
+W2146897337,1,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2146897337,2,T10904,Embedded Systems Design Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2146897337,3,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2154869016,1,T10996,Computational Geometry and Mesh Generation,1704,Computer Graphics and Computer-Aided Design,Computer Science,17,3,Physical Sciences
+W2154869016,2,T10313,Surface Modification and Superhydrophobicity,2508,"Surfaces, Coatings and Films",Materials Science,25,3,Physical Sciences
+W2154869016,3,T11870,Structural Analysis and Optimization,2205,Civil and Structural Engineering,Engineering,22,3,Physical Sciences
+W2168694782,1,T11210,Mathematical Analysis and Transform Methods,2604,Applied Mathematics,Mathematics,26,3,Physical Sciences
+W2168694782,2,T10884,Holomorphic and Operator Theory,2604,Applied Mathematics,Mathematics,26,3,Physical Sciences
+W2168694782,3,T12037,Algebraic and Geometric Analysis,2604,Applied Mathematics,Mathematics,26,3,Physical Sciences
+W2313764381,1,T11813,Library Collection Development and Digital Resources,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W2339748666,1,T12621,Hemispheric Asymmetry in Neuroscience,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2339748666,2,T10042,Neural and Behavioral Psychology Studies,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2339748666,3,T12032,Multisensory perception and integration,3205,Experimental and Cognitive Psychology,Psychology,32,2,Social Sciences
+W1965443583,1,T10260,Software Engineering Research,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W1965443583,2,T10639,Advanced Software Engineering Methodologies,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W1965443583,3,T11450,Model-Driven Software Engineering Techniques,1712,Software,Computer Science,17,3,Physical Sciences
+W2158734734,1,T10246,Mobile Ad Hoc Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2158734734,2,T11896,Opportunistic and Delay-Tolerant Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2158734734,3,T10761,Vehicular Ad Hoc Networks (VANETs),2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2164043597,1,T11010,"Logic, Reasoning, and Knowledge",1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2164043597,2,T10456,Multi-Agent Systems and Negotiation,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2164043597,3,T10215,Semantic Web and Ontologies,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W1773878882,1,T11920,Pulsed Power Technology Applications,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W1773878882,2,T10642,Plasma Applications and Diagnostics,2741,"Radiology, Nuclear Medicine and Imaging",Medicine,27,4,Health Sciences
+W1773878882,3,T10781,Plasma Diagnostics and Applications,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1988260497,1,T10283,Hearing Loss and Rehabilitation,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W1988260497,2,T10334,"Hearing, Cochlea, Tinnitus, Genetics",2809,Sensory Systems,Neuroscience,28,1,Life Sciences
+W1988260497,3,T12032,Multisensory perception and integration,3205,Experimental and Cognitive Psychology,Psychology,32,2,Social Sciences
+W2011671054,1,T10532,Molecular Sensors and Ion Detection,1607,Spectroscopy,Chemistry,16,3,Physical Sciences
+W2011671054,2,T11240,Luminescence and Fluorescent Materials,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2011671054,3,T10578,Supramolecular Chemistry and Complexes,1605,Organic Chemistry,Chemistry,16,3,Physical Sciences
+W2063035856,1,T10639,Advanced Software Engineering Methodologies,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2063035856,2,T10260,Software Engineering Research,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W2063035856,3,T10679,Service-Oriented Architecture and Web Services,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W2063522321,1,T10792,Matrix Theory and Algorithms,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W2063522321,2,T11210,Mathematical Analysis and Transform Methods,2604,Applied Mathematics,Mathematics,26,3,Physical Sciences
+W2063522321,3,T10739,Electromagnetic Scattering and Analysis,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2101063779,1,T11522,VLSI and FPGA Design Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2101063779,2,T12176,Optimization and Packing Problems,2209,Industrial and Manufacturing Engineering,Engineering,22,3,Physical Sciences
+W2101063779,3,T10996,Computational Geometry and Mesh Generation,1704,Computer Graphics and Computer-Aided Design,Computer Science,17,3,Physical Sciences
+W2150398857,1,T10772,Distributed systems and fault tolerance,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2150398857,2,T11005,Radiation Effects in Electronics,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2150398857,3,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W4239907825,1,T11279,Lanthanide and Transition Metal Complexes,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W4239907825,2,T11809,Advanced NMR Techniques and Applications,1607,Spectroscopy,Chemistry,16,3,Physical Sciences
+W4239907825,3,T12381,Electron Spin Resonance Studies,1304,Biophysics,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W1556199680,1,T11186,Hydrology and Drought Analysis,2306,Global and Planetary Change,Environmental Science,23,3,Physical Sciences
+W1556199680,2,T10282,Financial Risk and Volatility Modeling,2003,Finance,"Economics, Econometrics and Finance",20,2,Social Sciences
+W1556199680,3,T10968,Statistical Distribution Estimation and Applications,2613,Statistics and Probability,Mathematics,26,3,Physical Sciences
+W169214156,1,T10824,Image Retrieval and Classification Techniques,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W169214156,2,T10627,Advanced Image and Video Retrieval Techniques,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W169214156,3,T14339,Image Processing and 3D Reconstruction,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W1975987579,1,T10159,Ionosphere and magnetosphere dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W1975987579,2,T10251,Solar and Space Plasma Dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W1975987579,3,T10325,Astro and Planetary Science,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W1981223799,1,T11708,Photochromic and Fluorescence Chemistry,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W1981223799,2,T10913,Molecular Junctions and Nanostructures,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1981223799,3,T12452,Electrowetting and Microfluidic Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2097793246,1,T10575,Wireless Communication Networks Research,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2097793246,2,T11409,Advanced Wireless Network Optimization,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2097793246,3,T10125,Advanced Wireless Communication Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2153200338,1,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2153200338,2,T11476,Graph theory and applications,2608,Geometry and Topology,Mathematics,26,3,Physical Sciences
+W2153200338,3,T10374,Advanced Graph Theory Research,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W2153950557,1,T11362,Membrane Separation and Gas Transport,2210,Mechanical Engineering,Engineering,22,3,Physical Sciences
+W2153950557,2,T10735,Mesoporous Materials and Catalysis,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2153950557,3,T10096,Metal-Organic Frameworks: Synthesis and Applications,1604,Inorganic Chemistry,Chemistry,16,3,Physical Sciences
+W2162229421,1,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2162229421,2,T14117,Integrated Circuits and Semiconductor Failure Analysis,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2162229421,3,T10558,Advancements in Semiconductor Devices and Circuit Design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2162907386,1,T11094,Face Recognition and Perception,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2162907386,2,T10057,Face and Expression Recognition,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2162907386,3,T11448,Face recognition and analysis,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2171091552,1,T10772,Distributed systems and fault tolerance,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2171091552,2,T10720,Complexity and Algorithms in Graphs,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W2171091552,3,T10142,Formal Methods in Verification,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W2193965347,1,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2193965347,2,T10138,Network Traffic and Congestion Control,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2193965347,3,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1570160018,1,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1570160018,2,T10138,Network Traffic and Congestion Control,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1570160018,3,T10714,Software-Defined Networks and 5G,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1642185622,1,T11853,Semiconductor materials and interfaces,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W1642185622,2,T14117,Integrated Circuits and Semiconductor Failure Analysis,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1642185622,3,T10472,Semiconductor materials and devices,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1926278575,1,T11392,Energy Harvesting in Wireless Networks,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1926278575,2,T11158,Wireless Networks and Protocols,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1926278575,3,T10080,Energy Efficient Wireless Sensor Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1934122353,1,T11920,Pulsed Power Technology Applications,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W1934122353,2,T12760,Laser Design and Applications,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1934122353,3,T11175,Gyrotron and Vacuum Electronics Research,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W1970934971,1,T11901,Bayesian Methods and Mixture Models,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W1970934971,2,T11447,Blind Source Separation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1970934971,3,T11443,Advanced Statistical Process Monitoring,1804,"Statistics, Probability and Uncertainty",Decision Sciences,18,2,Social Sciences
+W2056339801,1,T10743,Software Testing and Debugging Techniques,1712,Software,Computer Science,17,3,Physical Sciences
+W2056339801,2,T12423,Software Reliability and Analysis Research,1712,Software,Computer Science,17,3,Physical Sciences
+W2056339801,3,T10142,Formal Methods in Verification,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W208438766,1,T11472,Analytical Chemistry and Sensors,1502,Bioengineering,Chemical Engineering,15,3,Physical Sciences
+W208438766,2,T12561,bioluminescence and chemiluminescence research,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W208438766,3,T11601,Neuroscience and Neural Engineering,2804,Cellular and Molecular Neuroscience,Neuroscience,28,1,Life Sciences
+W2098872597,1,T11749,Iterative Learning Control Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2098872597,2,T10040,Adaptive Control of Nonlinear Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2098872597,3,T11110,Stability and Controllability of Differential Equations,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2132899461,1,T11522,VLSI and FPGA Design Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2132899461,2,T12162,Cellular Automata and Applications,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W2132899461,3,T11797,graph theory and CDMA systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2148067075,1,T10022,Semiconductor Quantum Structures and Devices,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2151040519,1,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2151040519,2,T10305,Power System Optimization and Stability,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2151040519,3,T10223,Microgrid Control and Optimization,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2159614322,1,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2159614322,2,T10054,Parallel Computing and Optimization Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2159614322,3,T10772,Distributed systems and fault tolerance,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W4234647143,1,T13177,Geological and Geophysical Studies,1907,Geology,Earth and Planetary Sciences,19,3,Physical Sciences
+W4234647143,2,T10109,Paleontology and Stratigraphy of Fossils,1911,Paleontology,Earth and Planetary Sciences,19,3,Physical Sciences
+W4234647143,3,T10017,Geology and Paleoclimatology Research,1902,Atmospheric Science,Earth and Planetary Sciences,19,3,Physical Sciences
+W1561379351,1,T10796,Cooperative Communication and Network Coding,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1561379351,2,T11409,Advanced Wireless Network Optimization,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1561379351,3,T10374,Advanced Graph Theory Research,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W1587581590,1,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1587581590,2,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1587581590,3,T12326,Network Packet Processing and Optimization,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W1593830029,1,T11522,VLSI and FPGA Design Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1593830029,2,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W1593830029,3,T11417,Advancements in PLL and VCO Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1644101157,1,T10048,Particle physics theoretical and experimental studies,3106,Nuclear and High Energy Physics,Physics and Astronomy,31,3,Physical Sciences
+W1644101157,2,T10224,Quantum Chromodynamics and Particle Interactions,3106,Nuclear and High Energy Physics,Physics and Astronomy,31,3,Physical Sciences
+W1644101157,3,T10025,Black Holes and Theoretical Physics,3106,Nuclear and High Energy Physics,Physics and Astronomy,31,3,Physical Sciences
+W1844891905,1,T10936,Millimeter-Wave Propagation and Modeling,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1844891905,2,T10148,Advanced MIMO Systems Optimization,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1844891905,3,T13905,Telecommunications and Broadcasting Technologies,2214,Media Technology,Engineering,22,3,Physical Sciences
+W1993074908,1,T10660,Conducting polymers and applications,2507,Polymers and Plastics,Materials Science,25,3,Physical Sciences
+W1993074908,2,T10409,Fuel Cells and Related Materials,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1993074908,3,T10338,Advanced Sensor and Energy Harvesting Materials,2204,Biomedical Engineering,Engineering,22,3,Physical Sciences
+W1999511232,1,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1999511232,2,T10714,Software-Defined Networks and 5G,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1999511232,3,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2029597458,1,T10022,Semiconductor Quantum Structures and Devices,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2029597458,2,T11637,Advanced Semiconductor Detectors and Materials,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2029597458,3,T11853,Semiconductor materials and interfaces,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2035110986,1,T10666,Photonic Crystals and Applications,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2035110986,2,T10657,Topological Materials and Phenomena,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2035110986,3,T10591,Theoretical and Computational Physics,3104,Condensed Matter Physics,Physics and Astronomy,31,3,Physical Sciences
+W2056919111,1,T12854,Neurology and Historical Studies,2808,Neurology,Neuroscience,28,1,Life Sciences
+W2056919111,2,T12308,Mental Health and Psychiatry,1211,Philosophy,Arts and Humanities,12,2,Social Sciences
+W2056919111,3,T11334,Psychosomatic Disorders and Their Treatments,2738,Psychiatry and Mental health,Medicine,27,4,Health Sciences
+W2109559677,1,T11522,VLSI and FPGA Design Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2109559677,2,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2109559677,3,T10363,Low-power high-performance VLSI design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2127229685,1,T11522,VLSI and FPGA Design Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2127229685,2,T10996,Computational Geometry and Mesh Generation,1704,Computer Graphics and Computer-Aided Design,Computer Science,17,3,Physical Sciences
+W2127229685,3,T12176,Optimization and Packing Problems,2209,Industrial and Manufacturing Engineering,Engineering,22,3,Physical Sciences
+W2140401153,1,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2140401153,2,T11429,Semiconductor Lasers and Optical Devices,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2140401153,3,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2146434136,1,T10575,Wireless Communication Networks Research,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2146434136,2,T11409,Advanced Wireless Network Optimization,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2146434136,3,T10148,Advanced MIMO Systems Optimization,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2147397955,1,T10575,Wireless Communication Networks Research,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2147397955,2,T10125,Advanced Wireless Communication Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2147397955,3,T11409,Advanced Wireless Network Optimization,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2162082794,1,T10138,Network Traffic and Congestion Control,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2162082794,2,T10933,Real-Time Systems Scheduling,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2162082794,3,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2166734401,1,T10824,Image Retrieval and Classification Techniques,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2166734401,2,T10627,Advanced Image and Video Retrieval Techniques,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2166734401,3,T10901,Advanced Data Compression Techniques,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2320661008,1,T10083,Graphene research and applications,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2320661008,2,T10074,Carbon Nanotubes in Composites,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2320661008,3,T10018,Advancements in Battery Materials,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1551158946,1,T10022,Semiconductor Quantum Structures and Devices,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W1551158946,2,T10382,Quantum and electron transport phenomena,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W1551158946,3,T10558,Advancements in Semiconductor Devices and Circuit Design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2080026272,1,T10639,Advanced Software Engineering Methodologies,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2080026272,2,T10679,Service-Oriented Architecture and Web Services,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W2080026272,3,T10430,Software Engineering Techniques and Practices,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W2096013281,1,T11236,Control Systems and Identification,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2096013281,2,T10534,Structural Health Monitoring Techniques,2205,Civil and Structural Engineering,Engineering,22,3,Physical Sciences
+W2096013281,3,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W2102427703,1,T11920,Pulsed Power Technology Applications,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2102427703,2,T11175,Gyrotron and Vacuum Electronics Research,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2102427703,3,T10187,Radio Frequency Integrated Circuit Design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2103089525,1,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2103089525,2,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2103089525,3,T10767,Advanced Photonic Communication Systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2115909217,1,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W2115909217,2,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2115909217,3,T11447,Blind Source Separation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2128913248,1,T10688,Image and Signal Denoising Methods,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2128913248,2,T10271,Seismic Imaging and Inversion Techniques,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2128913248,3,T11210,Mathematical Analysis and Transform Methods,2604,Applied Mathematics,Mathematics,26,3,Physical Sciences
+W2133429458,1,T11048,Bacteriophages and microbial interactions,2303,Ecology,Environmental Science,23,3,Physical Sciences
+W2133429458,2,T10521,RNA and protein synthesis mechanisms,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2133429458,3,T10494,Plant Virus Research Studies,1110,Plant Science,Agricultural and Biological Sciences,11,1,Life Sciences
+W2140177043,1,T11034,Digital Filter Design and Implementation,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2140177043,2,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W2140177043,3,T10901,Advanced Data Compression Techniques,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2152365904,1,T10125,Advanced Wireless Communication Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2152365904,2,T11248,Advanced Power Amplifier Design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2152365904,3,T11873,PAPR reduction in OFDM,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2163858203,1,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2163858203,2,T11206,Model Reduction and Neural Networks,3109,Statistical and Nonlinear Physics,Physics and Astronomy,31,3,Physical Sciences
+W2163858203,3,T14117,Integrated Circuits and Semiconductor Failure Analysis,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2164938445,1,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2164938445,2,T11269,Algorithms and Data Compression,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2164938445,3,T13664,Genome Rearrangement Algorithms,1311,Genetics,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2165396241,1,T10772,Distributed systems and fault tolerance,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2165396241,2,T12127,Software System Performance and Reliability,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2165396241,3,T12288,Optimization and Search Problems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2168167868,1,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2168167868,2,T10125,Advanced Wireless Communication Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2168167868,3,T11873,PAPR reduction in OFDM,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W3023026385,1,T13664,Genome Rearrangement Algorithms,1311,Genetics,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W3023026385,2,T10434,Chromosomal and Genetic Variations,1110,Plant Science,Agricultural and Biological Sciences,11,1,Life Sciences
+W3023026385,3,T10015,Genomics and Phylogenetic Studies,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W1522259011,1,T10374,Advanced Graph Theory Research,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W1522259011,2,T10720,Complexity and Algorithms in Graphs,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W1522259011,3,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1532893707,1,T10040,Adaptive Control of Nonlinear Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W1532893707,2,T10791,Advanced Control Systems Optimization,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W1532893707,3,T11236,Control Systems and Identification,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W1563205490,1,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1563205490,2,T10904,Embedded Systems Design Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W1563205490,3,T12288,Optimization and Search Problems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W167717255,1,T10020,Quantum Information and Cryptography,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W167717255,2,T10622,Quantum Mechanics and Applications,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W167717255,3,T10682,Quantum Computing Algorithms and Architecture,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W1845744025,1,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1845744025,2,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1845744025,3,T10767,Advanced Photonic Communication Systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1874754803,1,T10040,Adaptive Control of Nonlinear Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W1874754803,2,T10791,Advanced Control Systems Optimization,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W1874754803,3,T10046,Stability and Control of Uncertain Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W1902015646,1,T10246,Mobile Ad Hoc Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1902015646,2,T11896,Opportunistic and Delay-Tolerant Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1902015646,3,T11158,Wireless Networks and Protocols,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1926980825,1,T10223,Microgrid Control and Optimization,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W1926980825,2,T10175,Advanced DC-DC Converters,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1926980825,3,T12277,Frequency Control in Power Systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1931472572,1,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1931472572,2,T10931,Direction-of-Arrival Estimation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1931472572,3,T11946,Antenna Design and Optimization,2202,Aerospace Engineering,Engineering,22,3,Physical Sciences
+W1997243746,1,T12288,Optimization and Search Problems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1997243746,2,T11181,Advanced Data Storage Technologies,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1997243746,3,T11182,Auction Theory and Applications,1803,Management Science and Operations Research,Decision Sciences,18,2,Social Sciences
+W2008204709,1,T10109,Paleontology and Stratigraphy of Fossils,1911,Paleontology,Earth and Planetary Sciences,19,3,Physical Sciences
+W2008204709,2,T10017,Geology and Paleoclimatology Research,1902,Atmospheric Science,Earth and Planetary Sciences,19,3,Physical Sciences
+W2008204709,3,T13177,Geological and Geophysical Studies,1907,Geology,Earth and Planetary Sciences,19,3,Physical Sciences
+W2017629962,1,T11673,Advanced Topics in Algebra,2602,Algebra and Number Theory,Mathematics,26,3,Physical Sciences
+W2017629962,2,T11262,Quantum Mechanics and Non-Hermitian Physics,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2017629962,3,T10884,Holomorphic and Operator Theory,2604,Applied Mathematics,Mathematics,26,3,Physical Sciences
+W2047085288,1,T11206,Model Reduction and Neural Networks,3109,Statistical and Nonlinear Physics,Physics and Astronomy,31,3,Physical Sciences
+W2047085288,2,T10363,Low-power high-performance VLSI design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2047085288,3,T11263,Electromagnetic Simulation and Numerical Methods,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2073662238,1,T12157,Geochemistry and Geologic Mapping,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2073662238,2,T10017,Geology and Paleoclimatology Research,1902,Atmospheric Science,Earth and Planetary Sciences,19,3,Physical Sciences
+W2073662238,3,T10406,Planetary Science and Exploration,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2096256108,1,T10369,Advanced MEMS and NEMS Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2104679866,1,T10639,Advanced Software Engineering Methodologies,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2104679866,2,T10142,Formal Methods in Verification,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W2104679866,3,T11450,Model-Driven Software Engineering Techniques,1712,Software,Computer Science,17,3,Physical Sciences
+W2109044208,1,T10575,Wireless Communication Networks Research,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2109044208,2,T10125,Advanced Wireless Communication Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2109044208,3,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W2131101662,1,T10936,Millimeter-Wave Propagation and Modeling,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2131101662,2,T10931,Direction-of-Arrival Estimation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2131101662,3,T10148,Advanced MIMO Systems Optimization,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2148211220,1,T10054,Parallel Computing and Optimization Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2148211220,2,T10904,Embedded Systems Design Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2148211220,3,T12042,Satellite Communication Systems,2202,Aerospace Engineering,Engineering,22,3,Physical Sciences
+W2161073427,1,T11567,semigroups and automata theory,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W2161073427,2,T10142,Formal Methods in Verification,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W2161073427,3,T10126,"Logic, programming, and type systems",1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2161095025,1,T10742,Peer-to-Peer Network Technologies,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2161095025,2,T11478,Caching and Content Delivery,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2161095025,3,T10138,Network Traffic and Congestion Control,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2165560737,1,T10138,Network Traffic and Congestion Control,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2165560737,2,T10246,Mobile Ad Hoc Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2165560737,3,T10575,Wireless Communication Networks Research,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2166686559,1,T10772,Distributed systems and fault tolerance,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2166686559,2,T10742,Peer-to-Peer Network Technologies,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2166686559,3,T14067,Cloud Computing and Remote Desktop Technologies,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W3125911195,1,T13999,Digital Rights Management and Security,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W3125911195,2,T10317,Advanced Database Systems and Queries,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W3125911195,3,T10742,Peer-to-Peer Network Technologies,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W4255029256,1,T10917,Smart Grid Security and Resilience,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W4255850016,1,T11236,Control Systems and Identification,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W4255850016,2,T10688,Image and Signal Denoising Methods,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W4255850016,3,T10928,Probabilistic and Robust Engineering Design,1804,"Statistics, Probability and Uncertainty",Decision Sciences,18,2,Social Sciences
+W1483752294,1,T13487,Statistical and numerical algorithms,2604,Applied Mathematics,Mathematics,26,3,Physical Sciences
+W1483752294,2,T10792,Matrix Theory and Algorithms,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W1483752294,3,T11697,Numerical Methods and Algorithms,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W1541806055,1,T11797,graph theory and CDMA systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1541806055,2,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1541806055,3,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1876861715,1,T10246,Mobile Ad Hoc Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1876861715,2,T10796,Cooperative Communication and Network Coding,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1876861715,3,T11158,Wireless Networks and Protocols,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1893137330,1,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1893137330,2,T11522,VLSI and FPGA Design Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1893137330,3,T10054,Parallel Computing and Optimization Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W1967759826,1,T11609,Geophysical Methods and Applications,2212,Ocean Engineering,Engineering,22,3,Physical Sciences
+W1967759826,2,T10271,Seismic Imaging and Inversion Techniques,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W1967759826,3,T11757,Seismic Waves and Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W1986373632,1,T10159,Ionosphere and magnetosphere dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W1986373632,2,T12424,Earthquake Detection and Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W1986373632,3,T11786,Geomagnetism and Paleomagnetism Studies,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W1991961012,1,T10792,Matrix Theory and Algorithms,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W1991961012,2,T11673,Advanced Topics in Algebra,2602,Algebra and Number Theory,Mathematics,26,3,Physical Sciences
+W1991961012,3,T12037,Algebraic and Geometric Analysis,2604,Applied Mathematics,Mathematics,26,3,Physical Sciences
+W2033417830,1,T10159,Ionosphere and magnetosphere dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2033417830,2,T10251,Solar and Space Plasma Dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2033417830,3,T12424,Earthquake Detection and Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2086679790,1,T10369,Advanced MEMS and NEMS Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2086679790,2,T11429,Semiconductor Lasers and Optical Devices,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2086679790,3,T11527,3D IC and TSV technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2106996446,1,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2106996446,2,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2106996446,3,T10904,Embedded Systems Design Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2107834020,1,T10323,Analog and Mixed-Signal Circuit Design,2204,Biomedical Engineering,Engineering,22,3,Physical Sciences
+W2107834020,2,T14117,Integrated Circuits and Semiconductor Failure Analysis,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2107834020,3,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2131514293,1,T10126,"Logic, programming, and type systems",1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2131514293,2,T10142,Formal Methods in Verification,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W2131514293,3,T10639,Advanced Software Engineering Methodologies,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2155090862,1,T10040,Adaptive Control of Nonlinear Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2155090862,2,T11394,Dynamics and Control of Mechanical Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2155090862,3,T10791,Advanced Control Systems Optimization,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2157110870,1,T11236,Control Systems and Identification,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2157110870,2,T10876,Fault Detection and Control Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2157110870,3,T10320,Neural Networks and Applications,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2158000108,1,T10715,Distributed and Parallel Computing Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2158000108,2,T10054,Parallel Computing and Optimization Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2158000108,3,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2170632296,1,T11522,VLSI and FPGA Design Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2170632296,2,T10363,Low-power high-performance VLSI design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2170632296,3,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W4240954886,1,T14117,Integrated Circuits and Semiconductor Failure Analysis,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W4240954886,2,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W4240954886,3,T13293,Engineering and Test Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W1482512921,1,T10931,Direction-of-Arrival Estimation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1482512921,2,T10500,Sparse and Compressive Sensing Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W1482512921,3,T10711,Target Tracking and Data Fusion in Sensor Networks,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W1526205844,1,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W1526205844,2,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1526205844,3,T11447,Blind Source Separation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1807137324,1,T10125,Advanced Wireless Communication Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1807137324,2,T10575,Wireless Communication Networks Research,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1807137324,3,T11130,Coding theory and cryptography,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W1969415716,1,T10283,Hearing Loss and Rehabilitation,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W1969415716,2,T10334,"Hearing, Cochlea, Tinnitus, Genetics",2809,Sensory Systems,Neuroscience,28,1,Life Sciences
+W1969415716,3,T10534,Structural Health Monitoring Techniques,2205,Civil and Structural Engineering,Engineering,22,3,Physical Sciences
+W2014782827,1,T10125,Advanced Wireless Communication Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2014782827,2,T10575,Wireless Communication Networks Research,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2014782827,3,T11873,PAPR reduction in OFDM,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2032745043,1,T11801,Reservoir Engineering and Simulation Methods,2212,Ocean Engineering,Engineering,22,3,Physical Sciences
+W2032745043,2,T11890,Scientific Measurement and Uncertainty Evaluation,1804,"Statistics, Probability and Uncertainty",Decision Sciences,18,2,Social Sciences
+W2059082890,1,T10904,Embedded Systems Design Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2059082890,2,T10054,Parallel Computing and Optimization Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2059082890,3,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2072801879,1,T10283,Hearing Loss and Rehabilitation,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2072801879,2,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2073134850,1,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2073134850,2,T10054,Parallel Computing and Optimization Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2073134850,3,T11181,Advanced Data Storage Technologies,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2105918103,1,T11697,Numerical Methods and Algorithms,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W2105918103,2,T10054,Parallel Computing and Optimization Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2105918103,3,T11034,Digital Filter Design and Implementation,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2113288568,1,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2113288568,2,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2113288568,3,T10767,Advanced Photonic Communication Systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2127827962,1,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2127827962,2,T11522,VLSI and FPGA Design Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2127827962,3,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2128751511,1,T13487,Statistical and numerical algorithms,2604,Applied Mathematics,Mathematics,26,3,Physical Sciences
+W2128751511,2,T10928,Probabilistic and Robust Engineering Design,1804,"Statistics, Probability and Uncertainty",Decision Sciences,18,2,Social Sciences
+W2132719248,1,T10931,Direction-of-Arrival Estimation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2132719248,2,T10891,Radar Systems and Signal Processing,2202,Aerospace Engineering,Engineering,22,3,Physical Sciences
+W2132719248,3,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W2133446718,1,T11447,Blind Source Separation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2133446718,2,T10931,Direction-of-Arrival Estimation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2133446718,3,T10534,Structural Health Monitoring Techniques,2205,Civil and Structural Engineering,Engineering,22,3,Physical Sciences
+W2145893100,1,T10772,Distributed systems and fault tolerance,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2145893100,2,T12203,Mobile Agent-Based Network Management,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2145893100,3,T10974,Advanced Queuing Theory Analysis,1404,Management Information Systems,"Business, Management and Accounting",14,2,Social Sciences
+W2151245697,1,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2151245697,2,T10931,Direction-of-Arrival Estimation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2151245697,3,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W2151806562,1,T10159,Ionosphere and magnetosphere dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2151806562,2,T10251,Solar and Space Plasma Dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2151806562,3,T11786,Geomagnetism and Paleomagnetism Studies,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2151828468,1,T10575,Wireless Communication Networks Research,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2151828468,2,T11409,Advanced Wireless Network Optimization,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2151828468,3,T11158,Wireless Networks and Protocols,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2157455232,1,T10743,Software Testing and Debugging Techniques,1712,Software,Computer Science,17,3,Physical Sciences
+W2157455232,2,T12423,Software Reliability and Analysis Research,1712,Software,Computer Science,17,3,Physical Sciences
+W2157455232,3,T10260,Software Engineering Research,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W2160840871,1,T11175,Gyrotron and Vacuum Electronics Research,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2160840871,2,T11920,Pulsed Power Technology Applications,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2160840871,3,T10752,Terahertz technology and applications,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2162951767,1,T10125,Advanced Wireless Communication Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2162951767,2,T11321,Error Correcting Code Techniques,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2162951767,3,T11130,Coding theory and cryptography,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2165653920,1,T10767,Advanced Photonic Communication Systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2165653920,2,T13293,Engineering and Test Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2168807663,1,T10904,Embedded Systems Design Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2168807663,2,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2168807663,3,T10054,Parallel Computing and Optimization Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2171002535,1,T10159,Ionosphere and magnetosphere dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2171002535,2,T10251,Solar and Space Plasma Dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2171002535,3,T10325,Astro and Planetary Science,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2316434524,1,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2316434524,2,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2417079218,1,T10542,Vestibular and auditory disorders,2808,Neurology,Neuroscience,28,1,Life Sciences
+W2417079218,2,T10971,Olfactory and Sensory Function Studies,2809,Sensory Systems,Neuroscience,28,1,Life Sciences
+W2417079218,3,T10334,"Hearing, Cochlea, Tinnitus, Genetics",2809,Sensory Systems,Neuroscience,28,1,Life Sciences
+W4239452998,1,T10772,Distributed systems and fault tolerance,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W4239452998,2,T12288,Optimization and Search Problems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W4239452998,3,T11896,Opportunistic and Delay-Tolerant Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W4242126759,1,T10639,Advanced Software Engineering Methodologies,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W4242126759,2,T10679,Service-Oriented Architecture and Web Services,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W4242126759,3,T10430,Software Engineering Techniques and Practices,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W4253235782,1,T10639,Advanced Software Engineering Methodologies,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W4253235782,2,T10260,Software Engineering Research,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W4253235782,3,T10430,Software Engineering Techniques and Practices,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W4254546874,1,T11181,Advanced Data Storage Technologies,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W4254546874,2,T11269,Algorithms and Data Compression,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W4254546874,3,T10715,Distributed and Parallel Computing Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1494468282,1,T10101,Cloud Computing and Resource Management,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W1494468282,2,T12288,Optimization and Search Problems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1494468282,3,T10715,Distributed and Parallel Computing Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1534536529,1,T11522,VLSI and FPGA Design Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1534536529,2,T10720,Complexity and Algorithms in Graphs,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W1534536529,3,T10996,Computational Geometry and Mesh Generation,1704,Computer Graphics and Computer-Aided Design,Computer Science,17,3,Physical Sciences
+W1556885002,1,T10040,Adaptive Control of Nonlinear Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W1556885002,2,T11394,Dynamics and Control of Mechanical Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W1556885002,3,T11615,Control and Dynamics of Mobile Robots,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W1654566604,1,T11269,Algorithms and Data Compression,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W1654566604,2,T10743,Software Testing and Debugging Techniques,1712,Software,Computer Science,17,3,Physical Sciences
+W1654566604,3,T12326,Network Packet Processing and Optimization,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W1822971984,1,T10523,Atomic and Molecular Physics,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W1822971984,2,T10683,Mass Spectrometry Techniques and Applications,1607,Spectroscopy,Chemistry,16,3,Physical Sciences
+W1822971984,3,T12760,Laser Design and Applications,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1864043113,1,T10931,Direction-of-Arrival Estimation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1864043113,2,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1864043113,3,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W1868291804,1,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1868291804,2,T10138,Network Traffic and Congestion Control,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W1868291804,3,T12326,Network Packet Processing and Optimization,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W1883367917,1,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W1883367917,2,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1883367917,3,T10125,Advanced Wireless Communication Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2013694789,1,T11596,Constraint Satisfaction and Optimization,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2013694789,2,T11269,Algorithms and Data Compression,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2013694789,3,T12288,Optimization and Search Problems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2036744193,1,T10283,Hearing Loss and Rehabilitation,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2036744193,2,T10788,Neuroscience and Music Perception,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2036744193,3,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2052809551,1,T11596,Constraint Satisfaction and Optimization,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2052809551,2,T11010,"Logic, Reasoning, and Knowledge",1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2052809551,3,T10317,Advanced Database Systems and Queries,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2057286606,1,T11920,Pulsed Power Technology Applications,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2057286606,2,T10732,Laser Material Processing Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W2057286606,3,T14117,Integrated Circuits and Semiconductor Failure Analysis,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2064516035,1,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2064516035,2,T10283,Hearing Loss and Rehabilitation,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2064516035,3,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W2094586612,1,T10739,Electromagnetic Scattering and Analysis,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2094586612,2,T11263,Electromagnetic Simulation and Numerical Methods,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2094586612,3,T11739,Microwave Imaging and Scattering Analysis,2204,Biomedical Engineering,Engineering,22,3,Physical Sciences
+W2099419145,1,T10215,Semantic Web and Ontologies,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2099419145,2,T11106,Data Management and Algorithms,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2099419145,3,T13083,Advanced Text Analysis Techniques,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2101045083,1,T10931,Direction-of-Arrival Estimation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2101045083,2,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W2101045083,3,T11447,Blind Source Separation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2111672023,1,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2111672023,2,T14117,Integrated Circuits and Semiconductor Failure Analysis,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2111672023,3,T12495,Electrostatic Discharge in Electronics,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2112841080,1,T10283,Hearing Loss and Rehabilitation,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2112841080,2,T11285,Hearing Impairment and Communication,3204,Developmental and Educational Psychology,Psychology,32,2,Social Sciences
+W2112841080,3,T10730,Language Development and Disorders,3204,Developmental and Educational Psychology,Psychology,32,2,Social Sciences
+W2125517453,1,T10534,Structural Health Monitoring Techniques,2205,Civil and Structural Engineering,Engineering,22,3,Physical Sciences
+W2125517453,2,T10662,Ultrasonics and Acoustic Wave Propagation,2211,Mechanics of Materials,Engineering,22,3,Physical Sciences
+W2125517453,3,T11447,Blind Source Separation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2126456925,1,T11522,VLSI and FPGA Design Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2126456925,2,T12176,Optimization and Packing Problems,2209,Industrial and Manufacturing Engineering,Engineering,22,3,Physical Sciences
+W2126456925,3,T10551,Scheduling and Optimization Algorithms,2209,Industrial and Manufacturing Engineering,Engineering,22,3,Physical Sciences
+W2131668071,1,T10382,Quantum and electron transport phenomena,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2131668071,2,T10558,Advancements in Semiconductor Devices and Circuit Design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2131668071,3,T10022,Semiconductor Quantum Structures and Devices,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2137855809,1,T11596,Constraint Satisfaction and Optimization,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2137855809,2,T11106,Data Management and Algorithms,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2137855809,3,T11063,Rough Sets and Fuzzy Logic,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W2138979966,1,T10531,Advanced Vision and Imaging,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2138979966,2,T11439,Video Analysis and Summarization,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2138979966,3,T11105,Advanced Image Processing Techniques,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2154299747,1,T11416,Numerical methods for differential equations,2612,Numerical Analysis,Mathematics,26,3,Physical Sciences
+W2154299747,2,T12727,Differential Equations and Numerical Methods,2612,Numerical Analysis,Mathematics,26,3,Physical Sciences
+W2154299747,3,T11110,Stability and Controllability of Differential Equations,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2154916961,1,T11522,VLSI and FPGA Design Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2154916961,2,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2154916961,3,T11527,3D IC and TSV technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2156351502,1,T10772,Distributed systems and fault tolerance,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2156351502,2,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2156351502,3,T10714,Software-Defined Networks and 5G,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2161826175,1,T12923,Digital Image Processing Techniques,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2161826175,2,T10996,Computational Geometry and Mesh Generation,1704,Computer Graphics and Computer-Aided Design,Computer Science,17,3,Physical Sciences
+W2161826175,3,T10627,Advanced Image and Video Retrieval Techniques,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2164920819,1,T11269,Algorithms and Data Compression,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2164920819,2,T11321,Error Correcting Code Techniques,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2166266352,1,T11429,Semiconductor Lasers and Optical Devices,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2166266352,2,T10767,Advanced Photonic Communication Systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2166266352,3,T10232,Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2170156898,1,T11920,Pulsed Power Technology Applications,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2170156898,2,T14117,Integrated Circuits and Semiconductor Failure Analysis,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2170156898,3,T12166,Ion-surface interactions and analysis,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W2171046167,1,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2171046167,2,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W2171046167,3,T10201,Speech Recognition and Synthesis,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2331908985,1,T10688,Image and Signal Denoising Methods,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2331908985,2,T10320,Neural Networks and Applications,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W4245971775,1,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W4245971775,2,T10363,Low-power high-performance VLSI design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W4245971775,3,T12495,Electrostatic Discharge in Electronics,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W4247857378,1,T10679,Service-Oriented Architecture and Web Services,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W4247857378,2,T10639,Advanced Software Engineering Methodologies,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W4247857378,3,T10703,Business Process Modeling and Analysis,1404,Management Information Systems,"Business, Management and Accounting",14,2,Social Sciences
+W4248604982,1,T10363,Low-power high-performance VLSI design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W4248604982,2,T10054,Parallel Computing and Optimization Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W4248604982,3,T10323,Analog and Mixed-Signal Circuit Design,2204,Biomedical Engineering,Engineering,22,3,Physical Sciences
+W4249360130,1,T10246,Mobile Ad Hoc Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W4249360130,2,T11896,Opportunistic and Delay-Tolerant Networks,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W4249360130,3,T10796,Cooperative Communication and Network Coding,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W122487145,1,T10996,Computational Geometry and Mesh Generation,1704,Computer Graphics and Computer-Aided Design,Computer Science,17,3,Physical Sciences
+W122487145,2,T13282,Automated Road and Building Extraction,2212,Ocean Engineering,Engineering,22,3,Physical Sciences
+W122487145,3,T11106,Data Management and Algorithms,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1517909618,1,T10472,Semiconductor materials and devices,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1517909618,2,T11661,Copper Interconnects and Reliability,2504,"Electronic, Optical and Magnetic Materials",Materials Science,25,3,Physical Sciences
+W1517909618,3,T14117,Integrated Circuits and Semiconductor Failure Analysis,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1571841012,1,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W1571841012,2,T11447,Blind Source Separation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1571841012,3,T10125,Advanced Wireless Communication Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1604056261,1,T10739,Electromagnetic Scattering and Analysis,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W1604056261,2,T11723,Optical Coatings and Gratings,2508,"Surfaces, Coatings and Films",Materials Science,25,3,Physical Sciences
+W1604056261,3,T11607,Microwave and Dielectric Measurement Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1616436608,1,T11920,Pulsed Power Technology Applications,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W1616436608,2,T10566,Laser-Matter Interactions and Applications,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W1616436608,3,T10384,Laser-Plasma Interactions and Diagnostics,3106,Nuclear and High Energy Physics,Physics and Astronomy,31,3,Physical Sciences
+W1727407883,1,T10639,Advanced Software Engineering Methodologies,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W1727407883,2,T10679,Service-Oriented Architecture and Web Services,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W1727407883,3,T11450,Model-Driven Software Engineering Techniques,1712,Software,Computer Science,17,3,Physical Sciences
+W1823036945,1,T10931,Direction-of-Arrival Estimation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1823036945,2,T11698,Underwater Acoustics Research,1910,Oceanography,Earth and Planetary Sciences,19,3,Physical Sciences
+W1823036945,3,T11447,Blind Source Separation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1875339296,1,T10260,Software Engineering Research,1710,Information Systems,Computer Science,17,3,Physical Sciences
+W1875339296,2,T11450,Model-Driven Software Engineering Techniques,1712,Software,Computer Science,17,3,Physical Sciences
+W1875339296,3,T10142,Formal Methods in Verification,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W1901490534,1,T10931,Direction-of-Arrival Estimation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1901490534,2,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1901490534,3,T11946,Antenna Design and Optimization,2202,Aerospace Engineering,Engineering,22,3,Physical Sciences
+W1923013140,1,T13487,Statistical and numerical algorithms,2604,Applied Mathematics,Mathematics,26,3,Physical Sciences
+W1923013140,2,T11447,Blind Source Separation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W1923013140,3,T14365,Leaf Properties and Growth Measurement,1110,Plant Science,Agricultural and Biological Sciences,11,1,Life Sciences
+W1982837913,1,T10666,Photonic Crystals and Applications,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W1982837913,2,T10299,Photonic and Optical Devices,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W1982837913,3,T12359,Fern and Epiphyte Biology,1105,"Ecology, Evolution, Behavior and Systematics",Agricultural and Biological Sciences,11,1,Life Sciences
+W2020306913,1,T12222,IoT-based Smart Home Systems,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2020306913,2,T12389,Infrared Target Detection Methodologies,2202,Aerospace Engineering,Engineering,22,3,Physical Sciences
+W2020306913,3,T10586,Robotic Path Planning Algorithms,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2029313900,1,T11596,Constraint Satisfaction and Optimization,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2029313900,2,T10181,Natural Language Processing Techniques,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2029313900,3,T11106,Data Management and Algorithms,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2032216899,1,T10283,Hearing Loss and Rehabilitation,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2032216899,2,T11692,Noise Effects and Management,3616,Speech and Hearing,Health Professions,36,4,Health Sciences
+W2044646301,1,T10353,Zeolite Catalysis and Synthesis,1604,Inorganic Chemistry,Chemistry,16,3,Physical Sciences
+W2044646301,2,T10735,Mesoporous Materials and Catalysis,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2044646301,3,T12524,Chemical Synthesis and Characterization,2311,Industrial and Manufacturing Engineering,Environmental Science,23,3,Physical Sciences
+W2069915748,1,T12423,Software Reliability and Analysis Research,1712,Software,Computer Science,17,3,Physical Sciences
+W2109011177,1,T14117,Integrated Circuits and Semiconductor Failure Analysis,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2109011177,2,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2109011177,3,T12122,Physical Unclonable Functions (PUFs) and Hardware Security,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2110310001,1,T11946,Antenna Design and Optimization,2202,Aerospace Engineering,Engineering,22,3,Physical Sciences
+W2112519743,1,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2112519743,2,T10138,Network Traffic and Congestion Control,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2112519743,3,T12326,Network Packet Processing and Optimization,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2113501597,1,T10334,"Hearing, Cochlea, Tinnitus, Genetics",2809,Sensory Systems,Neuroscience,28,1,Life Sciences
+W2113501597,2,T11228,Bat Biology and Ecology Studies,1105,"Ecology, Evolution, Behavior and Systematics",Agricultural and Biological Sciences,11,1,Life Sciences
+W2113501597,3,T10659,Marine animal studies overview,2303,Ecology,Environmental Science,23,3,Physical Sciences
+W2117611586,1,T13114,Image Processing Techniques and Applications,2214,Media Technology,Engineering,22,3,Physical Sciences
+W2117611586,2,T10638,Optical measurement and interference techniques,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2117611586,3,T12153,Advanced Optical Sensing Technologies,3105,Instrumentation,Physics and Astronomy,31,3,Physical Sciences
+W2122182856,1,T11429,Semiconductor Lasers and Optical Devices,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2122182856,2,T10299,Photonic and Optical Devices,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2122182856,3,T10022,Semiconductor Quantum Structures and Devices,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2124246758,1,T10022,Semiconductor Quantum Structures and Devices,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2124246758,2,T11637,Advanced Semiconductor Detectors and Materials,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2124246758,3,T10099,GaN-based semiconductor devices and materials,3104,Condensed Matter Physics,Physics and Astronomy,31,3,Physical Sciences
+W2126834272,1,T10125,Advanced Wireless Communication Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2126834272,2,T10575,Wireless Communication Networks Research,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2126834272,3,T11873,PAPR reduction in OFDM,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2130535217,1,T10931,Direction-of-Arrival Estimation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2130535217,2,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2130535217,3,T10326,Indoor and Outdoor Localization Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2134720842,1,T10301,Mitochondrial Function and Pathology,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2134720842,2,T10409,Fuel Cells and Related Materials,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2134720842,3,T12763,ATP Synthase and ATPases Research,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W2135601710,1,T10192,Catalytic Processes in Materials Science,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2135601710,2,T10353,Zeolite Catalysis and Synthesis,1604,Inorganic Chemistry,Chemistry,16,3,Physical Sciences
+W2135601710,3,T10735,Mesoporous Materials and Catalysis,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2137892795,1,T10046,Stability and Control of Uncertain Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2137892795,2,T11347,Neural Networks Stability and Synchronization,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2137892795,3,T11110,Stability and Controllability of Differential Equations,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2139742729,1,T12727,Differential Equations and Numerical Methods,2612,Numerical Analysis,Mathematics,26,3,Physical Sciences
+W2139742729,2,T10339,Advanced Numerical Methods in Computational Mathematics,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W2139742729,3,T11416,Numerical methods for differential equations,2612,Numerical Analysis,Mathematics,26,3,Physical Sciences
+W2146778807,1,T11055,Cardiac and Coronary Surgery Techniques,2746,Surgery,Medicine,27,4,Health Sciences
+W2146778807,2,T10729,Electrospun Nanofibers in Biomedical Applications,2502,Biomaterials,Materials Science,25,3,Physical Sciences
+W2146778807,3,T10675,Mechanical Circulatory Support Devices,2204,Biomedical Engineering,Engineering,22,3,Physical Sciences
+W2147552892,1,T10054,Parallel Computing and Optimization Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2147552892,2,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2147552892,3,T10904,Embedded Systems Design Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W2147808509,1,T10824,Image Retrieval and Classification Techniques,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2147808509,2,T10689,Remote-Sensing Image Classification,2214,Media Technology,Engineering,22,3,Physical Sciences
+W2147808509,3,T10052,Medical Image Segmentation Techniques,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2149850829,1,T10931,Direction-of-Arrival Estimation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2149850829,2,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W2149850829,3,T11447,Blind Source Separation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2156124974,1,T10575,Wireless Communication Networks Research,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2156124974,2,T11447,Blind Source Separation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2156124974,3,T10125,Advanced Wireless Communication Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2156809431,1,T10377,Metal and Thin Film Mechanics,2211,Mechanics of Materials,Engineering,22,3,Physical Sciences
+W2156809431,2,T10472,Semiconductor materials and devices,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2156809431,3,T10781,Plasma Diagnostics and Applications,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2157009369,1,T11417,Advancements in PLL and VCO Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2157009369,2,T11429,Semiconductor Lasers and Optical Devices,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2157009369,3,T10299,Photonic and Optical Devices,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2158680863,1,T10271,Seismic Imaging and Inversion Techniques,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2158680863,2,T11757,Seismic Waves and Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W2158680863,3,T13018,Seismology and Earthquake Studies,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2158681388,1,T11236,Control Systems and Identification,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2158681388,2,T10320,Neural Networks and Applications,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2158681388,3,T10876,Fault Detection and Control Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2159418161,1,T10558,Advancements in Semiconductor Devices and Circuit Design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2159418161,2,T13531,Surface and Thin Film Phenomena,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2159418161,3,T10382,Quantum and electron transport phenomena,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2160718731,1,T10299,Photonic and Optical Devices,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2160718731,2,T11429,Semiconductor Lasers and Optical Devices,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2160718731,3,T11527,3D IC and TSV technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2162884455,1,T12810,Real-time simulation and control systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2162884455,2,T14083,Extremum Seeking Control Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2162884455,3,T10040,Adaptive Control of Nonlinear Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2163966539,1,T10022,Semiconductor Quantum Structures and Devices,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2163966539,2,T10558,Advancements in Semiconductor Devices and Circuit Design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2163966539,3,T14117,Integrated Circuits and Semiconductor Failure Analysis,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2166499946,1,T11873,PAPR reduction in OFDM,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2166499946,2,T11248,Advanced Power Amplifier Design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2166499946,3,T10125,Advanced Wireless Communication Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2167017001,1,T10792,Matrix Theory and Algorithms,1703,Computational Theory and Mathematics,Computer Science,17,3,Physical Sciences
+W2167017001,2,T10046,Stability and Control of Uncertain Systems,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2167017001,3,T11236,Control Systems and Identification,2207,Control and Systems Engineering,Engineering,22,3,Physical Sciences
+W2167127727,1,T10382,Quantum and electron transport phenomena,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2167127727,2,T10022,Semiconductor Quantum Structures and Devices,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2167127727,3,T13531,Surface and Thin Film Phenomena,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2169679895,1,T11901,Bayesian Methods and Mixture Models,1702,Artificial Intelligence,Computer Science,17,3,Physical Sciences
+W2169679895,2,T10136,Statistical Methods and Inference,2613,Statistics and Probability,Mathematics,26,3,Physical Sciences
+W2169679895,3,T10770,Soil Geostatistics and Mapping,2305,Environmental Engineering,Environmental Science,23,3,Physical Sciences
+W2170164310,1,T11034,Digital Filter Design and Implementation,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2170164310,2,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W2170164310,3,T10688,Image and Signal Denoising Methods,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W2170706237,1,T10931,Direction-of-Arrival Estimation Techniques,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2170706237,2,T10860,Speech and Audio Processing,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W2170706237,3,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W2170712914,1,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W2170712914,2,T10847,Advanced Optical Network Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2170712914,3,T11476,Graph theory and applications,2608,Geometry and Topology,Mathematics,26,3,Physical Sciences
+W2171027144,1,T10283,Hearing Loss and Rehabilitation,2805,Cognitive Neuroscience,Neuroscience,28,1,Life Sciences
+W2171027144,2,T10334,"Hearing, Cochlea, Tinnitus, Genetics",2809,Sensory Systems,Neuroscience,28,1,Life Sciences
+W2171027144,3,T11692,Noise Effects and Management,3616,Speech and Hearing,Health Professions,36,4,Health Sciences
+W2171601192,1,T10095,Cosmology and Gravitation Theories,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W2171601192,2,T10025,Black Holes and Theoretical Physics,3106,Nuclear and High Energy Physics,Physics and Astronomy,31,3,Physical Sciences
+W2171601192,3,T11405,Geophysics and Gravity Measurements,1910,Oceanography,Earth and Planetary Sciences,19,3,Physical Sciences
+W2172171241,1,T12748,Molecular spectroscopy and chirality,1607,Spectroscopy,Chemistry,16,3,Physical Sciences
+W2172171241,2,T11177,Spectroscopy and Quantum Chemical Studies,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2172171241,3,T12603,NMR spectroscopy and applications,3106,Nuclear and High Energy Physics,Physics and Astronomy,31,3,Physical Sciences
+W2201296243,1,T11637,Advanced Semiconductor Detectors and Materials,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2201296243,2,T10022,Semiconductor Quantum Structures and Devices,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2201296243,3,T11853,Semiconductor materials and interfaces,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2287402844,1,T10735,Mesoporous Materials and Catalysis,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2287402844,2,T10192,Catalytic Processes in Materials Science,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2287402844,3,T10078,Advanced Photocatalysis Techniques,2105,"Renewable Energy, Sustainability and the Environment",Energy,21,3,Physical Sciences
+W2319127935,1,T11853,Semiconductor materials and interfaces,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2319127935,2,T10624,Silicon and Solar Cell Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2319127935,3,T13531,Surface and Thin Film Phenomena,3107,"Atomic and Molecular Physics, and Optics",Physics and Astronomy,31,3,Physical Sciences
+W2407484800,1,T12423,Software Reliability and Analysis Research,1712,Software,Computer Science,17,3,Physical Sciences
+W2477689836,1,T10125,Advanced Wireless Communication Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2477689836,2,T10323,Analog and Mixed-Signal Circuit Design,2204,Biomedical Engineering,Engineering,22,3,Physical Sciences
+W2477689836,3,T11417,Advancements in PLL and VCO Technologies,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W2661283094,1,T10908,Analytical Chemistry and Chromatography,1607,Spectroscopy,Chemistry,16,3,Physical Sciences
+W2950742878,1,T11279,Lanthanide and Transition Metal Complexes,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2950742878,2,T10163,Metal complexes synthesis and properties,2730,Oncology,Medicine,27,4,Health Sciences
+W2950742878,3,T10532,Molecular Sensors and Ion Detection,1607,Spectroscopy,Chemistry,16,3,Physical Sciences
+W2951537923,1,T11708,Photochromic and Fluorescence Chemistry,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2951537923,2,T10903,Porphyrin and Phthalocyanine Chemistry,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W2951537923,3,T12236,Photoreceptor and optogenetics research,2804,Cellular and Molecular Neuroscience,Neuroscience,28,1,Life Sciences
+W3131304965,1,T10159,Ionosphere and magnetosphere dynamics,3103,Astronomy and Astrophysics,Physics and Astronomy,31,3,Physical Sciences
+W3131304965,2,T11786,Geomagnetism and Paleomagnetism Studies,1312,Molecular Biology,"Biochemistry, Genetics and Molecular Biology",13,1,Life Sciences
+W3131304965,3,T12424,Earthquake Detection and Analysis,1908,Geophysics,Earth and Planetary Sciences,19,3,Physical Sciences
+W4231064139,1,T10054,Parallel Computing and Optimization Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W4231064139,2,T10904,Embedded Systems Design Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W4231064139,3,T12326,Network Packet Processing and Optimization,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W4231745795,1,T11522,VLSI and FPGA Design Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W4231745795,2,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W4231745795,3,T10363,Low-power high-performance VLSI design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W4235342013,1,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W4235342013,2,T14117,Integrated Circuits and Semiconductor Failure Analysis,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W4235342013,3,T11338,Advancements in Photolithography Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W4235617098,1,T11216,Radiation Detection and Scintillator Technologies,3108,Radiation,Physics and Astronomy,31,3,Physical Sciences
+W4235617098,2,T10522,Medical Imaging Techniques and Applications,2741,"Radiology, Nuclear Medicine and Imaging",Medicine,27,4,Health Sciences
+W4235617098,3,T13414,Radioactive Decay and Measurement Techniques,3108,Radiation,Physics and Astronomy,31,3,Physical Sciences
+W4240151519,1,T11522,VLSI and FPGA Design Techniques,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W4240151519,2,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W4240151519,3,T10363,Low-power high-performance VLSI design,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W4245610803,1,T10715,Distributed and Parallel Computing Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W4245610803,2,T10829,Interconnection Networks and Systems,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W4245610803,3,T10772,Distributed systems and fault tolerance,1705,Computer Networks and Communications,Computer Science,17,3,Physical Sciences
+W4245885916,1,T11032,VLSI and Analog Circuit Testing,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W4245885916,2,T11005,Radiation Effects in Electronics,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W4245885916,3,T10904,Embedded Systems Design Techniques,1708,Hardware and Architecture,Computer Science,17,3,Physical Sciences
+W4298372386,1,T10901,Advanced Data Compression Techniques,1707,Computer Vision and Pattern Recognition,Computer Science,17,3,Physical Sciences
+W4298372386,2,T11034,Digital Filter Design and Implementation,1711,Signal Processing,Computer Science,17,3,Physical Sciences
+W4298372386,3,T11233,Advanced Adaptive Filtering Techniques,2206,Computational Mechanics,Engineering,22,3,Physical Sciences
+W4301055511,1,T11637,Advanced Semiconductor Detectors and Materials,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences
+W4301055511,2,T10440,Advanced Thermoelectric Materials and Devices,2505,Materials Chemistry,Materials Science,25,3,Physical Sciences
+W4301055511,3,T10590,Chalcogenide Semiconductor Thin Films,2208,Electrical and Electronic Engineering,Engineering,22,3,Physical Sciences

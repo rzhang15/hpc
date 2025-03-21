@@ -1,0 +1,707 @@
+id,which_grant,funder_id,funder_name,award_id
+W1858542512,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W1858542512,2,F4320308445,American Roentgen Ray Society,NA
+W1858542512,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W1858542512,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W1858542512,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W1858542512,6,F4320313559,CERN,NA
+W1858542512,7,F4320319993,Leverhulme Trust,NA
+W1858542512,8,F4320320006,Royal Society,NA
+W1858542512,9,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W1858542512,10,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W1858542512,11,F4320320943,Danmarks Grundforskningsfond,NA
+W1858542512,12,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W1858542512,13,F4320321001,National Natural Science Foundation of China,NA
+W1858542512,14,F4320321917,General Secretariat for Research and Technology,NA
+W1858542512,15,F4320321999,Lundbeckfonden,NA
+W1858542512,16,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W1858542512,17,F4320322189,Joint Institute for Nuclear Research,NA
+W1858542512,18,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W1858542512,19,F4320322930,Ministerio de Ciencia e Innovación,NA
+W1858542512,20,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W1858542512,21,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W1858542512,22,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W1858542512,23,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W1858542512,24,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W1858542512,25,F4320334632,Science and Technology Facilities Council,NA
+W1858542512,26,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W2147818954,1,F4320306076,National Science Foundation,NA
+W2152494740,1,F4320306196,Welch Foundation,AT-1740
+W2121487212,1,F4320306076,National Science Foundation,NA
+W2121487212,2,F4320306084,U.S. Department of Energy,NA
+W1979469340,1,F4320306076,National Science Foundation,NA
+W1979469340,2,F4320306084,U.S. Department of Energy,NA
+W1985255347,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W1985255347,2,F4320308445,American Roentgen Ray Society,NA
+W1985255347,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W1985255347,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W1985255347,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W1985255347,6,F4320313559,CERN,NA
+W1985255347,7,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W1985255347,8,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W1985255347,9,F4320320943,Danmarks Grundforskningsfond,NA
+W1985255347,10,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W1985255347,11,F4320321001,National Natural Science Foundation of China,NA
+W1985255347,12,F4320321917,General Secretariat for Research and Technology,NA
+W1985255347,13,F4320321999,Lundbeckfonden,NA
+W1985255347,14,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W1985255347,15,F4320322189,Joint Institute for Nuclear Research,NA
+W1985255347,16,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W1985255347,17,F4320322930,Ministerio de Ciencia e Innovación,NA
+W1985255347,18,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W1985255347,19,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W1985255347,20,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W1985255347,21,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W1985255347,22,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W1985255347,23,F4320334632,Science and Technology Facilities Council,NA
+W1985255347,24,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W2152453823,1,F4320306076,National Science Foundation,NA
+W2152453823,2,F4320306084,U.S. Department of Energy,NA
+W2152453823,3,F4320306101,National Aeronautics and Space Administration,NA
+W2025623820,1,F4320306084,U.S. Department of Energy,DE-EE004186
+W2046408523,1,F4320322120,National Research Foundation of Korea,NRF-2010-616-D00018
+W2046408523,2,F4320322349,"Ministry of Education, Science and Technology",K20903002024-11E0100-04010
+W2048007089,1,F4320306076,National Science Foundation,NA
+W2048007089,2,F4320306084,U.S. Department of Energy,NA
+W2048007089,3,F4320306101,National Aeronautics and Space Administration,NA
+W1987482831,1,F4320306084,U.S. Department of Energy,DE-EE004186
+W2097388083,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W2097388083,2,F4320308445,American Roentgen Ray Society,NA
+W2097388083,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W2097388083,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W2097388083,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W2097388083,6,F4320313521,TRIUMF,NA
+W2097388083,7,F4320313559,CERN,NA
+W2097388083,8,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2097388083,9,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W2097388083,10,F4320320943,Danmarks Grundforskningsfond,NA
+W2097388083,11,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W2097388083,12,F4320321001,National Natural Science Foundation of China,NA
+W2097388083,13,F4320321917,General Secretariat for Research and Technology,NA
+W2097388083,14,F4320321999,Lundbeckfonden,NA
+W2097388083,15,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W2097388083,16,F4320322189,Joint Institute for Nuclear Research,NA
+W2097388083,17,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W2097388083,18,F4320322930,Ministerio de Ciencia e Innovación,NA
+W2097388083,19,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W2097388083,20,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W2097388083,21,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W2097388083,22,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W2097388083,23,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W2097388083,24,F4320334632,Science and Technology Facilities Council,NA
+W2097388083,25,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W2144213730,1,F4320337337,National Institute on Aging,P30 AG024827
+W2144213730,2,F4320337337,National Institute on Aging,RO1 AG25032
+W2144213730,3,F4320337337,National Institute on Aging,RO1 AG25667
+W2145112031,1,F4320306076,National Science Foundation,NA
+W2145112031,2,F4320306084,U.S. Department of Energy,NA
+W2000710004,1,F4320306076,National Science Foundation,NA
+W2000710004,2,F4320332180,Defense Advanced Research Projects Agency,NA
+W2000710004,3,F4320338279,Air Force Office of Scientific Research,NA
+W2000710004,4,F4320338281,Army Research Office,NA
+W2054687999,1,F4320322120,National Research Foundation of Korea,NA
+W2054687999,2,F4320322349,"Ministry of Education, Science and Technology",K20903002024-11E0100-04010
+W2054687999,3,F4320322349,"Ministry of Education, Science and Technology",2011-0005890
+W2105738882,1,F4320306076,National Science Foundation,NA
+W2105738882,2,F4320306084,U.S. Department of Energy,NA
+W2105738882,3,F4320306101,National Aeronautics and Space Administration,NA
+W2157928417,1,F4320306076,National Science Foundation,NA
+W2157928417,2,F4320306084,U.S. Department of Energy,NA
+W2157928417,3,F4320306101,National Aeronautics and Space Administration,NA
+W2164146973,1,F4320306076,National Science Foundation,NA
+W2164146973,2,F4320306084,U.S. Department of Energy,NA
+W2164146973,3,F4320306101,National Aeronautics and Space Administration,NA
+W2109024157,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W2109024157,2,F4320308445,American Roentgen Ray Society,NA
+W2109024157,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W2109024157,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W2109024157,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W2109024157,6,F4320313559,CERN,NA
+W2109024157,7,F4320319993,Leverhulme Trust,NA
+W2109024157,8,F4320320006,Royal Society,NA
+W2109024157,9,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2109024157,10,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W2109024157,11,F4320320943,Danmarks Grundforskningsfond,NA
+W2109024157,12,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W2109024157,13,F4320321001,National Natural Science Foundation of China,NA
+W2109024157,14,F4320321917,General Secretariat for Research and Technology,NA
+W2109024157,15,F4320321999,Lundbeckfonden,NA
+W2109024157,16,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W2109024157,17,F4320322189,Joint Institute for Nuclear Research,NA
+W2109024157,18,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W2109024157,19,F4320322930,Ministerio de Ciencia e Innovación,NA
+W2109024157,20,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W2109024157,21,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W2109024157,22,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W2109024157,23,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W2109024157,24,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W2109024157,25,F4320334632,Science and Technology Facilities Council,NA
+W2109024157,26,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W1987110004,1,F4320306219,Alzheimer's Association,IIRG-09-135087
+W2096287138,1,F4320306076,National Science Foundation,NA
+W2096287138,2,F4320306084,U.S. Department of Energy,NA
+W2096287138,3,F4320306101,National Aeronautics and Space Administration,NA
+W2126916874,1,F4320306076,National Science Foundation,NA
+W2126916874,2,F4320306084,U.S. Department of Energy,NA
+W2126916874,3,F4320306101,National Aeronautics and Space Administration,NA
+W2127679815,1,F4320306076,National Science Foundation,NA
+W2127679815,2,F4320306084,U.S. Department of Energy,NA
+W2110964678,1,F4320306076,National Science Foundation,NA
+W2110964678,2,F4320306084,U.S. Department of Energy,NA
+W1988985744,1,F4320306101,National Aeronautics and Space Administration,NNX09AI01G
+W2114385287,1,F4320308269,Alexander von Humboldt-Stiftung,R37-011230
+W2114385287,2,F4320313796,Innovationsfonden,R37-011230
+W2114385287,3,F4320320879,Deutsche Forschungsgemeinschaft,R37-011230
+W2114385287,4,F4320321114,Bundesministerium für Bildung und Forschung,R37-011230
+W2114385287,5,F4320322434,Max-Planck-Gesellschaft,R37-011230
+W2114385287,6,F4320332161,National Institutes of Health,R37-011230
+W2106963703,1,F4320306076,National Science Foundation,NA
+W2106963703,2,F4320306084,U.S. Department of Energy,NA
+W2106963703,3,F4320306101,National Aeronautics and Space Administration,NA
+W2112628055,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W2112628055,2,F4320308445,American Roentgen Ray Society,NA
+W2112628055,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W2112628055,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W2112628055,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W2112628055,6,F4320313559,CERN,NA
+W2112628055,7,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2112628055,8,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W2112628055,9,F4320320943,Danmarks Grundforskningsfond,NA
+W2112628055,10,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W2112628055,11,F4320321001,National Natural Science Foundation of China,NA
+W2112628055,12,F4320321917,General Secretariat for Research and Technology,NA
+W2112628055,13,F4320321999,Lundbeckfonden,NA
+W2112628055,14,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W2112628055,15,F4320322189,Joint Institute for Nuclear Research,NA
+W2112628055,16,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W2112628055,17,F4320322930,Ministerio de Ciencia e Innovación,NA
+W2112628055,18,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W2112628055,19,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W2112628055,20,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W2112628055,21,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W2112628055,22,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W2112628055,23,F4320334632,Science and Technology Facilities Council,NA
+W2112628055,24,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W2151192639,1,F4320306076,National Science Foundation,NA
+W2151192639,2,F4320306084,U.S. Department of Energy,NA
+W2151192639,3,F4320306101,National Aeronautics and Space Administration,NA
+W2115209298,1,F4320306076,National Science Foundation,NA
+W2115209298,2,F4320306084,U.S. Department of Energy,NA
+W2122921116,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W2122921116,2,F4320308445,American Roentgen Ray Society,NA
+W2122921116,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W2122921116,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W2122921116,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W2122921116,6,F4320313559,CERN,NA
+W2122921116,7,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2122921116,8,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W2122921116,9,F4320320943,Danmarks Grundforskningsfond,NA
+W2122921116,10,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W2122921116,11,F4320321001,National Natural Science Foundation of China,NA
+W2122921116,12,F4320321917,General Secretariat for Research and Technology,NA
+W2122921116,13,F4320321999,Lundbeckfonden,NA
+W2122921116,14,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W2122921116,15,F4320322189,Joint Institute for Nuclear Research,NA
+W2122921116,16,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W2122921116,17,F4320322930,Ministerio de Ciencia e Innovación,NA
+W2122921116,18,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W2122921116,19,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W2122921116,20,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W2122921116,21,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W2122921116,22,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W2122921116,23,F4320334632,Science and Technology Facilities Council,NA
+W2122921116,24,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W1571982972,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W1571982972,2,F4320308445,American Roentgen Ray Society,NA
+W1571982972,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W1571982972,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W1571982972,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W1571982972,6,F4320313559,CERN,NA
+W1571982972,7,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W1571982972,8,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W1571982972,9,F4320320943,Danmarks Grundforskningsfond,NA
+W1571982972,10,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W1571982972,11,F4320321001,National Natural Science Foundation of China,NA
+W1571982972,12,F4320321917,General Secretariat for Research and Technology,NA
+W1571982972,13,F4320321999,Lundbeckfonden,NA
+W1571982972,14,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W1571982972,15,F4320322189,Joint Institute for Nuclear Research,NA
+W1571982972,16,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W1571982972,17,F4320322930,Ministerio de Ciencia e Innovación,NA
+W1571982972,18,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W1571982972,19,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W1571982972,20,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W1571982972,21,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W1571982972,22,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W1571982972,23,F4320334632,Science and Technology Facilities Council,NA
+W1571982972,24,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W2101748852,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W2101748852,2,F4320308445,American Roentgen Ray Society,NA
+W2101748852,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W2101748852,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W2101748852,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W2101748852,6,F4320313521,TRIUMF,NA
+W2101748852,7,F4320313559,CERN,NA
+W2101748852,8,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2101748852,9,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W2101748852,10,F4320320943,Danmarks Grundforskningsfond,NA
+W2101748852,11,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W2101748852,12,F4320321001,National Natural Science Foundation of China,NA
+W2101748852,13,F4320321917,General Secretariat for Research and Technology,NA
+W2101748852,14,F4320321999,Lundbeckfonden,NA
+W2101748852,15,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W2101748852,16,F4320322189,Joint Institute for Nuclear Research,NA
+W2101748852,17,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W2101748852,18,F4320322930,Ministerio de Ciencia e Innovación,NA
+W2101748852,19,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W2101748852,20,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W2101748852,21,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W2101748852,22,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W2101748852,23,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W2101748852,24,F4320334632,Science and Technology Facilities Council,NA
+W2101748852,25,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W2119812785,1,F4320306076,National Science Foundation,NA
+W2119812785,2,F4320306084,U.S. Department of Energy,NA
+W2136017201,1,F4320306076,National Science Foundation,NA
+W2136017201,2,F4320306084,U.S. Department of Energy,NA
+W1991907371,1,F4320306076,National Science Foundation,923988
+W2100129285,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W2100129285,2,F4320308445,American Roentgen Ray Society,NA
+W2100129285,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W2100129285,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W2100129285,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W2100129285,6,F4320313559,CERN,NA
+W2100129285,7,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2100129285,8,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W2100129285,9,F4320320943,Danmarks Grundforskningsfond,NA
+W2100129285,10,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W2100129285,11,F4320321001,National Natural Science Foundation of China,NA
+W2100129285,12,F4320321917,General Secretariat for Research and Technology,NA
+W2100129285,13,F4320321999,Lundbeckfonden,NA
+W2100129285,14,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W2100129285,15,F4320322189,Joint Institute for Nuclear Research,NA
+W2100129285,16,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W2100129285,17,F4320322899,Georgian National Science Foundation,NA
+W2100129285,18,F4320322930,Ministerio de Ciencia e Innovación,NA
+W2100129285,19,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W2100129285,20,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W2100129285,21,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W2100129285,22,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W2100129285,23,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W2100129285,24,F4320334632,Science and Technology Facilities Council,NA
+W2100129285,25,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W2147427802,1,F4320306076,National Science Foundation,NA
+W2147427802,2,F4320306084,U.S. Department of Energy,NA
+W2013522749,1,F4320306084,U.S. Department of Energy,NA
+W2013522749,2,F4320306101,National Aeronautics and Space Administration,NA
+W2101992476,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W2101992476,2,F4320308445,American Roentgen Ray Society,NA
+W2101992476,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W2101992476,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W2101992476,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W2101992476,6,F4320313559,CERN,NA
+W2101992476,7,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2101992476,8,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W2101992476,9,F4320320943,Danmarks Grundforskningsfond,NA
+W2101992476,10,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W2101992476,11,F4320321001,National Natural Science Foundation of China,NA
+W2101992476,12,F4320321917,General Secretariat for Research and Technology,NA
+W2101992476,13,F4320321999,Lundbeckfonden,NA
+W2101992476,14,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W2101992476,15,F4320322189,Joint Institute for Nuclear Research,NA
+W2101992476,16,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W2101992476,17,F4320322930,Ministerio de Ciencia e Innovación,NA
+W2101992476,18,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W2101992476,19,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W2101992476,20,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W2101992476,21,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W2101992476,22,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W2101992476,23,F4320334632,Science and Technology Facilities Council,NA
+W2101992476,24,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W1967169825,1,F4320306101,National Aeronautics and Space Administration,NNX07AF36G
+W1967169825,2,F4320306101,National Aeronautics and Space Administration,NNG04GNG3G
+W2138954360,1,F4320306076,National Science Foundation,NA
+W2138954360,2,F4320306084,U.S. Department of Energy,NA
+W2138954360,3,F4320306101,National Aeronautics and Space Administration,NA
+W2050224079,1,F4320306084,U.S. Department of Energy,DE-EE004186
+W2113168394,1,F4320306076,National Science Foundation,NA
+W2113168394,2,F4320306084,U.S. Department of Energy,NA
+W2002158254,1,F4320306084,U.S. Department of Energy,DE-EE004186
+W2020676437,1,F4320306084,U.S. Department of Energy,NA
+W2065461770,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W2065461770,2,F4320308445,American Roentgen Ray Society,NA
+W2065461770,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W2065461770,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W2065461770,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W2065461770,6,F4320313559,CERN,NA
+W2065461770,7,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2065461770,8,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W2065461770,9,F4320320943,Danmarks Grundforskningsfond,NA
+W2065461770,10,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W2065461770,11,F4320321001,National Natural Science Foundation of China,NA
+W2065461770,12,F4320321917,General Secretariat for Research and Technology,NA
+W2065461770,13,F4320321999,Lundbeckfonden,NA
+W2065461770,14,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W2065461770,15,F4320322189,Joint Institute for Nuclear Research,NA
+W2065461770,16,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W2065461770,17,F4320322930,Ministerio de Ciencia e Innovación,NA
+W2065461770,18,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W2065461770,19,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W2065461770,20,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W2065461770,21,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W2065461770,22,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W2065461770,23,F4320334632,Science and Technology Facilities Council,NA
+W2065461770,24,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W2148689442,1,F4320306076,National Science Foundation,NA
+W2148689442,2,F4320306084,U.S. Department of Energy,NA
+W2002283415,1,F4320306196,Welch Foundation,AT-584
+W2002283415,2,F4320332161,National Institutes of Health,DK-058398
+W2002283415,3,F4320332161,National Institutes of Health,CA-126608
+W2002283415,4,F4320332161,National Institutes of Health,RR-02584
+W3010408848,1,F4320306076,National Science Foundation,NA
+W3010408848,2,F4320306084,U.S. Department of Energy,NA
+W2143478461,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W2143478461,2,F4320308445,American Roentgen Ray Society,NA
+W2143478461,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W2143478461,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W2143478461,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W2143478461,6,F4320313559,CERN,NA
+W2143478461,7,F4320319993,Leverhulme Trust,NA
+W2143478461,8,F4320320006,Royal Society,NA
+W2143478461,9,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2143478461,10,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W2143478461,11,F4320320943,Danmarks Grundforskningsfond,NA
+W2143478461,12,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W2143478461,13,F4320321001,National Natural Science Foundation of China,NA
+W2143478461,14,F4320321917,General Secretariat for Research and Technology,NA
+W2143478461,15,F4320321999,Lundbeckfonden,NA
+W2143478461,16,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W2143478461,17,F4320322189,Joint Institute for Nuclear Research,NA
+W2143478461,18,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W2143478461,19,F4320322930,Ministerio de Ciencia e Innovación,NA
+W2143478461,20,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W2143478461,21,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W2143478461,22,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W2143478461,23,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W2143478461,24,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W2143478461,25,F4320334632,Science and Technology Facilities Council,NA
+W2143478461,26,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W2120456094,1,F4320306076,National Science Foundation,NA
+W2120456094,2,F4320306084,U.S. Department of Energy,NA
+W2120456094,3,F4320306101,National Aeronautics and Space Administration,NA
+W1968621066,1,F4320337389,Division of Information and Intelligent Systems,IIS-1147644IIS-1219142
+W2098798857,1,F4320306076,National Science Foundation,NA
+W2098798857,2,F4320306084,U.S. Department of Energy,NA
+W1597635328,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W1597635328,2,F4320308445,American Roentgen Ray Society,NA
+W1597635328,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W1597635328,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W1597635328,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W1597635328,6,F4320313559,CERN,NA
+W1597635328,7,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W1597635328,8,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W1597635328,9,F4320320943,Danmarks Grundforskningsfond,NA
+W1597635328,10,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W1597635328,11,F4320321001,National Natural Science Foundation of China,NA
+W1597635328,12,F4320321917,General Secretariat for Research and Technology,NA
+W1597635328,13,F4320321999,Lundbeckfonden,NA
+W1597635328,14,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W1597635328,15,F4320322189,Joint Institute for Nuclear Research,NA
+W1597635328,16,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W1597635328,17,F4320322930,Ministerio de Ciencia e Innovación,NA
+W1597635328,18,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W1597635328,19,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W1597635328,20,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W1597635328,21,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W1597635328,22,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W1597635328,23,F4320334632,Science and Technology Facilities Council,NA
+W1597635328,24,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W2002006222,1,F4320338279,Air Force Office of Scientific Research,FA2386-11-1-4077
+W2114541487,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W2114541487,2,F4320308445,American Roentgen Ray Society,NA
+W2114541487,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W2114541487,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W2114541487,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W2114541487,6,F4320313521,TRIUMF,NA
+W2114541487,7,F4320313559,CERN,NA
+W2114541487,8,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2114541487,9,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W2114541487,10,F4320320943,Danmarks Grundforskningsfond,NA
+W2114541487,11,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W2114541487,12,F4320321001,National Natural Science Foundation of China,NA
+W2114541487,13,F4320321917,General Secretariat for Research and Technology,NA
+W2114541487,14,F4320321999,Lundbeckfonden,NA
+W2114541487,15,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W2114541487,16,F4320322189,Joint Institute for Nuclear Research,NA
+W2114541487,17,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W2114541487,18,F4320322930,Ministerio de Ciencia e Innovación,NA
+W2114541487,19,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W2114541487,20,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W2114541487,21,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W2114541487,22,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W2114541487,23,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W2114541487,24,F4320334632,Science and Technology Facilities Council,NA
+W2114541487,25,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W2130290299,1,F4320306076,National Science Foundation,NA
+W2130290299,2,F4320306084,U.S. Department of Energy,NA
+W2130290299,3,F4320306101,National Aeronautics and Space Administration,NA
+W1978149730,1,F4320321001,National Natural Science Foundation of China,41171321
+W1978149730,2,F4320321001,National Natural Science Foundation of China,40901200
+W1978149730,3,F4320321001,National Natural Science Foundation of China,41171323
+W1978149730,4,F4320327518,Priority Academic Program Development of Jiangsu Higher Education Institutions,NA
+W1978149730,5,F4320335787,Fundamental Research Funds for the Central Universities,2012B01614
+W2156418391,1,F4320306084,U.S. Department of Energy,NA
+W2156418391,2,F4320306101,National Aeronautics and Space Administration,NA
+W2015062635,1,F4320306101,National Aeronautics and Space Administration,NNX10AT02G
+W2111828984,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W2111828984,2,F4320308445,American Roentgen Ray Society,NA
+W2111828984,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W2111828984,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W2111828984,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W2111828984,6,F4320313521,TRIUMF,NA
+W2111828984,7,F4320313559,CERN,NA
+W2111828984,8,F4320319993,Leverhulme Trust,NA
+W2111828984,9,F4320320006,Royal Society,NA
+W2111828984,10,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2111828984,11,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W2111828984,12,F4320320943,Danmarks Grundforskningsfond,NA
+W2111828984,13,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W2111828984,14,F4320321001,National Natural Science Foundation of China,NA
+W2111828984,15,F4320321917,General Secretariat for Research and Technology,NA
+W2111828984,16,F4320321999,Lundbeckfonden,NA
+W2111828984,17,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W2111828984,18,F4320322189,Joint Institute for Nuclear Research,NA
+W2111828984,19,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W2111828984,20,F4320322930,Ministerio de Ciencia e Innovación,NA
+W2111828984,21,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W2111828984,22,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W2111828984,23,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W2111828984,24,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W2111828984,25,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W2111828984,26,F4320334632,Science and Technology Facilities Council,NA
+W2111828984,27,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W2167356302,1,F4320306076,National Science Foundation,1.02E+13
+W2123804359,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W2123804359,2,F4320308445,American Roentgen Ray Society,NA
+W2123804359,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W2123804359,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W2123804359,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W2123804359,6,F4320313559,CERN,NA
+W2123804359,7,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2123804359,8,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W2123804359,9,F4320320943,Danmarks Grundforskningsfond,NA
+W2123804359,10,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W2123804359,11,F4320321001,National Natural Science Foundation of China,NA
+W2123804359,12,F4320321917,General Secretariat for Research and Technology,NA
+W2123804359,13,F4320321999,Lundbeckfonden,NA
+W2123804359,14,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W2123804359,15,F4320322189,Joint Institute for Nuclear Research,NA
+W2123804359,16,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W2123804359,17,F4320322930,Ministerio de Ciencia e Innovación,NA
+W2123804359,18,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W2123804359,19,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W2123804359,20,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W2123804359,21,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W2123804359,22,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W2123804359,23,F4320334632,Science and Technology Facilities Council,NA
+W2123804359,24,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W2132929398,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W2132929398,2,F4320308445,American Roentgen Ray Society,NA
+W2132929398,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W2132929398,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W2132929398,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W2132929398,6,F4320313559,CERN,NA
+W2132929398,7,F4320319993,Leverhulme Trust,NA
+W2132929398,8,F4320320006,Royal Society,NA
+W2132929398,9,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2132929398,10,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W2132929398,11,F4320320943,Danmarks Grundforskningsfond,NA
+W2132929398,12,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W2132929398,13,F4320321001,National Natural Science Foundation of China,NA
+W2132929398,14,F4320321917,General Secretariat for Research and Technology,NA
+W2132929398,15,F4320321999,Lundbeckfonden,NA
+W2132929398,16,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W2132929398,17,F4320322189,Joint Institute for Nuclear Research,NA
+W2132929398,18,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W2132929398,19,F4320322930,Ministerio de Ciencia e Innovación,NA
+W2132929398,20,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W2132929398,21,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W2132929398,22,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W2132929398,23,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W2132929398,24,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W2132929398,25,F4320334632,Science and Technology Facilities Council,NA
+W2132929398,26,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W2031192834,1,F4320332161,National Institutes of Health,R15AG037971
+W2031192834,2,F4320337388,Division of Computer and Network Systems,"CNS-1138396, CNS-1150079, CNS-1012975"
+W2149606298,1,F4320306087,Semiconductor Research Corporation,SRC-1836.073
+W2149606298,2,F4320337387,Division of Computing and Communication Foundations,NSF CCF-1149463
+W2132852010,1,F4320306076,National Science Foundation,5.47E+33
+W2132852010,2,F4320332467,U.S. Air Force,FA9550-07-1-0532
+W1867122311,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W1867122311,2,F4320308445,American Roentgen Ray Society,NA
+W1867122311,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W1867122311,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W1867122311,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W1867122311,6,F4320313559,CERN,NA
+W1867122311,7,F4320319993,Leverhulme Trust,NA
+W1867122311,8,F4320320006,Royal Society,NA
+W1867122311,9,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W1867122311,10,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W1867122311,11,F4320320943,Danmarks Grundforskningsfond,NA
+W1867122311,12,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W1867122311,13,F4320321001,National Natural Science Foundation of China,NA
+W1867122311,14,F4320321917,General Secretariat for Research and Technology,NA
+W1867122311,15,F4320321999,Lundbeckfonden,NA
+W1867122311,16,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W1867122311,17,F4320322189,Joint Institute for Nuclear Research,NA
+W1867122311,18,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W1867122311,19,F4320322899,Georgian National Science Foundation,NA
+W1867122311,20,F4320322930,Ministerio de Ciencia e Innovación,NA
+W1867122311,21,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W1867122311,22,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W1867122311,23,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W1867122311,24,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W1867122311,25,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W1867122311,26,F4320334632,Science and Technology Facilities Council,NA
+W1867122311,27,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W1980670156,1,F4320306084,U.S. Department of Energy,NA
+W1980670156,2,F4320306101,National Aeronautics and Space Administration,NA
+W2088833638,1,F4320321001,National Natural Science Foundation of China,30872193
+W1965085487,1,F4320306076,National Science Foundation,ECCS-11139986
+W2128114254,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W2128114254,2,F4320308445,American Roentgen Ray Society,NA
+W2128114254,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W2128114254,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W2128114254,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W2128114254,6,F4320313559,CERN,NA
+W2128114254,7,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2128114254,8,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W2128114254,9,F4320320943,Danmarks Grundforskningsfond,NA
+W2128114254,10,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W2128114254,11,F4320321001,National Natural Science Foundation of China,NA
+W2128114254,12,F4320321917,General Secretariat for Research and Technology,NA
+W2128114254,13,F4320321999,Lundbeckfonden,NA
+W2128114254,14,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W2128114254,15,F4320322189,Joint Institute for Nuclear Research,NA
+W2128114254,16,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W2128114254,17,F4320322930,Ministerio de Ciencia e Innovación,NA
+W2128114254,18,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W2128114254,19,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W2128114254,20,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W2128114254,21,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W2128114254,22,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W2128114254,23,F4320334632,Science and Technology Facilities Council,NA
+W2128114254,24,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W1901637085,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W1901637085,2,F4320308445,American Roentgen Ray Society,NA
+W1901637085,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W1901637085,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W1901637085,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W1901637085,6,F4320313559,CERN,NA
+W1901637085,7,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W1901637085,8,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W1901637085,9,F4320320943,Danmarks Grundforskningsfond,NA
+W1901637085,10,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W1901637085,11,F4320321001,National Natural Science Foundation of China,NA
+W1901637085,12,F4320321917,General Secretariat for Research and Technology,NA
+W1901637085,13,F4320321999,Lundbeckfonden,NA
+W1901637085,14,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W1901637085,15,F4320322189,Joint Institute for Nuclear Research,NA
+W1901637085,16,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W1901637085,17,F4320322930,Ministerio de Ciencia e Innovación,NA
+W1901637085,18,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W1901637085,19,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W1901637085,20,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W1901637085,21,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W1901637085,22,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W1901637085,23,F4320334632,Science and Technology Facilities Council,NA
+W1901637085,24,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W2039331999,1,F4320338294,Air Force Research Laboratory,FA8750-09-C-0067
+W2124961090,1,F4320311440,National Alliance for Research on Schizophrenia and Depression,NA
+W2124961090,2,F4320337346,National Institute of Mental Health,U54 MH66418
+W2124961090,3,F4320337364,National Institute of Child Health and Human Development,P30 HD03110
+W1976420830,1,F4320321739,Consejo Nacional de Ciencia y Tecnología,NA
+W2467151777,1,F4320306076,National Science Foundation,NA
+W2467151777,2,F4320306084,U.S. Department of Energy,NA
+W2103995153,1,F4320306196,Welch Foundation,AT-1740
+W1869172355,1,F4320306101,National Aeronautics and Space Administration,NAS5-01068
+W1869172355,2,F4320306101,National Aeronautics and Space Administration,NNX10AT02G
+W1501840479,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W1501840479,2,F4320308445,American Roentgen Ray Society,NA
+W1501840479,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W1501840479,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W1501840479,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W1501840479,6,F4320313559,CERN,NA
+W1501840479,7,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W1501840479,8,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W1501840479,9,F4320320943,Danmarks Grundforskningsfond,NA
+W1501840479,10,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W1501840479,11,F4320321001,National Natural Science Foundation of China,NA
+W1501840479,12,F4320321917,General Secretariat for Research and Technology,NA
+W1501840479,13,F4320321999,Lundbeckfonden,NA
+W1501840479,14,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W1501840479,15,F4320322189,Joint Institute for Nuclear Research,NA
+W1501840479,16,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W1501840479,17,F4320322930,Ministerio de Ciencia e Innovación,NA
+W1501840479,18,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W1501840479,19,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W1501840479,20,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W1501840479,21,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W1501840479,22,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W1501840479,23,F4320334632,Science and Technology Facilities Council,NA
+W1501840479,24,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W1587910373,1,F4320308269,Alexander von Humboldt-Stiftung,NA
+W1587910373,2,F4320308445,American Roentgen Ray Society,NA
+W1587910373,3,F4320309955,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",NA
+W1587910373,4,F4320312062,Türkiye Atom Enerjisi Kurumu,NA
+W1587910373,5,F4320312887,Arizona-Nevada Academy of Science,NA
+W1587910373,6,F4320313559,CERN,NA
+W1587910373,7,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W1587910373,8,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W1587910373,9,F4320320943,Danmarks Grundforskningsfond,NA
+W1587910373,10,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W1587910373,11,F4320321001,National Natural Science Foundation of China,NA
+W1587910373,12,F4320321917,General Secretariat for Research and Technology,NA
+W1587910373,13,F4320321999,Lundbeckfonden,NA
+W1587910373,14,F4320322025,Conselho Nacional de Desenvolvimento Científico e Tecnológico,NA
+W1587910373,15,F4320322189,Joint Institute for Nuclear Research,NA
+W1587910373,16,F4320322733,Ministerstwo Edukacji i Nauki,NA
+W1587910373,17,F4320322930,Ministerio de Ciencia e Innovación,NA
+W1587910373,18,F4320323771,Centre National pour la Recherche Scientifique et Technique,NA
+W1587910373,19,F4320324190,Bundesministerium für Wissenschaft und Forschung,NA
+W1587910373,20,F4320325306,State Atomic Energy Corporation ROSATOM,NA
+W1587910373,21,F4320327234,"Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles",NA
+W1587910373,22,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W1587910373,23,F4320334632,Science and Technology Facilities Council,NA
+W1587910373,24,F4320334832,Agencia Nacional de Promoción Científica y Tecnológica,NA
+W1909815520,1,F4320306076,National Science Foundation,NA
+W1909815520,2,F4320306084,U.S. Department of Energy,NA
+W2039314464,1,F4320338280,Medical Research and Materiel Command,UL1RR024982
+W1983109281,1,F4320335353,National Science Foundation of Sri Lanka,NA
+W2121619222,1,F4320338279,Air Force Office of Scientific Research,FA-9550-08-1-0260
+W1964380604,1,F4320309594,Utah Science Technology and Research,NA
+W1974642364,1,F4320306076,National Science Foundation,CNS-1018760
+W2048074565,1,F4320306084,U.S. Department of Energy,R-31-20089-000-10083-0
+W2048074565,2,F4320306084,U.S. Department of Energy,DE-EE0004186
+W2048074565,3,F4320322120,National Research Foundation of Korea,R-31-20089-000-10083-0
+W2048074565,4,F4320322120,National Research Foundation of Korea,DE-EE0004186
+W3103747446,1,F4320338279,Air Force Office of Scientific Research,FA9550-09-1-0384
+W2050934630,1,F4320322120,National Research Foundation of Korea,R31-10026
+W2050934630,2,F4320322349,"Ministry of Education, Science and Technology",NA
+W2156349423,1,F4320337338,"National Heart, Lung, and Blood Institute",R01HL069234
+W2156349423,2,F4320337338,"National Heart, Lung, and Blood Institute",AT-1595
+W2058601245,1,F4320321001,National Natural Science Foundation of China,31061160497
+W2058601245,2,F4320321001,National Natural Science Foundation of China,60934004
+W2058601245,3,F4320321001,National Natural Science Foundation of China,60905013
+W2058601245,4,F4320321001,National Natural Science Foundation of China,91019016
+W2058601245,5,F4320321106,Ministry of Education of the People's Republic of China,20090002120023
+W2058601245,6,F4320332161,National Institutes of Health,HG001696
+W2058601245,7,F4320335777,National Key Research and Development Program of China,2012CB316503
+W2150100216,1,F4320307769,Astellas Pharma US,NA
+W2150100216,2,F4320307773,GlaxoSmithKline,NA
+W2018167288,1,F4320306076,National Science Foundation,CHE-0911197
+W2024382059,1,F4320321837,Ministerio de Economía y Competitividad,TIN2012-38600
+W2024382059,2,F4320321837,Ministerio de Economía y Competitividad,20F2/36
+W2103522859,1,F4320306076,National Science Foundation,CNS-1018760
+W2106008363,1,F4320337388,Division of Computer and Network Systems,CNS-1018760
+W2121057461,1,F4320337393,Division of Chemistry,CHE-0718861
