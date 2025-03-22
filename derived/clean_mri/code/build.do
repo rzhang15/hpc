@@ -8,16 +8,16 @@ global dropbox_dir "~/dropbox (harvard university)/scientific equipment"
 
 * Ruby's macros 
 global dropbox_dir "$sci_equip"
-cd "$github/science-equipment/derived/clean_mri/code"
+cd "$github/hpc/derived/clean_mri/code"
 
 global raw "${dropbox_dir}/raw"
 global derived_output "${dropbox_dir}/derived_output_hpc"
 
 program main 
 
-// 	append_nsf_mri_grants
-// 	nsf_mri_compute
-	merge_institution_data 
+	append_nsf_mri_grants
+	nsf_mri_compute
+	merge_institutional_details
 	
 end 
 
@@ -112,9 +112,89 @@ program nsf_mri_compute
 	export excel "$derived_output/clean_mri/mri_compute_grants_raw.xlsx", firstrow(variables) replace
 end 
 
-program merge_institution_data
+program merge_institutional_details
 
+	* Clean IPEDS data 
+	use "$raw/IPEDS/ipeds_clean.dta", clear 
+	
+	ren name organization 
+	ren stabbr state 
+	
+	keep ipeds_id opeid organization state
+	gen in_ipeds = 1
+	
+	tempfile ipeds_data
+	save `ipeds_data', replace
+	
+	* MRI data 
 	import excel "$derived_output/clean_mri/mri_compute_grants_clean.xlsx", firstrow case(lower) clear
+	
+		keep if !mi(disciplines)
+		drop hpc grid_cluster
+		replace shared = 0 if mi(shared) 
+		destring xsede, force replace
+		
+		replace disciplines = ustrtrim(lower(disciplines))
+		replace disciplines = "data visualization" if disciplines == "visualization"
+		
+		* Clean school names
+		replace organization = subinstr(organization, "CSU", "California State University", .)
+		replace organization = subinstr(organization, "Cal Poly", "California State Polytechnic University", .)
+		replace organization = strproper(organization)
+		
+		replace organization = subinstr(organization, "Of ", "of ", .)
+		replace organization = subinstr(organization, "And ", "and ", .)
+		replace organization = subinstr(organization, "At ", "at ", .)
+		replace organization = subinstr(organization, "For ", "for ", .)
+		replace organization = subinstr(organization, "In ", "in ", .)
+		replace organization = subinstr(organization, "'S ", "'s ", .)
+		
+		replace organization = subinstr(organization, "Suny", "SUNY", .)
+		replace organization = subinstr(organization, "Cuny", "CUNY", .)
+		replace organization = subinstr(organization, "Research Foundation of The City University of New York", "CUNY", .)
+		replace organization = subinstr(organization, "at Brownsville", "Rio Grande Valley", .)
+		replace organization = subinstr(organization, "Donahue Institute", "Amherst", .)
+		replace organization = subinstr(organization, "The University Corporation", "California State University", .) 
+		
+		* Main campus for easy string matching later 
+		replace organization = organization + " Main Campus" if inlist(organization, "New Mexico State University", "University of New Mexico", "Oklahoma State University", "University of New Hampshire", "Purdue University", "Wright State University", "Ohio State University", "Ohio University")
+		
+		replace organization = organization + " and Agricultural & Mechanical College" if organization == "Louisiana State University"
+		replace organization = organization + " Daytona Beach" if organization == "Embry-Riddle Aeronautical University"
+		replace organization = organization + " Fort Collins" if organization == "Colorado State University"
+		replace organization = organization + " Bloomington" if organization == "Indiana University"
+		replace organization = organization + " Pittburgh" if organization == "University of Pittsburgh"
+		replace organization = organization + " Manoa" if organization == "University of Hawaii"
+		replace organization = organization + " College Station" if inlist(organization, "Texas A&M University", "Texas A&M Agrilife Research")
+		replace organization = organization + " Seattle" if organization == "University of Washington"
+		replace organization = organization + " of Pennsylvania" if organization == "Millersville University"
+		replace organization = "University of California-San Diego" if strpos(organization, "University of California-San Diego") > 0
+		replace organization = "University at Buffalo" if organization == "SUNY at Buffalo"
+		replace organization = "Georgia Institute of Technology" if organization == "Georgia Tech Research Corporation"
+		replace organization = "Georgia Southern University" if organization == "Armstrong State University"
+		replace organization = "Stony Brook University" if organization == "SUNY at Stony Brook"
+
+		* Not a university 
+		gen in_ipeds = !inlist(organization, "International Computer Science Institute", "Polytechnic University of Puerto Rico", "New York Botanical Garden", "West Virginia High Technology Consortium Foundation", "Santa Fe Institute", "University Corporation for Atmospheric Res", "National Bureau of Economic Research Inc", "Nevada System of Higher Education, Desert Research Institute")
+		label var in_ipeds "Indicator for school being a higher ed institution and in IPEDS"
+		
+	* Merge to IPEDS data
+	destring award_id, replace 
+	
+	reclink organization state in_ipeds using "`ipeds_data'", idmaster(award_id) idusing(ipeds_id) gen(match_score) minscore(0.9)
+	
+	replace in_ipeds = 0 if _merge == 1 
+	assert Uin_ipeds == in_ipeds if !mi(Uin_ipeds)
+	assert Ustate == state if !mi(Ustate)
+	drop match_score _merge U*
+	
+	* Merge in Carnegie Data
+	merge m:1 ipeds_id using "$raw/Carnegie/carnegie_classification_clean.dta", keep(master matched) 
+	
+	assert _merge == 3 if in_ipeds 
+	drop _merge
+	
+	save "$derived_output/clean_mri/mri_compute_grants.dta", replace 
 	
 end 
 
