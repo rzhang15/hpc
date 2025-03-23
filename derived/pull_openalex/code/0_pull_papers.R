@@ -8,7 +8,7 @@ library(purrr)
 library(tidyverse)
 set.seed(8975)
 
-years <- 1995:2025
+years <- 2005:2015
 papers <- list()
 for (year in years) {
   var_name <- paste0("paper_", year)  # Create the variable name dynamically
@@ -19,6 +19,8 @@ for (year in years) {
     output = "list"
   )
 }
+
+
 process_article <- function(article) {
   if (length(article[["authorships"]]) == 0) return(NULL)
   
