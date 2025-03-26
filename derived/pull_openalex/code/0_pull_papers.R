@@ -80,7 +80,7 @@ for (year in years) {
       institutions.id = inst,
       publication_year = as.character(year),
       output = "list",
-      topics.subfield.id = c(1702),
+      topics.subfield.id = c(1303,1311,1312,1315,1605,1606,1702,1703,1705,1706,1906,1908,1912,2206,2605,2611,3103,3107),
       type = "article"
     )
     # Combine the results from each institution
