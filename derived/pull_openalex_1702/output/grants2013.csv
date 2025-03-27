@@ -1,0 +1,789 @@
+id,which_grant,funder_id,funder_name,award_id
+W2043404045,1,F4320307760,Hewlett-Packard Development Company,NA
+W2043404045,2,F4320308943,Microsoft Research,NA
+W2043404045,3,F4320332161,National Institutes of Health,U54CA119338
+W2043404045,4,F4320332161,National Institutes of Health,R01CA163256
+W2043404045,5,F4320332161,National Institutes of Health,1RC2CA148265
+W2091350640,1,F4320332161,National Institutes of Health,R01CA163746
+W1996771593,1,F4320337352,National Institute on Deafness and Other Communication Disorders,5R01DC011338
+W2120448874,1,F4320337338,"National Heart, Lung, and Blood Institute",1R01HL116832-01
+W2120448874,2,F4320337472,National Center for Advancing Translational Sciences,UL1TR000445
+W1975431506,1,F4320332161,National Institutes of Health,1R01LM009989
+W1975431506,2,F4320337388,Division of Computer and Network Systems,"Career-CNS-0845803, CNS-0964350, CNS-1016343, CNS-1111529, CNS-1228198"
+W1975431506,3,F4320338279,Air Force Office of Scientific Research,"FA-9550-08-1-0265, FA-9550-12-1-0082"
+W1975431506,4,F4320338281,Army Research Office,58345-CS
+W1981959780,1,F4320337389,Division of Information and Intelligent Systems,IIS 0904387
+W2070075976,1,F4320332180,Defense Advanced Research Projects Agency,NNA11AC08C
+W2142511814,1,F4320306076,National Science Foundation,EAR-0345440
+W2142511814,2,F4320306076,National Science Foundation,EAR-01-26241
+W2142511814,3,F4320306076,National Science Foundation,EAR-0636110
+W2142511814,4,F4320306076,National Science Foundation,AGS-0838491
+W2027919910,1,F4320306076,National Science Foundation,NA
+W2148540126,1,F4320321040,National Science Council,NSC101-3114-Y-002-003
+W2148540126,2,F4320332186,Defense Threat Reduction Agency,HDTRA10910058
+W3098494879,1,F4320306076,National Science Foundation,DMS-0757424
+W3098494879,2,F4320306076,National Science Foundation,DMS-1101345
+W3098494879,3,F4320306076,National Science Foundation,DMS-1069320
+W3098494879,4,F4320306076,National Science Foundation,DMS-1009502
+W2052779272,1,F4320306107,U.S. Environmental Protection Agency,SU-8339140
+W1990891840,1,F4320306076,National Science Foundation,"IIS-0415101, IIS-0639106, IIS-0803229, IIS-1016205, and EIA-0080123"
+W1990891840,2,F4320307764,Microsoft,NA
+W1990891840,3,F4320337389,Division of Information and Intelligent Systems,"IIS-0415101, IIS-0639106, IIS-0803229, IIS-1016205, and EIA-0080123"
+W1979786259,1,F4320337388,Division of Computer and Network Systems,"IIP-0758579, CNS-0855087, IIP-1127873"
+W1979786259,2,F4320337396,Division of Industrial Innovation and Partnerships,"IIP-0758579, CNS-0855087, IIP-1127873"
+W1979786259,3,F4320338279,Air Force Office of Scientific Research,FA95550-12-1-0241
+W2067700169,1,F4320306076,National Science Foundation,"1040672, 1055057, 1040083"
+W2067700169,2,F4320306151,Alfred P. Sloan Foundation,NA
+W2067700169,3,F4320307102,Intel Corporation,NA
+W2067700169,4,F4320338279,Air Force Office of Scientific Research,FA9550-10-1-0073
+W2169657197,1,F4320306076,National Science Foundation,"1055057, 1040083"
+W2169657197,2,F4320338279,Air Force Office of Scientific Research,FA9550-10-1-0073
+W1544267778,1,F4320321001,National Natural Science Foundation of China,51279077
+W1544267778,2,F4320321001,National Natural Science Foundation of China,50939004
+W1985490729,1,F4320337353,National Institute of Nursing Research,NIH 1 P20 NR07795-01
+W1985490729,2,F4320337353,National Institute of Nursing Research,NIH 1 RO1 NR03178-01A2
+W2094722168,1,F4320306076,National Science Foundation,"0833162, 1062335, 1111766, 1141022, 1216701, 1217231, 1218568"
+W2094722168,2,F4320307102,Intel Corporation,NA
+W2094722168,3,F4320307762,International Business Machines Corporation,NA
+W2094722168,4,F4320308258,Qualcomm,NA
+W2094722168,5,F4320309480,Nvidia,NA
+W2003138501,1,F4320306080,Foundation for the National Institutes of Health,566
+W2003138501,2,F4320306080,Foundation for the National Institutes of Health,NIH/R01 CA075981
+W2049397711,1,F4320306076,National Science Foundation,NA
+W2125502164,1,F4320332180,Defense Advanced Research Projects Agency,FA8650-08-C-7812
+W2125502164,2,F4320332393,Federal Highway Administration,DTFH61-07-H-00030
+W2125502164,3,F4320333591,Multidisciplinary University Research Initiative,W911NF-08-1-0144
+W2125502164,4,F4320338295,Army Research Laboratory,W911NF-08-1-0144
+W2033791955,1,F4320337540,"Geology Foundation, University of Texas at Austin",EAR-0948842
+W2051510152,1,F4320306137,Bill and Melinda Gates Foundation,NA
+W2051510152,2,F4320332180,Defense Advanced Research Projects Agency,NA
+W2051510152,3,F4320337394,Division of Engineering Education and Centers,EEC 0748186
+W1974923383,1,F4320306076,National Science Foundation,NA
+W1974923383,2,F4320307102,Intel Corporation,NA
+W1974923383,3,F4320332299,National Institute of Food and Agriculture,2011-67012-30692
+W2115691887,1,F4320320879,Deutsche Forschungsgemeinschaft,MO 690/7-2
+W2115691887,2,F4320337377,Office of Advanced Cyberinfrastructure,"CCF 0724979, OCI-1148125"
+W2115691887,3,F4320337387,Division of Computing and Communication Foundations,"CCF 0724979, OCI-1148125"
+W1967475417,1,F4320337389,Division of Information and Intelligent Systems,IIS 0845925
+W2023728671,1,F4320306084,U.S. Department of Energy,"DE-FG02-08ER2585, DE-SC0009286"
+W2023728671,2,F4320337377,Office of Advanced Cyberinfrastructure,"OCI-1047980, OCI-1029022, OCI-0923710, OCI-1134872"
+W2023728671,3,F4320338279,Air Force Office of Scientific Research,FA95 50-12-10484
+W2082825021,1,F4320306076,National Science Foundation,0510690
+W2082825021,2,F4320306076,National Science Foundation,EAR 9909854
+W2082825021,3,F4320306076,National Science Foundation,EAR 0510613
+W2082825021,4,F4320306076,National Science Foundation,EAR 9909269
+W2092006003,1,F4320337377,Office of Advanced Cyberinfrastructure,OCI-1007115
+W2092006003,2,F4320337397,Division of Molecular and Cellular Biosciences,"TG-MCB090174, TG-MCB100111, TG-CHE120039"
+W1984145285,1,F4320337389,Division of Information and Intelligent Systems,NA
+W2075168761,1,F4320306076,National Science Foundation,NSC-100-2631-S-001-001
+W2165901933,1,F4320320847,Science Foundation Ireland,"SFI/08/CE/I1380, SFI/12/RC/2289"
+W2165901933,2,F4320334960,Seventh Framework Programme,FP7-Granatum: RE7098
+W3098494879,1,F4320306076,National Science Foundation,DMS-0757424
+W3098494879,2,F4320306076,National Science Foundation,DMS-1101345
+W3098494879,3,F4320306076,National Science Foundation,DMS-1069320
+W3098494879,4,F4320306076,National Science Foundation,DMS-1009502
+W1985571081,1,F4320321001,National Natural Science Foundation of China,40830957
+W1985571081,2,F4320334924,Program for New Century Excellent Talents in University,NCET-12-0060
+W1985571081,3,F4320335777,National Key Research and Development Program of China,2010CB833504
+W1985571081,4,F4320335777,National Key Research and Development Program of China,2012CB955302
+W1985571081,5,F4320335787,Fundamental Research Funds for the Central Universities,NA
+W1674267601,1,F4320306076,National Science Foundation,NA
+W1993755070,1,F4320332161,National Institutes of Health,HD032005
+W1993755070,2,F4320338279,Air Force Office of Scientific Research,FA9550-07-1-0351
+W1989894105,1,F4320337389,Division of Information and Intelligent Systems,"CMMI0753124, IIS1018361"
+W1989894105,2,F4320337391,"Division of Civil, Mechanical and Manufacturing Innovation","CMMI0753124, IIS1018361"
+W2159742886,1,F4320306076,National Science Foundation,916152
+W2036190740,1,F4320306076,National Science Foundation,NA
+W2036190740,2,F4320332180,Defense Advanced Research Projects Agency,FA9550-12-1-0423
+W2036190740,3,F4320337345,Office of Naval Research,NA
+W2036190740,4,F4320337387,Division of Computing and Communication Foundations,CCF-1161626
+W2036190740,5,F4320338279,Air Force Office of Scientific Research,FA9550-12-1-0423
+W2040321935,1,F4320306076,National Science Foundation,NA
+W2040321935,2,F4320332180,Defense Advanced Research Projects Agency,NA
+W2040321935,3,F4320338281,Army Research Office,NA
+W2149163236,1,F4320321001,National Natural Science Foundation of China,41372078
+W2149163236,2,F4320321001,National Natural Science Foundation of China,41090372
+W2149163236,3,F4320321001,National Natural Science Foundation of China,41173057
+W2028088981,1,F4320321001,National Natural Science Foundation of China,41073020
+W2028088981,2,F4320321001,National Natural Science Foundation of China,41273030
+W2028088981,3,F4320321001,National Natural Science Foundation of China,41173016
+W2028088981,4,F4320321001,National Natural Science Foundation of China,90914007
+W2028088981,5,F4320334924,Program for New Century Excellent Talents in University,NCET-10-0754
+W2067194818,1,F4320306076,National Science Foundation,Physics Frontier Center
+W2067194818,2,F4320338281,Army Research Office,Atomtronics MURI
+W1976525210,1,F4320306076,National Science Foundation,ANT0944615
+W1976525210,2,F4320334593,Natural Sciences and Engineering Research Council of Canada,ANT0944615
+W2164996008,1,F4320307801,Texas Instruments,NA
+W2156351739,1,F4320337387,Division of Computing and Communication Foundations,"CCF-0915978, CCF-1116740"
+W2088193897,1,F4320332180,Defense Advanced Research Projects Agency,W911NF11C0215
+W2006030037,1,F4320306076,National Science Foundation,NA
+W2006030037,2,F4320338281,Army Research Office,NA
+W2066289596,1,F4320306076,National Science Foundation,1065250
+W2000759976,1,F4320309327,Google,NA
+W2000759976,2,F4320337389,Division of Information and Intelligent Systems,"IIS-10-18475, IIS-12-19023, IIS-13-20791"
+W1990234445,1,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,2102/20181-7
+W1990234445,2,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,2007/56052-8
+W3139803712,1,F4320306076,National Science Foundation,NA
+W2065989126,1,F4320307762,International Business Machines Corporation,NA
+W2065989126,2,F4320332180,Defense Advanced Research Projects Agency,NA
+W2117405790,1,F4320309327,Google,NA
+W2117405790,2,F4320337389,Division of Information and Intelligent Systems,NA
+W2117405790,3,F4320337405,Division of Behavioral and Cognitive Sciences,NA
+W2006998981,1,F4320306076,National Science Foundation,"0540216, SES0826886"
+W2006998981,2,F4320337366,Division of Social and Economic Sciences,"0540216, SES0826886"
+W2006998981,3,F4320338279,Air Force Office of Scientific Research,FA95500610405
+W2006998981,4,F4320338281,Army Research Office,"W911NF0910206, W911NF1110344"
+W2006998981,5,F4320338295,Army Research Laboratory,W911NF0920072
+W1999668904,1,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,NA
+W2044883842,1,F4320306076,National Science Foundation,1219130
+W2044883842,2,F4320332180,Defense Advanced Research Projects Agency,HR0011-12-C-0015
+W2009939074,1,F4320338295,Army Research Laboratory,W911NF-11-2-0086
+W2022123082,1,F4320306084,U.S. Department of Energy,NA
+W2022123082,2,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2022123082,3,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W2022123082,4,F4320321001,National Natural Science Foundation of China,10875115
+W2022123082,5,F4320321001,National Natural Science Foundation of China,10825524
+W2022123082,6,F4320321001,National Natural Science Foundation of China,10575109
+W2022123082,7,F4320321001,National Natural Science Foundation of China,10775142
+W2022123082,8,F4320321912,Ministry of Education and Science of the Russian Federation,NA
+W2022123082,9,F4320322105,Korea Institute of Science and Technology Information,NA
+W2022123082,10,F4320322554,Javna Agencija za Raziskovalno Dejavnost RS,NA
+W2022123082,11,F4320334704,Australian Research Council,NA
+W2022123082,12,F4320334899,Instituto Nazionale di Fisica Nucleare,NA
+W2044732262,1,F4320337345,Office of Naval Research,N000141110419
+W2071914139,1,F4320310633,Central Michigan University,NA
+W2056934349,1,F4320310481,Uddannelses- og Forskningsministeriet,DS-3420
+W1980252607,1,F4320321001,National Natural Science Foundation of China,61272455
+W1980252607,2,F4320321001,National Natural Science Foundation of China,61100224
+W2059656888,1,F4320306076,National Science Foundation,1043341
+W2138094382,1,F4320337387,Division of Computing and Communication Foundations,CCF-1116565
+W2168570367,1,F4320306076,National Science Foundation,DUE-0435059
+W2106268648,1,F4320321001,National Natural Science Foundation of China,50705054
+W2106268648,2,F4320321001,National Natural Science Foundation of China,2011GB113005
+W2067802270,1,F4320321001,National Natural Science Foundation of China,60973131
+W2067802270,2,F4320321001,National Natural Science Foundation of China,MMJJ201201001
+W1972349245,1,F4320321001,National Natural Science Foundation of China,41230311
+W1972349245,2,F4320323858,"Far East Branch, Russian Academy of Sciences",12-II-CO-08-30
+W1972349245,3,F4320334926,China Geological Survey,1212011121090
+W2326086442,1,F4320306106,U.S. Department of Education,R305B070008
+W2326086442,2,F4320332161,National Institutes of Health,R44 HD055028
+W2158697925,1,F4320332169,Directorate for Computer and Information Science and Engineering,CCF-0829950
+W2158697925,2,F4320332169,Directorate for Computer and Information Science and Engineering,CCF-0954157
+W2093422663,1,F4320306076,National Science Foundation,NA
+W2028574200,1,F4320332161,National Institutes of Health,N00014-10-1-0177
+W2028574200,2,F4320332161,National Institutes of Health,D10PC20021
+W2028574200,3,F4320332161,National Institutes of Health,MH079485
+W2028574200,4,F4320333051,Intelligence Advanced Research Projects Activity,N00014-10-1-0177
+W2028574200,5,F4320333051,Intelligence Advanced Research Projects Activity,D10PC20021
+W2028574200,6,F4320333051,Intelligence Advanced Research Projects Activity,MH079485
+W2028574200,7,F4320337345,Office of Naval Research,N00014-10-1-0177
+W2028574200,8,F4320337345,Office of Naval Research,D10PC20021
+W2028574200,9,F4320337345,Office of Naval Research,MH079485
+W4239072614,1,F4320306076,National Science Foundation,CCF 1048298
+W2031896757,1,F4320332161,National Institutes of Health,F32GM103288
+W2045747555,1,F4320322930,Ministerio de Ciencia e Innovación,PSI2010-20364
+W2045747555,2,F4320322930,Ministerio de Ciencia e Innovación,BES-2011-043527
+W2072374256,1,F4320322930,Ministerio de Ciencia e Innovación,PSI2010-20364
+W2072374256,2,F4320324018,Ministerio de Educación de la Nación,A4U-4-2011
+W2037990543,1,F4320306076,National Science Foundation,NA
+W2044237352,1,F4320321040,National Science Council,NSC-98-2221-E-039-009
+W2044237352,2,F4320332161,National Institutes of Health,R21 CA170955
+W2044237352,3,F4320332161,National Institutes of Health,R03 CA136071
+W2044237352,4,F4320332161,National Institutes of Health,R01 CA127927
+W2039403753,1,F4320321040,National Science Council,NSC 99-2221-E-002-136-MY3
+W2131175634,1,F4320311687,Ministry of Education,AE-00-00-06
+W2131175634,2,F4320321040,National Science Council,97-2221-E-002-166-MY3
+W2131175634,3,F4320321040,National Science Council,NSC 102-2221-E-002-176
+W2131175634,4,F4320322835,Ministry of Economic Affairs,100-EC-17-A-19-S1-164
+W2011715016,1,F4320311687,Ministry of Education,AE-00-00-06
+W2011715016,2,F4320321040,National Science Council,NSC 97-2221-E-002-166-MY3
+W2011715016,3,F4320322835,Ministry of Economic Affairs,101-EC-17-A-19-S1-164
+W2049799470,1,F4320306076,National Science Foundation,CHE-1058791
+W2157579724,1,F4320307762,International Business Machines Corporation,NA
+W2157579724,2,F4320337387,Division of Computing and Communication Foundations,"CCF-0546040, CCF-1017204"
+W1972846540,1,F4320334960,Seventh Framework Programme,287704
+W1979476966,1,F4320322120,National Research Foundation of Korea,NA
+W1979476966,2,F4320322349,"Ministry of Education, Science and Technology",NA
+W1979476966,3,F4320337387,Division of Computing and Communication Foundations,CCF-1065147
+W2067335425,1,F4320311649,Ministry of Education,AE-00-00-06
+W2067335425,2,F4320321040,National Science Council,99-2221-E-002-136-MY3
+W2067335425,3,F4320321780,Ministerie van Economische Zaken,101-EC-17-A-19-S1-164
+W2067335425,4,F4320322349,"Ministry of Education, Science and Technology",2012R1A2A1A01010846
+W2068427439,1,F4320338279,Air Force Office of Scientific Research,FA9550-11
+W2068886200,1,F4320332161,National Institutes of Health,RO3 CA82091
+W2068886200,2,F4320332161,National Institutes of Health,R21 CA82520
+W2068886200,3,F4320332161,National Institutes of Health,K07 CA76170
+W2026042654,1,F4320306076,National Science Foundation,DMS 0854940
+W2108441283,1,F4320309327,Google,NA
+W2108441283,2,F4320332180,Defense Advanced Research Projects Agency,"D11PC20024, N660001-1-2-4014"
+W2108441283,3,F4320337387,Division of Computing and Communication Foundations,CCF-1117162
+W2082330740,1,F4320306076,National Science Foundation,IIP-1248316
+W2082330740,2,F4320332161,National Institutes of Health,R01CA140772
+W2082330740,3,F4320332161,National Institutes of Health,R01CA136535
+W2082330740,4,F4320332161,National Institutes of Health,R43EB015199
+W2082330740,5,F4320332161,National Institutes of Health,R21CA167811
+W2145362790,1,F4320306076,National Science Foundation,0846331
+W2017663749,1,F4320306076,National Science Foundation,NA
+W2105773843,1,F4320306076,National Science Foundation,0955111
+W1985571081,1,F4320321001,National Natural Science Foundation of China,40830957
+W1985571081,2,F4320334924,Program for New Century Excellent Talents in University,NCET-12-0060
+W1985571081,3,F4320335777,National Key Research and Development Program of China,2010CB833504
+W1985571081,4,F4320335777,National Key Research and Development Program of China,2012CB955302
+W1985571081,5,F4320335787,Fundamental Research Funds for the Central Universities,NA
+W2042469398,1,F4320306076,National Science Foundation,NA
+W2042469398,2,F4320310821,Charles Lee Powell Foundation,NA
+W2042469398,3,F4320337380,Division of Mathematical Sciences,NA
+W2042469398,4,F4320337387,Division of Computing and Communication Foundations,CCF-0514922 and CCF-0830540
+W2042469398,5,F4320337387,Division of Computing and Communication Foundations,CCF-1101389 and CNS-1065060
+W2042469398,6,F4320337388,Division of Computer and Network Systems,CCF-1101389 and CNS-1065060
+W1919159868,1,F4320332183,U.S. Geological Survey,02HQAG0008
+W1981898172,1,F4320306076,National Science Foundation,NA
+W2069206903,1,F4320306076,National Science Foundation,NA
+W2078014384,1,F4320306076,National Science Foundation,NA
+W2078014384,2,F4320306084,U.S. Department of Energy,NA
+W2123832723,1,F4320306076,National Science Foundation,EAR‐0911378
+W2123832723,2,F4320335353,National Science Foundation of Sri Lanka,EAR‐0732947
+W2123832723,3,F4320335353,National Science Foundation of Sri Lanka,EAR‐0350028
+W1972170672,1,F4320306076,National Science Foundation,NA
+W2134501068,1,F4320309480,Nvidia,NA
+W2134501068,2,F4320309746,Compagnia di San Paolo,NA
+W3124840407,1,F4320334678,European Research Council,313699
+W2070944794,1,F4320306076,National Science Foundation,NA
+W2070944794,2,F4320306084,U.S. Department of Energy,NA
+W2070944794,3,F4320338281,Army Research Office,NA
+W1512806609,1,F4320321001,National Natural Science Foundation of China,41373066
+W1512806609,2,F4320321001,National Natural Science Foundation of China,41072045
+W1512806609,3,F4320321543,China Postdoctoral Science Foundation,2013M540614
+W2125241857,1,F4320306076,National Science Foundation,"CCF-1049360, ITR-0325063"
+W2125241857,2,F4320337387,Division of Computing and Communication Foundations,"CCF-1049360, ITR-0325063"
+W2070031874,1,F4320306076,National Science Foundation,NA
+W2122354813,1,F4320337388,Division of Computer and Network Systems,"IIS-0905215, CNS-0931975, IIS-1017362"
+W2122354813,2,F4320337389,Division of Information and Intelligent Systems,"IIS-0905215, CNS-0931975, IIS-1017362"
+W2122354813,3,F4320338279,Air Force Office of Scientific Research,FA9550-08-1-0265
+W2122354813,4,F4320338295,Army Research Laboratory,"W911NF-09-2-0053 (NS-CTA), W911NF-11-2-0086"
+W2109978172,1,F4320333591,Multidisciplinary University Research Initiative,W911NF-09-1-0392
+W1999879874,1,F4320337337,National Institute on Aging,R01 AG034119
+W1999879874,2,F4320337337,National Institute on Aging,P50 AG05681
+W1999879874,3,F4320337337,National Institute on Aging,P01 AG03991
+W2093193242,1,F4320306076,National Science Foundation,NA
+W2049137142,1,F4320332222,University of Illinois at Urbana-Champaign,NA
+W2049137142,2,F4320334627,Engineering and Physical Sciences Research Council,NA
+W2049137142,3,F4320337389,Division of Information and Intelligent Systems,IIS-09-05215
+W2049137142,4,F4320338279,Air Force Office of Scientific Research,FA9550-08-1-0265
+W2049137142,5,F4320338295,Army Research Laboratory,W911NF-09-2-0053 (NS-CTA)
+W2026608875,1,F4320307894,Accenture,NA
+W2026608875,2,F4320337387,Division of Computing and Communication Foundations,NA
+W1986164352,1,F4320320609,University of Tasmania,NA
+W2064054403,1,F4320320300,European Commission,283576
+W2109567375,1,F4320308681,Geological Society of America,NA
+W2163013182,1,F4320320177,US-UK Fulbright Commission,NA
+W2109251694,1,F4320306076,National Science Foundation,NA
+W2037990543,1,F4320306076,National Science Foundation,NA
+W2036190740,1,F4320306076,National Science Foundation,NA
+W2036190740,2,F4320332180,Defense Advanced Research Projects Agency,FA9550-12-1-0423
+W2036190740,3,F4320337345,Office of Naval Research,NA
+W2036190740,4,F4320337387,Division of Computing and Communication Foundations,CCF-1161626
+W2036190740,5,F4320338279,Air Force Office of Scientific Research,FA9550-12-1-0423
+W2094867780,1,F4320306076,National Science Foundation,NA
+W2094867780,2,F4320306084,U.S. Department of Energy,NA
+W2241662248,1,F4320334704,Australian Research Council,NA
+W1987367971,1,F4320306076,National Science Foundation,NA
+W1987367971,2,F4320332180,Defense Advanced Research Projects Agency,NA
+W2043414988,1,F4320306076,National Science Foundation,NA
+W2043414988,2,F4320332180,Defense Advanced Research Projects Agency,NA
+W2569934227,1,F4320332180,Defense Advanced Research Projects Agency,NA
+W2569934227,2,F4320338281,Army Research Office,W911NF-09-1-0569
+W2123832723,1,F4320306076,National Science Foundation,EAR‐0911378
+W2123832723,2,F4320335353,National Science Foundation of Sri Lanka,EAR‐0732947
+W2123832723,3,F4320335353,National Science Foundation of Sri Lanka,EAR‐0350028
+W2144087043,1,F4320306110,U.S. Department of Homeland Security,FA8750-12-2-0295
+W2144087043,2,F4320337387,Division of Computing and Communication Foundations,"CNS-1218817, CCF-0917134"
+W2144087043,3,F4320337388,Division of Computer and Network Systems,"CNS-1218817, CCF-0917134"
+W2144087043,4,F4320338294,Air Force Research Laboratory,FA8750-12-2-0295
+W2043918015,1,F4320306110,U.S. Department of Homeland Security,FA8750-12-2-0295
+W2043918015,2,F4320337388,Division of Computer and Network Systems,CNS-1218817
+W2043918015,3,F4320338294,Air Force Research Laboratory,FA8750-12-2-0295
+W2030383338,1,F4320306076,National Science Foundation,NA
+W2071239633,1,F4320321837,Ministerio de Economía y Competitividad,"TIN2009-14599-C03-02 Desafios, TIN2010-20639 Paran10, TIN2012-39391-C04-01 Strongsoft"
+W2071239633,2,F4320334960,Seventh Framework Programme,PCOFUND-GA-2008-229599
+W2071239633,3,F4320334960,Seventh Framework Programme,NoE-256980 Nessos
+W2028666028,1,F4320306076,National Science Foundation,NA
+W2026558537,1,F4320321001,National Natural Science Foundation of China,"61202445, 61001084"
+W2026558537,2,F4320321636,Deutsche Telekom Stiftung,NA
+W2026558537,3,F4320337387,Division of Computing and Communication Foundations,CCF-0939370
+W2019495766,1,F4320306076,National Science Foundation,"0960833, 0934396, 1127829, 115471"
+W2019495766,2,F4320321640,Ministry of Knowledge Economy,KI001703
+W2105773843,1,F4320306076,National Science Foundation,0955111
+W1149893533,1,F4320306076,National Science Foundation,CCF-0424422
+W1149893533,2,F4320320709,National Research Foundation Singapore,NA
+W1149893533,3,F4320338295,Army Research Laboratory,DAAD190210389
+W2042469398,1,F4320306076,National Science Foundation,NA
+W2042469398,2,F4320310821,Charles Lee Powell Foundation,NA
+W2042469398,3,F4320337380,Division of Mathematical Sciences,NA
+W2042469398,4,F4320337387,Division of Computing and Communication Foundations,CCF-0514922 and CCF-0830540
+W2042469398,5,F4320337387,Division of Computing and Communication Foundations,CCF-1101389 and CNS-1065060
+W2042469398,6,F4320337388,Division of Computer and Network Systems,CCF-1101389 and CNS-1065060
+W1518613644,1,F4320306076,National Science Foundation,SBE‐0836012
+W2052201685,1,F4320306087,Semiconductor Research Corporation,NA
+W2052201685,2,F4320307102,Intel Corporation,NA
+W2052201685,3,F4320308943,Microsoft Research,NA
+W2052201685,4,F4320337387,Division of Computing and Communication Foundations,"CCF-0953246, CCF-1147397, CCF-1212962"
+W2127555295,1,F4320306076,National Science Foundation,BCS-0941553
+W2127555295,2,F4320306076,National Science Foundation,BCS-0941518
+W2127555295,3,F4320337375,National Center for Research Resources,UL1 RR033184
+W2127555295,4,F4320337472,National Center for Advancing Translational Sciences,UL1 TR000127
+W2069636936,1,F4320321732,Agentschap voor Innovatie door Wetenschap en Technologie,NA
+W2069636936,2,F4320337387,Division of Computing and Communication Foundations,CCF-0424422
+W2069636936,3,F4320337388,Division of Computer and Network Systems,CNS-1012763
+W2069636936,4,F4320338281,Army Research Office,DAAD190210389
+W2124859747,1,F4320332161,National Institutes of Health,R01 DC004674
+W2041504706,1,F4320308943,Microsoft Research,NA
+W2041504706,2,F4320309327,Google,NA
+W2041504706,3,F4320337387,Division of Computing and Communication Foundations,"CCF-0953192, CCF-0514922, CCF-0830540, CCF-0448095 and CCF-0729022"
+W2091149117,1,F4320337345,Office of Naval Research,N00014-09-1-1031
+W2091149117,2,F4320338294,Air Force Research Laboratory,FA87501020165
+W2129874612,1,F4320320879,Deutsche Forschungsgemeinschaft,"AP 206/2, AP 206/4, AP 206/5"
+W2129874612,2,F4320332224,"Office of Budget, Finance and Award Management","1318808, CFDA#47.076, CCF-0747009"
+W2129874612,3,F4320334678,European Research Council,203099
+W2129874612,4,F4320337387,Division of Computing and Communication Foundations,"1318808, CFDA#47.076, CCF-0747009"
+W2129874612,5,F4320338279,Air Force Office of Scientific Research,FA9550-10-1-0406
+W2020964455,1,F4320307102,Intel Corporation,NA
+W2020964455,2,F4320309480,Nvidia,NA
+W2020964455,3,F4320337387,Division of Computing and Communication Foundations,CCF-1018188
+W2050964014,1,F4320333051,Intelligence Advanced Research Projects Activity,D10PC20021
+W1987314273,1,F4320320879,Deutsche Forschungsgemeinschaft,AP 206/2AP 206/4AP 206/5
+W1987314273,2,F4320321091,Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,BEX 0459-10-0
+W2161012068,1,F4320312726,University of Oregon,NA
+W2161012068,2,F4320332161,National Institutes of Health,R01DC004674
+W2064109848,1,F4320306183,James S. McDonnell Foundation,NA
+W2092397378,1,F4320320709,National Research Foundation Singapore,NA
+W2092397378,2,F4320337366,Division of Social and Economic Sciences,"SES-1200154, SES-1022551, IIS-0968295."
+W2092397378,3,F4320337389,Division of Information and Intelligent Systems,"SES-1200154, SES-1022551, IIS-0968295."
+W2038190459,1,F4320320879,Deutsche Forschungsgemeinschaft,AP 206/2AP 206/4SCHA 1635/2-1
+W2036352651,1,F4320338281,Army Research Office,NA
+W2094571689,1,F4320306078,U.S. Department of Defense,NA
+W2094571689,2,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,PBEZP2 140051
+W2094571689,3,F4320337387,Division of Computing and Communication Foundations,CCF-1116907
+W1507423462,1,F4320306076,National Science Foundation,IIS-I0916918
+W2021464259,1,F4320320879,Deutsche Forschungsgemeinschaft,AP 206/2AP 206/4
+W2076086957,1,F4320320875,Deutscher Akademischer Austauschdienst,NA
+W2010199151,1,F4320306076,National Science Foundation,NA
+W2010199151,2,F4320306084,U.S. Department of Energy,NA
+W2069405784,1,F4320332161,National Institutes of Health,5R44GM074313-03
+W2069405784,2,F4320332161,National Institutes of Health,5R01GM084163
+W2170136203,1,F4320306076,National Science Foundation,NA
+W2059222769,1,F4320332486,"Mellon College of Science, Carnegie Mellon University",NA
+W2059222769,2,F4320334779,Fundação para a Ciência e a Tecnologia,SFRH/BD/33779/2009
+W2059222769,3,F4320337387,Division of Computing and Communication Foundations,"CCF1011903, CCF1018509"
+W2059222769,4,F4320338279,Air Force Office of Scientific Research,FA95501010291
+W2071105621,1,F4320334779,Fundação para a Ciência e a Tecnologia,NA
+W2071105621,2,F4320334960,Seventh Framework Programme,213250
+W2071105621,3,F4320337389,Division of Information and Intelligent Systems,IIS-1054319
+W2064016983,1,F4320309327,Google,NA
+W2064016983,2,F4320334779,Fundação para a Ciência e a Tecnologia,NGN-44
+W2094437584,1,F4320306076,National Science Foundation,DMS-0805598
+W2094437584,2,F4320306076,National Science Foundation,SES-0318200
+W15517764,1,F4320306076,National Science Foundation,DMS-0631589
+W15517764,2,F4320306076,National Science Foundation,BCS0941518
+W15517764,3,F4320320709,National Research Foundation Singapore,NA
+W2142511814,1,F4320306076,National Science Foundation,EAR-0345440
+W2142511814,2,F4320306076,National Science Foundation,EAR-01-26241
+W2142511814,3,F4320306076,National Science Foundation,EAR-0636110
+W2142511814,4,F4320306076,National Science Foundation,AGS-0838491
+W1991396665,1,F4320322120,National Research Foundation of Korea,NA
+W1991396665,2,F4320322349,"Ministry of Education, Science and Technology",2012R1A1A1012153
+W1974923383,1,F4320306076,National Science Foundation,NA
+W1974923383,2,F4320307102,Intel Corporation,NA
+W1974923383,3,F4320332299,National Institute of Food and Agriculture,2011-67012-30692
+W2045012981,1,F4320309893,City University of Hong Kong,7002835
+W2095170457,1,F4320337346,National Institute of Mental Health,1F31MH094050
+W2095170457,2,F4320337364,National Institute of Child Health and Human Development,2R01HD021338
+W2039304072,1,F4320306076,National Science Foundation,CNS-0931607
+W2039304072,2,F4320306076,National Science Foundation,IIS-0703692
+W2053323254,1,F4320321001,National Natural Science Foundation of China,40871113
+W2053323254,2,F4320321001,National Natural Science Foundation of China,41130749
+W2010476724,1,F4320309568,University of Missouri,NA
+W2072577786,1,F4320313392,New Mexico Geological Society,NA
+W2072577786,2,F4320333541,"New Mexico Water Resources Research Institute, New Mexico State University",W09010
+W2051510152,1,F4320306137,Bill and Melinda Gates Foundation,NA
+W2051510152,2,F4320332180,Defense Advanced Research Projects Agency,NA
+W2051510152,3,F4320337394,Division of Engineering Education and Centers,EEC 0748186
+W2156079325,1,F4320306076,National Science Foundation,EAR-0120914
+W1979887798,1,F4320322120,National Research Foundation of Korea,NRF-2011-0013963
+W1979887798,2,F4320322349,"Ministry of Education, Science and Technology",NRF-2011-0013963
+W1974440287,1,F4320310131,University of Kansas,NA
+W2025134853,1,F4320321079,Russian Foundation for Basic Research,10-01-93109-CNRS-a
+W2025134853,2,F4320321648,Dynasty Foundation,NA
+W2067940794,1,F4320337388,Division of Computer and Network Systems,NA
+W1992661453,1,F4320311089,National Security Agency,H98230-12-1-0245
+W2110760914,1,F4320306076,National Science Foundation,DOE/LEQSF(2004-07)
+W2110760914,2,F4320306076,National Science Foundation,1010640 NG-CHC
+W2110760914,3,F4320306076,National Science Foundation,0904015
+W2110760914,4,F4320306076,National Science Foundation,0941653
+W2110760914,5,F4320306076,National Science Foundation,0905046
+W2110760914,6,F4320306076,National Science Foundation,DE-FG02-04ER46136
+W2110760914,7,F4320306076,National Science Foundation,0725070
+W2110760914,8,F4320306076,National Science Foundation,LEQSF(2009-10)-ENH-TR-14
+W2110760914,9,F4320306076,National Science Foundation,Nr 469 1 N - USA/2009
+W2110760914,10,F4320306084,U.S. Department of Energy,DOE/LEQSF(2004-07)
+W2110760914,11,F4320306084,U.S. Department of Energy,1010640 NG-CHC
+W2110760914,12,F4320306084,U.S. Department of Energy,0904015
+W2110760914,13,F4320306084,U.S. Department of Energy,0941653
+W2110760914,14,F4320306084,U.S. Department of Energy,0905046
+W2110760914,15,F4320306084,U.S. Department of Energy,DE-FG02-04ER46136
+W2110760914,16,F4320306084,U.S. Department of Energy,0725070
+W2110760914,17,F4320306084,U.S. Department of Energy,LEQSF(2009-10)-ENH-TR-14
+W2110760914,18,F4320306084,U.S. Department of Energy,Nr 469 1 N - USA/2009
+W2110760914,19,F4320309392,Louisiana Board of Regents,DOE/LEQSF(2004-07)
+W2110760914,20,F4320309392,Louisiana Board of Regents,1010640 NG-CHC
+W2110760914,21,F4320309392,Louisiana Board of Regents,0904015
+W2110760914,22,F4320309392,Louisiana Board of Regents,0941653
+W2110760914,23,F4320309392,Louisiana Board of Regents,0905046
+W2110760914,24,F4320309392,Louisiana Board of Regents,DE-FG02-04ER46136
+W2110760914,25,F4320309392,Louisiana Board of Regents,0725070
+W2110760914,26,F4320309392,Louisiana Board of Regents,LEQSF(2009-10)-ENH-TR-14
+W2110760914,27,F4320309392,Louisiana Board of Regents,Nr 469 1 N - USA/2009
+W2110760914,28,F4320310395,Louisiana State University,DOE/LEQSF(2004-07)
+W2110760914,29,F4320310395,Louisiana State University,1010640 NG-CHC
+W2110760914,30,F4320310395,Louisiana State University,0904015
+W2110760914,31,F4320310395,Louisiana State University,0941653
+W2110760914,32,F4320310395,Louisiana State University,0905046
+W2110760914,33,F4320310395,Louisiana State University,DE-FG02-04ER46136
+W2110760914,34,F4320310395,Louisiana State University,0725070
+W2110760914,35,F4320310395,Louisiana State University,LEQSF(2009-10)-ENH-TR-14
+W2110760914,36,F4320310395,Louisiana State University,Nr 469 1 N - USA/2009
+W2110760914,37,F4320320879,Deutsche Forschungsgemeinschaft,DOE/LEQSF(2004-07)
+W2110760914,38,F4320320879,Deutsche Forschungsgemeinschaft,1010640 NG-CHC
+W2110760914,39,F4320320879,Deutsche Forschungsgemeinschaft,0904015
+W2110760914,40,F4320320879,Deutsche Forschungsgemeinschaft,0941653
+W2110760914,41,F4320320879,Deutsche Forschungsgemeinschaft,0905046
+W2110760914,42,F4320320879,Deutsche Forschungsgemeinschaft,DE-FG02-04ER46136
+W2110760914,43,F4320320879,Deutsche Forschungsgemeinschaft,0725070
+W2110760914,44,F4320320879,Deutsche Forschungsgemeinschaft,LEQSF(2009-10)-ENH-TR-14
+W2110760914,45,F4320320879,Deutsche Forschungsgemeinschaft,Nr 469 1 N - USA/2009
+W2013700819,1,F4320311357,Foundational Questions Institute,NA
+W2013700819,2,F4320332178,National Institute of Standards and Technology,NA
+W2013700819,3,F4320333051,Intelligence Advanced Research Projects Activity,NA
+W2013700819,4,F4320338279,Air Force Office of Scientific Research,NA
+W2031214113,1,F4320321001,National Natural Science Foundation of China,61072121
+W2031214113,2,F4320322866,Natural Science Foundation of Hainan Province,12JJ2035
+W2031214113,3,F4320327518,Priority Academic Program Development of Jiangsu Higher Education Institutions,NA
+W1598904269,1,F4320306076,National Science Foundation,NA
+W2055638053,1,F4320306076,National Science Foundation,CCF-1017623
+W2055638053,2,F4320306076,National Science Foundation,CCF-1218904
+W2093193242,1,F4320306076,National Science Foundation,NA
+W2039832455,1,F4320337388,Division of Computer and Network Systems,CNS-09-58854435060
+W2034960245,1,F4320306076,National Science Foundation,DMS-1106577
+W2034960245,2,F4320321001,National Natural Science Foundation of China,11301324
+W2022123082,1,F4320306084,U.S. Department of Energy,NA
+W2022123082,2,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2022123082,3,F4320320924,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,NA
+W2022123082,4,F4320321001,National Natural Science Foundation of China,10875115
+W2022123082,5,F4320321001,National Natural Science Foundation of China,10825524
+W2022123082,6,F4320321001,National Natural Science Foundation of China,10575109
+W2022123082,7,F4320321001,National Natural Science Foundation of China,10775142
+W2022123082,8,F4320321912,Ministry of Education and Science of the Russian Federation,NA
+W2022123082,9,F4320322105,Korea Institute of Science and Technology Information,NA
+W2022123082,10,F4320322554,Javna Agencija za Raziskovalno Dejavnost RS,NA
+W2022123082,11,F4320334704,Australian Research Council,NA
+W2022123082,12,F4320334899,Instituto Nazionale di Fisica Nucleare,NA
+W2021826571,1,F4320321001,National Natural Science Foundation of China,70673030
+W2021826571,2,F4320321001,National Natural Science Foundation of China,90924025
+W2021826571,3,F4320321001,National Natural Science Foundation of China,61073193
+W2021826571,4,F4320328099,Hefei University of Technology,407-037036
+W2021826571,5,F4320328099,Hefei University of Technology,2012HGZY0031
+W2063954707,1,F4320332161,National Institutes of Health,R01059787
+W2098316927,1,F4320337388,Division of Computer and Network Systems,CNS-0831298
+W2098316927,2,F4320338279,Air Force Office of Scientific Research,FA9550-09-1-0539
+W2067950286,1,F4320306076,National Science Foundation,NA
+W1985994373,1,F4320337388,Division of Computer and Network Systems,"CNS-1100221, IIP-1342663, CNS-0905131"
+W1985994373,2,F4320337396,Division of Industrial Innovation and Partnerships,"CNS-1100221, IIP-1342663, CNS-0905131"
+W1985994373,3,F4320338279,Air Force Office of Scientific Research,W911F1210055
+W1985994373,4,F4320338281,Army Research Office,W911NF-09-1-0525 (MURI)
+W2014576960,1,F4320311096,Virginia Commonwealth University,NA
+W2111712077,1,F4320306076,National Science Foundation,"ITR-0937060, EAR-0941666"
+W2111712077,2,F4320309480,Nvidia,NA
+W2111712077,3,F4320309636,University of Minnesota,NA
+W2111712077,4,F4320321001,National Natural Science Foundation of China,"61173170, 60873225"
+W2111712077,5,F4320321883,Huazhong University of Science and Technology,"2012TS052, 2012TS053"
+W2111712077,6,F4320337403,Division of Earth Sciences,"ITR-0937060, EAR-0941666"
+W1968622173,1,F4320321354,Ajou University,NA
+W1888459974,1,F4320306076,National Science Foundation,NA
+W1888459974,2,F4320332180,Defense Advanced Research Projects Agency,NA
+W1888459974,3,F4320338281,Army Research Office,NA
+W1782556075,1,F4320306076,National Science Foundation,NA
+W1782556075,2,F4320338281,Army Research Office,NA
+W2049137142,1,F4320332222,University of Illinois at Urbana-Champaign,NA
+W2049137142,2,F4320334627,Engineering and Physical Sciences Research Council,NA
+W2049137142,3,F4320337389,Division of Information and Intelligent Systems,IIS-09-05215
+W2049137142,4,F4320338279,Air Force Office of Scientific Research,FA9550-08-1-0265
+W2049137142,5,F4320338295,Army Research Laboratory,W911NF-09-2-0053 (NS-CTA)
+W1981898172,1,F4320306076,National Science Foundation,NA
+W2068078745,1,F4320321001,National Natural Science Foundation of China,LR12A04001
+W2068078745,2,F4320338281,Army Research Office,W911NF-09-1-0375
+W2068078745,3,F4320338281,Army Research Office,W911NF-08-01-0336
+W2014126759,1,F4320337345,Office of Naval Research,N00014-11-10111
+W2014126759,2,F4320337388,Division of Computer and Network Systems,"CNS-0845559, CNS-0905537"
+W2014126759,3,F4320338281,Army Research Office,W911NF0910553
+W2043414988,1,F4320306076,National Science Foundation,NA
+W2043414988,2,F4320332180,Defense Advanced Research Projects Agency,NA
+W2053268785,1,F4320337345,Office of Naval Research,N000140911042
+W2053268785,2,F4320337388,Division of Computer and Network Systems,"CNS-0845559, CNS-0905537"
+W2053268785,3,F4320338281,Army Research Office,W911NF0910553
+W2122354813,1,F4320337388,Division of Computer and Network Systems,"IIS-0905215, CNS-0931975, IIS-1017362"
+W2122354813,2,F4320337389,Division of Information and Intelligent Systems,"IIS-0905215, CNS-0931975, IIS-1017362"
+W2122354813,3,F4320338279,Air Force Office of Scientific Research,FA9550-08-1-0265
+W2122354813,4,F4320338295,Army Research Laboratory,"W911NF-09-2-0053 (NS-CTA), W911NF-11-2-0086"
+W1980468080,1,F4320332500,"University of California, Santa Barbara",W911NF-09-0001
+W1980468080,2,F4320338281,Army Research Office,NA
+W2104155754,1,F4320306076,National Science Foundation,NA
+W1982006099,1,F4320306076,National Science Foundation,NA
+W4240424571,1,F4320306076,National Science Foundation,NA
+W2016747674,1,F4320306076,National Science Foundation,NA
+W2094578579,1,F4320322890,Ministère de l'Enseignement Supérieur et de la Recherche,ANR VIHA2
+W2027238340,1,F4320306084,U.S. Department of Energy,NA
+W2073564602,1,F4320306076,National Science Foundation,NA
+W2027919910,1,F4320306076,National Science Foundation,NA
+W2146246889,1,F4320306076,National Science Foundation,NA
+W2146246889,2,F4320306101,National Aeronautics and Space Administration,NA
+W2146246889,3,F4320337345,Office of Naval Research,NA
+W2072577786,1,F4320313392,New Mexico Geological Society,NA
+W2072577786,2,F4320333541,"New Mexico Water Resources Research Institute, New Mexico State University",W09010
+W1490124452,1,F4320306076,National Science Foundation,NA
+W1572280863,1,F4320306076,National Science Foundation,NA
+W2033982232,1,F4320337346,National Institute of Mental Health,1R01MH084812-01A1
+W2069135807,1,F4320306164,Simons Foundation,#209309
+W2069135807,2,F4320311089,National Security Agency,H98230-13-1-0267
+W1985653499,1,F4320338281,Army Research Office,NA
+W2026935019,1,F4320306076,National Science Foundation,CCF-1217590
+W2066974134,1,F4320321408,Ministry of Education,NRF-2013R1A1A2057715
+W2066974134,2,F4320322120,National Research Foundation of Korea,NA
+W2112791011,1,F4320322930,Ministerio de Ciencia e Innovación,TIN2010-20590-C01-01
+W2112791011,2,F4320338295,Army Research Laboratory,W911NF-10-2-0016
+W2047599666,1,F4320337389,Division of Information and Intelligent Systems,NA
+W2087548013,1,F4320332161,National Institutes of Health,NA
+W2087548013,2,F4320337361,National Institute of Environmental Health Sciences,NA
+W1532161419,1,F4320306076,National Science Foundation,DRL 1235958
+W1532161419,2,F4320306076,National Science Foundation,HCC 0834847
+W1532161419,3,F4320306076,National Science Foundation,ITR 0325428
+W1532161419,4,F4320332210,Institute of Education Sciences,R305A100875
+W2026608875,1,F4320307894,Accenture,NA
+W2026608875,2,F4320337387,Division of Computing and Communication Foundations,NA
+W2216175760,1,F4320337405,Division of Behavioral and Cognitive Sciences,BCS-0826958
+W2216175760,2,F4320338279,Air Force Office of Scientific Research,AFOSRFA9550-09-1-0223
+W2034219630,1,F4320337388,Division of Computer and Network Systems,CNS-0915843 and CNS-1223699
+W2034219630,2,F4320338279,Air Force Office of Scientific Research,AFOSR-FA9550-09-1-0223
+W2171907660,1,F4320321001,National Natural Science Foundation of China,12CG65
+W2171907660,2,F4320321001,National Natural Science Foundation of China,2012td19
+W2171907660,3,F4320321001,National Natural Science Foundation of China,61203128
+W2171907660,4,F4320321001,National Natural Science Foundation of China,61174039
+W2171907660,5,F4320321001,National Natural Science Foundation of China,nhky-2012-13
+W1560144238,1,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W2023234892,1,F4320306076,National Science Foundation,"CNS-0627748, ITR-0326577, CNS-0627338, CRI-0708330, CCF-0429894, CCF-0915611"
+W2023234892,2,F4320308943,Microsoft Research,NA
+W2023234892,3,F4320321837,Ministerio de Economía y Competitividad,TIN2009-14599-C03-02 Desafios
+W2023234892,4,F4320334960,Seventh Framework Programme,256980 Nessos
+W2023234892,5,F4320337387,Division of Computing and Communication Foundations,"CNS-0627748, ITR-0326577, CNS-0627338, CRI-0708330, CCF-0429894, CCF-0915611"
+W2023234892,6,F4320337388,Division of Computer and Network Systems,"CNS-0627748, ITR-0326577, CNS-0627338, CRI-0708330, CCF-0429894, CCF-0915611"
+W2014744822,1,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W1975189064,1,F4320333051,Intelligence Advanced Research Projects Activity,D10PC20021
+W1984392244,1,F4320306101,National Aeronautics and Space Administration,NNX07AD99G
+W1984392244,2,F4320337388,Division of Computer and Network Systems,CSR-1117300
+W2021352330,1,F4320337345,Office of Naval Research,NA
+W2065456370,1,F4320337345,Office of Naval Research,N00014-10-1-0989
+W2329661212,1,F4320306076,National Science Foundation,NA
+W2021006686,1,F4320306076,National Science Foundation,CHE-1056188
+W2110830102,1,F4320306076,National Science Foundation,CBET: 08-46244
+W2087548013,1,F4320332161,National Institutes of Health,NA
+W2087548013,2,F4320337361,National Institute of Environmental Health Sciences,NA
+W1600433607,1,F4320306127,U.S. Department of Veterans Affairs,NA
+W2035107885,1,F4320306095,American Cancer Society,120556-RSG-11-266-01-CCE
+W1968595665,1,F4320321001,National Natural Science Foundation of China,JUSRP11231
+W1968595665,2,F4320321001,National Natural Science Foundation of China,61202312
+W1968595665,3,F4320321001,National Natural Science Foundation of China,ZR2010AQ018
+W1968595665,4,F4320321001,National Natural Science Foundation of China,H98230-12-1-0233
+W1968595665,5,F4320321001,National Natural Science Foundation of China,DMS-1264800
+W2075280697,1,F4320321543,China Postdoctoral Science Foundation,IFW12109
+W2075280697,2,F4320321543,China Postdoctoral Science Foundation,2011M501149
+W2075280697,3,F4320321543,China Postdoctoral Science Foundation,12YJCZH303
+W2075280697,4,F4320321543,China Postdoctoral Science Foundation,DMS-1264800
+W2075280697,5,F4320321543,China Postdoctoral Science Foundation,201103061
+W2075280697,6,F4320321543,China Postdoctoral Science Foundation,2013EI153
+W2341057945,1,F4320306076,National Science Foundation,PECASE-0953837
+W2341057945,2,F4320332180,Defense Advanced Research Projects Agency,"W911NF-11-1-0076, FA8650-11-1-7155"
+W2043436605,1,F4320321001,National Natural Science Foundation of China,"60975034, 61272540 and 61229301"
+W2051510152,1,F4320306137,Bill and Melinda Gates Foundation,NA
+W2051510152,2,F4320332180,Defense Advanced Research Projects Agency,NA
+W2051510152,3,F4320337394,Division of Engineering Education and Centers,EEC 0748186
+W2019557226,1,F4320321001,National Natural Science Foundation of China,"61229301, 61273297, 61273292"
+W2019557226,2,F4320321540,Ministry of Science and Technology of the People's Republic of China,2013CB329604
+W2019557226,3,F4320321540,Ministry of Science and Technology of the People's Republic of China,2012AA011005
+W2019557226,4,F4320337389,Division of Information and Intelligent Systems,IIS-1115417
+W2012609801,1,F4320306076,National Science Foundation,"0803410, 0808770"
+W2012609801,2,F4320320997,Fundação de Amparo à Pesquisa do Estado de São Paulo,2009/06349-0
+W1782556075,1,F4320306076,National Science Foundation,NA
+W1782556075,2,F4320338281,Army Research Office,NA
+W1805478420,1,F4320306076,National Science Foundation,NA
+W2053803170,1,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W1956864028,1,F4320306076,National Science Foundation,NA
+W2033341683,1,F4320337345,Office of Naval Research,N00014-07-C-0311
+W2065159538,1,F4320306076,National Science Foundation,NA
+W2065159538,2,F4320338281,Army Research Office,NA
+W1557400138,1,F4320306076,National Science Foundation,IIS-0712253
+W2000103922,1,F4320306076,National Science Foundation,NA
+W2045914557,1,F4320306106,U.S. Department of Education,R305F100013
+W2045914557,2,F4320332210,Institute of Education Sciences,NA
+W2045914557,3,F4320337611,Eunice Kennedy Shriver National Institute of Child Health and Human Development,"P50 HD052117, K08 HD068545-01A1, and K99HD061689"
+W2144642151,1,F4320306110,U.S. Department of Homeland Security,N66001-13-C-3002
+W2144642151,2,F4320337388,Division of Computer and Network Systems,CNS 1205708
+W2144642151,3,F4320338279,Air Force Office of Scientific Research,FA9550-12-1-0077
+W1989438286,1,F4320332161,National Institutes of Health,EB02133
+W1989438286,2,F4320332161,National Institutes of Health,CA102758
+W1989438286,3,F4320332161,National Institutes of Health,RR016689
+W1989438286,4,F4320332161,National Institutes of Health,CA140400
+W2020931805,1,F4320306101,National Aeronautics and Space Administration,HST-HF-01153
+W2020931805,2,F4320310164,Texas A and M University,NA
+W1987928383,1,F4320306076,National Science Foundation,1111925
+W1987928383,2,F4320322120,National Research Foundation of Korea,2012046684
+W3009835977,1,F4320306110,U.S. Department of Homeland Security,N66001-13-C-3002
+W3009835977,2,F4320337388,Division of Computer and Network Systems,CNS 1205708
+W3009835977,3,F4320338279,Air Force Office of Scientific Research,FA9550-12-1-0077
+W1988415821,1,F4320306164,Simons Foundation,#209654
+W1973867422,1,F4320306113,U.S. Department of State,S-LMAQM-12-GR-1033
+W1973867422,2,F4320337377,Office of Advanced Cyberinfrastructure,"CNS-1049765, NSF-OCI 1064230"
+W1973867422,3,F4320337388,Division of Computer and Network Systems,"CNS-1049765, NSF-OCI 1064230"
+W1973867422,4,F4320338279,Air Force Office of Scientific Research,FA9550-09-1-0173
+W2096652082,1,F4320306113,U.S. Department of State,S-LMAQM-12-GR-1033
+W2096652082,2,F4320337377,Office of Advanced Cyberinfrastructure,"CNS-1049765, NSF-OCI 1064230"
+W2096652082,3,F4320337388,Division of Computer and Network Systems,"CNS-1049765, NSF-OCI 1064230"
+W2096652082,4,F4320338279,Air Force Office of Scientific Research,FA9550-09-1-0173
+W2128917020,1,F4320306113,U.S. Department of State,SLMAQM-12-GR-1033
+W2128917020,2,F4320337377,Office of Advanced Cyberinfrastructure,"CNS-1049765, NSF-OCI 1064230"
+W2128917020,3,F4320337388,Division of Computer and Network Systems,"CNS-1049765, NSF-OCI 1064230"
+W2128917020,4,F4320338279,Air Force Office of Scientific Research,FA9550-09-1-0173
+W2101017177,1,F4320306084,U.S. Department of Energy,4000111689
+W2068610075,1,F4320321001,National Natural Science Foundation of China,61373174
+W1975776713,1,F4320306084,U.S. Department of Energy,NA
+W2963854390,1,F4320332180,Defense Advanced Research Projects Agency,HR0011-12-1-0011
+W2963854390,2,F4320333065,Seventh Framework Programme,PIOF-GA-2011-300975
+W1970107420,1,F4320321001,National Natural Science Foundation of China,61003254
+W1970107420,2,F4320321001,National Natural Science Foundation of China,91218301
+W1970107420,3,F4320335787,Fundamental Research Funds for the Central Universities,NA
+W2085997191,1,F4320311089,National Security Agency,MSP-H98230-08-1-0058
+W2034130965,1,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2034130965,2,F4320322832,University of Tokyo,NA
+W2034130965,3,F4320334704,Australian Research Council,DP0556923
+W2034130965,4,F4320334764,Japan Society for the Promotion of Science,NA
+W2009182243,1,F4320322930,Ministerio de Ciencia e Innovación,TIN2010-20967-C04-02
+W2009182243,2,F4320337389,Division of Information and Intelligent Systems,IIS-0905276 and IIS-1217869
+W2090393017,1,F4320306183,James S. McDonnell Foundation,29192G
+W1976957990,1,F4320337389,Division of Information and Intelligent Systems,"IIS-0905276, IIS-1217869"
+W2094675989,1,F4320337389,Division of Information and Intelligent Systems,"IIS-0905276, IIS-1217869"
+W2012988583,1,F4320332202,Research Foundation of The City University of New York,NA
+W2159411447,1,F4320306098,U.S. Department of Justice,"2009-D1-BX-K021, 2010-DD-BX-K226"
+W2024687772,1,F4320321001,National Natural Science Foundation of China,11021403
+W2136513104,1,F4320321001,National Natural Science Foundation of China,11021403
+W2136513104,2,F4320321001,National Natural Science Foundation of China,11104146
+W2154034264,1,F4320338294,Air Force Research Laboratory,NA
+W1980000874,1,F4320306076,National Science Foundation,EAR-0948724
+W2076086957,1,F4320320875,Deutscher Akademischer Austauschdienst,NA
+W2149706243,1,F4320309327,Google,NA
+W2149706243,2,F4320337387,Division of Computing and Communication Foundations,CCF-0642811
+W1967656267,1,F4320338295,Army Research Laboratory,NA
+W1989015417,1,F4320306076,National Science Foundation,NSF-EAR 0732436
+W1989015417,2,F4320313392,New Mexico Geological Society,NA
+W2052384302,1,F4320337389,Division of Information and Intelligent Systems,IIS-0812267
+W2025634700,1,F4320306076,National Science Foundation,DMS-1007504
+W2025634700,2,F4320322120,National Research Foundation of Korea,NA
+W2025634700,3,F4320322320,King Abdullah University of Science and Technology,NA
+W2025634700,4,F4320322349,"Ministry of Education, Science and Technology",2013R1A1A2005995
+W2139034716,1,F4320306076,National Science Foundation,NA
+W2018397720,1,F4320332161,National Institutes of Health,NLM 1R13LM011411-01
+W2018397720,2,F4320332161,National Institutes of Health,NLM 2U54LM008748
+W1967078930,1,F4320306076,National Science Foundation,1205544
+W2161012068,1,F4320312726,University of Oregon,NA
+W2161012068,2,F4320332161,National Institutes of Health,R01DC004674
+W1982943020,1,F4320306076,National Science Foundation,EAR 0838536
+W1982943020,2,F4320306076,National Science Foundation,EAR-CAREER 0844772
+W1982943020,3,F4320306076,National Science Foundation,EAR 0710545
+W1982943020,4,F4320334704,Australian Research Council,DP0663560
+W2083998576,1,F4320306076,National Science Foundation,NA
+W1836889235,1,F4320306084,U.S. Department of Energy,NA
+W2035009069,1,F4320321001,National Natural Science Foundation of China,61273225
+W2035009069,2,F4320321001,National Natural Science Foundation of China,31201121
+W2044465381,1,F4320306076,National Science Foundation,DMS-1106815
+W2070679793,1,F4320306076,National Science Foundation,CMMI-1049294
+W2122775401,1,F4320306076,National Science Foundation,0826124
+W1965000245,1,F4320322030,"Ministry of Science, ICT and Future Planning",NA
+W2006823427,1,F4320306101,National Aeronautics and Space Administration,NNA07CN10A
+W1963789533,1,F4320322030,"Ministry of Science, ICT and Future Planning",NA
+W2099575359,1,F4320321001,National Natural Science Foundation of China,61272400
+W2099575359,2,F4320334924,Program for New Century Excellent Talents in University,61272400
+W2026810221,1,F4320309327,Google,NA
+W2026810221,2,F4320334960,Seventh Framework Programme,Dicode (GA no. 257184)
+W2056837959,1,F4320306076,National Science Foundation,DUE‐0942629
+W2026608875,1,F4320307894,Accenture,NA
+W2026608875,2,F4320337387,Division of Computing and Communication Foundations,NA
+W2058644656,1,F4320321001,National Natural Science Foundation of China,61133013
+W2058644656,2,F4320321543,China Postdoctoral Science Foundation,2013M540786
+W1532161419,1,F4320306076,National Science Foundation,DRL 1235958
+W1532161419,2,F4320306076,National Science Foundation,HCC 0834847
+W1532161419,3,F4320306076,National Science Foundation,ITR 0325428
+W1532161419,4,F4320332210,Institute of Education Sciences,R305A100875
+W2089146866,1,F4320332210,Institute of Education Sciences,R305A090528
+W1991113796,1,F4320322650,Narodowym Centrum Nauki,UMO-2012/06/M/ST1/00358
+W1979096626,1,F4320308943,Microsoft Research,NA
+W2026810221,1,F4320309327,Google,NA
+W2026810221,2,F4320334960,Seventh Framework Programme,Dicode (GA no. 257184)
+W2130342755,1,F4320332161,National Institutes of Health,R21 DA030571-01A1
+W2064593774,1,F4320306076,National Science Foundation,1017225 III
+W2064593774,2,F4320320879,Deutsche Forschungsgemeinschaft,NA
+W2064593774,3,F4320334627,Engineering and Physical Sciences Research Council,NA
+W2121232974,1,F4320306076,National Science Foundation,1143717
+W2158625202,1,F4320306076,National Science Foundation,NA
+W1986105640,1,F4320337394,Division of Engineering Education and Centers,NSF EEC-081212
+W1982893357,1,F4320306076,National Science Foundation,NA
+W1982893357,2,F4320332180,Defense Advanced Research Projects Agency,NA
+W1982893357,3,F4320338279,Air Force Office of Scientific Research,NA
+W2004242694,1,F4320332180,Defense Advanced Research Projects Agency,HR0011-09-C-0002
+W2066930759,1,F4320306137,Bill and Melinda Gates Foundation,OPP1048577
+W2066930759,2,F4320337409,Division of Research on Learning in Formal and Informal Settings,DRL-1031398
+W2026935019,1,F4320306076,National Science Foundation,CCF-1217590
+W2120003999,1,F4320306106,U.S. Department of Education,"R305A090170, R305A120778"
+W2120003999,2,F4320337368,Division of Graduate Education,"NSF-DRL#0733286, NSF-DRL#1008649, NSF-DGE#0742503"
+W2120003999,3,F4320337409,Division of Research on Learning in Formal and Informal Settings,"NSF-DRL#0733286, NSF-DRL#1008649, NSF-DGE#0742503"
+W2073951917,1,F4320306076,National Science Foundation,1151662
+W2073564602,1,F4320306076,National Science Foundation,NA
+W1979897082,1,F4320306076,National Science Foundation,NA
+W1980046290,1,F4320337387,Division of Computing and Communication Foundations,CCF-1317249
+W2028240896,1,F4320313814,Marquette University,NA
+W2090455692,1,F4320306076,National Science Foundation,NA
+W2071914139,1,F4320310633,Central Michigan University,NA
+W1530422984,1,F4320335199,Korea Institute of Energy Technology Evaluation and Planning,20118530020020
+W2057495020,1,F4320338294,Air Force Research Laboratory,NA
+W2018564121,1,F4320306076,National Science Foundation,0833203 and 0747357
+W2018564121,2,F4320306084,U.S. Department of Energy,DESC001770
+W2018564121,3,F4320321001,National Natural Science Foundation of China,60921002
+W2018564121,4,F4320321001,National Natural Science Foundation of China,61202055
+W2018564121,5,F4320321540,Ministry of Science and Technology of the People's Republic of China,2011CB302504
+W2018564121,6,F4320334704,Australian Research Council,DP0987236 and DP110104628
+W2092363524,1,F4320321001,National Natural Science Foundation of China,2010CDB5201
+W2092363524,2,F4320321001,National Natural Science Foundation of China,Q200625001
+W2092363524,3,F4320321001,National Natural Science Foundation of China,61172084
+W2092363524,4,F4320321001,National Natural Science Foundation of China,2007AA01Z138
+W2158625202,1,F4320306076,National Science Foundation,NA
+W2072577786,1,F4320313392,New Mexico Geological Society,NA
+W2072577786,2,F4320333541,"New Mexico Water Resources Research Institute, New Mexico State University",W09010
+W2073951917,1,F4320306076,National Science Foundation,1151662
+W1984392244,1,F4320306101,National Aeronautics and Space Administration,NNX07AD99G
+W1984392244,2,F4320337388,Division of Computer and Network Systems,CSR-1117300
+W1988415821,1,F4320306164,Simons Foundation,#209654
+W2019557226,1,F4320321001,National Natural Science Foundation of China,"61229301, 61273297, 61273292"
+W2019557226,2,F4320321540,Ministry of Science and Technology of the People's Republic of China,2013CB329604
+W2019557226,3,F4320321540,Ministry of Science and Technology of the People's Republic of China,2012AA011005
+W2019557226,4,F4320337389,Division of Information and Intelligent Systems,IIS-1115417
+W2143426584,1,F4320306076,National Science Foundation,NA
+W1966075913,1,F4320321001,National Natural Science Foundation of China,654060
+W2072515363,1,F4320306076,National Science Foundation,DMS 0654060
+W2109251694,1,F4320306076,National Science Foundation,NA
+W2012988583,1,F4320332202,Research Foundation of The City University of New York,NA
