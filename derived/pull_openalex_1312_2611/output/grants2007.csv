@@ -1,0 +1,873 @@
+id,which_grant,funder_id,funder_name,award_id
+W2023263797,1,F4320306127,U.S. Department of Veterans Affairs,NA
+W2023263797,2,F4320307765,Pfizer,NA
+W2023263797,3,F4320309610,Health Services Research and Development,NA
+W2023263797,4,F4320332161,National Institutes of Health,HL39006
+W2023263797,5,F4320332161,National Institutes of Health,HL73753
+W2023263797,6,F4320332161,National Institutes of Health,HL77398
+W2071661596,1,F4320332161,National Institutes of Health,P01-HD30367
+W2071661596,2,F4320332161,National Institutes of Health,R01-HL73469
+W2022531328,1,F4320332161,National Institutes of Health,1RO1N540825
+W2022531328,2,F4320332161,National Institutes of Health,1RO1N538664
+W2125124193,1,F4320332161,National Institutes of Health,AR47314
+W2125124193,2,F4320332161,National Institutes of Health,AR051372
+W2125124193,3,F4320332161,National Institutes of Health,AR052730
+W2125124193,4,F4320332161,National Institutes of Health,AR48884
+W1980226003,1,F4320320300,European Commission,LSH-CT-2006-037315
+W1980226003,2,F4320320879,Deutsche Forschungsgemeinschaft,SA434/4-1
+W1980226003,3,F4320321114,Bundesministerium für Bildung und Forschung,01GS0479
+W1980226003,4,F4320332161,National Institutes of Health,NS051834
+W1980226003,5,F4320337350,National Eye Institute,EY010329
+W1988333651,1,F4320337362,National Institute of Arthritis and Musculoskeletal and Skin Diseases,AR052255-02
+W1982068546,1,F4320332161,National Institutes of Health,CA 85693
+W1982068546,2,F4320332161,National Institutes of Health,ES 11163
+W1982068546,3,F4320332161,National Institutes of Health,85693
+W2070932938,1,F4320306597,American Epilepsy Society,NA
+W2070932938,2,F4320307214,Citizens United for Research in Epilepsy,NA
+W2070932938,3,F4320337359,National Institute of Neurological Disorders and Stroke,NA
+W2075628440,1,F4320332161,National Institutes of Health,GM068680
+W1966661437,1,F4320320879,Deutsche Forschungsgemeinschaft,NA
+W1966661437,2,F4320332161,National Institutes of Health,GM69958
+W1966661437,3,F4320332161,National Institutes of Health,AI046943
+W2117737334,1,F4320332161,National Institutes of Health,P01 HD35576
+W2014683560,1,F4320332161,National Institutes of Health,NA
+W2061591470,1,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",13770761
+W2061591470,2,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",10178102
+W2061591470,3,F4320332161,National Institutes of Health,NA
+W2061591470,4,F4320337359,National Institute of Neurological Disorders and Stroke,R01-NS45879
+W2087680166,1,F4320307154,American Lung Association,RG-10215N
+W2087680166,2,F4320307154,American Lung Association,LC-06-004
+W2033832693,1,F4320332161,National Institutes of Health,Grants GM58692
+W2010838917,1,F4320321181,Austrian Science Fund,NA
+W105146300,1,F4320306903,Chesapeake Research Consortium,NA
+W105146300,2,F4320334506,Canadian Institutes of Health Research,NA
+W105146300,3,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W172223892,1,F4320332505,U.S. Public Health Service,DA020645 and RR00165
+W188032655,1,F4320332161,National Institutes of Health,NA
+W2024880235,1,F4320332161,National Institutes of Health,DK20593
+W2096803511,1,F4320332161,National Institutes of Health,EY11500
+W2096803511,2,F4320332161,National Institutes of Health,GM 060019
+W2096803511,3,F4320332161,National Institutes of Health,GM70642
+W2096803511,4,F4320332161,National Institutes of Health,AI58024
+W2153456094,1,F4320309151,Vanderbilt University,NA
+W2009416161,1,F4320332161,National Institutes of Health,R01-GM51188
+W2009416161,2,F4320332161,National Institutes of Health,R01-DE12308
+W2009416161,3,F4320337351,National Cancer Institute,P30 CA36727
+W2031966976,1,F4320332161,National Institutes of Health,AR051968
+W2127268888,1,F4320332161,National Institutes of Health,NA
+W2127268888,2,F4320337350,National Eye Institute,U10 EY12118-05
+W2037017587,1,F4320332161,National Institutes of Health,NS048882-01
+W2037017587,2,F4320332161,National Institutes of Health,NS41740
+W2154473611,1,F4320306095,American Cancer Society,RSG 102299
+W2154473611,2,F4320306127,U.S. Department of Veterans Affairs,NA
+W2154473611,3,F4320332161,National Institutes of Health,1RO1AI50213-01
+W2154473611,4,F4320332161,National Institutes of Health,1R01EB002825
+W117469543,1,F4320332161,National Institutes of Health,GM069415
+W3176455114,1,F4320307149,American Historical Association,NS052446
+W3176455114,2,F4320332161,National Institutes of Health,EY010291
+W353436518,1,F4320332505,U.S. Public Health Service,RO1 ES10375
+W35911669,1,F4320332161,National Institutes of Health,RO1 GM47485
+W39049370,1,F4320332161,National Institutes of Health,EY11500
+W39049370,2,F4320332161,National Institutes of Health,NS45117
+W7344698,1,F4320332161,National Institutes of Health,RO1HL068572
+W2152906974,1,F4320308533,BIRD Foundation,NA
+W2152906974,2,F4320320879,Deutsche Forschungsgemeinschaft,SFB 554
+W2152906974,3,F4320320879,Deutsche Forschungsgemeinschaft,GRK 1156
+W2152906974,4,F4320332161,National Institutes of Health,NA
+W2152906974,5,F4320334789,Japan Science and Technology Agency,NA
+W2152906974,6,F4320337364,National Institute of Child Health and Human Development,HD008748-03
+W2152906974,7,F4320337375,National Center for Research Resources,RO1 08688 17
+W1980064967,1,F4320306076,National Science Foundation,DGE-0114420
+W1980064967,2,F4320332161,National Institutes of Health,GM 08659
+W1980064967,3,F4320332161,National Institutes of Health,MCB 0418946
+W1966215826,1,F4320337345,Office of Naval Research,N00014-03-1-0428
+W1966215826,2,F4320337346,National Institute of Mental Health,MH069597 ; MH64445
+W2024610577,1,F4320306076,National Science Foundation,0115642
+W2145582144,1,F4320332161,National Institutes of Health,ES-6694
+W2145582144,2,F4320332161,National Institutes of Health,CA-23074
+W2145582144,3,F4320332161,National Institutes of Health,CA-43894
+W2167371823,1,F4320320879,Deutsche Forschungsgemeinschaft,NA
+W1555328432,1,F4320323054,Associazione Italiana per la Ricerca sul Cancro,NA
+W2020540287,1,F4320320879,Deutsche Forschungsgemeinschaft,He 1382/14-1
+W2020540287,2,F4320332161,National Institutes of Health,GM 66126
+W2085374743,1,F4320332161,National Institutes of Health,CA 09612
+W2069711103,1,F4320306797,Pediatric Brain Tumor Foundation,NA
+W2069711103,2,F4320332161,National Institutes of Health,R01 CA104926
+W2069711103,3,F4320337351,National Cancer Institute,CA023074-26
+W2069711103,4,F4320337361,National Institute of Environmental Health Sciences,ES06694
+W2152538475,1,F4320332161,National Institutes of Health,GM56120
+W183636054,1,F4320332161,National Institutes of Health,RR017426
+W197862728,1,F4320332161,National Institutes of Health,"HL66044 (RJP, RML)"
+W3174182135,1,F4320332161,National Institutes of Health,NR005208
+W2019239618,1,F4320332161,National Institutes of Health,R01 CA094008
+W2019239618,2,F4320337351,National Cancer Institute,NA
+W2019239618,3,F4320337357,National Institute of Diabetes and Digestive and Kidney Diseases,NA
+W2167054863,1,F4320306076,National Science Foundation,(DEB 0120709)
+W2038872813,1,F4320332161,National Institutes of Health,GM067700
+W2038872813,2,F4320332161,National Institutes of Health,F32-GM76961
+W2038872813,3,F4320332161,National Institutes of Health,GM037951
+W2001130890,1,F4320306133,Burroughs Wellcome Fund,NA
+W2001130890,2,F4320306182,March of Dimes Foundation,NA
+W2001130890,3,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2001130890,4,F4320332161,National Institutes of Health,NA
+W2001130890,5,F4320337354,National Institute of General Medical Sciences,NA
+W2031923605,1,F4320332161,National Institutes of Health,RO1 CA92245
+W2031923605,2,F4320332161,National Institutes of Health,R01 CA094008
+W2016165808,1,F4320321897,Sveriges Geologiska Undersökning,SGU 03-1172/98
+W2086841732,1,F4320337351,National Cancer Institute,CA117314
+W2086841732,2,F4320337351,National Cancer Institute,CA102510
+W2086841732,3,F4320337351,National Cancer Institute,CA16672
+W2086841732,4,F4320337361,National Institute of Environmental Health Sciences,ES07784
+W2019561790,1,F4320306076,National Science Foundation,NA
+W2019561790,2,F4320306082,Howard Hughes Medical Institute,NA
+W2019561790,3,F4320306159,W. M. Keck Foundation,NA
+W2019561790,4,F4320317089,National Biomedical Computation Resource,NA
+W2019561790,5,F4320332161,National Institutes of Health,NA
+W2015171781,1,F4320306196,Welch Foundation,NA
+W2015171781,2,F4320332161,National Institutes of Health,GM35654
+W2080989011,1,F4320306196,Welch Foundation,NA
+W2080989011,2,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",15076204
+W2080989011,3,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",13853002
+W2080989011,4,F4320332161,National Institutes of Health,R37GM27750
+W2110477362,1,F4320306196,Welch Foundation,C06 RR-16572-01
+W2110477362,2,F4320332161,National Institutes of Health,GM54215
+W2110477362,3,F4320332161,National Institutes of Health,GM35654
+W2110477362,4,F4320337375,National Center for Research Resources,NA
+W139733174,1,F4320306230,American Heart Association,0635341N
+W144753937,1,F4320306095,American Cancer Society,NA
+W2076312647,1,F4320306229,American Health Assistance Foundation,NA
+W2076312647,2,F4320337346,National Institute of Mental Health,NA
+W2076312647,3,F4320337359,National Institute of Neurological Disorders and Stroke,NA
+W2167301573,1,F4320332161,National Institutes of Health,CA‐98817
+W2167301573,2,F4320332161,National Institutes of Health,AR‐50251
+W2167301573,3,F4320332447,U.S. Army,PC020372
+W2167301573,4,F4320332447,U.S. Army,PC050949
+W2076742934,1,F4320306728,Charles H. Hood Foundation,NA
+W2076742934,2,F4320332161,National Institutes of Health,AI061381
+W2168011507,1,F4320332161,National Institutes of Health,R37 GM39519
+W1992495580,1,F4320332161,National Institutes of Health,"Grants CA101952, DK37206, and P50 CA97247"
+W2060362234,1,F4320332161,National Institutes of Health,GM47980
+W2094565648,1,F4320321001,National Natural Science Foundation of China,30170798
+W104080729,1,F4320332161,National Institutes of Health,R01 HL076165 and R01HL079364
+W10529949,1,F4320332161,National Institutes of Health,"HL076165, and HL079364"
+W14066188,1,F4320332161,National Institutes of Health,MO1RR02602/CReFF
+W14066188,2,F4320332161,National Institutes of Health,DK07778
+W19263702,1,F4320332161,National Institutes of Health,DK07545
+W19263702,2,F4320332161,National Institutes of Health,CA101952
+W2076083401,1,F4320321001,National Natural Science Foundation of China,39970867
+W3174585525,1,F4320307149,American Historical Association,0635355N
+W4251310229,1,F4320332161,National Institutes of Health,CA101952
+W57181813,1,F4320308332,Presbyterian Historical Society,GM51262
+W78013730,1,F4320332161,National Institutes of Health,CA101952 and DK37206
+W82575538,1,F4320308332,Presbyterian Historical Society,GM51262
+W2098968010,1,F4320332161,National Institutes of Health,1R01GM067851-01
+W2098968010,2,F4320337338,"National Heart, Lung, and Blood Institute",NA
+W2594475116,1,F4320306076,National Science Foundation,NA
+W2008853223,1,F4320332161,National Institutes of Health,R01GM075225
+W2149694551,1,F4320337354,National Institute of General Medical Sciences,(GM 073723 and GM 072512)
+W2149694551,2,F4320337375,National Center for Research Resources,(RR021239 and RR021862)
+W2077732673,1,F4320306076,National Science Foundation,IBN-0209788
+W2077732673,2,F4320306084,U.S. Department of Energy,DEFG02-95ER20200
+W2077732673,3,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2077732673,4,F4320322258,Iwate University,NA
+W2077732673,5,F4320334764,Japan Society for the Promotion of Science,NA
+W100108259,1,F4320332161,National Institutes of Health,CA105005
+W100108259,2,F4320332161,National Institutes of Health,CA78282
+W41234685,1,F4320332161,National Institutes of Health,AR051396
+W2122957082,1,F4320306076,National Science Foundation,EF‐0431057
+W2122957082,2,F4320309646,Virginia Polytechnic Institute and State University,NA
+W2122957082,3,F4320312559,Sigma Xia,NA
+W2093860423,1,F4320309646,Virginia Polytechnic Institute and State University,NA
+W2093860423,2,F4320320994,Canada Research Chairs,NA
+W2093860423,3,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W2072598942,1,F4320306076,National Science Foundation,2R01AI045774-06A2
+W2072598942,2,F4320306076,National Science Foundation,R01 GM068947-01
+W2072598942,3,F4320306076,National Science Foundation,MCB-0520140
+W2072598942,4,F4320306076,National Science Foundation,MCB-0312857
+W2072598942,5,F4320332161,National Institutes of Health,2R01AI045774-06A2
+W2072598942,6,F4320332161,National Institutes of Health,R01 GM068947-01
+W2072598942,7,F4320332161,National Institutes of Health,MCB-0520140
+W2072598942,8,F4320332161,National Institutes of Health,MCB-0312857
+W2072598942,9,F4320337354,National Institute of General Medical Sciences,2R01AI045774-06A2
+W2072598942,10,F4320337354,National Institute of General Medical Sciences,R01 GM068947-01
+W2072598942,11,F4320337354,National Institute of General Medical Sciences,MCB-0520140
+W2072598942,12,F4320337354,National Institute of General Medical Sciences,MCB-0312857
+W2072598942,13,F4320337355,National Institute of Allergy and Infectious Diseases,2R01AI045774-06A2
+W2072598942,14,F4320337355,National Institute of Allergy and Infectious Diseases,R01 GM068947-01
+W2072598942,15,F4320337355,National Institute of Allergy and Infectious Diseases,MCB-0520140
+W2072598942,16,F4320337355,National Institute of Allergy and Infectious Diseases,MCB-0312857
+W97153971,1,F4320306076,National Science Foundation,NA
+W154311832,1,F4320332161,National Institutes of Health,K01RR16241‐01
+W2139864041,1,F4320332161,National Institutes of Health,ES-07079
+W2139864041,2,F4320332161,National Institutes of Health,ES-09716
+W2594475116,1,F4320306076,National Science Foundation,NA
+W2008580344,1,F4320332161,National Institutes of Health,T32 DC00011
+W2008580344,2,F4320332161,National Institutes of Health,P30 DC05188
+W2008580344,3,F4320332161,National Institutes of Health,R01 DC04825
+W2008580344,4,F4320332161,National Institutes of Health,T32 EY013934
+W2008580344,5,F4320332161,National Institutes of Health,T32 GM07544
+W2008580344,6,F4320332161,National Institutes of Health,R01 EY14259
+W2112161053,1,F4320320879,Deutsche Forschungsgemeinschaft,Hu 586/2-2
+W2112161053,2,F4320320879,Deutsche Forschungsgemeinschaft,He 1578/6-4
+W2112161053,3,F4320332161,National Institutes of Health,T32 HL07382-30
+W2112161053,4,F4320332161,National Institutes of Health,R01 HL079599-01
+W2112161053,5,F4320335423,"Center for Molecular Medicine Cologne, University of Cologne",TV 81/A5
+W1990494960,1,F4320306168,Cystic Fibrosis Foundation,DONG0610
+W1990494960,2,F4320337357,National Institute of Diabetes and Digestive and Kidney Diseases,RO1‐DK‐47318
+W1990494960,3,F4320337357,National Institute of Diabetes and Digestive and Kidney Diseases,RO1‐DK‐33491
+W1995993143,1,F4320334737,National Medical Research Council,R176 000 077 213
+W2125356360,1,F4320306076,National Science Foundation,(DEB 9815878)
+W203955598,1,F4320332161,National Institutes of Health,RO1 HL68725
+W2338543689,1,F4320307149,American Historical Association,HL075265
+W2028512686,1,F4320306082,Howard Hughes Medical Institute,NA
+W2028512686,2,F4320306168,Cystic Fibrosis Foundation,NA
+W2028512686,3,F4320332161,National Institutes of Health,GM47869
+W2028512686,4,F4320332161,National Institutes of Health,P41 RR11823
+W1966215826,1,F4320337345,Office of Naval Research,N00014-03-1-0428
+W1966215826,2,F4320337346,National Institute of Mental Health,MH069597 ; MH64445
+W2007817855,1,F4320306182,March of Dimes Foundation,1-FY07-520
+W2007817855,2,F4320306271,Damon Runyon Cancer Research Foundation,1879-05
+W2007817855,3,F4320332161,National Institutes of Health,GM074746
+W2051652416,1,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2155953647,1,F4320306076,National Science Foundation,BSR‐8614967
+W3012846063,1,F4320332161,National Institutes of Health,R01 GM48521
+W2119457381,1,F4320308332,Presbyterian Historical Society,AI59775
+W2047031299,1,F4320306230,American Heart Association,0615343U
+W2047031299,2,F4320332161,National Institutes of Health,AI11676
+W2047031299,3,F4320332161,National Institutes of Health,GM58888
+W2066555851,1,F4320332161,National Institutes of Health,RR0819
+W2066555851,2,F4320332161,National Institutes of Health,AI11676
+W2066555851,3,F4320332161,National Institutes of Health,HG002655
+W1770585052,1,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",17390363
+W1984265925,1,F4320320966,University of Sydney,NA
+W1984265925,2,F4320332161,National Institutes of Health,NA
+W1984265925,3,F4320337338,"National Heart, Lung, and Blood Institute",70855
+W2048049639,1,F4320332161,National Institutes of Health,AI056264
+W2048049639,2,F4320332161,National Institutes of Health,AI061482
+W2125782295,1,F4320332161,National Institutes of Health,R21RR015264
+W167551495,1,F4320306076,National Science Foundation,2 R01‐GM020818
+W167551495,2,F4320337354,National Institute of General Medical Sciences,2 R01‐GM020818
+W35631266,1,F4320306085,U.S. Department of Health and Human Services,NA
+W35631266,2,F4320320921,International Foundation for Research in Paraplegia,NA
+W35631266,3,F4320332161,National Institutes of Health,NA
+W35631266,4,F4320337347,National Institute on Drug Abuse,NA
+W100108259,1,F4320332161,National Institutes of Health,CA105005
+W100108259,2,F4320332161,National Institutes of Health,CA78282
+W102190469,1,F4320306230,American Heart Association,0625404U
+W159390937,1,F4320307149,American Historical Association,NA
+W159390937,2,F4320337354,National Institute of General Medical Sciences,NA
+W159390937,3,F4320337357,National Institute of Diabetes and Digestive and Kidney Diseases,NA
+W163245567,1,F4320337338,"National Heart, Lung, and Blood Institute",NA
+W163245567,2,F4320337359,National Institute of Neurological Disorders and Stroke,NA
+W172501350,1,F4320332161,National Institutes of Health,R01 GM69967
+W2778689595,1,F4320332161,National Institutes of Health,RO1 DK61425
+W45502669,1,F4320306095,American Cancer Society,CDD107745
+W45502669,2,F4320332161,National Institutes of Health,R01 CA107331
+W45502669,3,F4320332161,National Institutes of Health,R01 GM58888
+W2139864041,1,F4320332161,National Institutes of Health,ES-07079
+W2139864041,2,F4320332161,National Institutes of Health,ES-09716
+W2025806801,1,F4320337338,"National Heart, Lung, and Blood Institute",R01 HL-50775
+W2004326644,1,F4320332161,National Institutes of Health,GM48071
+W2004326644,2,F4320332161,National Institutes of Health,GM 65830
+W2036372135,1,F4320309768,Educational Foundation of America,NA
+W2036372135,2,F4320332161,National Institutes of Health,NS047993
+W2036372135,3,F4320332161,National Institutes of Health,NS35439
+W2036372135,4,F4320332161,National Institutes of Health,NS30884
+W2036372135,5,F4320332161,National Institutes of Health,NS36548
+W2036372135,6,F4320332161,National Institutes of Health,NS45540
+W2130514108,1,F4320308625,Flight Attendant Medical Research Institute,NA
+W2130514108,2,F4320332161,National Institutes of Health,DE14173
+W2130514108,3,F4320332161,National Institutes of Health,ES014384
+W2130514108,4,F4320332161,National Institutes of Health,CA117327
+W2046780536,1,F4320332161,National Institutes of Health,GM62136
+W1997044119,1,F4320337337,National Institute on Aging,P01 AG00538
+W1997044119,2,F4320337337,National Institute on Aging,P50 AG16573
+W1975839958,1,F4320337350,National Eye Institute,EY08282
+W2036125147,1,F4320321006,Grantová Agentura České Republiky,203/05/H001
+W2141144755,1,F4320332161,National Institutes of Health,NA
+W2080852273,1,F4320332161,National Institutes of Health,R01-GM067808
+W2125356360,1,F4320306076,National Science Foundation,(DEB 9815878)
+W2065563322,1,F4320332161,National Institutes of Health,NA
+W2065563322,2,F4320332505,U.S. Public Health Service,AI 26765
+W2065563322,3,F4320332505,U.S. Public Health Service,NS 48336
+W35631266,1,F4320306085,U.S. Department of Health and Human Services,NA
+W35631266,2,F4320320921,International Foundation for Research in Paraplegia,NA
+W35631266,3,F4320332161,National Institutes of Health,NA
+W35631266,4,F4320337347,National Institute on Drug Abuse,NA
+W174524545,1,F4320332161,National Institutes of Health,"MH60231, DK63001 and DK70619"
+W3015517288,1,F4320337354,National Institute of General Medical Sciences,NA
+W3015517288,2,F4320337375,National Center for Research Resources,NA
+W37606664,1,F4320332161,National Institutes of Health,GM69829
+W6289067,1,F4320332161,National Institutes of Health,HL079166
+W8485888,1,F4320332161,National Institutes of Health,69829
+W2038872813,1,F4320332161,National Institutes of Health,GM067700
+W2038872813,2,F4320332161,National Institutes of Health,F32-GM76961
+W2038872813,3,F4320332161,National Institutes of Health,GM037951
+W2039493826,1,F4320306134,Doris Duke Charitable Foundation,NA
+W2039493826,2,F4320306191,Donald W. Reynolds Foundation,NA
+W2039493826,3,F4320307115,Bristol-Myers Squibb,NA
+W2039493826,4,F4320320890,Fondation Leducq,NA
+W2039493826,5,F4320332161,National Institutes of Health,HL082740
+W2039493826,6,F4320332161,National Institutes of Health,HL57506
+W2039493826,7,F4320332161,National Institutes of Health,U01 HL083-1341
+W2039493826,8,F4320332161,National Institutes of Health,HL60942
+W2044575281,1,F4320332161,National Institutes of Health,T32 HD007104
+W2044575281,2,F4320332161,National Institutes of Health,GM50752
+W2044575281,3,F4320332161,National Institutes of Health,AG19660
+W2044575281,4,F4320332161,National Institutes of Health,F32 AG022743
+W2049953918,1,F4320332161,National Institutes of Health,K25 DK071027
+W2049953918,2,F4320332161,National Institutes of Health,DK27651
+W2049953918,3,F4320332161,National Institutes of Health,HL41618
+W2049953918,4,F4320332161,National Institutes of Health,DK07678
+W1968701146,1,F4320324524,Delta Environmental and Educational Foundation,NA
+W2069273760,1,F4320307844,European Molecular Biology Organization,NA
+W2069273760,2,F4320310281,Case Western Reserve University,NA
+W2069273760,3,F4320320879,Deutsche Forschungsgemeinschaft,GE-976/2
+W2069273760,4,F4320332161,National Institutes of Health,R21 AI62516
+W2069273760,5,F4320332582,"Center for AIDS Research, University of Washington",NA
+W2088525145,1,F4320337351,National Cancer Institute,DK60684
+W2088525145,2,F4320337351,National Cancer Institute,BCTR27606
+W2045034836,1,F4320332161,National Institutes of Health,T32-EY07157
+W2045034836,2,F4320332161,National Institutes of Health,PO-EY11373
+W2045034836,3,F4320332161,National Institutes of Health,RO1-EY12251
+W2045034836,4,F4320337350,National Eye Institute,NA
+W1979056528,1,F4320332161,National Institutes of Health,HL48819
+W1979056528,2,F4320332161,National Institutes of Health,DK50570
+W1979056528,3,F4320332161,National Institutes of Health,CA78433
+W1986412107,1,F4320332161,National Institutes of Health,HL68698
+W2021542818,1,F4320332161,National Institutes of Health,EB002067
+W2004573767,1,F4320332161,National Institutes of Health,R01-EY12251
+W2004573767,2,F4320332161,National Institutes of Health,PO-EY11373
+W2004573767,3,F4320337350,National Eye Institute,NA
+W131433657,1,F4320332161,National Institutes of Health,GCRC M01 RR 00080
+W131433657,2,F4320332161,National Institutes of Health,1R33DK070291‐01
+W111012448,1,F4320332161,National Institutes of Health,ES103507
+W111012448,2,F4320332161,National Institutes of Health,HL0775436
+W111012448,3,F4320332161,National Institutes of Health,HL65314
+W170654184,1,F4320332161,National Institutes of Health,NA
+W176037108,1,F4320332161,National Institutes of Health,R01 AG 024413
+W176037108,2,F4320332161,National Institutes of Health,P01 AG 15885
+W191462404,1,F4320332161,National Institutes of Health,R01 AG 024413 & P01 AG 15885
+W194718095,1,F4320332161,National Institutes of Health,DK07319
+W194718095,2,F4320332161,National Institutes of Health,DK 25541
+W2341754081,1,F4320332161,National Institutes of Health,R01 AG024413
+W2341754081,2,F4320337350,National Eye Institute,5 T32 EY07157 (MDS)
+W35911669,1,F4320332161,National Institutes of Health,RO1 GM47485
+W52254024,1,F4320332161,National Institutes of Health,P30CA43703
+W52254024,2,F4320332161,National Institutes of Health,IRG‐91‐022
+W79265237,1,F4320332161,National Institutes of Health,ES013925
+W2098943363,1,F4320332161,National Institutes of Health,GM55230
+W2098943363,2,F4320332161,National Institutes of Health,RR05357
+W2144996654,1,F4320306084,U.S. Department of Energy,W-31-109-Eng-38
+W2144996654,2,F4320320907,Japan Science and Technology Corporation,W-31-109-Eng-38
+W2144996654,3,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",W-31-109-Eng-38
+W2144996654,4,F4320332359,Office of Science,W-31-109-Eng-38
+W2144996654,5,F4320335125,RIKEN,W-31-109-Eng-38
+W2144996654,6,F4320337480,Basic Energy Sciences,W-31-109-Eng-38
+W2017888677,1,F4320306095,American Cancer Society,RSG-01-251-01-DDC
+W2017888677,2,F4320332161,National Institutes of Health,NA
+W2017888677,3,F4320337354,National Institute of General Medical Sciences,R01 GM074212
+W2009651068,1,F4320308888,Tinker Foundation,NA
+W2009651068,2,F4320313191,United Soybean Board,NA
+W2112865266,1,F4320306076,National Science Foundation,DBI‐0553417
+W2076491127,1,F4320306230,American Heart Association,EY11766
+W2076491127,2,F4320306230,American Heart Association,EY04618
+W1980730385,1,F4320306230,American Heart Association,AHA0465228B
+W1980730385,2,F4320332161,National Institutes of Health,DK32303
+W1971093218,1,F4320332161,National Institutes of Health,NA
+W1971093218,2,F4320337354,National Institute of General Medical Sciences,NA
+W2060538818,1,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2069176791,1,F4320310224,Georgia Research Alliance,NA
+W2069176791,2,F4320321001,National Natural Science Foundation of China,30670427
+W2069176791,3,F4320332161,National Institutes of Health,1P50 GM62407
+W2069176791,4,F4320333321,University of Georgia Research Foundation,NA
+W2156411696,1,F4320306114,U.S. Department of Agriculture,NRICGP‐2000‐00882
+W1968475366,1,F4320306076,National Science Foundation,NA
+W1968475366,2,F4320306095,American Cancer Society,RSG-05-106-01-CDD
+W1968475366,3,F4320308294,Tobacco-Related Disease Research Program,14RT-0034
+W1968475366,4,F4320332161,National Institutes of Health,RO1 NS045061
+W2037663758,1,F4320306084,U.S. Department of Energy,DE-FG02-04ER63785
+W2037663758,2,F4320306202,Gordon and Betty Moore Foundation,NA
+W2037663758,3,F4320306472,Ralph M. Parsons Foundation,NA
+W2037663758,4,F4320311180,Agouron Institute,NA
+W2037663758,5,F4320332161,National Institutes of Health,P01 GM66521
+W2037663758,6,F4320332161,National Institutes of Health,R01 AI067548
+W2047653986,1,F4320337375,National Center for Research Resources,U24RR021760
+W2047653986,2,F4320337375,National Center for Research Resources,R21HD047347-01A2
+W2047653986,3,F4320337375,National Center for Research Resources,P50 HG004071
+W2115637023,1,F4320306101,National Aeronautics and Space Administration,NA
+W2115637023,2,F4320306202,Gordon and Betty Moore Foundation,NA
+W2115637023,3,F4320311180,Agouron Institute,NA
+W2051067631,1,F4320332161,National Institutes of Health,GM079427
+W2051067631,2,F4320332161,National Institutes of Health,NS34407
+W2165566115,1,F4320321079,Russian Foundation for Basic Research,N 05-02-16639a
+W2165566115,2,F4320321912,Ministry of Education and Science of the Russian Federation,N 2.1.1.741
+W2165566115,3,F4320334789,Japan Science and Technology Agency,NA
+W2024610577,1,F4320306076,National Science Foundation,0115642
+W1975020522,1,F4320332161,National Institutes of Health,0725313B
+W1975020522,2,F4320332161,National Institutes of Health,1-06-RA-17
+W1975020522,3,F4320332161,National Institutes of Health,HL084611
+W1975020522,4,F4320332161,National Institutes of Health,0435239N
+W2008059178,1,F4320312585,Kentucky Agricultural Experiment Station,NA
+W2008059178,2,F4320323556,Deutsche Krebshilfe,06356
+W2006326628,1,F4320311877,Archer Daniels Midland,NA
+W2006326628,2,F4320312585,Kentucky Agricultural Experiment Station,KY 007047
+W1986412107,1,F4320332161,National Institutes of Health,HL68698
+W2000775199,1,F4320332161,National Institutes of Health,ES013661
+W2000775199,2,F4320332161,National Institutes of Health,ES07380
+W2000775199,3,F4320332161,National Institutes of Health,CA01688
+W3175464119,1,F4320307149,American Historical Association,0615263B
+W14066188,1,F4320332161,National Institutes of Health,MO1RR02602/CReFF
+W14066188,2,F4320332161,National Institutes of Health,DK07778
+W147556023,1,F4320332161,National Institutes of Health,AG‐20407 and AR‐47577
+W23825217,1,F4320306114,U.S. Department of Agriculture,NA
+W82686307,1,F4320307324,Kidney Cancer Association,NA
+W2033312420,1,F4320332161,National Institutes of Health,P30‐AR46024
+W1975073052,1,F4320332161,National Institutes of Health,R01HL084590
+W2166574691,1,F4320306497,Roswell Park Cancer Institute,NA
+W2166574691,2,F4320311756,Arkansas Tech University,NA
+W1979599706,1,F4320332161,National Institutes of Health,DK55626
+W2045627288,1,F4320332161,National Institutes of Health,NA
+W2028042140,1,F4320332161,National Institutes of Health,NA
+W2028042140,2,F4320337337,National Institute on Aging,NA
+W2016448166,1,F4320308295,Leukemia and Lymphoma Society,NA
+W2016448166,2,F4320332161,National Institutes of Health,PO1CA092615
+W2016448166,3,F4320332161,National Institutes of Health,AI052400
+W2016448166,4,F4320332161,National Institutes of Health,AI24465
+W2107438214,1,F4320332161,National Institutes of Health,EB006067
+W2107438214,2,F4320332161,National Institutes of Health,GM060741
+W2107438214,3,F4320337345,Office of Naval Research,N00014-06-1-0100
+W2044166144,1,F4320306076,National Science Foundation,NA
+W2044166144,2,F4320332161,National Institutes of Health,DE 16533
+W2044166144,3,F4320337367,Division of Materials Research,NA
+W2044166144,4,F4320338278,Air Force Institute of Technology,NA
+W1996547062,1,F4320306230,American Heart Association,0230038N
+W1996547062,2,F4320332161,National Institutes of Health,AR020792
+W1996547062,3,F4320332161,National Institutes of Health,HL073828
+W1996547062,4,F4320332161,National Institutes of Health,HL022231
+W1996547062,5,F4320332161,National Institutes of Health,HL073600
+W2041301759,1,F4320337351,National Cancer Institute,CA71358
+W2093031472,1,F4320306481,Prevent Cancer Foundation,NE/3521773/1
+W2093031472,2,F4320306481,Prevent Cancer Foundation,CA114688
+W2093031472,3,F4320306481,Prevent Cancer Foundation,DE016569
+W2093031472,4,F4320306481,Prevent Cancer Foundation,DE014847
+W2110786084,1,F4320332161,National Institutes of Health,NA
+W2110786084,2,F4320337351,National Cancer Institute,NA
+W1966661437,1,F4320320879,Deutsche Forschungsgemeinschaft,NA
+W1966661437,2,F4320332161,National Institutes of Health,GM69958
+W1966661437,3,F4320332161,National Institutes of Health,AI046943
+W2014540334,1,F4320306084,U.S. Department of Energy,EY10457
+W2014540334,2,F4320306084,U.S. Department of Energy,DEAC03-76SF0098
+W2014540334,3,F4320310758,Kreftforeningen,EY10457
+W2014540334,4,F4320310758,Kreftforeningen,DEAC03-76SF0098
+W2014540334,5,F4320332161,National Institutes of Health,EY10457
+W2014540334,6,F4320332161,National Institutes of Health,DEAC03-76SF0098
+W2113612800,1,F4320332161,National Institutes of Health,CA100994
+W2113612800,2,F4320332161,National Institutes of Health,CA93798
+W2113612800,3,F4320332161,National Institutes of Health,AR055073
+W2053687535,1,F4320332161,National Institutes of Health,GM 62160
+W2115023989,1,F4320306230,American Heart Association,NA
+W2115023989,2,F4320332161,National Institutes of Health,GM-65160
+W2115023989,3,F4320332161,National Institutes of Health,GM-56159
+W2115023989,4,F4320332161,National Institutes of Health,HL-06078
+W2061828104,1,F4320306078,U.S. Department of Defense,CM064025
+W2061828104,2,F4320306078,U.S. Department of Defense,BC052816
+W1990017087,1,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W1990017087,2,F4320334764,Japan Society for the Promotion of Science,NA
+W2035407146,1,F4320332161,National Institutes of Health,DK 58135
+W130475983,1,F4320332161,National Institutes of Health,R01HL07935
+W29203597,1,F4320332697,University of Illinois at Chicago,NA
+W3174960123,1,F4320332161,National Institutes of Health,GM59427 and AG06093
+W61360570,1,F4320306095,American Cancer Society,NA
+W61360570,2,F4320332161,National Institutes of Health,NA
+W2051791331,1,F4320306114,U.S. Department of Agriculture,2003‐34205‐13636
+W2051791331,2,F4320306114,U.S. Department of Agriculture,2006‐55606‐16629
+W2065270395,1,F4320306114,U.S. Department of Agriculture,2003‐34205‐13636
+W2065270395,2,F4320332605,Agricultural Research Service,2001-52100-11293
+W1969142635,1,F4320306082,Howard Hughes Medical Institute,NA
+W1969142635,2,F4320332505,U.S. Public Health Service,1 R01 GM077620
+W1969142635,3,F4320332505,U.S. Public Health Service,PO1 CA41086
+W2072688582,1,F4320306082,Howard Hughes Medical Institute,NA
+W2072688582,2,F4320332505,U.S. Public Health Service,PO1 CA41086
+W2072688582,3,F4320332505,U.S. Public Health Service,1 R01 GM077620
+W2031923605,1,F4320332161,National Institutes of Health,RO1 CA92245
+W2031923605,2,F4320332161,National Institutes of Health,R01 CA094008
+W2166239684,1,F4320332161,National Institutes of Health,NA
+W2115637023,1,F4320306101,National Aeronautics and Space Administration,NA
+W2115637023,2,F4320306202,Gordon and Betty Moore Foundation,NA
+W2115637023,3,F4320311180,Agouron Institute,NA
+W1967841473,1,F4320306076,National Science Foundation,NA
+W1967841473,2,F4320306107,U.S. Environmental Protection Agency,GAD R 832721-010
+W1967841473,3,F4320332161,National Institutes of Health,R24 GM069736
+W1967841473,4,F4320332161,National Institutes of Health,R01 GM52032
+W1966974824,1,F4320332161,National Institutes of Health,NA
+W147609091,1,F4320306076,National Science Foundation,DBI‐0139190
+W147609091,2,F4320332161,National Institutes of Health,P20 RR‐016463
+W1966929019,1,F4320306076,National Science Foundation,IBN-0128140
+W1966929019,2,F4320332161,National Institutes of Health,HD042251
+W2143076415,1,F4320337387,Division of Computing and Communication Foundations,CNS-0521568CCF-0431140
+W2143076415,2,F4320337388,Division of Computer and Network Systems,CNS-0521568CCF-0431140
+W2142310351,1,F4320306076,National Science Foundation,#IBN‐0235645
+W2091959215,1,F4320332161,National Institutes of Health,GM061657
+W2001449103,1,F4320306076,National Science Foundation,BES–0224600
+W1988725968,1,F4320313191,United Soybean Board,NA
+W2080662203,1,F4320306114,U.S. Department of Agriculture,2001‐35503‐10814
+W2047722327,1,F4320306076,National Science Foundation,9872635
+W82686307,1,F4320307324,Kidney Cancer Association,NA
+W2045492435,1,F4320337364,National Institute of Child Health and Human Development,HD042201
+W21795180,1,F4320332161,National Institutes of Health,AR048523
+W188440186,1,F4320332161,National Institutes of Health,HL059167
+W2407652292,1,F4320332161,National Institutes of Health,AA14852 and AA11962
+W78848733,1,F4320332161,National Institutes of Health,NA
+W78848733,2,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W2033012987,1,F4320306076,National Science Foundation,NA
+W2033012987,2,F4320306203,M.J. Murdock Charitable Trust,NA
+W2033012987,3,F4320306230,American Heart Association,NA
+W2107137914,1,F4320306076,National Science Foundation,IBN-0091337
+W2058348586,1,F4320306076,National Science Foundation,(MCB‐0417291)
+W2058348586,2,F4320306084,U.S. Department of Energy,(DE‐FG‐0397ER20259)
+W2061953859,1,F4320332161,National Institutes of Health,GM31354
+W2061953859,2,F4320332161,National Institutes of Health,GM13956
+W2011815072,1,F4320306076,National Science Foundation,11640619
+W2011815072,2,F4320306076,National Science Foundation,INT-9802676
+W2011815072,3,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2018595453,1,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",14572164
+W2109766432,1,F4320306076,National Science Foundation,DEB‐0089640
+W2090979247,1,F4320306076,National Science Foundation,EAR-0414817
+W2090979247,2,F4320306076,National Science Foundation,EAR-0439824
+W2162538211,1,F4320306076,National Science Foundation,OPP‐0229877
+W1975719151,1,F4320306076,National Science Foundation,DBI‐0415600
+W1975719151,2,F4320306076,National Science Foundation,DEB‐9985737
+W1975719151,3,F4320337345,Office of Naval Research,N0014‐00‐1–0887
+W2044773462,1,F4320332161,National Institutes of Health,CA109265
+W143379077,1,F4320337354,National Institute of General Medical Sciences,R25 GM62232
+W183274490,1,F4320332161,National Institutes of Health,HL070101
+W2024657671,1,F4320306230,American Heart Association,NA
+W175049999,1,F4320332161,National Institutes of Health,HL078817
+W2035045924,1,F4320319992,British Heart Foundation,(FS)/03/100/16326
+W2006612367,1,F4320321040,National Science Council,NSC 95-2314-B-037-081
+W2006612367,2,F4320321040,National Science Council,95-2314-B-039-042-MY3
+W2006612367,3,F4320322845,National Health Research Institutes,NHRI-CN-IN-9007P
+W2006612367,4,F4320322845,National Health Research Institutes,NHRI-EX94-9428PI
+W1971751359,1,F4320306084,U.S. Department of Energy,R01 GM66225
+W1971751359,2,F4320306084,U.S. Department of Energy,W-7405-ENG-48
+W1971751359,3,F4320332161,National Institutes of Health,R01 GM66225
+W1971751359,4,F4320332161,National Institutes of Health,W-7405-ENG-48
+W1979507098,1,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2005608531,1,F4320309036,Purdue University,F33CA085049
+W2005608531,2,F4320309036,Purdue University,T32GM008737
+W2005608531,3,F4320309036,Purdue University,R01CA114209
+W2005608531,4,F4320309036,Purdue University,R21CA089274
+W2005608531,5,F4320309036,Purdue University,R21CA080770
+W2005608531,6,F4320332161,National Institutes of Health,NA
+W170040773,1,F4320320893,Institut National de la Santé et de la Recherche Médicale,NA
+W1991430531,1,F4320337347,National Institute on Drug Abuse,DA017949
+W1991430531,2,F4320337347,National Institute on Drug Abuse,T32DA07237
+W2049960163,1,F4320320879,Deutsche Forschungsgemeinschaft,PE‐1478/1–1
+W2049960163,2,F4320332161,National Institutes of Health,R01‐AI050200
+W2049960163,3,F4320332161,National Institutes of Health,R01‐NS040927
+W2049960163,4,F4320332161,National Institutes of Health,AI058173
+W2159606671,1,F4320306076,National Science Foundation,IBN03-46249
+W2159606671,2,F4320332161,National Institutes of Health,F32 GM066559-03
+W2021901733,1,F4320332161,National Institutes of Health,5 P20 RR16467
+W2170096680,1,F4320332161,National Institutes of Health,NA
+W2001277908,1,F4320332161,National Institutes of Health,GM 48596
+W1996023830,1,F4320337357,National Institute of Diabetes and Digestive and Kidney Diseases,RO1-DK061618
+W1996023830,2,F4320337357,National Institute of Diabetes and Digestive and Kidney Diseases,DK59291
+W2019956959,1,F4320306151,Alfred P. Sloan Foundation,F32 GM-66599-03
+W2019956959,2,F4320332161,National Institutes of Health,R01 GM070823
+W2019956959,3,F4320332454,American Chemical Society Petroleum Research Fund,RR017528
+W2019956959,4,F4320332454,American Chemical Society Petroleum Research Fund,GM066354
+W2005282179,1,F4320306076,National Science Foundation,NA
+W2005282179,2,F4320321001,National Natural Science Foundation of China,NA
+W2005282179,3,F4320332454,American Chemical Society Petroleum Research Fund,NA
+W2033215069,1,F4320306076,National Science Foundation,NA
+W2033215069,2,F4320321001,National Natural Science Foundation of China,NA
+W2033215069,3,F4320332454,American Chemical Society Petroleum Research Fund,NA
+W2043668487,1,F4320332161,National Institutes of Health,NA
+W34546235,1,F4320332161,National Institutes of Health,GM33185
+W2032313226,1,F4320337359,National Institute of Neurological Disorders and Stroke,NS42925
+W2012376098,1,F4320332161,National Institutes of Health,P30 CA16059
+W2012376098,2,F4320337346,National Institute of Mental Health,NA
+W2002526551,1,F4320306161,National Multiple Sclerosis Society,NA
+W2002526551,2,F4320321091,Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,NA
+W2002526551,3,F4320323809,Ministério da Educação,NA
+W2002526551,4,F4320332161,National Institutes of Health,NA
+W2002526551,5,F4320337359,National Institute of Neurological Disorders and Stroke,5P30NS047463
+W2119178232,1,F4320332161,National Institutes of Health,R01DK059620
+W2119178232,2,F4320332161,National Institutes of Health,R37 GM043880
+W177775950,1,F4320332161,National Institutes of Health,DK054927
+W177775950,2,F4320332161,National Institutes of Health,HL57244
+W177775950,3,F4320332161,National Institutes of Health,HL70726
+W28391231,1,F4320332161,National Institutes of Health,DK 054927
+W28391231,2,F4320332161,National Institutes of Health,HL 70726
+W2970195106,1,F4320306076,National Science Foundation,MCB 0212213
+W2970195106,2,F4320306076,National Science Foundation,NSF MCB 0544068
+W3176018048,1,F4320332161,National Institutes of Health,NA
+W58156329,1,F4320332161,National Institutes of Health,"R01‐DA‐01647, T32‐DA‐07027, K05‐DA‐00480, HL‐57244, HL‐75316, RO1‐DA‐020836"
+W2108513517,1,F4320306230,American Heart Association,0615392U
+W2108513517,2,F4320332161,National Institutes of Health,AI-060720
+W2108513517,3,F4320332161,National Institutes of Health,AI-067254
+W109578822,1,F4320320397,"Department for Child Protection, Government of Western Australia",DA015767
+W207789263,1,F4320306230,American Heart Association,NA
+W2506717,1,F4320332161,National Institutes of Health,R01‐HL62282
+W2506717,2,F4320332161,National Institutes of Health,HL65178
+W50265004,1,F4320332161,National Institutes of Health,HL076722
+W2000611764,1,F4320306076,National Science Foundation,DMR-0503347
+W2079770777,1,F4320337350,National Eye Institute,EY002052
+W2087793672,1,F4320320698,National University of Singapore,NUS ARF R-279-000-197-112
+W2087793672,2,F4320320698,National University of Singapore,R-279-000-197-133
+W2155953647,1,F4320306076,National Science Foundation,BSR‐8614967
+W23961714,1,F4320332180,Defense Advanced Research Projects Agency,W911NF‐06‐1‐0025
+W2003623645,1,F4320306076,National Science Foundation,NA
+W2120481618,1,F4320308885,U.S. Poultry and Egg Association,NA
+W2060620101,1,F4320306076,National Science Foundation,0120648
+W2060620101,2,F4320335369,Marsden Fund,NA
+W124671951,1,F4320306082,Howard Hughes Medical Institute,NA
+W124671951,2,F4320332161,National Institutes of Health,NA
+W176937957,1,F4320306082,Howard Hughes Medical Institute,NA
+W3176862080,1,F4320306082,Howard Hughes Medical Institute,NA
+W2058703970,1,F4320332161,National Institutes of Health,40198
+W2058703970,2,F4320332161,National Institutes of Health,59057
+W1985888383,1,F4320306076,National Science Foundation,CHE-0518487
+W1985888383,2,F4320306076,National Science Foundation,EB004503
+W1985888383,3,F4320332161,National Institutes of Health,CHE-0518487
+W1985888383,4,F4320332161,National Institutes of Health,EB004503
+W2090787586,1,F4320337394,Division of Engineering Education and Centers,EEC-0313747
+W2127894804,1,F4320337359,National Institute of Neurological Disorders and Stroke,NS03994
+W2127894804,2,F4320337611,Eunice Kennedy Shriver National Institute of Child Health and Human Development,HD044929
+W2020629615,1,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W2020629615,2,F4320334764,Japan Society for the Promotion of Science,NA
+W2076329585,1,F4320306076,National Science Foundation,PHY-0545787
+W2076329585,2,F4320306084,U.S. Department of Energy,NA
+W2076329585,3,F4320332161,National Institutes of Health,GM-38401
+W2076329585,4,F4320332359,Office of Science,NA
+W2076329585,5,F4320337480,Basic Energy Sciences,NA
+W2055801884,1,F4320332161,National Institutes of Health,EY06808
+W3015442876,1,F4320306167,Coleman Foundation,NA
+W101195333,1,F4320306167,Coleman Foundation,NA
+W86144217,1,F4320306167,Coleman Foundation,NA
+W2085399604,1,F4320332161,National Institutes of Health,R01 A147825
+W2085399604,2,F4320332161,National Institutes of Health,18645
+W1989814594,1,F4320306114,U.S. Department of Agriculture,NA
+W137287209,1,F4320332161,National Institutes of Health,R01‐GM41247
+W90093013,1,F4320332161,National Institutes of Health,GM41247
+W2071475257,1,F4320306196,Welch Foundation,C-0991
+W2071475257,2,F4320321040,National Science Council,NSC95-2112-M-145-001
+W2071475257,3,F4320321040,National Science Council,NSC95-2112-M-213-009
+W2071475257,4,F4320321040,National Science Council,94-2112-M-008-021
+W2071475257,5,F4320332161,National Institutes of Health,GM55203
+W2026690297,1,F4320306084,U.S. Department of Energy,DE-FG02-05ER64026
+W2026690297,2,F4320306196,Welch Foundation,C-576
+W2026690297,3,F4320309270,Appalachian Regional Commission,FF0457488
+W2026690297,4,F4320310050,University of Utah,NA
+W2026690297,5,F4320332161,National Institutes of Health,P20 RR17708
+W2026690297,6,F4320337375,National Center for Research Resources,GM22441
+W2026690297,7,F4320337375,National Center for Research Resources,GM079423
+W2049752282,1,F4320332161,National Institutes of Health,R01-GM067801
+W2049752282,2,F4320337372,U.S. National Library of Medicine,NA
+W2009067829,1,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",17-5063
+W2009067829,2,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",18550153
+W2009067829,3,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",18590278
+W2009067829,4,F4320324229,Kaibara Morikazu Medical Science Promotion Foundation,NA
+W2009067829,5,F4320332161,National Institutes of Health,GM080575
+W2009067829,6,F4320334764,Japan Society for the Promotion of Science,NA
+W38872106,1,F4320306076,National Science Foundation,NA
+W38872106,2,F4320332161,National Institutes of Health,NA
+W2005245282,1,F4320307149,American Historical Association,01604124
+W132972369,1,F4320332161,National Institutes of Health,GM55561
+W100069607,1,F4320337375,National Center for Research Resources,P20 RR‐017698
+W2085318288,1,F4320306470,Elsa U. Pardee Foundation,NA
+W2085318288,2,F4320337351,National Cancer Institute,R44 CA103437
+W2128638723,1,F4320310177,University of Louisville,NA
+W136674966,1,F4320307149,American Historical Association,0535270N
+W136674966,2,F4320332161,National Institutes of Health,HL0833220
+W18799123,1,F4320332505,U.S. Public Health Service,CA034627
+W2782457988,1,F4320314483,Kentucky Science and Engineering Foundation,008‐888
+W2782457988,2,F4320332161,National Institutes of Health,HL59225 and HL63760
+W2784012093,1,F4320332505,U.S. Public Health Service,CA34627 and ES011564
+W3015975592,1,F4320332505,U.S. Public Health Service,CA34627
+W3015975592,2,F4320332505,U.S. Public Health Service,ES12557
+W33543532,1,F4320307149,American Historical Association,0535270N
+W33543532,2,F4320332161,National Institutes of Health,HL0833220
+W432622693,1,F4320332161,National Institutes of Health,HL63760
+W432622693,2,F4320332161,National Institutes of Health,HL59225
+W63212277,1,F4320332505,U.S. Public Health Service,CA034627
+W2061909588,1,F4320306076,National Science Foundation,NA
+W2061909588,2,F4320312559,Sigma Xia,NA
+W2100127272,1,F4320306076,National Science Foundation,0613611
+W2100127272,2,F4320306076,National Science Foundation,DEB 0212411
+W133898052,1,F4320332161,National Institutes of Health,HL027339 and GM31278
+W168604191,1,F4320332161,National Institutes of Health,AG021530
+W2120181153,1,F4320306076,National Science Foundation,DBI 0454933
+W1974595871,1,F4320317351,UVA Cancer Center,P30CA22435
+W1974595871,2,F4320337351,National Cancer Institute,NA
+W1974595871,3,F4320337359,National Institute of Neurological Disorders and Stroke,NA
+W1974595871,4,F4320337375,National Center for Research Resources,NA
+W2104335528,1,F4320320879,Deutsche Forschungsgemeinschaft,SFB 472
+W2104335528,2,F4320320879,Deutsche Forschungsgemeinschaft,RO1 GM069551
+W2104335528,3,F4320332161,National Institutes of Health,RO1 GM068650
+W2126806200,1,F4320332161,National Institutes of Health,DK61775
+W1993965121,1,F4320332161,National Institutes of Health,GM069551
+W1993965121,2,F4320332161,National Institutes of Health,GM068650
+W353911024,1,F4320332161,National Institutes of Health,R20 RR16435
+W353911024,2,F4320332161,National Institutes of Health,HL078983
+W1967841473,1,F4320306076,National Science Foundation,NA
+W1967841473,2,F4320306107,U.S. Environmental Protection Agency,GAD R 832721-010
+W1967841473,3,F4320332161,National Institutes of Health,R24 GM069736
+W1967841473,4,F4320332161,National Institutes of Health,R01 GM52032
+W2128543124,1,F4320323217,Universidad de Costa Rica,NA
+W2128543124,2,F4320332550,"University of California, Riverside",NA
+W2038341052,1,F4320306706,Charlotte Geyer Foundation,NA
+W2038341052,2,F4320306797,Pediatric Brain Tumor Foundation,NA
+W2038341052,3,F4320332521,University of Texas MD Anderson Cancer Center,NA
+W2038341052,4,F4320337351,National Cancer Institute,CA55418
+W2038341052,5,F4320337351,National Cancer Institute,CA82683
+W2038341052,6,F4320337351,National Cancer Institute,1R01CA109035-01A1
+W2016199934,1,F4320332505,U.S. Public Health Service,CA‐108558
+W2016199934,2,F4320332505,U.S. Public Health Service,CA‐088936
+W2016199934,3,F4320337351,National Cancer Institute,NA
+W199241685,1,F4320306230,American Heart Association,0555032Y
+W199241685,2,F4320306230,American Heart Association,NIH DA01738
+W3015438332,1,F4320306114,U.S. Department of Agriculture,NA
+W3015438332,2,F4320332161,National Institutes of Health,NA
+W2000186534,1,F4320306084,U.S. Department of Energy,DE-FG02-01ER43889
+W144166047,1,F4320332161,National Institutes of Health,R01 HL‐052146
+W144166047,2,F4320332161,National Institutes of Health,R01 HL‐071628
+W144166047,3,F4320332161,National Institutes of Health,R01 HL‐083188
+W90093013,1,F4320332161,National Institutes of Health,GM41247
+W2159782311,1,F4320306076,National Science Foundation,DEB‐0324808
+W2159782311,2,F4320320936,Royal Swedish Academy of Sciences,NA
+W2159782311,3,F4320322327,Knut och Alice Wallenbergs Stiftelse,NA
+W2159782311,4,F4320322581,Vetenskapsrådet,NA
+W2159782311,5,F4320323299,Norges Forskningsråd,NA
+W2131823602,1,F4320306076,National Science Foundation,DEB‐0108536
+W2093923498,1,F4320332161,National Institutes of Health,GM077184-01
+W203330051,1,F4320332161,National Institutes of Health,5P20RR017699
+W2070932938,1,F4320306597,American Epilepsy Society,NA
+W2070932938,2,F4320307214,Citizens United for Research in Epilepsy,NA
+W2070932938,3,F4320337359,National Institute of Neurological Disorders and Stroke,NA
+W2026744316,1,F4320306076,National Science Foundation,DMS-0201105
+W2026744316,2,F4320306084,U.S. Department of Energy,DE-AC52-06NA25396
+W2026744316,3,F4320332161,National Institutes of Health,AI28433
+W195344024,1,F4320332161,National Institutes of Health,RR‐19799
+W99875586,1,F4320306230,American Heart Association,61A06552254
+W2164431758,1,F4320332161,National Institutes of Health,NA
+W2113612800,1,F4320332161,National Institutes of Health,CA100994
+W2113612800,2,F4320332161,National Institutes of Health,CA93798
+W2113612800,3,F4320332161,National Institutes of Health,AR055073
+W1977423304,1,F4320310362,Arkansas Biosciences Institute,NA
+W2039666324,1,F4320310058,University of Arkansas,NA
+W2097097191,1,F4320306076,National Science Foundation,DEB 0316284
+W2097097191,2,F4320306076,National Science Foundation,DEB 0329102
+W2097097191,3,F4320322930,Ministerio de Ciencia e Innovación,NA
+W2139938582,1,F4320332161,National Institutes of Health,HL72108
+W1991356071,1,F4320306095,American Cancer Society,CCB106162
+W1991356071,2,F4320332161,National Institutes of Health,CA57842
+W2124146657,1,F4320306076,National Science Foundation,MCB 0543769
+W2124146657,2,F4320306076,National Science Foundation,DMR 0117792
+W2124146657,3,F4320306133,Burroughs Wellcome Fund,NA
+W2124146657,4,F4320332161,National Institutes of Health,R01 GM061597
+W2124146657,5,F4320337624,U.S. Naval Academy,MCB-0212414
+W2089360761,1,F4320332161,National Institutes of Health,1R01EB002197
+W2035334007,1,F4320332161,National Institutes of Health,DK46943
+W2095790139,1,F4320332161,National Institutes of Health,R01NS19090
+W2095790139,2,F4320332161,National Institutes of Health,AR051669-03
+W2061386722,1,F4320332161,National Institutes of Health,R01AR049717
+W2061386722,2,F4320332161,National Institutes of Health,R01DK058680
+W37261267,1,F4320307149,American Historical Association,"HL60653, HL64776"
+W123483940,1,F4320332505,U.S. Public Health Service,NS‐11853‐32
+W167746292,1,F4320306231,American Institute for Cancer Research,NA
+W167746292,2,F4320332161,National Institutes of Health,NA
+W2018795663,1,F4320332161,National Institutes of Health,NA
+W2018795663,2,F4320337330,National Institute on Alcohol Abuse and Alcoholism,1R15AA/HL13575-01
+W2018795663,3,F4320337330,National Institute on Alcohol Abuse and Alcoholism,1R01 AA013412-01A2
+W2086721093,1,F4320332161,National Institutes of Health,GM-50151
+W140264366,1,F4320306084,U.S. Department of Energy,NA
+W140264366,2,F4320332161,National Institutes of Health,GM67963
+W1977865827,1,F4320332161,National Institutes of Health,GM071478
+W1964226673,1,F4320320912,"Ministry of Education, Culture, Sports, Science and Technology",NA
+W1964226673,2,F4320332161,National Institutes of Health,9 P01HD22486
+W1964226673,3,F4320332161,National Institutes of Health,R01RR10715
+W2036178765,1,F4320306076,National Science Foundation,0509808
+W2036178765,2,F4320332454,American Chemical Society Petroleum Research Fund,NA
+W1996607592,1,F4320306076,National Science Foundation,MCB-0417282
+W1996607592,2,F4320308507,Stanford University,NA
+W1996607592,3,F4320312726,University of Oregon,NA
+W1996607592,4,F4320332161,National Institutes of Health,GM35690
+W1605444657,1,F4320332161,National Institutes of Health,GM077563
+W2086203221,1,F4320309105,Cleveland State University,NA
+W2086203221,2,F4320332161,National Institutes of Health,GM071512
+W2086203221,3,F4320332161,National Institutes of Health,GM26237
+W153958096,1,F4320306076,National Science Foundation,NA
+W153958096,2,F4320306114,U.S. Department of Agriculture,NA
+W132388708,1,F4320332161,National Institutes of Health,R15HL081126
+W2998351395,1,F4320332161,National Institutes of Health,R21HL08273
+W2027036556,1,F4320333293,South Dakota Agricultural Experiment Station,NA
+W69902803,1,F4320337338,"National Heart, Lung, and Blood Institute",NA
+W1979871496,1,F4320332505,U.S. Public Health Service,HL61469
+W2025252613,1,F4320332161,National Institutes of Health,PO1 HL066299
+W2025252613,2,F4320332161,National Institutes of Health,RO1 HL073244
+W2025252613,3,F4320332161,National Institutes of Health,R21 HL084521
+W2025252613,4,F4320332161,National Institutes of Health,RO1 HL058234
+W74213401,1,F4320332161,National Institutes of Health,NA
+W139733174,1,F4320306230,American Heart Association,0635341N
+W2778425475,1,F4320306230,American Heart Association,0665169B‐01
+W52070068,1,F4320307149,American Historical Association,0415112B
+W64615962,1,F4320307874,Wellcome,IOB‐HL66299 and HL60024
+W2122366541,1,F4320332161,National Institutes of Health,AI22564
+W2122366541,2,F4320332161,National Institutes of Health,HL056653
+W2010664969,1,F4320332161,National Institutes of Health,HL056653
+W169547041,1,F4320332161,National Institutes of Health,DK65845
+W170392306,1,F4320306076,National Science Foundation,IOB‐0517301
+W1982304274,1,F4320334593,Natural Sciences and Engineering Research Council of Canada,NA
+W2045548108,1,F4320337347,National Institute on Drug Abuse,DA-08651
+W1988031737,1,F4320332161,National Institutes of Health,AI23007
+W1988031737,2,F4320332161,National Institutes of Health,GM61272
+W1969456908,1,F4320332161,National Institutes of Health,GM073997
+W1968043375,1,F4320311904,Wellcome Trust,NA
+W1968043375,2,F4320320338,Human Frontier Science Program,NA
+W100641484,1,F4320306101,National Aeronautics and Space Administration,NCC 9‐116
+W11306949,1,F4320306101,National Aeronautics and Space Administration,NCC9‐116
+W106269600,1,F4320306196,Welch Foundation,NA
+W106269600,2,F4320332161,National Institutes of Health,NA
+W1987293640,1,F4320323910,Institut National de la Recherche Agronomique,NA
+W1987293640,2,F4320332161,National Institutes of Health,1R21DE016056
+W1987293640,3,F4320337365,National Institute of Dental and Craniofacial Research,NA
+W2035281657,1,F4320337355,National Institute of Allergy and Infectious Diseases,NA
+W1965415521,1,F4320306076,National Science Foundation,NA
+W2114398770,1,F4320306076,National Science Foundation,AMX-360
+W2114398770,2,F4320306076,National Science Foundation,CHE-90-13145
+W2114398770,3,F4320306076,National Science Foundation,CHE-03-42251
+W2114398770,4,F4320319963,Heart and Stroke Foundation of Canada,NA
+W2114398770,5,F4320332161,National Institutes of Health,HL81873
+W2114398770,6,F4320334506,Canadian Institutes of Health Research,MOP-6254
+W120010584,1,F4320332161,National Institutes of Health,GM54052
+W44426823,1,F4320332161,National Institutes of Health,GM54042
+W1976550912,1,F4320311582,Idaho State University,NA
+W2197702268,1,F4320306315,Camille and Henry Dreyfus Foundation,NA
+W2801902052,1,F4320332161,National Institutes of Health,DK43955
+W35502897,1,F4320306076,National Science Foundation,0448676
+W35502897,2,F4320332161,National Institutes of Health,MARC 2 T34‐GM008612‐09
+W2133559537,1,F4320306076,National Science Foundation,NA
+W2010399890,1,F4320306082,Howard Hughes Medical Institute,NA
+W2010399890,2,F4320332161,National Institutes of Health,U01 HD43478
+W2010399890,3,F4320337351,National Cancer Institute,T32 CA86086
+W166916165,1,F4320332161,National Institutes of Health,GM65872
+W185815928,1,F4320306076,National Science Foundation,NA
+W185815928,2,F4320332161,National Institutes of Health,NA
+W365445436,1,F4320332161,National Institutes of Health,NA
+W2169598484,1,F4320306487,Research Corporation for Science Advancement,NA
+W2169598484,2,F4320311107,Hamilton College,NA
+W652680124,1,F4320332161,National Institutes of Health,NA
+W785172172,1,F4320306076,National Science Foundation,MCB 0448905
+W92530582,1,F4320306076,National Science Foundation,MCB 0448905
+W33592109,1,F4320306076,National Science Foundation,MCB 0448905
+W2022778461,1,F4320306076,National Science Foundation,NA
+W2022778461,2,F4320306082,Howard Hughes Medical Institute,NA
+W2022778461,3,F4320306487,Research Corporation for Science Advancement,NA
+W2022778461,4,F4320332454,American Chemical Society Petroleum Research Fund,NA
+W1479782170,1,F4320306076,National Science Foundation,MCB 0316625
+W1479782170,2,F4320332161,National Institutes of Health,GM62873
+W42667024,1,F4320332161,National Institutes of Health,NA
+W67283196,1,F4320308332,Presbyterian Historical Society,ES012499

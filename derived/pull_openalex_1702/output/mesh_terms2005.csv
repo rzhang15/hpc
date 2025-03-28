@@ -1,0 +1,3893 @@
+id,which_mesh,term,is_major_topic,qualifier_name
+W2125449863,1,Breast Neoplasms,TRUE,diagnostic imaging
+W2125449863,2,Mammography,TRUE,methods
+W2125449863,3,Radiographic Image Enhancement,TRUE,
+W2125449863,4,Adult,FALSE,
+W2125449863,5,Age Factors,FALSE,
+W2125449863,6,Area Under Curve,FALSE,
+W2125449863,7,Breast,FALSE,anatomy & histology
+W2125449863,8,Breast,FALSE,
+W2125449863,9,Breast Neoplasms,FALSE,
+W2125449863,10,Female,FALSE,
+W2125449863,11,Humans,FALSE,
+W2125449863,12,Mammography,FALSE,
+W2125449863,13,Middle Aged,FALSE,
+W2125449863,14,Perimenopause,FALSE,
+W2125449863,15,Premenopause,FALSE,
+W2125449863,16,ROC Curve,FALSE,
+W2125449863,17,Sensitivity and Specificity,FALSE,
+W2002416300,1,Cultural Diversity,TRUE,
+W2002416300,2,Organizational Culture,TRUE,
+W2002416300,3,Psychological Theory,TRUE,
+W2002416300,4,Social Values,TRUE,
+W2002416300,5,Cooperative Behavior,FALSE,
+W2002416300,6,Humans,FALSE,
+W2002416300,7,Individuality,FALSE,
+W2002416300,8,"Models, Organizational",FALSE,
+W2002416300,9,Nonlinear Dynamics,FALSE,
+W2002416300,10,Organizational Affiliation,FALSE,
+W2002416300,11,Organizational Innovation,FALSE,
+W2030732335,1,Breast Neoplasms,TRUE,diagnostic imaging
+W2030732335,2,Mammography,TRUE,methods
+W2030732335,3,Mass Screening,TRUE,
+W2030732335,4,Radiographic Image Enhancement,TRUE,
+W2030732335,5,Breast Neoplasms,FALSE,
+W2030732335,6,Female,FALSE,
+W2030732335,7,Guideline Adherence,FALSE,
+W2030732335,8,Humans,FALSE,
+W2030732335,9,Mammography,FALSE,
+W2030732335,10,Mass Screening,FALSE,methods
+W2077757285,1,Educational Status,TRUE,
+W2077757285,2,Internship and Residency,TRUE,
+W2077757285,3,Patient Education as Topic,TRUE,
+W2077757285,4,Physician-Patient Relations,TRUE,
+W2077757285,5,Academic Medical Centers,FALSE,
+W2077757285,6,Female,FALSE,
+W2077757285,7,Humans,FALSE,
+W2077757285,8,Language Arts,FALSE,
+W2077757285,9,Male,FALSE,
+W2077757285,10,Patient Readmission,FALSE,
+W2077757285,11,Self Care,FALSE,
+W2077757285,12,Surveys and Questionnaires,FALSE,
+W2077757285,13,Treatment Refusal,FALSE,
+W1761151839,1,Computational Biology,TRUE,methods
+W1761151839,2,Computers,FALSE,
+W1761151839,3,Databases as Topic,FALSE,
+W1761151839,4,Humans,FALSE,
+W1761151839,5,Male,FALSE,
+W1761151839,6,Prostatic Neoplasms,FALSE,metabolism
+W1761151839,7,Recurrence,FALSE,
+W1761151839,8,Software,FALSE,
+W1761151839,9,Tissue Banks,FALSE,
+W1761151839,10,Treatment Outcome,FALSE,
+W2041776762,1,Breast Diseases,TRUE,diagnostic imaging
+W2041776762,2,Calcinosis,TRUE,diagnostic imaging
+W2041776762,3,Mammography,TRUE,
+W2041776762,4,"Radiographic Image Interpretation, Computer-Assisted",TRUE,methods
+W2041776762,5,Analysis of Variance,FALSE,
+W2041776762,6,Breast Diseases,FALSE,
+W2041776762,7,Calcinosis,FALSE,
+W2041776762,8,Female,FALSE,
+W2041776762,9,Humans,FALSE,
+W2041776762,10,ROC Curve,FALSE,
+W2041776762,11,"Radiographic Image Interpretation, Computer-Assisted",FALSE,
+W2041776762,12,Retrospective Studies,FALSE,
+W2041776762,13,User-Computer Interface,FALSE,
+W2122500316,1,Breast Neoplasms,TRUE,prevention & control
+W2122500316,2,Mammography,TRUE,standards
+W2122500316,3,Mass Screening,TRUE,organization & administration
+W2122500316,4,Medical Audit,TRUE,methods
+W2122500316,5,Breast Neoplasms,FALSE,
+W2122500316,6,Colorado,FALSE,
+W2122500316,7,Community Health Services,FALSE,standards
+W2122500316,8,Community Health Services,FALSE,statistics & numerical data
+W2122500316,9,Community Health Services,FALSE,
+W2122500316,10,"Diagnosis, Computer-Assisted",FALSE,statistics & numerical data
+W2122500316,11,"Diagnosis, Computer-Assisted",FALSE,
+W2122500316,12,Fees and Charges,FALSE,
+W2122500316,13,Female,FALSE,
+W2122500316,14,Forms and Records Control,FALSE,
+W2122500316,15,Humans,FALSE,
+W2122500316,16,Mammography,FALSE,statistics & numerical data
+W2122500316,17,Mammography,FALSE,
+W2122500316,18,Mass Screening,FALSE,economics
+W2122500316,19,Mass Screening,FALSE,
+W2122500316,20,Medical Audit,FALSE,
+W2122500316,21,New Hampshire,FALSE,
+W2122500316,22,"Outcome Assessment, Health Care",FALSE,
+W2122500316,23,"Outcome Assessment, Health Care",FALSE,statistics & numerical data
+W2122500316,24,"Quality Assurance, Health Care",FALSE,statistics & numerical data
+W2122500316,25,"Quality Assurance, Health Care",FALSE,
+W2122500316,26,Washington,FALSE,
+W2074743632,1,"Models, Neurological",TRUE,
+W2074743632,2,"Neural Networks, Computer",TRUE,
+W2074743632,3,"Signal Processing, Computer-Assisted",TRUE,
+W2074743632,4,Synapses,TRUE,physiology
+W2074743632,5,Synaptic Transmission,TRUE,physiology
+W2074743632,6,"Feedback, Physiological",FALSE,
+W2074743632,7,Linear Models,FALSE,
+W2074743632,8,"Pattern Recognition, Automated",FALSE,
+W2074743632,9,Stochastic Processes,FALSE,
+W2074743632,10,Synapses,FALSE,
+W2074743632,11,Synaptic Transmission,FALSE,
+W1759313566,1,Abstracting and Indexing,TRUE,methods
+W1759313566,2,"Decision Support Systems, Clinical",TRUE,
+W1759313566,3,Diagnosis,TRUE,
+W1759313566,4,"Medical Records Systems, Computerized",TRUE,classification
+W1759313566,5,Natural Language Processing,TRUE,
+W1759313566,6,Abstracting and Indexing,FALSE,
+W1759313566,7,Academic Medical Centers,FALSE,
+W1759313566,8,Baltimore,FALSE,
+W1759313566,9,Humans,FALSE,
+W1759313566,10,Internal Medicine,FALSE,
+W1759313566,11,"Medical Records Systems, Computerized",FALSE,
+W1759313566,12,Predictive Value of Tests,FALSE,
+W1759313566,13,Systematized Nomenclature of Medicine,FALSE,
+W1551136449,1,Algorithms,TRUE,
+W1551136449,2,Artificial Intelligence,TRUE,
+W1551136449,3,Information Storage and Retrieval,TRUE,methods
+W1551136449,4,MEDLINE,TRUE,
+W1551136449,5,Bibliometrics,FALSE,
+W1551136449,6,Evidence-Based Medicine,FALSE,
+W1551136449,7,Information Storage and Retrieval,FALSE,
+W1551136449,8,Internet,FALSE,
+W1551136449,9,PubMed,FALSE,
+W1977135436,1,"Diagnosis, Computer-Assisted",TRUE,methods
+W1977135436,2,Expert Systems,TRUE,
+W1977135436,3,"Outcome Assessment, Health Care",TRUE,methods
+W1977135436,4,Pneumonia,TRUE,diagnosis
+W1977135436,5,Pneumonia,TRUE,mortality
+W1977135436,6,Risk Assessment,TRUE,methods
+W1977135436,7,Survival Analysis,TRUE,
+W1977135436,8,Community-Acquired Infections,FALSE,mortality
+W1977135436,9,Community-Acquired Infections,FALSE,diagnosis
+W1977135436,10,Community-Acquired Infections,FALSE,
+W1977135436,11,"Decision Support Systems, Clinical",FALSE,
+W1977135436,12,"Diagnosis, Computer-Assisted",FALSE,
+W1977135436,13,Humans,FALSE,
+W1977135436,14,Incidence,FALSE,
+W1977135436,15,"Outcome Assessment, Health Care",FALSE,
+W1977135436,16,Pneumonia,FALSE,therapy
+W1977135436,17,Pneumonia,FALSE,
+W1977135436,18,Prognosis,FALSE,
+W1977135436,19,ROC Curve,FALSE,
+W1977135436,20,Retrospective Studies,FALSE,
+W1977135436,21,Risk Assessment,FALSE,
+W1977135436,22,Risk Factors,FALSE,
+W1977135436,23,Survival Rate,FALSE,
+W1977135436,24,United States,FALSE,epidemiology
+W1977135436,25,United States,FALSE,
+W2140604557,1,Artificial Intelligence,TRUE,
+W2140604557,2,Drug Interactions,TRUE,
+W2140604557,3,Information Storage and Retrieval,TRUE,methods
+W2140604557,4,MEDLINE,TRUE,
+W2140604557,5,Algorithms,FALSE,
+W2140604557,6,Databases as Topic,FALSE,
+W2140604557,7,Feasibility Studies,FALSE,
+W2140604557,8,Humans,FALSE,
+W2140604557,9,Information Storage and Retrieval,FALSE,
+W2140604557,10,Medical Subject Headings,FALSE,
+W2140604557,11,PubMed,FALSE,
+W2140604557,12,ROC Curve,FALSE,
+W1987597996,1,Bayes Theorem,TRUE,
+W1987597996,2,Gene Expression Profiling,TRUE,statistics & numerical data
+W1987597996,3,Biometry,FALSE,
+W1987597996,4,"Data Interpretation, Statistical",FALSE,
+W1987597996,5,Gene Expression Profiling,FALSE,
+W1987597996,6,Markov Chains,FALSE,
+W1987597996,7,"Models, Statistical",FALSE,
+W1987597996,8,Monte Carlo Method,FALSE,
+W1987597996,9,Oligonucleotide Array Sequence Analysis,FALSE,statistics & numerical data
+W1987597996,10,Oligonucleotide Array Sequence Analysis,FALSE,
+W1987597996,11,Schizosaccharomyces,FALSE,
+W1987597996,12,Schizosaccharomyces,FALSE,genetics
+W1987597996,13,"Statistics, Nonparametric",FALSE,
+W1543205541,1,Bayes Theorem,TRUE,
+W1543205541,2,"Neural Networks, Computer",TRUE,
+W1543205541,3,Algorithms,FALSE,
+W1543205541,4,Artificial Intelligence,FALSE,
+W1461146587,1,Information Storage and Retrieval,TRUE,
+W1461146587,2,Internet,TRUE,
+W1461146587,3,Medical Informatics,TRUE,
+W1461146587,4,Periodicals as Topic,TRUE,
+W1461146587,5,Bibliometrics,FALSE,
+W2066901078,1,Cognition,TRUE,
+W2066901078,2,Computers,TRUE,
+W2066901078,3,Humans,FALSE,
+W2066901078,4,Software,FALSE,
+W2066901078,5,User-Computer Interface,FALSE,
+W2035395798,1,"Models, Biological",TRUE,
+W2035395798,2,Phonation,TRUE,physiology
+W2035395798,3,Phonetics,TRUE,
+W2035395798,4,Speech,TRUE,physiology
+W2035395798,5,Vocal Cords,TRUE,physiology
+W2035395798,6,Humans,FALSE,
+W2035395798,7,Phonation,FALSE,
+W2035395798,8,Speech,FALSE,
+W2035395798,9,Speech Production Measurement,FALSE,
+W2035395798,10,Vocal Cords,FALSE,
+W2035395798,11,Voice Quality,FALSE,
+W2099854653,1,Algorithms,TRUE,
+W2099854653,2,Artificial Intelligence,TRUE,
+W2099854653,3,"Databases, Factual",TRUE,
+W2099854653,4,Information Storage and Retrieval,TRUE,methods
+W2099854653,5,"Models, Statistical",TRUE,
+W2099854653,6,"Pattern Recognition, Automated",TRUE,methods
+W2099854653,7,Computer Simulation,FALSE,
+W2099854653,8,Information Storage and Retrieval,FALSE,
+W2099854653,9,"Pattern Recognition, Automated",FALSE,
+W1971082326,1,"Neural Networks, Computer",TRUE,
+W1971082326,2,Physics,TRUE,methods
+W1971082326,3,Research Design,TRUE,
+W1971082326,4,"Technology Assessment, Biomedical",TRUE,
+W1971082326,5,Algorithms,FALSE,
+W1971082326,6,"Models, Statistical",FALSE,
+W1971082326,7,Physics,FALSE,
+W2113676922,1,Kaplan-Meier Estimate,TRUE,
+W2113676922,2,Survival Analysis,TRUE,
+W2113676922,3,Biometry,FALSE,
+W2113676922,4,CD4 Lymphocyte Count,FALSE,
+W2113676922,5,Clinical Trials as Topic,FALSE,
+W2113676922,6,HIV Seropositivity,FALSE,
+W2113676922,7,Humans,FALSE,
+W2113676922,8,Placebo Effect,FALSE,
+W2113676922,9,Zidovudine,FALSE,therapeutic use
+W2113676922,10,Zidovudine,FALSE,
+W1975565224,1,Breast Neoplasms,TRUE,diagnostic imaging
+W1975565224,2,Mammography,TRUE,
+W1975565224,3,Visual Perception,TRUE,
+W1975565224,4,Analysis of Variance,FALSE,
+W1975565224,5,Breast Neoplasms,FALSE,epidemiology
+W1975565224,6,Breast Neoplasms,FALSE,
+W1975565224,7,Calcinosis,FALSE,diagnostic imaging
+W1975565224,8,Calcinosis,FALSE,
+W1975565224,9,Calcinosis,FALSE,epidemiology
+W1975565224,10,False Negative Reactions,FALSE,
+W1975565224,11,Female,FALSE,
+W1975565224,12,Humans,FALSE,
+W1975565224,13,Observer Variation,FALSE,
+W1975565224,14,"Radiographic Image Interpretation, Computer-Assisted",FALSE,
+W1975565224,15,Sensitivity and Specificity,FALSE,
+W1975565224,16,Statistics as Topic,FALSE,
+W2004871422,1,Glottis,TRUE,physiology
+W2004871422,2,"Models, Biological",TRUE,
+W2004871422,3,Speech,TRUE,physiology
+W2004871422,4,Speech Acoustics,TRUE,
+W2004871422,5,Vocal Cords,TRUE,physiology
+W2004871422,6,Adult,FALSE,
+W2004871422,7,Female,FALSE,
+W2004871422,8,Glottis,FALSE,anatomy & histology
+W2004871422,9,Glottis,FALSE,
+W2004871422,10,Humans,FALSE,
+W2004871422,11,Language,FALSE,
+W2004871422,12,Magnetic Resonance Imaging,FALSE,
+W2004871422,13,Male,FALSE,
+W2004871422,14,Sex Factors,FALSE,
+W2004871422,15,Speech,FALSE,
+W2004871422,16,Speech Articulation Tests,FALSE,
+W2004871422,17,United States,FALSE,
+W2004871422,18,Vocal Cords,FALSE,anatomy & histology
+W2004871422,19,Vocal Cords,FALSE,
+W198144881,1,"Repression, Psychology",TRUE,
+W198144881,2,Adult,FALSE,
+W198144881,3,Humans,FALSE,
+W198144881,4,Illusions,FALSE,
+W198144881,5,Psychological Tests,FALSE,
+W198144881,6,"Recognition, Psychology",FALSE,
+W1983094251,1,Carcinoma,TRUE,prevention & control
+W1983094251,2,Neoplasms,TRUE,prevention & control
+W1983094251,3,Precancerous Conditions,TRUE,prevention & control
+W1983094251,4,Antineoplastic Agents,FALSE,therapeutic use
+W1983094251,5,Antineoplastic Agents,FALSE,
+W1983094251,6,Breast Neoplasms,FALSE,pathology
+W1983094251,7,Breast Neoplasms,FALSE,
+W1983094251,8,Carcinoma,FALSE,pathology
+W1983094251,9,Carcinoma,FALSE,
+W1983094251,10,"Carcinoma, Ductal, Breast",FALSE,
+W1983094251,11,"Carcinoma, Ductal, Breast",FALSE,pathology
+W1983094251,12,Disease Progression,FALSE,
+W1983094251,13,Early Diagnosis,FALSE,
+W1983094251,14,Eflornithine,FALSE,
+W1983094251,15,Eflornithine,FALSE,therapeutic use
+W1983094251,16,Humans,FALSE,
+W1983094251,17,Karyometry,FALSE,
+W1983094251,18,Karyometry,FALSE,standards
+W1983094251,19,Karyometry,FALSE,methods
+W1983094251,20,Male,FALSE,
+W1983094251,21,Neoplasms,FALSE,
+W1983094251,22,Neoplasms,FALSE,pathology
+W1983094251,23,Precancerous Conditions,FALSE,pathology
+W1983094251,24,Precancerous Conditions,FALSE,
+W1983094251,25,Prostatic Intraepithelial Neoplasia,FALSE,pathology
+W1983094251,26,Prostatic Intraepithelial Neoplasia,FALSE,
+W1983094251,27,Prostatic Neoplasms,FALSE,pathology
+W1983094251,28,Prostatic Neoplasms,FALSE,
+W1983094251,29,Sensitivity and Specificity,FALSE,
+W2166299022,1,Feedback,TRUE,
+W2166299022,2,Learning,TRUE,
+W2166299022,3,Perception,TRUE,
+W2166299022,4,Semantics,TRUE,
+W2166299022,5,Analysis of Variance,FALSE,
+W2166299022,6,Humans,FALSE,
+W2121968566,1,Cognition,TRUE,
+W2121968566,2,Psychology,TRUE,methods
+W2121968566,3,Humans,FALSE,
+W2121968566,4,Memory,FALSE,
+W2121968566,5,Psychology,FALSE,
+W2121968566,6,"Recognition, Psychology",FALSE,
+W2144870310,1,Algorithms,TRUE,
+W2144870310,2,Cell Nucleus,TRUE,ultrastructure
+W2144870310,3,Cervix Uteri,TRUE,cytology
+W2144870310,4,Image Enhancement,TRUE,methods
+W2144870310,5,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2144870310,6,"Microscopy, Confocal",TRUE,methods
+W2144870310,7,"Models, Biological",TRUE,
+W2144870310,8,"Pattern Recognition, Automated",TRUE,methods
+W2144870310,9,Artificial Intelligence,FALSE,
+W2144870310,10,Cell Nucleus,FALSE,
+W2144870310,11,Cervix Uteri,FALSE,
+W2144870310,12,Computer Simulation,FALSE,
+W2144870310,13,Female,FALSE,
+W2144870310,14,Humans,FALSE,
+W2144870310,15,Image Enhancement,FALSE,
+W2144870310,16,"Image Interpretation, Computer-Assisted",FALSE,
+W2144870310,17,Information Storage and Retrieval,FALSE,
+W2144870310,18,Information Storage and Retrieval,FALSE,methods
+W2144870310,19,"Microscopy, Confocal",FALSE,
+W2144870310,20,"Models, Statistical",FALSE,
+W2144870310,21,"Pattern Recognition, Automated",FALSE,
+W2144870310,22,Reproducibility of Results,FALSE,
+W2144870310,23,Sensitivity and Specificity,FALSE,
+W2143186228,1,Breast Neoplasms,TRUE,diagnosis
+W2143186228,2,Mammography,TRUE,methods
+W2143186228,3,"Neural Networks, Computer",TRUE,
+W2143186228,4,Area Under Curve,FALSE,
+W2143186228,5,Artificial Intelligence,FALSE,
+W2143186228,6,Breast Neoplasms,FALSE,
+W2143186228,7,Computer Simulation,FALSE,
+W2143186228,8,"Diagnosis, Computer-Assisted",FALSE,
+W2143186228,9,Female,FALSE,
+W2143186228,10,Humans,FALSE,
+W2143186228,11,Mammography,FALSE,
+W2143186228,12,"Models, Theoretical",FALSE,
+W2143186228,13,ROC Curve,FALSE,
+W2143186228,14,"Radiographic Image Interpretation, Computer-Assisted",FALSE,
+W2143186228,15,Sensitivity and Specificity,FALSE,
+W2143186228,16,Software,FALSE,
+W2082481165,1,Breast Neoplasms,TRUE,diagnosis
+W2082481165,2,Breast Neoplasms,TRUE,pathology
+W2082481165,3,Mammography,TRUE,methods
+W2082481165,4,Neoplasms,TRUE,diagnostic imaging
+W2082481165,5,Neoplasms,TRUE,diagnosis
+W2082481165,6,"Radiographic Image Interpretation, Computer-Assisted",TRUE,methods
+W2082481165,7,Radiology,TRUE,methods
+W2082481165,8,Algorithms,FALSE,
+W2082481165,9,Breast,FALSE,
+W2082481165,10,Breast,FALSE,pathology
+W2082481165,11,Breast Diseases,FALSE,
+W2082481165,12,Breast Diseases,FALSE,diagnosis
+W2082481165,13,Breast Neoplasms,FALSE,
+W2082481165,14,Databases as Topic,FALSE,
+W2082481165,15,"Diagnosis, Computer-Assisted",FALSE,
+W2082481165,16,Female,FALSE,
+W2082481165,17,Humans,FALSE,
+W2082481165,18,"Image Interpretation, Computer-Assisted",FALSE,methods
+W2082481165,19,"Image Interpretation, Computer-Assisted",FALSE,
+W2082481165,20,Mammography,FALSE,
+W2082481165,21,Neoplasms,FALSE,
+W2082481165,22,Radiographic Image Enhancement,FALSE,
+W2082481165,23,"Radiographic Image Interpretation, Computer-Assisted",FALSE,
+W2082481165,24,Radiology,FALSE,
+W2082481165,25,Radiology Information Systems,FALSE,
+W2082481165,26,Software,FALSE,
+W2120100089,1,Algorithms,TRUE,
+W2120100089,2,Artificial Intelligence,TRUE,
+W2120100089,3,Database Management Systems,TRUE,
+W2120100089,4,"Databases, Genetic",TRUE,
+W2120100089,5,Information Storage and Retrieval,TRUE,methods
+W2120100089,6,Sequence Alignment,TRUE,methods
+W2120100089,7,Sequence Analysis,TRUE,methods
+W2120100089,8,Information Storage and Retrieval,FALSE,
+W2120100089,9,"Pattern Recognition, Automated",FALSE,methods
+W2120100089,10,"Pattern Recognition, Automated",FALSE,
+W2120100089,11,Sequence Alignment,FALSE,
+W2120100089,12,Sequence Analysis,FALSE,
+W2120100089,13,Sequence Homology,FALSE,
+W2120100089,14,User-Computer Interface,FALSE,
+W2293188708,1,Breast Neoplasms,TRUE,surgery
+W2293188708,2,Cicatrix,TRUE,classification
+W2293188708,3,Esthetics,TRUE,
+W2293188708,4,"Image Processing, Computer-Assisted",TRUE,
+W2293188708,5,Mammaplasty,TRUE,
+W2293188708,6,Breast Neoplasms,FALSE,
+W2293188708,7,Cicatrix,FALSE,
+W2293188708,8,Decision Support Techniques,FALSE,
+W2293188708,9,Female,FALSE,
+W2293188708,10,Humans,FALSE,
+W2293188708,11,Mastectomy,FALSE,
+W2293188708,12,Observer Variation,FALSE,
+W2293188708,13,Pilot Projects,FALSE,
+W2094643823,1,Language,TRUE,
+W2094643823,2,Multilingualism,TRUE,
+W2094643823,3,Phonetics,TRUE,
+W2094643823,4,Speech Perception,TRUE,
+W2094643823,5,Adult,FALSE,
+W2094643823,6,Attention,FALSE,
+W2094643823,7,Female,FALSE,
+W2094643823,8,Humans,FALSE,
+W2094643823,9,Male,FALSE,
+W2094643823,10,Middle Aged,FALSE,
+W2094643823,11,Sound Spectrography,FALSE,
+W2094643823,12,Speech Acoustics,FALSE,
+W2094643823,13,Verbal Learning,FALSE,
+W2167553819,1,Protein Array Analysis,TRUE,standards
+W2167553819,2,Protein Array Analysis,TRUE,methods
+W2167553819,3,Cluster Analysis,FALSE,
+W2167553819,4,Protein Array Analysis,FALSE,
+W2159045363,1,Chromatin,TRUE,ultrastructure
+W2159045363,2,"Image Processing, Computer-Assisted",TRUE,methods
+W2159045363,3,"Imaging, Three-Dimensional",TRUE,methods
+W2159045363,4,Cell Nucleus,FALSE,metabolism
+W2159045363,5,Cell Nucleus,FALSE,
+W2159045363,6,Chromatin,FALSE,chemistry
+W2159045363,7,Chromatin,FALSE,
+W2159045363,8,Chromosomes,FALSE,ultrastructure
+W2159045363,9,Chromosomes,FALSE,
+W2159045363,10,DNA,FALSE,chemistry
+W2159045363,11,DNA,FALSE,
+W2159045363,12,Humans,FALSE,
+W2159045363,13,"Image Processing, Computer-Assisted",FALSE,
+W2159045363,14,"Imaging, Three-Dimensional",FALSE,
+W2159045363,15,Male,FALSE,
+W2159045363,16,Markov Chains,FALSE,
+W2159045363,17,"Microscopy, Confocal",FALSE,
+W2159045363,18,"Models, Statistical",FALSE,
+W2159045363,19,Prostatic Hyperplasia,FALSE,
+W2159045363,20,Prostatic Neoplasms,FALSE,
+W2159045363,21,Prostatic Neoplasms,FALSE,pathology
+W2040405927,1,Language,TRUE,
+W2040405927,2,Phonetics,TRUE,
+W2040405927,3,Vocabulary,TRUE,
+W2040405927,4,Adolescent,FALSE,
+W2040405927,5,Adult,FALSE,
+W2040405927,6,"Audiometry, Pure-Tone",FALSE,
+W2040405927,7,Child,FALSE,
+W2040405927,8,Female,FALSE,
+W2040405927,9,Hearing,FALSE,
+W2040405927,10,Hearing,FALSE,physiology
+W2040405927,11,Humans,FALSE,
+W2040405927,12,Korea,FALSE,
+W2040405927,13,Linguistics,FALSE,
+W2040405927,14,Male,FALSE,
+W2040405927,15,Speech Perception,FALSE,
+W2040405927,16,United States,FALSE,
+W2046710162,1,Bibliometrics,TRUE,
+W2046710162,2,Cognition,TRUE,
+W2046710162,3,Health Personnel,TRUE,psychology
+W2046710162,4,Periodicals as Topic,TRUE,classification
+W2046710162,5,Adult,FALSE,
+W2046710162,6,Female,FALSE,
+W2046710162,7,Health Personnel,FALSE,
+W2046710162,8,Humans,FALSE,
+W2046710162,9,Male,FALSE,
+W2046710162,10,Middle Aged,FALSE,
+W2046710162,11,Periodicals as Topic,FALSE,standards
+W2046710162,12,Periodicals as Topic,FALSE,
+W2032579474,1,Breast Neoplasms,TRUE,diagnostic imaging
+W2032579474,2,"Carcinoma, Ductal, Breast",TRUE,diagnostic imaging
+W2032579474,3,Mammography,TRUE,instrumentation
+W2032579474,4,Molybdenum,TRUE,
+W2032579474,5,Radiographic Image Enhancement,TRUE,instrumentation
+W2032579474,6,Breast Neoplasms,FALSE,
+W2032579474,7,"Carcinoma, Ductal, Breast",FALSE,
+W2032579474,8,Female,FALSE,
+W2032579474,9,Humans,FALSE,
+W2032579474,10,Mammography,FALSE,
+W2032579474,11,Monte Carlo Method,FALSE,
+W2032579474,12,"Phantoms, Imaging",FALSE,
+W2032579474,13,Radiation Dosage,FALSE,
+W2032579474,14,Radiographic Image Enhancement,FALSE,
+W2032579474,15,Radiometry,FALSE,
+W2032579474,16,Radiometry,FALSE,methods
+W2167047478,1,DNA,TRUE,analysis
+W2167047478,2,Image Cytometry,TRUE,methods
+W2167047478,3,"Imaging, Three-Dimensional",TRUE,methods
+W2167047478,4,"Microscopy, Confocal",TRUE,methods
+W2167047478,5,Adrenal Glands,FALSE,cytology
+W2167047478,6,Adrenal Glands,FALSE,
+W2167047478,7,DNA,FALSE,genetics
+W2167047478,8,DNA,FALSE,
+W2167047478,9,Humans,FALSE,
+W2167047478,10,Image Cytometry,FALSE,
+W2167047478,11,"Imaging, Three-Dimensional",FALSE,
+W2167047478,12,Liver,FALSE,
+W2167047478,13,Liver,FALSE,cytology
+W2167047478,14,"Microscopy, Confocal",FALSE,
+W2167047478,15,Sensitivity and Specificity,FALSE,
+W2167047478,16,Time Factors,FALSE,
+W1575381901,1,"Databases, Bibliographic",TRUE,statistics & numerical data
+W1575381901,2,Information Storage and Retrieval,TRUE,methods
+W1575381901,3,"Neural Networks, Computer",TRUE,
+W1575381901,4,User-Computer Interface,TRUE,
+W1575381901,5,"Databases, Bibliographic",FALSE,
+W1575381901,6,Efficiency,FALSE,
+W1575381901,7,Humans,FALSE,
+W1575381901,8,Information Storage and Retrieval,FALSE,
+W1575381901,9,Internet,FALSE,
+W1575381901,10,MEDLINE,FALSE,statistics & numerical data
+W1575381901,11,MEDLINE,FALSE,
+W1575381901,12,Medical Subject Headings,FALSE,
+W1575381901,13,Online Systems,FALSE,
+W1575381901,14,Software,FALSE,
+W2155763684,1,Algorithms,TRUE,
+W2155763684,2,Artificial Intelligence,TRUE,
+W2155763684,3,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2155763684,4,"Models, Biological",TRUE,
+W2155763684,5,Movement,TRUE,
+W2155763684,6,"Pattern Recognition, Automated",TRUE,methods
+W2155763684,7,Video Recording,TRUE,methods
+W2155763684,8,Computer Simulation,FALSE,
+W2155763684,9,Humans,FALSE,
+W2155763684,10,Image Enhancement,FALSE,methods
+W2155763684,11,Image Enhancement,FALSE,
+W2155763684,12,"Image Interpretation, Computer-Assisted",FALSE,
+W2155763684,13,Information Storage and Retrieval,FALSE,
+W2155763684,14,Information Storage and Retrieval,FALSE,methods
+W2155763684,15,Markov Chains,FALSE,
+W2155763684,16,"Models, Statistical",FALSE,
+W2155763684,17,"Pattern Recognition, Automated",FALSE,
+W2155763684,18,Subtraction Technique,FALSE,
+W2155763684,19,Video Recording,FALSE,
+W2126217059,1,Bioterrorism,TRUE,
+W2126217059,2,Statistics as Topic,TRUE,methods
+W2126217059,3,Data Collection,FALSE,
+W2126217059,4,"Data Interpretation, Statistical",FALSE,
+W2126217059,5,Disease Outbreaks,FALSE,
+W2126217059,6,Humans,FALSE,
+W2126217059,7,Population Surveillance,FALSE,
+W2126217059,8,Population Surveillance,FALSE,methods
+W2126217059,9,Statistics as Topic,FALSE,
+W2100594827,1,Linguistics,TRUE,methods
+W2100594827,2,Probability Theory,TRUE,
+W2100594827,3,Decision Making,FALSE,
+W2100594827,4,Humans,FALSE,
+W2100594827,5,Linguistics,FALSE,
+W2100594827,6,"Models, Statistical",FALSE,
+W2019407022,1,Judgment,TRUE,
+W2019407022,2,Time Perception,TRUE,
+W2019407022,3,Humans,FALSE,
+W2019407022,4,Mental Recall,FALSE,
+W2019407022,5,Vocabulary,FALSE,
+W2120424561,1,Algorithms,TRUE,
+W2120424561,2,Linguistics,TRUE,
+W2120424561,3,Medication Errors,TRUE,prevention & control
+W2120424561,4,Terminology as Topic,TRUE,
+W2120424561,5,Drug Labeling,FALSE,
+W2120424561,6,Humans,FALSE,
+W2120424561,7,Medication Errors,FALSE,
+W2093041946,1,Judgment,TRUE,
+W2093041946,2,Learning,TRUE,
+W2093041946,3,Mental Recall,TRUE,
+W2093041946,4,Attention,FALSE,
+W2093041946,5,Cues,FALSE,
+W2093041946,6,Decision Making,FALSE,
+W2093041946,7,Humans,FALSE,
+W2093041946,8,Likelihood Functions,FALSE,
+W2093041946,9,"Memory, Short-Term",FALSE,
+W2093041946,10,Paired-Associate Learning,FALSE,
+W2093041946,11,Reaction Time,FALSE,
+W2165179003,1,Internet,TRUE,
+W2165179003,2,Natural Language Processing,TRUE,
+W2165179003,3,Physician-Patient Relations,TRUE,
+W2165179003,4,Semantics,TRUE,
+W2165179003,5,Subject Headings,TRUE,
+W2165179003,6,Unified Medical Language System,TRUE,
+W2165179003,7,Humans,FALSE,
+W2038241976,1,Algorithms,TRUE,
+W2038241976,2,Auditory Cortex,TRUE,physiology
+W2038241976,3,Brain,TRUE,physiology
+W2038241976,4,Brain Mapping,TRUE,methods
+W2038241976,5,"Diagnosis, Computer-Assisted",TRUE,methods
+W2038241976,6,"Evoked Potentials, Auditory",TRUE,physiology
+W2038241976,7,Magnetoencephalography,TRUE,methods
+W2038241976,8,Auditory Cortex,FALSE,
+W2038241976,9,Brain,FALSE,
+W2038241976,10,Brain Mapping,FALSE,
+W2038241976,11,Computer Simulation,FALSE,
+W2038241976,12,"Diagnosis, Computer-Assisted",FALSE,
+W2038241976,13,"Evoked Potentials, Auditory",FALSE,
+W2038241976,14,Female,FALSE,
+W2038241976,15,Humans,FALSE,
+W2038241976,16,Magnetoencephalography,FALSE,
+W2038241976,17,Male,FALSE,
+W2038241976,18,"Models, Neurological",FALSE,
+W2077311224,1,Algorithms,TRUE,
+W2077311224,2,Artificial Intelligence,TRUE,
+W2077311224,3,Computing Methodologies,TRUE,
+W2077311224,4,Feedback,TRUE,
+W2077311224,5,"Models, Statistical",TRUE,
+W2077311224,6,"Models, Theoretical",TRUE,
+W2077311224,7,"Numerical Analysis, Computer-Assisted",TRUE,
+W2077311224,8,Computer Simulation,FALSE,
+W2077311224,9,Information Storage and Retrieval,FALSE,
+W2077311224,10,Information Storage and Retrieval,FALSE,methods
+W2077311224,11,"Signal Processing, Computer-Assisted",FALSE,
+W1976001969,1,"Adaptation, Physiological",TRUE,
+W1976001969,2,"Neural Networks, Computer",TRUE,
+W1976001969,3,Nonlinear Dynamics,TRUE,
+W2156033279,1,Acoustics,TRUE,
+W2156033279,2,Air Movements,TRUE,
+W2156033279,3,"Models, Biological",TRUE,
+W2156033279,4,Phonation,TRUE,physiology
+W2156033279,5,Vocal Cords,TRUE,physiology
+W2156033279,6,Air Pressure,FALSE,
+W2156033279,7,Humans,FALSE,
+W2156033279,8,Larynx,FALSE,
+W2156033279,9,Larynx,FALSE,physiology
+W2156033279,10,Phonation,FALSE,
+W2156033279,11,Vocal Cords,FALSE,
+W2020329241,1,Geologic Sediments,TRUE,microbiology
+W2020329241,2,Hot Springs,TRUE,microbiology
+W2020329241,3,Mycobacterium,TRUE,isolation & purification
+W2020329241,4,Rhodophyta,TRUE,isolation & purification
+W2020329241,5,Biofilms,FALSE,
+W2020329241,6,Biofilms,FALSE,growth & development
+W2020329241,7,"DNA, Algal",FALSE,
+W2020329241,8,"DNA, Algal",FALSE,genetics
+W2020329241,9,"DNA, Algal",FALSE,analysis
+W2020329241,10,"DNA, Bacterial",FALSE,
+W2020329241,11,"DNA, Bacterial",FALSE,genetics
+W2020329241,12,"DNA, Bacterial",FALSE,analysis
+W2020329241,13,Exobiology,FALSE,
+W2020329241,14,Fossils,FALSE,
+W2020329241,15,Geologic Sediments,FALSE,
+W2020329241,16,"History, Ancient",FALSE,
+W2020329241,17,Hot Springs,FALSE,
+W2020329241,18,Hydrogen-Ion Concentration,FALSE,
+W2020329241,19,Mycobacterium,FALSE,classification
+W2020329241,20,Mycobacterium,FALSE,genetics
+W2020329241,21,Mycobacterium,FALSE,metabolism
+W2020329241,22,Mycobacterium,FALSE,
+W2020329241,23,Photosynthesis,FALSE,
+W2020329241,24,Phylogeny,FALSE,
+W2020329241,25,Porosity,FALSE,
+W2020329241,26,"RNA, Ribosomal",FALSE,
+W2020329241,27,"RNA, Ribosomal",FALSE,genetics
+W2020329241,28,"RNA, Ribosomal",FALSE,analysis
+W2020329241,29,Rhodophyta,FALSE,
+W2020329241,30,Rhodophyta,FALSE,classification
+W2020329241,31,Rhodophyta,FALSE,genetics
+W2020329241,32,Rhodophyta,FALSE,metabolism
+W2020329241,33,Water,FALSE,
+W2020329241,34,Water,FALSE,analysis
+W2020329241,35,Wyoming,FALSE,
+W2091779953,1,"Databases, Genetic",TRUE,classification
+W2091779953,2,Stochastic Processes,TRUE,
+W2091779953,3,"Vocabulary, Controlled",TRUE,
+W2091779953,4,"Databases, Genetic",FALSE,
+W1554628949,1,Algorithms,TRUE,
+W1554628949,2,Brain Mapping,TRUE,methods
+W1554628949,3,"Evoked Potentials, Visual",TRUE,physiology
+W1554628949,4,"Image Interpretation, Computer-Assisted",TRUE,methods
+W1554628949,5,"Imaging, Three-Dimensional",TRUE,methods
+W1554628949,6,Magnetic Resonance Imaging,TRUE,methods
+W1554628949,7,Visual Cortex,TRUE,physiology
+W1554628949,8,Brain Mapping,FALSE,
+W1554628949,9,"Evoked Potentials, Visual",FALSE,
+W1554628949,10,Humans,FALSE,
+W1554628949,11,Image Enhancement,FALSE,methods
+W1554628949,12,Image Enhancement,FALSE,
+W1554628949,13,"Image Interpretation, Computer-Assisted",FALSE,
+W1554628949,14,"Imaging, Three-Dimensional",FALSE,
+W1554628949,15,Magnetic Resonance Imaging,FALSE,
+W1554628949,16,Visual Cortex,FALSE,
+W2018682181,1,Comprehension,TRUE,physiology
+W2018682181,2,Concept Formation,TRUE,physiology
+W2018682181,3,Correspondence as Topic,TRUE,
+W2018682181,4,"Pattern Recognition, Visual",TRUE,physiology
+W2018682181,5,Reading,TRUE,
+W2018682181,6,Adolescent,FALSE,
+W2018682181,7,Adult,FALSE,
+W2018682181,8,Analysis of Variance,FALSE,
+W2018682181,9,Comprehension,FALSE,
+W2018682181,10,Concept Formation,FALSE,
+W2018682181,11,Female,FALSE,
+W2018682181,12,Humans,FALSE,
+W2018682181,13,Male,FALSE,
+W2018682181,14,"Pattern Recognition, Visual",FALSE,
+W2018682181,15,Statistics as Topic,FALSE,
+W2080664462,1,Palate,TRUE,diagnostic imaging
+W2080664462,2,Tongue,TRUE,diagnostic imaging
+W2080664462,3,Ultrasonography,TRUE,methods
+W2080664462,4,Adolescent,FALSE,
+W2080664462,5,Adult,FALSE,
+W2080664462,6,Deglutition,FALSE,
+W2080664462,7,Deglutition,FALSE,physiology
+W2080664462,8,Equipment Design,FALSE,
+W2080664462,9,Female,FALSE,
+W2080664462,10,Humans,FALSE,
+W2080664462,11,Male,FALSE,
+W2080664462,12,Palate,FALSE,
+W2080664462,13,Palate,FALSE,physiology
+W2080664462,14,Tongue,FALSE,
+W2080664462,15,Tongue,FALSE,physiology
+W2080664462,16,Ultrasonography,FALSE,
+W2069495483,1,Bayes Theorem,TRUE,
+W2069495483,2,Logistic Models,TRUE,
+W2069495483,3,Nursing Research,TRUE,methods
+W2069495483,4,"Data Interpretation, Statistical",FALSE,
+W2069495483,5,Nursing Research,FALSE,
+W2031691076,1,Biotechnology,TRUE,methods
+W2031691076,2,Natural Language Processing,TRUE,
+W2031691076,3,Terminology as Topic,TRUE,
+W2031691076,4,User-Computer Interface,TRUE,
+W2031691076,5,Automation,FALSE,
+W2031691076,6,Biotechnology,FALSE,
+W2031691076,7,Computational Biology,FALSE,
+W2031691076,8,Computational Biology,FALSE,methods
+W2031691076,9,Database Management Systems,FALSE,
+W2031691076,10,Humans,FALSE,
+W2031691076,11,Information Storage and Retrieval,FALSE,
+W2031691076,12,Medical Records,FALSE,
+W2031691076,13,Programming Languages,FALSE,
+W2031691076,14,"Vocabulary, Controlled",FALSE,
+W2132633424,1,Memory,TRUE,
+W2132633424,2,"Models, Psychological",TRUE,
+W2132633424,3,Psychological Tests,TRUE,
+W2132633424,4,Humans,FALSE,
+W2132633424,5,Psychological Theory,FALSE,
+W2132633424,6,Retrospective Studies,FALSE,
+W2019407022,1,Judgment,TRUE,
+W2019407022,2,Time Perception,TRUE,
+W2019407022,3,Humans,FALSE,
+W2019407022,4,Mental Recall,FALSE,
+W2019407022,5,Vocabulary,FALSE,
+W2140435610,1,Attention,TRUE,
+W2140435610,2,Decision Making,TRUE,
+W2140435610,3,Decision Support Techniques,TRUE,
+W2140435610,4,"Pattern Recognition, Visual",TRUE,
+W2140435610,5,Problem Solving,TRUE,
+W2140435610,6,Psychomotor Performance,TRUE,
+W2140435610,7,Reaction Time,TRUE,
+W2140435610,8,Reading,TRUE,
+W2140435610,9,Semantics,TRUE,
+W2140435610,10,Choice Behavior,FALSE,
+W2140435610,11,Discrimination Learning,FALSE,
+W2140435610,12,Feedback,FALSE,
+W2140435610,13,Humans,FALSE,
+W2140435610,14,Psychophysics,FALSE,
+W2058135106,1,Alzheimer Disease,TRUE,pathology
+W2058135106,2,Artificial Intelligence,TRUE,
+W2058135106,3,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2058135106,4,Microscopy,TRUE,methods
+W2058135106,5,"Pattern Recognition, Automated",TRUE,methods
+W2058135106,6,"Plaque, Amyloid",TRUE,pathology
+W2058135106,7,Software,TRUE,
+W2058135106,8,Alzheimer Disease,FALSE,
+W2058135106,9,Animals,FALSE,
+W2058135106,10,Humans,FALSE,
+W2058135106,11,Image Enhancement,FALSE,
+W2058135106,12,Image Enhancement,FALSE,methods
+W2058135106,13,"Image Interpretation, Computer-Assisted",FALSE,
+W2058135106,14,Microscopy,FALSE,
+W2058135106,15,Neurofibrillary Tangles,FALSE,
+W2058135106,16,Neurofibrillary Tangles,FALSE,pathology
+W2058135106,17,"Pattern Recognition, Automated",FALSE,
+W2058135106,18,"Plaque, Amyloid",FALSE,
+W2087055223,1,Bayes Theorem,TRUE,
+W2087055223,2,"Data Interpretation, Statistical",TRUE,
+W2087055223,3,"Diagnostic Tests, Routine",TRUE,methods
+W2087055223,4,Predictive Value of Tests,TRUE,
+W2087055223,5,Animals,FALSE,
+W2087055223,6,"Antibodies, Protozoan",FALSE,blood
+W2087055223,7,"Antibodies, Protozoan",FALSE,
+W2087055223,8,Case-Control Studies,FALSE,
+W2087055223,9,Cattle,FALSE,
+W2087055223,10,Cattle Diseases,FALSE,
+W2087055223,11,Cattle Diseases,FALSE,blood
+W2087055223,12,Cattle Diseases,FALSE,epidemiology
+W2087055223,13,Cattle Diseases,FALSE,parasitology
+W2087055223,14,Coccidiosis,FALSE,parasitology
+W2087055223,15,Coccidiosis,FALSE,veterinary
+W2087055223,16,Coccidiosis,FALSE,
+W2087055223,17,Coccidiosis,FALSE,blood
+W2087055223,18,Coccidiosis,FALSE,epidemiology
+W2087055223,19,Computer Simulation,FALSE,
+W2087055223,20,Cross-Sectional Studies,FALSE,
+W2087055223,21,"Diagnostic Tests, Routine",FALSE,
+W2087055223,22,Enzyme-Linked Immunosorbent Assay,FALSE,
+W2087055223,23,Enzyme-Linked Immunosorbent Assay,FALSE,methods
+W2087055223,24,Enzyme-Linked Immunosorbent Assay,FALSE,veterinary
+W2087055223,25,Female,FALSE,
+W2087055223,26,Humans,FALSE,
+W2087055223,27,Markov Chains,FALSE,
+W2087055223,28,Monte Carlo Method,FALSE,
+W2087055223,29,Neospora,FALSE,growth & development
+W2087055223,30,Neospora,FALSE,
+W2087055223,31,Prevalence,FALSE,
+W2096599490,1,Colonic Polyps,TRUE,pathology
+W2096599490,2,Colorectal Neoplasms,TRUE,pathology
+W2096599490,3,"Imaging, Three-Dimensional",TRUE,
+W2096599490,4,Microscopy,TRUE,methods
+W2096599490,5,Aged,FALSE,
+W2096599490,6,Biopsy,FALSE,
+W2096599490,7,Colonic Polyps,FALSE,
+W2096599490,8,Colorectal Neoplasms,FALSE,
+W2096599490,9,Humans,FALSE,
+W2096599490,10,Male,FALSE,
+W2096599490,11,Microscopy,FALSE,
+W4236242872,1,Colonic Polyps,TRUE,pathology
+W4236242872,2,Colorectal Neoplasms,TRUE,pathology
+W4236242872,3,"Imaging, Three-Dimensional",TRUE,
+W4236242872,4,Microscopy,TRUE,methods
+W4236242872,5,Aged,FALSE,
+W4236242872,6,Biopsy,FALSE,
+W4236242872,7,Colonic Polyps,FALSE,
+W4236242872,8,Colorectal Neoplasms,FALSE,
+W4236242872,9,Humans,FALSE,
+W4236242872,10,Male,FALSE,
+W4236242872,11,Microscopy,FALSE,
+W2101656164,1,Bayes Theorem,TRUE,
+W2101656164,2,Computer Simulation,TRUE,
+W2101656164,3,"Models, Statistical",TRUE,
+W2101656164,4,"Neural Networks, Computer",TRUE,
+W2101656164,5,Computer Graphics,FALSE,
+W2101656164,6,Humans,FALSE,
+W2101656164,7,"Signal Processing, Computer-Assisted",FALSE,
+W2041807478,1,"Anatomy, Cross-Sectional",TRUE,
+W2041807478,2,Hip,TRUE,anatomy & histology
+W2041807478,3,"Image Interpretation, Computer-Assisted",TRUE,
+W2041807478,4,"Imaging, Three-Dimensional",TRUE,
+W2041807478,5,"Anatomy, Cross-Sectional",FALSE,methods
+W2041807478,6,"Anatomy, Cross-Sectional",FALSE,instrumentation
+W2041807478,7,Animals,FALSE,
+W2041807478,8,Hip,FALSE,
+W2041807478,9,"Image Interpretation, Computer-Assisted",FALSE,methods
+W2041807478,10,"Image Interpretation, Computer-Assisted",FALSE,instrumentation
+W2041807478,11,"Imaging, Three-Dimensional",FALSE,methods
+W2041807478,12,Lower Extremity,FALSE,
+W2041807478,13,Magnetic Resonance Imaging,FALSE,
+W2041807478,14,Magnetic Resonance Imaging,FALSE,methods
+W2041807478,15,Magnetic Resonance Imaging,FALSE,instrumentation
+W2041807478,16,Rabbits,FALSE,
+W2097304398,1,"Biopsy, Needle",TRUE,methods
+W2097304398,2,Melanoma,TRUE,pathology
+W2097304398,3,Neoplasm Invasiveness,TRUE,pathology
+W2097304398,4,Skin Neoplasms,TRUE,pathology
+W2097304398,5,Adult,FALSE,
+W2097304398,6,Aged,FALSE,
+W2097304398,7,"Biopsy, Needle",FALSE,
+W2097304398,8,Cohort Studies,FALSE,
+W2097304398,9,Female,FALSE,
+W2097304398,10,Humans,FALSE,
+W2097304398,11,Immunohistochemistry,FALSE,
+W2097304398,12,Male,FALSE,
+W2097304398,13,Melanoma,FALSE,
+W2097304398,14,Melanoma,FALSE,mortality
+W2097304398,15,Melanoma,FALSE,therapy
+W2097304398,16,Middle Aged,FALSE,
+W2097304398,17,Neoplasm Invasiveness,FALSE,
+W2097304398,18,Neoplasm Staging,FALSE,
+W2097304398,19,Prognosis,FALSE,
+W2097304398,20,Prospective Studies,FALSE,
+W2097304398,21,Reproducibility of Results,FALSE,
+W2097304398,22,Sensitivity and Specificity,FALSE,
+W2097304398,23,Skin Neoplasms,FALSE,
+W2097304398,24,Skin Neoplasms,FALSE,mortality
+W2097304398,25,Skin Neoplasms,FALSE,therapy
+W2067704685,1,Histology,TRUE,
+W2067704685,2,Image Enhancement,TRUE,methods
+W2067704685,3,Magnetic Resonance Imaging,TRUE,standards
+W2067704685,4,Algorithms,FALSE,
+W2067704685,5,Histocompatibility Testing,FALSE,
+W2067704685,6,Humans,FALSE,
+W2067704685,7,Image Enhancement,FALSE,
+W2067704685,8,Magnetic Resonance Imaging,FALSE,
+W2067704685,9,United States,FALSE,
+W4244848852,1,Alcoholism,TRUE,genetics
+W4244848852,2,Artificial Intelligence,TRUE,
+W4244848852,3,Cytogenetic Analysis,TRUE,methods
+W4244848852,4,"Neural Networks, Computer",TRUE,
+W4244848852,5,Alcoholism,FALSE,
+W4244848852,6,Alcoholism,FALSE,diagnosis
+W4244848852,7,Chromosome Mapping,FALSE,
+W4244848852,8,Chromosome Mapping,FALSE,methods
+W4244848852,9,Cytogenetic Analysis,FALSE,
+W4244848852,10,Decision Trees,FALSE,
+W4244848852,11,Genetic Markers,FALSE,genetics
+W4244848852,12,Genetic Markers,FALSE,
+W4244848852,13,Haplotypes,FALSE,
+W4244848852,14,Humans,FALSE,
+W1965126227,1,Algorithms,TRUE,
+W1965126227,2,Artificial Intelligence,TRUE,
+W1965126227,3,"Biomarkers, Tumor",TRUE,metabolism
+W1965126227,4,Gene Expression Profiling,TRUE,methods
+W1965126227,5,Leukemia,TRUE,metabolism
+W1965126227,6,Neoplasm Proteins,TRUE,metabolism
+W1965126227,7,Oligonucleotide Array Sequence Analysis,TRUE,methods
+W1965126227,8,"Pattern Recognition, Automated",TRUE,methods
+W1965126227,9,"Biomarkers, Tumor",FALSE,genetics
+W1965126227,10,"Biomarkers, Tumor",FALSE,
+W1965126227,11,Cluster Analysis,FALSE,
+W1965126227,12,Fuzzy Logic,FALSE,
+W1965126227,13,Gene Expression Profiling,FALSE,
+W1965126227,14,Humans,FALSE,
+W1965126227,15,Leukemia,FALSE,
+W1965126227,16,Leukemia,FALSE,genetics
+W1965126227,17,Leukemia,FALSE,diagnosis
+W1965126227,18,Neoplasm Proteins,FALSE,genetics
+W1965126227,19,Neoplasm Proteins,FALSE,
+W1965126227,20,Oligonucleotide Array Sequence Analysis,FALSE,
+W1965126227,21,"Pattern Recognition, Automated",FALSE,
+W1965126227,22,Principal Component Analysis,FALSE,
+W2128766412,1,Chromosome Mapping,TRUE,methods
+W2128766412,2,Database Management Systems,TRUE,
+W2128766412,3,"Databases, Genetic",TRUE,
+W2128766412,4,Internet,TRUE,
+W2128766412,5,Linkage Disequilibrium,TRUE,genetics
+W2128766412,6,Software,TRUE,
+W2128766412,7,User-Computer Interface,TRUE,
+W2128766412,8,Algorithms,FALSE,
+W2128766412,9,Chromosome Mapping,FALSE,
+W2128766412,10,Computer Graphics,FALSE,
+W2128766412,11,DNA Mutational Analysis,FALSE,
+W2128766412,12,DNA Mutational Analysis,FALSE,methods
+W2128766412,13,Gene Frequency,FALSE,
+W2128766412,14,"Genetics, Population",FALSE,methods
+W2128766412,15,"Genetics, Population",FALSE,
+W2128766412,16,Information Storage and Retrieval,FALSE,methods
+W2128766412,17,Information Storage and Retrieval,FALSE,
+W2128766412,18,Linkage Disequilibrium,FALSE,
+W2128766412,19,Oligonucleotide Array Sequence Analysis,FALSE,methods
+W2128766412,20,Oligonucleotide Array Sequence Analysis,FALSE,
+W2128766412,21,"Polymorphism, Single Nucleotide",FALSE,genetics
+W2128766412,22,"Polymorphism, Single Nucleotide",FALSE,
+W2128766412,23,Systems Integration,FALSE,
+W1484399819,1,Computational Biology,TRUE,statistics & numerical data
+W1484399819,2,Magnetic Resonance Spectroscopy,TRUE,statistics & numerical data
+W1484399819,3,Proteins,TRUE,chemistry
+W1484399819,4,Algorithms,FALSE,
+W1484399819,5,Animals,FALSE,
+W1484399819,6,Computational Biology,FALSE,
+W1484399819,7,Humans,FALSE,
+W1484399819,8,Magnetic Resonance Spectroscopy,FALSE,
+W1484399819,9,Proteins,FALSE,
+W1964151243,1,Algorithms,TRUE,
+W1964151243,2,Support Vector Machine,TRUE,
+W1964151243,3,Gene Expression,FALSE,
+W1964151243,4,Gene Expression Profiling,FALSE,
+W2064123298,1,Artificial Intelligence,TRUE,
+W2064123298,2,Bayes Theorem,TRUE,
+W2064123298,3,Classification,TRUE,
+W2064123298,4,Algorithms,FALSE,
+W2064123298,5,"Models, Neurological",FALSE,
+W2064123298,6,"Models, Statistical",FALSE,
+W2064123298,7,Monte Carlo Method,FALSE,
+W2013541821,1,Memory,TRUE,
+W2013541821,2,Mental Recall,TRUE,
+W2013541821,3,"Models, Psychological",TRUE,
+W2013541821,4,Psychological Theory,TRUE,
+W2013541821,5,"Recognition, Psychology",TRUE,
+W2013541821,6,Cues,FALSE,
+W2013541821,7,Humans,FALSE,
+W2013541821,8,Reaction Time,FALSE,
+W2024232625,1,Computational Biology,TRUE,
+W2024232625,2,Cryoelectron Microscopy,TRUE,methods
+W2024232625,3,Cryoelectron Microscopy,FALSE,
+W1984514250,1,Dementia,TRUE,etiology
+W1984514250,2,Likelihood Functions,TRUE,
+W1984514250,3,Logistic Models,TRUE,
+W1984514250,4,"Models, Biological",TRUE,
+W1984514250,5,Aged,FALSE,
+W1984514250,6,Aging,FALSE,physiology
+W1984514250,7,Aging,FALSE,
+W1984514250,8,Brain,FALSE,physiology
+W1984514250,9,Brain,FALSE,
+W1984514250,10,Cognition,FALSE,physiology
+W1984514250,11,Cognition,FALSE,
+W1984514250,12,Cohort Studies,FALSE,
+W1984514250,13,Computer Simulation,FALSE,
+W1984514250,14,Dementia,FALSE,
+W1984514250,15,Humans,FALSE,
+W1984514250,16,Longitudinal Studies,FALSE,
+W1984514250,17,Markov Chains,FALSE,
+W1984514250,18,Middle Aged,FALSE,
+W2123872589,1,Algorithms,TRUE,
+W2123872589,2,Chromosome Mapping,TRUE,methods
+W2123872589,3,"Databases, Genetic",TRUE,
+W2123872589,4,Sequence Alignment,TRUE,methods
+W2123872589,5,"Sequence Analysis, DNA",TRUE,methods
+W2123872589,6,Software,TRUE,
+W2123872589,7,Chromosome Mapping,FALSE,
+W2123872589,8,Sequence Alignment,FALSE,
+W2123872589,9,"Sequence Analysis, DNA",FALSE,
+W2103260426,1,Computational Biology,TRUE,methods
+W2103260426,2,Terminology as Topic,TRUE,
+W2103260426,3,"Vocabulary, Controlled",TRUE,
+W2103260426,4,Biomedical Research,FALSE,
+W2103260426,5,Computational Biology,FALSE,
+W2009289676,1,Reaction Time,TRUE,
+W2009289676,2,"Recognition, Psychology",TRUE,
+W2009289676,3,Speech,TRUE,
+W2009289676,4,Vocabulary,TRUE,
+W2009289676,5,Humans,FALSE,
+W2009289676,6,Speech Perception,FALSE,
+W2009289676,7,Verbal Behavior,FALSE,
+W2135940255,1,Biomedical Technology,TRUE,methods
+W2135940255,2,Computational Biology,TRUE,methods
+W2135940255,3,Terminology as Topic,TRUE,
+W2135940255,4,Animals,FALSE,
+W2135940255,5,Benchmarking,FALSE,
+W2135940255,6,Biology,FALSE,
+W2135940255,7,Biology,FALSE,methods
+W2135940255,8,Biomedical Technology,FALSE,
+W2135940255,9,Computational Biology,FALSE,
+W2135940255,10,Humans,FALSE,
+W2135940255,11,Medical Informatics Computing,FALSE,
+W2135940255,12,Systematized Nomenclature of Medicine,FALSE,
+W2135940255,13,"Vocabulary, Controlled",FALSE,
+W1591522539,1,Data Collection,TRUE,methods
+W1591522539,2,Magnetic Resonance Spectroscopy,TRUE,methods
+W1591522539,3,Data Collection,FALSE,
+W1591522539,4,"Data Interpretation, Statistical",FALSE,
+W1591522539,5,Entropy,FALSE,
+W1591522539,6,Magnetic Resonance Spectroscopy,FALSE,
+W1981732549,1,Computational Biology,TRUE,methods
+W1981732549,2,Medical Record Linkage,TRUE,
+W1981732549,3,"Medical Records Systems, Computerized",TRUE,
+W1981732549,4,Computational Biology,FALSE,
+W1981732549,5,Forms and Records Control,FALSE,
+W1981732549,6,Humans,FALSE,
+W1981732549,7,Information Storage and Retrieval,FALSE,
+W1981732549,8,Patient Identification Systems,FALSE,
+W1981732549,9,Programming Languages,FALSE,
+W1981732549,10,Systematized Nomenclature of Medicine,FALSE,
+W2117017773,1,"Databases, Genetic",TRUE,
+W2117017773,2,Drosophila Proteins,TRUE,genetics
+W2117017773,3,Drosophila Proteins,TRUE,classification
+W2117017773,4,Drosophila melanogaster,TRUE,genetics
+W2117017773,5,"Regulatory Elements, Transcriptional",TRUE,genetics
+W2117017773,6,Animals,FALSE,
+W2117017773,7,Drosophila Proteins,FALSE,
+W2117017773,8,Drosophila melanogaster,FALSE,
+W2117017773,9,Internet,FALSE,
+W2117017773,10,Online Systems,FALSE,
+W2117017773,11,"Regulatory Elements, Transcriptional",FALSE,
+W2146247733,1,Aggression,TRUE,
+W2146247733,2,Deception,TRUE,
+W2146247733,3,Child,FALSE,
+W2146247733,4,"Child, Preschool",FALSE,
+W2146247733,5,Female,FALSE,
+W2146247733,6,Humans,FALSE,
+W2146247733,7,Infant,FALSE,
+W2146247733,8,Male,FALSE,
+W2146247733,9,Observation,FALSE,
+W2146247733,10,Social Behavior,FALSE,
+W1983403209,1,Anatomy,TRUE,classification
+W1983403209,2,Computational Biology,TRUE,methods
+W1983403209,3,Anatomy,FALSE,
+W1983403209,4,Artificial Intelligence,FALSE,
+W1983403209,5,Computational Biology,FALSE,
+W1983403209,6,Humans,FALSE,
+W1983403209,7,Informatics,FALSE,
+W1983403209,8,Logic,FALSE,
+W1983403209,9,"Vocabulary, Controlled",FALSE,
+W2091221627,1,Computer Graphics,TRUE,
+W2091221627,2,Data Display,TRUE,
+W2091221627,3,Sensitivity and Specificity,TRUE,
+W2091221627,4,Uncertainty,TRUE,
+W2091221627,5,Adult,FALSE,
+W2091221627,6,Analysis of Variance,FALSE,
+W2091221627,7,Decision Making,FALSE,
+W2091221627,8,Female,FALSE,
+W2091221627,9,Humans,FALSE,
+W2091221627,10,Male,FALSE,
+W2091221627,11,User-Computer Interface,FALSE,
+W2048786492,1,Anatomy,TRUE,methods
+W2048786492,2,Biology,TRUE,methods
+W2048786492,3,Computational Biology,TRUE,methods
+W2048786492,4,Anatomy,FALSE,
+W2048786492,5,Animals,FALSE,
+W2048786492,6,Biology,FALSE,
+W2048786492,7,Computational Biology,FALSE,
+W2048786492,8,Humans,FALSE,
+W2048786492,9,Information Storage and Retrieval,FALSE,
+W2048786492,10,Medical Informatics,FALSE,
+W2048786492,11,Natural Language Processing,FALSE,
+W2048786492,12,"Pattern Recognition, Automated",FALSE,
+W2048786492,13,Terminology as Topic,FALSE,
+W2048786492,14,"Vocabulary, Controlled",FALSE,
+W2020718817,1,Artificial Intelligence,TRUE,
+W2020718817,2,Biomedical Engineering,TRUE,methods
+W2020718817,3,Computational Biology,TRUE,methods
+W2020718817,4,Database Management Systems,TRUE,
+W2020718817,5,"Databases, Factual",TRUE,
+W2020718817,6,Information Storage and Retrieval,TRUE,methods
+W2020718817,7,Natural Language Processing,TRUE,
+W2020718817,8,Biomedical Engineering,FALSE,
+W2020718817,9,Computational Biology,FALSE,
+W2020718817,10,Information Storage and Retrieval,FALSE,
+W2020718817,11,Systems Integration,FALSE,
+W2033852291,1,Dysarthria,TRUE,etiology
+W2033852291,2,Dysarthria,TRUE,physiopathology
+W2033852291,3,Multiple Sclerosis,TRUE,physiopathology
+W2033852291,4,Parkinson Disease,TRUE,physiopathology
+W2033852291,5,Speech Acoustics,TRUE,
+W2033852291,6,Adult,FALSE,
+W2033852291,7,Aged,FALSE,
+W2033852291,8,"Aged, 80 and over",FALSE,
+W2033852291,9,Analysis of Variance,FALSE,
+W2033852291,10,Case-Control Studies,FALSE,
+W2033852291,11,Dysarthria,FALSE,
+W2033852291,12,Female,FALSE,
+W2033852291,13,Humans,FALSE,
+W2033852291,14,Male,FALSE,
+W2033852291,15,Middle Aged,FALSE,
+W2033852291,16,Multiple Sclerosis,FALSE,complications
+W2033852291,17,Multiple Sclerosis,FALSE,
+W2033852291,18,Parkinson Disease,FALSE,complications
+W2033852291,19,Parkinson Disease,FALSE,
+W2033852291,20,Reproducibility of Results,FALSE,
+W2154446060,1,Colonic Neoplasms,TRUE,pathology
+W2154446060,2,Computational Biology,TRUE,
+W2154446060,3,Medical Informatics,TRUE,
+W2154446060,4,Colonic Neoplasms,FALSE,metabolism
+W2154446060,5,Colonic Neoplasms,FALSE,
+W2154446060,6,Colonic Neoplasms,FALSE,classification
+W2154446060,7,Colonic Neoplasms,FALSE,genetics
+W2154446060,8,"Databases, Genetic",FALSE,
+W2154446060,9,"Databases, Protein",FALSE,
+W2154446060,10,Humans,FALSE,
+W2154446060,11,"Models, Anatomic",FALSE,
+W1933330086,1,Systematized Nomenclature of Medicine,TRUE,
+W1933330086,2,Humans,FALSE,
+W2167304222,1,Computational Biology,TRUE,methods
+W2167304222,2,Public Health,TRUE,methods
+W2167304222,3,Computational Biology,FALSE,
+W2167304222,4,Database Management Systems,FALSE,
+W2167304222,5,"Databases, Bibliographic",FALSE,
+W2167304222,6,Humans,FALSE,
+W2167304222,7,Information Storage and Retrieval,FALSE,
+W2167304222,8,Information Systems,FALSE,
+W2167304222,9,Language,FALSE,
+W2167304222,10,Linguistics,FALSE,
+W2167304222,11,Medical Informatics,FALSE,
+W2167304222,12,Natural Language Processing,FALSE,
+W2167304222,13,Physician-Patient Relations,FALSE,
+W2167304222,14,Public Health,FALSE,
+W2167304222,15,Terminology as Topic,FALSE,
+W2167304222,16,"Vocabulary, Controlled",FALSE,
+W2061840149,1,Cluster Analysis,TRUE,
+W2061840149,2,"Neural Networks, Computer",TRUE,
+W2061840149,3,Algorithms,FALSE,
+W2061840149,4,Gene Expression,FALSE,
+W2061840149,5,Gene Expression Profiling,FALSE,
+W2061840149,6,Support Vector Machine,FALSE,
+W1566243711,1,Medical Record Linkage,TRUE,
+W1566243711,2,"Medical Records Systems, Computerized",TRUE,
+W1566243711,3,"Vocabulary, Controlled",TRUE,
+W1566243711,4,Forms and Records Control,FALSE,
+W1566243711,5,Humans,FALSE,
+W1566243711,6,Information Systems,FALSE,
+W1566243711,7,"Medical Records Systems, Computerized",FALSE,classification
+W1566243711,8,"Medical Records Systems, Computerized",FALSE,organization & administration
+W1566243711,9,Systematized Nomenclature of Medicine,FALSE,
+W1566243711,10,Systems Integration,FALSE,
+W1566243711,11,Unified Medical Language System,FALSE,
+W106561449,1,Anatomy,TRUE,classification
+W106561449,2,Information Theory,TRUE,
+W106561449,3,"Vocabulary, Controlled",TRUE,
+W106561449,4,Anatomy,FALSE,
+W106561449,5,Artificial Intelligence,FALSE,
+W106561449,6,Humans,FALSE,
+W106561449,7,Semantics,FALSE,
+W2021865450,1,Algorithms,TRUE,
+W2021865450,2,Computational Biology,TRUE,
+W2021865450,3,Sequence Alignment,TRUE,
+W2021865450,4,Computing Methodologies,FALSE,
+W2021865450,5,"Sequence Analysis, DNA",FALSE,
+W2021865450,6,"Sequence Analysis, Protein",FALSE,
+W1964295534,1,Diagnosis,TRUE,
+W1964295534,2,ROC Curve,TRUE,
+W1964295534,3,Regression Analysis,TRUE,
+W1964295534,4,Biomarkers,FALSE,
+W1964295534,5,Biomarkers,FALSE,analysis
+W1964295534,6,"Child, Preschool",FALSE,
+W1964295534,7,Humans,FALSE,
+W1964295534,8,Malaria,FALSE,
+W1964295534,9,Malaria,FALSE,complications
+W1964295534,10,Malaria,FALSE,diagnosis
+W1964295534,11,Respiratory Tract Diseases,FALSE,
+W1964295534,12,Respiratory Tract Diseases,FALSE,complications
+W1964295534,13,Respiratory Tract Diseases,FALSE,diagnosis
+W2063946746,1,Bayes Theorem,TRUE,
+W2063946746,2,"Models, Statistical",TRUE,
+W2063946746,3,Patient Dropouts,TRUE,
+W2063946746,4,Antipsychotic Agents,FALSE,therapeutic use
+W2063946746,5,Antipsychotic Agents,FALSE,
+W2063946746,6,Computer Simulation,FALSE,
+W2063946746,7,Humans,FALSE,
+W2063946746,8,Longitudinal Studies,FALSE,
+W2063946746,9,Markov Chains,FALSE,
+W2063946746,10,Monte Carlo Method,FALSE,
+W2063946746,11,Randomized Controlled Trials as Topic,FALSE,
+W2063946746,12,Schizophrenia,FALSE,drug therapy
+W2063946746,13,Schizophrenia,FALSE,
+W1761151839,1,Computational Biology,TRUE,methods
+W1761151839,2,Computers,FALSE,
+W1761151839,3,Databases as Topic,FALSE,
+W1761151839,4,Humans,FALSE,
+W1761151839,5,Male,FALSE,
+W1761151839,6,Prostatic Neoplasms,FALSE,metabolism
+W1761151839,7,Recurrence,FALSE,
+W1761151839,8,Software,FALSE,
+W1761151839,9,Tissue Banks,FALSE,
+W1761151839,10,Treatment Outcome,FALSE,
+W2087055223,1,Bayes Theorem,TRUE,
+W2087055223,2,"Data Interpretation, Statistical",TRUE,
+W2087055223,3,"Diagnostic Tests, Routine",TRUE,methods
+W2087055223,4,Predictive Value of Tests,TRUE,
+W2087055223,5,Animals,FALSE,
+W2087055223,6,"Antibodies, Protozoan",FALSE,blood
+W2087055223,7,"Antibodies, Protozoan",FALSE,
+W2087055223,8,Case-Control Studies,FALSE,
+W2087055223,9,Cattle,FALSE,
+W2087055223,10,Cattle Diseases,FALSE,
+W2087055223,11,Cattle Diseases,FALSE,blood
+W2087055223,12,Cattle Diseases,FALSE,epidemiology
+W2087055223,13,Cattle Diseases,FALSE,parasitology
+W2087055223,14,Coccidiosis,FALSE,parasitology
+W2087055223,15,Coccidiosis,FALSE,veterinary
+W2087055223,16,Coccidiosis,FALSE,
+W2087055223,17,Coccidiosis,FALSE,blood
+W2087055223,18,Coccidiosis,FALSE,epidemiology
+W2087055223,19,Computer Simulation,FALSE,
+W2087055223,20,Cross-Sectional Studies,FALSE,
+W2087055223,21,"Diagnostic Tests, Routine",FALSE,
+W2087055223,22,Enzyme-Linked Immunosorbent Assay,FALSE,
+W2087055223,23,Enzyme-Linked Immunosorbent Assay,FALSE,methods
+W2087055223,24,Enzyme-Linked Immunosorbent Assay,FALSE,veterinary
+W2087055223,25,Female,FALSE,
+W2087055223,26,Humans,FALSE,
+W2087055223,27,Markov Chains,FALSE,
+W2087055223,28,Monte Carlo Method,FALSE,
+W2087055223,29,Neospora,FALSE,growth & development
+W2087055223,30,Neospora,FALSE,
+W2087055223,31,Prevalence,FALSE,
+W1964856397,1,"Models, Neurological",TRUE,
+W1964856397,2,"Neural Networks, Computer",TRUE,
+W1964856397,3,Neurons,TRUE,physiology
+W1964856397,4,Algorithms,FALSE,
+W1964856397,5,Computer Simulation,FALSE,
+W1964856397,6,Feedback,FALSE,
+W1964856397,7,Humans,FALSE,
+W1964856397,8,Linear Models,FALSE,
+W1964856397,9,Neurons,FALSE,
+W1964856397,10,Reaction Time,FALSE,physiology
+W1964856397,11,Reaction Time,FALSE,
+W1964856397,12,"Signal Processing, Computer-Assisted",FALSE,
+W2104308663,1,Algorithms,TRUE,
+W2104308663,2,Genomics,TRUE,
+W1998141087,1,Bayes Theorem,TRUE,
+W1998141087,2,Clinical Trials as Topic,TRUE,statistics & numerical data
+W1998141087,3,Patient Dropouts,TRUE,statistics & numerical data
+W1998141087,4,Algorithms,FALSE,
+W1998141087,5,Clinical Trials as Topic,FALSE,
+W1998141087,6,Computer Simulation,FALSE,
+W1998141087,7,"Data Interpretation, Statistical",FALSE,
+W1998141087,8,Humans,FALSE,
+W1998141087,9,Linear Models,FALSE,
+W1998141087,10,Longitudinal Studies,FALSE,
+W1998141087,11,"Models, Statistical",FALSE,
+W1998141087,12,Patient Dropouts,FALSE,
+W1998141087,13,Population,FALSE,
+W1998141087,14,Reproducibility of Results,FALSE,
+W3688212,1,Algorithms,TRUE,
+W3688212,2,"Crossing Over, Genetic",TRUE,
+W3688212,3,"Neural Networks, Computer",TRUE,
+W3688212,4,Pneumonia,TRUE,genetics
+W3688212,5,Cohort Studies,FALSE,
+W3688212,6,Community-Acquired Infections,FALSE,
+W3688212,7,Community-Acquired Infections,FALSE,genetics
+W3688212,8,Humans,FALSE,
+W3688212,9,Logistic Models,FALSE,
+W3688212,10,Pneumonia,FALSE,
+W3688212,11,ROC Curve,FALSE,
+W3688212,12,United States,FALSE,
+W2052875596,1,Algorithms,TRUE,
+W2052875596,2,Gene Expression Profiling,TRUE,methods
+W2052875596,3,"Models, Genetic",TRUE,
+W2052875596,4,"Models, Statistical",TRUE,
+W2052875596,5,Oligonucleotide Array Sequence Analysis,TRUE,methods
+W2052875596,6,Computer Simulation,FALSE,
+W2052875596,7,"Data Interpretation, Statistical",FALSE,
+W2052875596,8,"Databases, Genetic",FALSE,
+W2052875596,9,Gene Expression Profiling,FALSE,
+W2052875596,10,Linear Models,FALSE,
+W2052875596,11,Oligonucleotide Array Sequence Analysis,FALSE,
+W2052875596,12,Reproducibility of Results,FALSE,
+W2052875596,13,Sample Size,FALSE,
+W2052875596,14,Sensitivity and Specificity,FALSE,
+W2052875596,15,Statistics as Topic,FALSE,
+W2099730829,1,Cybernetics,TRUE,methods
+W2099730829,2,"Diagnosis, Computer-Assisted",TRUE,methods
+W2099730829,3,Empathy,TRUE,
+W2099730829,4,Expert Systems,TRUE,
+W2099730829,5,Fuzzy Logic,TRUE,
+W2099730829,6,Observation,TRUE,methods
+W2099730829,7,Psychotherapy,TRUE,methods
+W2099730829,8,Science,TRUE,methods
+W2099730829,9,Cybernetics,FALSE,
+W2099730829,10,"Diagnosis, Computer-Assisted",FALSE,
+W2099730829,11,Humans,FALSE,
+W2099730829,12,"Models, Biological",FALSE,
+W2099730829,13,Observation,FALSE,
+W2099730829,14,Psychotherapy,FALSE,
+W2099730829,15,Science,FALSE,
+W2038260012,1,"Data Interpretation, Statistical",TRUE,
+W2038260012,2,Mammography,TRUE,methods
+W2038260012,3,Observer Variation,TRUE,
+W2038260012,4,"Pattern Recognition, Visual",TRUE,physiology
+W2038260012,5,ROC Curve,TRUE,
+W2038260012,6,"Radiographic Image Interpretation, Computer-Assisted",TRUE,methods
+W2038260012,7,Task Performance and Analysis,TRUE,
+W2038260012,8,Humans,FALSE,
+W2038260012,9,Likelihood Functions,FALSE,
+W2038260012,10,Mammography,FALSE,
+W2038260012,11,"Pattern Recognition, Visual",FALSE,
+W2038260012,12,"Radiographic Image Interpretation, Computer-Assisted",FALSE,
+W2038260012,13,Reproducibility of Results,FALSE,
+W2038260012,14,Sensitivity and Specificity,FALSE,
+W2168283365,1,Discriminant Analysis,TRUE,
+W2168283365,2,Markov Chains,TRUE,
+W2168283365,3,"Neural Networks, Computer",TRUE,
+W2055801436,1,Algorithms,TRUE,
+W2055801436,2,Consensus,TRUE,
+W2055801436,3,"Models, Statistical",TRUE,
+W2055801436,4,Psychology,TRUE,methods
+W2055801436,5,Psychology,TRUE,statistics & numerical data
+W2055801436,6,Humans,FALSE,
+W2055801436,7,Psychology,FALSE,
+W2055801436,8,Sampling Studies,FALSE,
+W2027363589,1,Cell Nucleus,TRUE,ultrastructure
+W2027363589,2,Environment,TRUE,
+W2027363589,3,Epithelial Cells,TRUE,cytology
+W2027363589,4,Fixatives,TRUE,
+W2027363589,5,Specimen Handling,TRUE,methods
+W2027363589,6,Sputum,TRUE,cytology
+W2027363589,7,Cell Nucleus,FALSE,
+W2027363589,8,Cell Shape,FALSE,
+W2027363589,9,Epithelial Cells,FALSE,
+W2027363589,10,Humans,FALSE,
+W2027363589,11,"Image Processing, Computer-Assisted",FALSE,
+W2027363589,12,Light,FALSE,
+W2027363589,13,Lung Neoplasms,FALSE,
+W2027363589,14,Lung Neoplasms,FALSE,diagnosis
+W2027363589,15,Specimen Handling,FALSE,
+W2027363589,16,Sputum,FALSE,
+W2027363589,17,Temperature,FALSE,
+W2139055047,1,Algorithms,TRUE,
+W2139055047,2,Computing Methodologies,TRUE,
+W2139055047,3,"Neural Networks, Computer",TRUE,
+W2139055047,4,Nonlinear Dynamics,TRUE,
+W2139055047,5,"Numerical Analysis, Computer-Assisted",TRUE,
+W2139055047,6,Artificial Intelligence,FALSE,
+W2139055047,7,Cluster Analysis,FALSE,
+W2139055047,8,"Pattern Recognition, Automated",FALSE,
+W2139055047,9,"Pattern Recognition, Automated",FALSE,methods
+W1966168239,1,Algorithms,FALSE,
+W1966168239,2,Cluster Analysis,FALSE,
+W1966168239,3,Environment,FALSE,
+W1966168239,4,Gene Expression Profiling,FALSE,
+W1966168239,5,"Gene Expression Regulation, Fungal",FALSE,
+W1966168239,6,Saccharomyces cerevisiae,FALSE,genetics
+W2171309260,1,Problem Solving,TRUE,
+W2171309260,2,Algorithms,FALSE,
+W2171309260,3,Humans,FALSE,
+W2171309260,4,Logic,FALSE,
+W2167325133,1,Child Language,TRUE,
+W2167325133,2,Verbal Learning,TRUE,
+W2167325133,3,"Child, Preschool",FALSE,
+W2167325133,4,Cues,FALSE,
+W2167325133,5,Humans,FALSE,
+W2167325133,6,Linguistics,FALSE,
+W2015177294,1,Algorithms,TRUE,
+W2015177294,2,Learning,TRUE,physiology
+W2015177294,3,"Models, Neurological",TRUE,
+W2015177294,4,"Models, Psychological",TRUE,
+W2015177294,5,Neocortex,TRUE,physiology
+W2015177294,6,"Neural Networks, Computer",TRUE,
+W2015177294,7,Animals,FALSE,
+W2015177294,8,Hippocampus,FALSE,
+W2015177294,9,Hippocampus,FALSE,physiology
+W2015177294,10,Humans,FALSE,
+W2015177294,11,Learning,FALSE,
+W2015177294,12,Memory,FALSE,
+W2015177294,13,Memory,FALSE,physiology
+W2015177294,14,Neocortex,FALSE,
+W2015177294,15,Nerve Net,FALSE,
+W2015177294,16,Neuronal Plasticity,FALSE,
+W2015177294,17,"Recognition, Psychology",FALSE,
+W2015177294,18,"Recognition, Psychology",FALSE,physiology
+W2015177294,19,"Sleep, REM",FALSE,
+W2015177294,20,"Sleep, REM",FALSE,physiology
+W2015177294,21,Theta Rhythm,FALSE,
+W2141851050,1,Algorithms,TRUE,
+W2141851050,2,Gene Expression Profiling,TRUE,methods
+W2141851050,3,Image Enhancement,TRUE,methods
+W2141851050,4,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2141851050,5,"Microscopy, Fluorescence",TRUE,methods
+W2141851050,6,Oligonucleotide Array Sequence Analysis,TRUE,methods
+W2141851050,7,Computer Simulation,FALSE,
+W2141851050,8,Gene Expression Profiling,FALSE,
+W2141851050,9,Image Enhancement,FALSE,
+W2141851050,10,"Image Interpretation, Computer-Assisted",FALSE,
+W2141851050,11,"In Situ Hybridization, Fluorescence",FALSE,
+W2141851050,12,"In Situ Hybridization, Fluorescence",FALSE,methods
+W2141851050,13,"Microscopy, Fluorescence",FALSE,
+W2141851050,14,"Models, Statistical",FALSE,
+W2141851050,15,Oligonucleotide Array Sequence Analysis,FALSE,
+W2141851050,16,Reproducibility of Results,FALSE,
+W2141851050,17,Sensitivity and Specificity,FALSE,
+W2167304222,1,Computational Biology,TRUE,methods
+W2167304222,2,Public Health,TRUE,methods
+W2167304222,3,Computational Biology,FALSE,
+W2167304222,4,Database Management Systems,FALSE,
+W2167304222,5,"Databases, Bibliographic",FALSE,
+W2167304222,6,Humans,FALSE,
+W2167304222,7,Information Storage and Retrieval,FALSE,
+W2167304222,8,Information Systems,FALSE,
+W2167304222,9,Language,FALSE,
+W2167304222,10,Linguistics,FALSE,
+W2167304222,11,Medical Informatics,FALSE,
+W2167304222,12,Natural Language Processing,FALSE,
+W2167304222,13,Physician-Patient Relations,FALSE,
+W2167304222,14,Public Health,FALSE,
+W2167304222,15,Terminology as Topic,FALSE,
+W2167304222,16,"Vocabulary, Controlled",FALSE,
+W2163962673,1,Algorithms,TRUE,
+W2163962673,2,Heart Ventricles,TRUE,anatomy & histology
+W2163962673,3,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2163962673,4,"Imaging, Three-Dimensional",TRUE,methods
+W2163962673,5,"Magnetic Resonance Imaging, Cine",TRUE,methods
+W2163962673,6,"Pattern Recognition, Automated",TRUE,methods
+W2163962673,7,Subtraction Technique,TRUE,
+W2163962673,8,Animals,FALSE,
+W2163962673,9,Artificial Intelligence,FALSE,
+W2163962673,10,Computer Simulation,FALSE,
+W2163962673,11,Heart Ventricles,FALSE,
+W2163962673,12,Image Enhancement,FALSE,
+W2163962673,13,Image Enhancement,FALSE,methods
+W2163962673,14,"Image Interpretation, Computer-Assisted",FALSE,
+W2163962673,15,"Imaging, Three-Dimensional",FALSE,
+W2163962673,16,"Magnetic Resonance Imaging, Cine",FALSE,
+W2163962673,17,"Models, Biological",FALSE,
+W2163962673,18,"Models, Statistical",FALSE,
+W2163962673,19,"Pattern Recognition, Automated",FALSE,
+W2163962673,20,Rats,FALSE,
+W2163962673,21,Reproducibility of Results,FALSE,
+W2163962673,22,Sensitivity and Specificity,FALSE,
+W2136071402,1,Disclosure,TRUE,
+W2136071402,2,Exploratory Behavior,TRUE,
+W2136071402,3,Bayes Theorem,FALSE,
+W2136071402,4,Humans,FALSE,
+W2136071402,5,Problem Solving,FALSE,
+W2136071402,6,Time Factors,FALSE,
+W2132633424,1,Memory,TRUE,
+W2132633424,2,"Models, Psychological",TRUE,
+W2132633424,3,Psychological Tests,TRUE,
+W2132633424,4,Humans,FALSE,
+W2132633424,5,Psychological Theory,FALSE,
+W2132633424,6,Retrospective Studies,FALSE,
+W2129242565,1,Cognition,TRUE,physiology
+W2129242565,2,Decision Making,TRUE,
+W2129242565,3,Workload,TRUE,
+W2129242565,4,"Adaptation, Psychological",FALSE,
+W2129242565,5,Adult,FALSE,
+W2129242565,6,Analysis of Variance,FALSE,
+W2129242565,7,Cognition,FALSE,
+W2129242565,8,Computer Simulation,FALSE,
+W2129242565,9,"Decision Making, Computer-Assisted",FALSE,
+W2129242565,10,Female,FALSE,
+W2129242565,11,Humans,FALSE,
+W2129242565,12,Male,FALSE,
+W2129242565,13,Probability,FALSE,
+W2129242565,14,Problem Solving,FALSE,
+W2129242565,15,Reaction Time,FALSE,
+W2129242565,16,Research Design,FALSE,
+W2129242565,17,Task Performance and Analysis,FALSE,
+W1964053766,1,"Neurons, Afferent",TRUE,physiology
+W1964053766,2,Action Potentials,FALSE,
+W1964053766,3,Action Potentials,FALSE,physiology
+W1964053766,4,"Neurons, Afferent",FALSE,
+W1964053766,5,"Signal Processing, Computer-Assisted",FALSE,
+W1964053766,6,Synaptic Transmission,FALSE,
+W1964053766,7,Synaptic Transmission,FALSE,physiology
+W1964053766,8,Visual Cortex,FALSE,
+W1964053766,9,Visual Cortex,FALSE,cytology
+W1964053766,10,Visual Cortex,FALSE,physiology
+W2171316783,1,Cognition,TRUE,
+W2171316783,2,Learning,TRUE,
+W2171316783,3,Humans,FALSE,
+W2171316783,4,Reaction Time,FALSE,
+W2171316783,5,Visual Perception,FALSE,
+W2126217059,1,Bioterrorism,TRUE,
+W2126217059,2,Statistics as Topic,TRUE,methods
+W2126217059,3,Data Collection,FALSE,
+W2126217059,4,"Data Interpretation, Statistical",FALSE,
+W2126217059,5,Disease Outbreaks,FALSE,
+W2126217059,6,Humans,FALSE,
+W2126217059,7,Population Surveillance,FALSE,
+W2126217059,8,Population Surveillance,FALSE,methods
+W2126217059,9,Statistics as Topic,FALSE,
+W1977135436,1,"Diagnosis, Computer-Assisted",TRUE,methods
+W1977135436,2,Expert Systems,TRUE,
+W1977135436,3,"Outcome Assessment, Health Care",TRUE,methods
+W1977135436,4,Pneumonia,TRUE,diagnosis
+W1977135436,5,Pneumonia,TRUE,mortality
+W1977135436,6,Risk Assessment,TRUE,methods
+W1977135436,7,Survival Analysis,TRUE,
+W1977135436,8,Community-Acquired Infections,FALSE,mortality
+W1977135436,9,Community-Acquired Infections,FALSE,diagnosis
+W1977135436,10,Community-Acquired Infections,FALSE,
+W1977135436,11,"Decision Support Systems, Clinical",FALSE,
+W1977135436,12,"Diagnosis, Computer-Assisted",FALSE,
+W1977135436,13,Humans,FALSE,
+W1977135436,14,Incidence,FALSE,
+W1977135436,15,"Outcome Assessment, Health Care",FALSE,
+W1977135436,16,Pneumonia,FALSE,therapy
+W1977135436,17,Pneumonia,FALSE,
+W1977135436,18,Prognosis,FALSE,
+W1977135436,19,ROC Curve,FALSE,
+W1977135436,20,Retrospective Studies,FALSE,
+W1977135436,21,Risk Assessment,FALSE,
+W1977135436,22,Risk Factors,FALSE,
+W1977135436,23,Survival Rate,FALSE,
+W1977135436,24,United States,FALSE,epidemiology
+W1977135436,25,United States,FALSE,
+W2064366273,1,Foot,TRUE,anatomy & histology
+W2064366273,2,Forensic Medicine,TRUE,methods
+W2064366273,3,Principal Component Analysis,TRUE,
+W2064366273,4,Probability,TRUE,
+W2064366273,5,Adult,FALSE,
+W2064366273,6,Analysis of Variance,FALSE,
+W2064366273,7,Female,FALSE,
+W2064366273,8,Foot,FALSE,
+W2064366273,9,Forensic Medicine,FALSE,
+W2064366273,10,Humans,FALSE,
+W2064366273,11,"Image Processing, Computer-Assisted",FALSE,
+W2064366273,12,Male,FALSE,
+W2064366273,13,"Models, Biological",FALSE,
+W1788063258,1,Base Sequence,TRUE,
+W1788063258,2,Privacy,TRUE,
+W1788063258,3,Algorithms,FALSE,
+W1788063258,4,"Databases, Nucleic Acid",FALSE,
+W1788063258,5,Humans,FALSE,
+W1788063258,6,United States,FALSE,
+W2125639753,1,Bayes Theorem,TRUE,
+W2125639753,2,Regression Analysis,TRUE,
+W2125639753,3,Animals,FALSE,
+W2125639753,4,Biometry,FALSE,
+W2125639753,5,"Data Interpretation, Statistical",FALSE,
+W2125639753,6,Haplorhini,FALSE,
+W2125639753,7,Motor Cortex,FALSE,physiology
+W2125639753,8,Motor Cortex,FALSE,
+W2125639753,9,Neurophysiology,FALSE,statistics & numerical data
+W2125639753,10,Neurophysiology,FALSE,
+W2125639753,11,Poisson Distribution,FALSE,
+W2125639753,12,"Statistics, Nonparametric",FALSE,
+W2150722176,1,Computational Biology,TRUE,methods
+W2150722176,2,Proteomics,TRUE,methods
+W2150722176,3,Algorithms,FALSE,
+W2150722176,4,Computational Biology,FALSE,
+W2150722176,5,"Databases, Protein",FALSE,
+W2150722176,6,Dictionaries as Topic,FALSE,
+W2150722176,7,Entropy,FALSE,
+W2150722176,8,Internet,FALSE,
+W2150722176,9,Markov Chains,FALSE,
+W2150722176,10,"Models, Statistical",FALSE,
+W2150722176,11,"Pattern Recognition, Automated",FALSE,
+W2150722176,12,Programming Languages,FALSE,
+W2150722176,13,Proteomics,FALSE,
+W2150722176,14,Software,FALSE,
+W2150722176,15,"Vocabulary, Controlled",FALSE,
+W2170086959,1,Algorithms,FALSE,
+W2170086959,2,Computer Communication Networks,FALSE,
+W2170086959,3,Computer Security,FALSE,
+W2170086959,4,Confidentiality,FALSE,
+W2170086959,5,Database Management Systems,FALSE,
+W2170086959,6,Genetic Privacy,FALSE,
+W2170086959,7,Humans,FALSE,
+W2170086959,8,"Medical Records Systems, Computerized",FALSE,
+W2138453865,1,Decision Making,TRUE,
+W2138453865,2,Learning,TRUE,
+W2138453865,3,Problem Solving,TRUE,
+W2138453865,4,Aviation,FALSE,
+W2138453865,5,Cognition,FALSE,
+W2138453865,6,Computer Simulation,FALSE,
+W2138453865,7,Eye Movements,FALSE,
+W2138453865,8,Humans,FALSE,
+W2138453865,9,Motor Skills,FALSE,
+W2138453865,10,Students,FALSE,
+W2138453865,11,Task Performance and Analysis,FALSE,
+W2053569264,1,Attention,FALSE,
+W2053569264,2,Discrimination Learning,FALSE,
+W2053569264,3,Humans,FALSE,
+W2053569264,4,Judgment,FALSE,
+W2053569264,5,"Memory, Short-Term",FALSE,
+W2053569264,6,Paired-Associate Learning,FALSE,
+W2053569264,7,Probability Learning,FALSE,
+W2053569264,8,Psycholinguistics,FALSE,
+W2053569264,9,Semantics,FALSE,
+W2053569264,10,"Set, Psychology",FALSE,
+W2053569264,11,Verbal Learning,FALSE,
+W2039167473,1,Algorithms,TRUE,
+W2039167473,2,Computer-Assisted Instruction,TRUE,methods
+W2039167473,3,Diagnostic Imaging,TRUE,methods
+W2039167473,4,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2039167473,5,Radiology,TRUE,education
+W2039167473,6,Software,TRUE,
+W2039167473,7,Software Design,TRUE,
+W2039167473,8,Computer-Assisted Instruction,FALSE,
+W2039167473,9,Curriculum,FALSE,
+W2039167473,10,Diagnostic Imaging,FALSE,
+W2039167473,11,"Education, Medical",FALSE,
+W2039167473,12,"Education, Medical",FALSE,methods
+W2039167473,13,"Image Interpretation, Computer-Assisted",FALSE,
+W2039167473,14,Radiology,FALSE,
+W1964886645,1,Environmental Exposure,TRUE,
+W1964886645,2,Expert Testimony,TRUE,
+W1964886645,3,Lung Neoplasms,TRUE,etiology
+W1964886645,4,Lung Neoplasms,TRUE,mortality
+W1964886645,5,Humans,FALSE,
+W1964886645,6,Lung Neoplasms,FALSE,
+W1964886645,7,"Models, Theoretical",FALSE,
+W1964886645,8,Risk Assessment,FALSE,
+W1964886645,9,Sensitivity and Specificity,FALSE,
+W2011080088,1,Internet,TRUE,trends
+W2011080088,2,"Libraries, Digital",TRUE,trends
+W2011080088,3,Archives,FALSE,
+W2011080088,4,Books,FALSE,
+W2011080088,5,"Databases, Factual",FALSE,trends
+W2011080088,6,"Databases, Factual",FALSE,
+W2011080088,7,"Databases, Factual",FALSE,economics
+W2011080088,8,France,FALSE,
+W2011080088,9,Internet,FALSE,economics
+W2011080088,10,Internet,FALSE,
+W2011080088,11,"Libraries, Digital",FALSE,economics
+W2011080088,12,"Libraries, Digital",FALSE,
+W2011080088,13,Literature,FALSE,
+W2011080088,14,Public Sector,FALSE,
+W2011080088,15,Universities,FALSE,
+W2155763684,1,Algorithms,TRUE,
+W2155763684,2,Artificial Intelligence,TRUE,
+W2155763684,3,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2155763684,4,"Models, Biological",TRUE,
+W2155763684,5,Movement,TRUE,
+W2155763684,6,"Pattern Recognition, Automated",TRUE,methods
+W2155763684,7,Video Recording,TRUE,methods
+W2155763684,8,Computer Simulation,FALSE,
+W2155763684,9,Humans,FALSE,
+W2155763684,10,Image Enhancement,FALSE,methods
+W2155763684,11,Image Enhancement,FALSE,
+W2155763684,12,"Image Interpretation, Computer-Assisted",FALSE,
+W2155763684,13,Information Storage and Retrieval,FALSE,
+W2155763684,14,Information Storage and Retrieval,FALSE,methods
+W2155763684,15,Markov Chains,FALSE,
+W2155763684,16,"Models, Statistical",FALSE,
+W2155763684,17,"Pattern Recognition, Automated",FALSE,
+W2155763684,18,Subtraction Technique,FALSE,
+W2155763684,19,Video Recording,FALSE,
+W2108227345,1,Biochemistry,TRUE,methods
+W2108227345,2,Metabolism,TRUE,
+W2108227345,3,Algorithms,FALSE,
+W2108227345,4,Arabidopsis,FALSE,genetics
+W2108227345,5,Arabidopsis,FALSE,
+W2108227345,6,Biochemistry,FALSE,
+W2108227345,7,Computer Graphics,FALSE,
+W2108227345,8,Computer Simulation,FALSE,
+W2108227345,9,Gene Expression,FALSE,
+W2108227345,10,Gene Expression Regulation,FALSE,
+W2108227345,11,"Genes, Plant",FALSE,
+W2108227345,12,"Genome, Plant",FALSE,
+W2108227345,13,Internet,FALSE,
+W2108227345,14,"Models, Biological",FALSE,
+W2108227345,15,Multigene Family,FALSE,
+W2108227345,16,Proteomics,FALSE,
+W2108227345,17,Software,FALSE,
+W2108227345,18,Software Design,FALSE,
+W2108227345,19,"Transcription, Genetic",FALSE,
+W2108227345,20,User-Computer Interface,FALSE,
+W2137870664,1,Bayes Theorem,TRUE,
+W2137870664,2,"Neural Networks, Computer",TRUE,
+W2137870664,3,Prostatic Neoplasms,TRUE,pathology
+W2137870664,4,Biometry,FALSE,
+W2137870664,5,"Data Interpretation, Statistical",FALSE,
+W2137870664,6,Gene Expression Profiling,FALSE,
+W2137870664,7,Gene Expression Profiling,FALSE,statistics & numerical data
+W2137870664,8,Humans,FALSE,
+W2137870664,9,Logistic Models,FALSE,
+W2137870664,10,Male,FALSE,
+W2137870664,11,Markov Chains,FALSE,
+W2137870664,12,"Models, Statistical",FALSE,
+W2137870664,13,Monte Carlo Method,FALSE,
+W2137870664,14,Oligonucleotide Array Sequence Analysis,FALSE,
+W2137870664,15,Oligonucleotide Array Sequence Analysis,FALSE,statistics & numerical data
+W2137870664,16,Prostatic Neoplasms,FALSE,genetics
+W2137870664,17,Prostatic Neoplasms,FALSE,therapy
+W2137870664,18,Prostatic Neoplasms,FALSE,
+W2084958909,1,Computational Biology,TRUE,
+W2084958909,2,Programming Languages,TRUE,
+W2084958909,3,Software,TRUE,
+W2084958909,4,User-Computer Interface,TRUE,
+W2084958909,5,Computer Graphics,FALSE,
+W2084958909,6,Database Management Systems,FALSE,
+W2084958909,7,Information Storage and Retrieval,FALSE,
+W2084958909,8,Internet,FALSE,
+W1982145177,1,Bayes Theorem,TRUE,
+W1982145177,2,"Models, Statistical",TRUE,
+W1982145177,3,"Signal Detection, Psychological",TRUE,
+W1982145177,4,Bias,FALSE,
+W1982145177,5,Humans,FALSE,
+W1982145177,6,Markov Chains,FALSE,
+W1982145177,7,Mathematical Computing,FALSE,
+W1982145177,8,Mental Recall,FALSE,
+W1982145177,9,Monte Carlo Method,FALSE,
+W1982145177,10,Nonlinear Dynamics,FALSE,
+W1982145177,11,Reference Values,FALSE,
+W1982145177,12,Software,FALSE,
+W1997798784,1,Cognition,TRUE,
+W1997798784,2,Learning,TRUE,
+W1997798784,3,"Models, Psychological",TRUE,
+W1997798784,4,Humans,FALSE,
+W1997798784,5,Psychology,FALSE,
+W1997798784,6,Psychology,FALSE,methods
+W1997798784,7,Psychology,FALSE,statistics & numerical data
+W1983998431,1,Humans,FALSE,
+W1983998431,2,Memory,FALSE,
+W1983998431,3,Mental Recall,FALSE,
+W1983998431,4,Vocabulary,FALSE,
+W2065154920,1,Head,TRUE,diagnostic imaging
+W2065154920,2,"Ultrasonography, Prenatal",TRUE,methods
+W2065154920,3,Algorithms,FALSE,
+W2065154920,4,Cephalometry,FALSE,methods
+W2065154920,5,Cephalometry,FALSE,
+W2065154920,6,Female,FALSE,
+W2065154920,7,Head,FALSE,anatomy & histology
+W2065154920,8,Head,FALSE,
+W2065154920,9,Head,FALSE,embryology
+W2065154920,10,Humans,FALSE,
+W2065154920,11,"Image Processing, Computer-Assisted",FALSE,
+W2065154920,12,"Image Processing, Computer-Assisted",FALSE,methods
+W2065154920,13,Observer Variation,FALSE,
+W2065154920,14,Pregnancy,FALSE,
+W2065154920,15,"Ultrasonography, Prenatal",FALSE,
+W2153021189,1,"Databases, Factual",TRUE,
+W2153021189,2,"Decision Support Systems, Clinical",TRUE,
+W2153021189,3,Expert Systems,TRUE,
+W2153021189,4,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2153021189,5,Information Storage and Retrieval,TRUE,methods
+W2153021189,6,"Medical Records Systems, Computerized",TRUE,
+W2153021189,7,User-Computer Interface,TRUE,
+W2153021189,8,Artificial Intelligence,FALSE,
+W2153021189,9,Humans,FALSE,
+W2153021189,10,"Image Interpretation, Computer-Assisted",FALSE,
+W2153021189,11,Information Dissemination,FALSE,methods
+W2153021189,12,Information Dissemination,FALSE,
+W2153021189,13,Information Storage and Retrieval,FALSE,
+W2153021189,14,"Pattern Recognition, Automated",FALSE,methods
+W2153021189,15,"Pattern Recognition, Automated",FALSE,
+W2153021189,16,Radiology Information Systems,FALSE,
+W2153021189,17,Semantics,FALSE,
+W1484399819,1,Computational Biology,TRUE,statistics & numerical data
+W1484399819,2,Magnetic Resonance Spectroscopy,TRUE,statistics & numerical data
+W1484399819,3,Proteins,TRUE,chemistry
+W1484399819,4,Algorithms,FALSE,
+W1484399819,5,Animals,FALSE,
+W1484399819,6,Computational Biology,FALSE,
+W1484399819,7,Humans,FALSE,
+W1484399819,8,Magnetic Resonance Spectroscopy,FALSE,
+W1484399819,9,Proteins,FALSE,
+W2053306797,1,"Metals, Heavy",TRUE,analysis
+W2053306797,2,Soil Pollutants,TRUE,analysis
+W2053306797,3,Water Pollutants,TRUE,analysis
+W2053306797,4,Forecasting,FALSE,
+W2053306797,5,Geological Phenomena,FALSE,
+W2053306797,6,Geology,FALSE,
+W2053306797,7,Logistic Models,FALSE,
+W2053306797,8,"Metals, Heavy",FALSE,
+W2053306797,9,Risk Assessment,FALSE,
+W2053306797,10,Soil Pollutants,FALSE,
+W2053306797,11,Water Pollutants,FALSE,
+W2053306797,12,Water Supply,FALSE,
+W2072836627,1,Gestures,TRUE,
+W2072836627,2,Phonation,TRUE,physiology
+W2072836627,3,Phonetics,TRUE,
+W2072836627,4,Speech,TRUE,physiology
+W2072836627,5,Voice,TRUE,physiology
+W2072836627,6,Child,FALSE,
+W2072836627,7,"Child, Preschool",FALSE,
+W2072836627,8,Female,FALSE,
+W2072836627,9,Humans,FALSE,
+W2072836627,10,Male,FALSE,
+W2072836627,11,Phonation,FALSE,
+W2072836627,12,Sound Spectrography,FALSE,
+W2072836627,13,Speech,FALSE,
+W2072836627,14,Speech Acoustics,FALSE,
+W2072836627,15,Speech Production Measurement,FALSE,
+W2072836627,16,Voice,FALSE,
+W2026464504,1,Environmental Pollution,TRUE,prevention & control
+W2026464504,2,Guideline Adherence,TRUE,
+W2026464504,3,Information Systems,TRUE,
+W2026464504,4,Occupational Health,TRUE,
+W2026464504,5,Decision Making,FALSE,
+W2026464504,6,Environmental Pollution,FALSE,
+W2026464504,7,Humans,FALSE,
+W2026464504,8,Information Management,FALSE,
+W2026464504,9,Public Policy,FALSE,
+W2026464504,10,Safety,FALSE,
+W2026464504,11,United States,FALSE,
+W2012913251,1,HMGA1a Protein,TRUE,metabolism
+W2012913251,2,Nuclear Proteins,TRUE,metabolism
+W2012913251,3,Protein-Arginine N-Methyltransferases,TRUE,metabolism
+W2012913251,4,HMGA1a Protein,FALSE,
+W2012913251,5,Humans,FALSE,
+W2012913251,6,Methylation,FALSE,
+W2012913251,7,Nuclear Proteins,FALSE,
+W2012913251,8,Protein-Arginine N-Methyltransferases,FALSE,
+W2012913251,9,Substrate Specificity,FALSE,
+W2163046202,1,Algorithms,TRUE,
+W2163046202,2,Artificial Intelligence,TRUE,
+W2163046202,3,Least-Squares Analysis,TRUE,
+W2163046202,4,"Models, Statistical",TRUE,
+W2163046202,5,"Pattern Recognition, Automated",TRUE,methods
+W2163046202,6,Computer Simulation,FALSE,
+W2163046202,7,"Pattern Recognition, Automated",FALSE,
+W2131703061,1,Bayes Theorem,TRUE,
+W2131703061,2,Computational Biology,TRUE,methods
+W2131703061,3,Mass Spectrometry,TRUE,methods
+W2131703061,4,"Neural Networks, Computer",TRUE,
+W2131703061,5,Ovarian Neoplasms,TRUE,diagnosis
+W2131703061,6,Ovarian Neoplasms,TRUE,metabolism
+W2131703061,7,Computational Biology,FALSE,
+W2131703061,8,Female,FALSE,
+W2131703061,9,Humans,FALSE,
+W2131703061,10,Mass Spectrometry,FALSE,
+W2131703061,11,"Models, Statistical",FALSE,
+W2131703061,12,Normal Distribution,FALSE,
+W2131703061,13,Ovarian Neoplasms,FALSE,
+W2131703061,14,Programming Languages,FALSE,
+W2131703061,15,Reproducibility of Results,FALSE,
+W2131703061,16,Software,FALSE,
+W2037707269,1,Language,TRUE,
+W2037707269,2,Paired-Associate Learning,TRUE,
+W2037707269,3,Phonetics,TRUE,
+W2037707269,4,Semantics,TRUE,
+W2037707269,5,"Set, Psychology",TRUE,
+W2037707269,6,Speech Perception,TRUE,
+W2037707269,7,Attention,FALSE,
+W2037707269,8,Humans,FALSE,
+W2037707269,9,"Memory, Short-Term",FALSE,
+W2037707269,10,Psycholinguistics,FALSE,
+W2037707269,11,Reaction Time,FALSE,
+W2132449319,1,"Adaptation, Physiological",TRUE,physiology
+W2132449319,2,Palate,TRUE,physiology
+W2132449319,3,Prostheses and Implants,TRUE,adverse effects
+W2132449319,4,Speech,TRUE,physiology
+W2132449319,5,Speech Acoustics,TRUE,
+W2132449319,6,"Adaptation, Physiological",FALSE,
+W2132449319,7,Adult,FALSE,
+W2132449319,8,Analysis of Variance,FALSE,
+W2132449319,9,Female,FALSE,
+W2132449319,10,Humans,FALSE,
+W2132449319,11,Male,FALSE,
+W2132449319,12,Middle Aged,FALSE,
+W2132449319,13,Palate,FALSE,
+W2132449319,14,Prostheses and Implants,FALSE,
+W2132449319,15,Prostheses and Implants,FALSE,psychology
+W2132449319,16,Prosthesis Design,FALSE,
+W2132449319,17,Speech,FALSE,
+W2132449319,18,Speech Intelligibility,FALSE,
+W2132449319,19,Speech Production Measurement,FALSE,
+W2132449319,20,Tape Recording,FALSE,
+W2128391743,1,Database Management Systems,TRUE,
+W2128391743,2,"Databases, Genetic",TRUE,
+W2128391743,3,Genomics,TRUE,methods
+W2128391743,4,Information Storage and Retrieval,TRUE,methods
+W2128391743,5,Programming Languages,TRUE,
+W2128391743,6,Software,TRUE,
+W2128391743,7,User-Computer Interface,TRUE,
+W2128391743,8,Chromosome Mapping,FALSE,methods
+W2128391743,9,Chromosome Mapping,FALSE,
+W2128391743,10,Genomics,FALSE,
+W2128391743,11,Information Storage and Retrieval,FALSE,
+W2137377708,1,Feedback,TRUE,
+W2137377708,2,Learning,TRUE,
+W2137377708,3,"Reinforcement, Psychology",TRUE,
+W2137377708,4,Vocabulary,TRUE,
+W2137377708,5,Humans,FALSE,
+W1994940246,1,Cues,TRUE,
+W1994940246,2,Free Association,TRUE,
+W1994940246,3,Mental Recall,TRUE,
+W1994940246,4,Paired-Associate Learning,TRUE,
+W1994940246,5,Probability,TRUE,
+W1994940246,6,Comprehension,FALSE,
+W1994940246,7,Concept Formation,FALSE,
+W1994940246,8,Humans,FALSE,
+W1994940246,9,Psychological Theory,FALSE,
+W1994940246,10,Semantics,FALSE,
+W1994940246,11,Statistics as Topic,FALSE,
+W2127001701,1,"Biopsy, Needle",TRUE,statistics & numerical data
+W2127001701,2,Breast,TRUE,pathology
+W2127001701,3,Breast Diseases,TRUE,pathology
+W2127001701,4,Adult,FALSE,
+W2127001701,5,"Biopsy, Needle",FALSE,
+W2127001701,6,"Biopsy, Needle",FALSE,methods
+W2127001701,7,Breast,FALSE,
+W2127001701,8,Breast Diseases,FALSE,
+W2127001701,9,Breast Neoplasms,FALSE,
+W2127001701,10,Breast Neoplasms,FALSE,pathology
+W2127001701,11,Female,FALSE,
+W2127001701,12,Humans,FALSE,
+W2127001701,13,Middle Aged,FALSE,
+W2127001701,14,Retrospective Studies,FALSE,
+W2127001701,15,United States,FALSE,
+W1985970137,1,Miniaturization,TRUE,
+W1985970137,2,Professional-Patient Relations,TRUE,
+W1985970137,3,Video Recording,TRUE,instrumentation
+W1985970137,4,Equipment Design,FALSE,
+W1985970137,5,Humans,FALSE,
+W1985970137,6,Nonverbal Communication,FALSE,
+W1985970137,7,Privacy,FALSE,
+W1985970137,8,Verbal Behavior,FALSE,
+W1985970137,9,Video Recording,FALSE,
+W2063332223,1,Multilingualism,TRUE,
+W2063332223,2,Phonetics,TRUE,
+W2063332223,3,Speech Intelligibility,TRUE,
+W2063332223,4,Adolescent,FALSE,
+W2063332223,5,Adult,FALSE,
+W2063332223,6,Female,FALSE,
+W2063332223,7,Humans,FALSE,
+W2063332223,8,Male,FALSE,
+W2063332223,9,Middle Aged,FALSE,
+W2063332223,10,Regression Analysis,FALSE,
+W2063332223,11,Speech Production Measurement,FALSE,
+W2063332223,12,Tape Recording,FALSE,
+W2147636776,1,"Diagnosis, Computer-Assisted",TRUE,
+W2147636776,2,Mammography,TRUE,
+W2147636776,3,Breast Neoplasms,FALSE,diagnosis
+W2147636776,4,Breast Neoplasms,FALSE,
+W2147636776,5,Clinical Competence,FALSE,
+W2147636776,6,Cognition,FALSE,
+W2147636776,7,Female,FALSE,
+W2147636776,8,"Health Knowledge, Attitudes, Practice",FALSE,
+W2147636776,9,Humans,FALSE,
+W2147636776,10,Internship and Residency,FALSE,
+W2147636776,11,Perception,FALSE,
+W2147636776,12,ROC Curve,FALSE,
+W2147636776,13,Radiology,FALSE,education
+W2147636776,14,Radiology,FALSE,
+W2147636776,15,Sensitivity and Specificity,FALSE,
+W2147636776,16,Task Performance and Analysis,FALSE,
+W1985699937,1,Aging,TRUE,physiology
+W1985699937,2,"Image Processing, Computer-Assisted",TRUE,
+W1985699937,3,Phonation,TRUE,physiology
+W1985699937,4,Vocal Cords,TRUE,physiology
+W1985699937,5,Voice,TRUE,physiology
+W1985699937,6,Adult,FALSE,
+W1985699937,7,Aged,FALSE,
+W1985699937,8,Aging,FALSE,
+W1985699937,9,Case-Control Studies,FALSE,
+W1985699937,10,Female,FALSE,
+W1985699937,11,Humans,FALSE,
+W1985699937,12,Kymography,FALSE,
+W1985699937,13,Phonation,FALSE,
+W1985699937,14,Speech Acoustics,FALSE,
+W1985699937,15,Stroboscopy,FALSE,
+W1985699937,16,Time Factors,FALSE,
+W1985699937,17,Vibration,FALSE,
+W1985699937,18,Videotape Recording,FALSE,
+W1985699937,19,Vocal Cords,FALSE,
+W1985699937,20,Voice,FALSE,
+W1984841879,1,Mental Recall,TRUE,
+W1984841879,2,Humans,FALSE,
+W1984841879,3,Observation,FALSE,
+W1984841879,4,"Recognition, Psychology",FALSE,
+W2055566180,1,Anomia,TRUE,rehabilitation
+W2055566180,2,Anomia,TRUE,physiopathology
+W2055566180,3,Semantics,TRUE,
+W2055566180,4,Aged,FALSE,
+W2055566180,5,Anomia,FALSE,
+W2055566180,6,"Aphasia, Wernicke",FALSE,
+W2055566180,7,"Aphasia, Wernicke",FALSE,physiopathology
+W2055566180,8,"Aphasia, Wernicke",FALSE,rehabilitation
+W2055566180,9,Humans,FALSE,
+W2055566180,10,"Infarction, Middle Cerebral Artery",FALSE,
+W2055566180,11,"Infarction, Middle Cerebral Artery",FALSE,physiopathology
+W2055566180,12,"Infarction, Middle Cerebral Artery",FALSE,rehabilitation
+W2055566180,13,Male,FALSE,
+W2055566180,14,Photic Stimulation,FALSE,
+W2055566180,15,Speech,FALSE,
+W34590700,1,Abstracting and Indexing,TRUE,methods
+W34590700,2,Electronic Data Processing,TRUE,
+W34590700,3,Medicine,TRUE,classification
+W34590700,4,Natural Language Processing,TRUE,
+W34590700,5,Specialization,TRUE,
+W34590700,6,Terminology as Topic,TRUE,
+W34590700,7,Abstracting and Indexing,FALSE,
+W34590700,8,Disease,FALSE,classification
+W34590700,9,Disease,FALSE,
+W34590700,10,Information Storage and Retrieval,FALSE,
+W34590700,11,Medical Subject Headings,FALSE,
+W34590700,12,Medicine,FALSE,
+W34590700,13,Unified Medical Language System,FALSE,
+W2080800271,1,Colloids,TRUE,chemistry
+W2080800271,2,Microscopy,TRUE,methods
+W2080800271,3,Soil,TRUE,analysis
+W2080800271,4,Spectrum Analysis,TRUE,methods
+W2080800271,5,Colloids,FALSE,
+W2080800271,6,Microscopy,FALSE,
+W2080800271,7,Soil,FALSE,
+W2080800271,8,Spectrum Analysis,FALSE,
+W2080800271,9,X-Rays,FALSE,
+W2029692362,1,Colonic Polyps,TRUE,diagnostic imaging
+W2029692362,2,Colonic Polyps,TRUE,diagnosis
+W2029692362,3,"Colonography, Computed Tomographic",TRUE,methods
+W2029692362,4,Biophysical Phenomena,FALSE,
+W2029692362,5,Biophysics,FALSE,
+W2029692362,6,Colonic Polyps,FALSE,
+W2029692362,7,"Colonography, Computed Tomographic",FALSE,statistics & numerical data
+W2029692362,8,"Colonography, Computed Tomographic",FALSE,
+W2029692362,9,"Diagnosis, Computer-Assisted",FALSE,
+W2029692362,10,False Positive Reactions,FALSE,
+W2029692362,11,Humans,FALSE,
+W2029692362,12,"Models, Anatomic",FALSE,
+W2029692362,13,"Tomography, Spiral Computed",FALSE,
+W2029692362,14,"Tomography, X-Ray Computed",FALSE,
+W2077205321,1,Attitude,TRUE,
+W2077205321,2,Culture,TRUE,
+W2077205321,3,Thinking,TRUE,
+W2077205321,4,Humans,FALSE,
+W2077205321,5,Memory,FALSE,
+W2171766700,1,"Databases, Factual",TRUE,
+W2171766700,2,Medical Informatics Computing,TRUE,
+W2171766700,3,"Medical Records Systems, Computerized",TRUE,
+W2171766700,4,Clinical Chemistry Tests,FALSE,
+W2171766700,5,Cohort Studies,FALSE,
+W2171766700,6,"Data Interpretation, Statistical",FALSE,
+W2171766700,7,Humans,FALSE,
+W2171766700,8,Predictive Value of Tests,FALSE,
+W2149580413,1,Algorithms,TRUE,
+W2149580413,2,Artificial Intelligence,TRUE,
+W2149580413,3,Cerebral Palsy,TRUE,physiopathology
+W2149580413,4,Dysarthria,TRUE,physiopathology
+W2149580413,5,"Models, Biological",TRUE,
+W2149580413,6,"Pattern Recognition, Automated",TRUE,methods
+W2149580413,7,Speech Recognition Software,TRUE,
+W2149580413,8,Cerebral Palsy,FALSE,complications
+W2149580413,9,Cerebral Palsy,FALSE,
+W2149580413,10,Dysarthria,FALSE,etiology
+W2149580413,11,Dysarthria,FALSE,
+W2149580413,12,Fourier Analysis,FALSE,
+W2149580413,13,Humans,FALSE,
+W2149580413,14,Linear Models,FALSE,
+W2149580413,15,Markov Chains,FALSE,
+W2149580413,16,"Pattern Recognition, Automated",FALSE,
+W2149580413,17,"Signal Processing, Computer-Assisted",FALSE,
+W2042320059,1,Artificial Intelligence,TRUE,
+W2042320059,2,Dysarthria,TRUE,rehabilitation
+W2042320059,3,Dysarthria,TRUE,physiopathology
+W2042320059,4,"Pattern Recognition, Automated",TRUE,methods
+W2042320059,5,Sound Spectrography,TRUE,methods
+W2042320059,6,Speech Production Measurement,TRUE,methods
+W2042320059,7,Speech Recognition Software,TRUE,
+W2042320059,8,Algorithms,FALSE,
+W2042320059,9,Dysarthria,FALSE,diagnosis
+W2042320059,10,Dysarthria,FALSE,
+W2042320059,11,Humans,FALSE,
+W2042320059,12,Male,FALSE,
+W2042320059,13,Markov Chains,FALSE,
+W2042320059,14,"Neural Networks, Computer",FALSE,
+W2042320059,15,"Pattern Recognition, Automated",FALSE,
+W2042320059,16,Sound Spectrography,FALSE,
+W2042320059,17,Speech Production Measurement,FALSE,
+W2063466265,1,Breast Neoplasms,TRUE,diagnostic imaging
+W2063466265,2,Mass Screening,TRUE,standards
+W2063466265,3,"Radiographic Image Interpretation, Computer-Assisted",TRUE,
+W2063466265,4,Adult,FALSE,
+W2063466265,5,Breast Neoplasms,FALSE,pathology
+W2063466265,6,Breast Neoplasms,FALSE,
+W2063466265,7,False Positive Reactions,FALSE,
+W2063466265,8,Female,FALSE,
+W2063466265,9,Humans,FALSE,
+W2063466265,10,Mammography,FALSE,
+W2063466265,11,Mammography,FALSE,methods
+W2063466265,12,Mass Screening,FALSE,methods
+W2063466265,13,Mass Screening,FALSE,
+W2063466265,14,Middle Aged,FALSE,
+W2063466265,15,Sensitivity and Specificity,FALSE,
+W1995225352,1,Breast Neoplasms,TRUE,diagnosis
+W1995225352,2,"Diagnosis, Computer-Assisted",TRUE,
+W1995225352,3,Mammography,TRUE,
+W1995225352,4,Adult,FALSE,
+W1995225352,5,Aged,FALSE,
+W1995225352,6,"Aged, 80 and over",FALSE,
+W1995225352,7,Breast Neoplasms,FALSE,
+W1995225352,8,Breast Neoplasms,FALSE,diagnostic imaging
+W1995225352,9,Breast Neoplasms,FALSE,pathology
+W1995225352,10,"Carcinoma, Ductal, Breast",FALSE,
+W1995225352,11,"Carcinoma, Ductal, Breast",FALSE,diagnosis
+W1995225352,12,"Carcinoma, Lobular",FALSE,
+W1995225352,13,"Carcinoma, Lobular",FALSE,diagnosis
+W1995225352,14,Female,FALSE,
+W1995225352,15,Humans,FALSE,
+W1995225352,16,Middle Aged,FALSE,
+W2034710972,1,Breast Diseases,TRUE,pathology
+W2034710972,2,Breast Diseases,TRUE,diagnostic imaging
+W2034710972,3,Breast Neoplasms,TRUE,pathology
+W2034710972,4,Breast Neoplasms,TRUE,diagnostic imaging
+W2034710972,5,Calcinosis,TRUE,pathology
+W2034710972,6,Calcinosis,TRUE,diagnostic imaging
+W2034710972,7,Mammography,TRUE,methods
+W2034710972,8,"Radiographic Image Interpretation, Computer-Assisted",TRUE,
+W2034710972,9,Adult,FALSE,
+W2034710972,10,Aged,FALSE,
+W2034710972,11,"Aged, 80 and over",FALSE,
+W2034710972,12,Breast Diseases,FALSE,
+W2034710972,13,Breast Neoplasms,FALSE,
+W2034710972,14,Calcinosis,FALSE,
+W2034710972,15,Female,FALSE,
+W2034710972,16,Humans,FALSE,
+W2034710972,17,Mammography,FALSE,
+W2034710972,18,Middle Aged,FALSE,
+W1761151839,1,Computational Biology,TRUE,methods
+W1761151839,2,Computers,FALSE,
+W1761151839,3,Databases as Topic,FALSE,
+W1761151839,4,Humans,FALSE,
+W1761151839,5,Male,FALSE,
+W1761151839,6,Prostatic Neoplasms,FALSE,metabolism
+W1761151839,7,Recurrence,FALSE,
+W1761151839,8,Software,FALSE,
+W1761151839,9,Tissue Banks,FALSE,
+W1761151839,10,Treatment Outcome,FALSE,
+W2138453865,1,Decision Making,TRUE,
+W2138453865,2,Learning,TRUE,
+W2138453865,3,Problem Solving,TRUE,
+W2138453865,4,Aviation,FALSE,
+W2138453865,5,Cognition,FALSE,
+W2138453865,6,Computer Simulation,FALSE,
+W2138453865,7,Eye Movements,FALSE,
+W2138453865,8,Humans,FALSE,
+W2138453865,9,Motor Skills,FALSE,
+W2138453865,10,Students,FALSE,
+W2138453865,11,Task Performance and Analysis,FALSE,
+W2147687768,1,Clinical Trials as Topic,TRUE,
+W2147687768,2,Research Design,TRUE,
+W2147687768,3,"Data Interpretation, Statistical",FALSE,
+W2147687768,4,Humans,FALSE,
+W2147687768,5,Sample Size,FALSE,
+W2039759576,1,Concept Formation,TRUE,
+W2039759576,2,Individuality,TRUE,
+W2039759576,3,Orientation,TRUE,
+W2039759576,4,Social Environment,TRUE,
+W2039759576,5,Space Perception,TRUE,
+W2039759576,6,Adolescent,FALSE,
+W2039759576,7,Adult,FALSE,
+W2039759576,8,Comprehension,FALSE,
+W2039759576,9,Distance Perception,FALSE,
+W2039759576,10,Female,FALSE,
+W2039759576,11,Humans,FALSE,
+W2039759576,12,Longitudinal Studies,FALSE,
+W2039759576,13,Male,FALSE,
+W2039759576,14,Mental Recall,FALSE,
+W2032403586,1,Learning,TRUE,
+W2032403586,2,Science,TRUE,methods
+W2032403586,3,Adult,FALSE,
+W2032403586,4,Attitude,FALSE,
+W2032403586,5,Humans,FALSE,
+W2032403586,6,Mathematics,FALSE,
+W2032403586,7,Science,FALSE,
+W2032403586,8,Surveys and Questionnaires,FALSE,
+W2043127733,1,"Models, Chemical",TRUE,
+W2043127733,2,Nanostructures,TRUE,chemistry
+W2043127733,3,Quantum Theory,TRUE,
+W2043127733,4,Temperature,TRUE,
+W2043127733,5,Computer Simulation,FALSE,
+W2043127733,6,Electric Conductivity,FALSE,
+W2043127733,7,Electrons,FALSE,
+W2043127733,8,Energy Transfer,FALSE,
+W2043127733,9,"Models, Statistical",FALSE,
+W2043127733,10,Nanostructures,FALSE,
+W2043127733,11,Nanostructures,FALSE,analysis
+W1981435244,1,Magnetic Resonance Imaging,TRUE,methods
+W1981435244,2,"Models, Statistical",TRUE,
+W1981435244,3,Algorithms,FALSE,
+W1981435244,4,Computer Simulation,FALSE,
+W1981435244,5,"Image Processing, Computer-Assisted",FALSE,
+W1981435244,6,"Image Processing, Computer-Assisted",FALSE,methods
+W1981435244,7,Likelihood Functions,FALSE,
+W1981435244,8,Magnetic Resonance Imaging,FALSE,
+W1981435244,9,"Models, Theoretical",FALSE,
+W1981435244,10,Monte Carlo Method,FALSE,
+W1981435244,11,Normal Distribution,FALSE,
+W1981435244,12,Probability,FALSE,
+W1981435244,13,Statistics as Topic,FALSE,
+W2111270167,1,Learning,TRUE,
+W2111270167,2,"Models, Psychological",TRUE,
+W2111270167,3,Animals,FALSE,
+W2111270167,4,Artificial Intelligence,FALSE,
+W2111270167,5,Bayes Theorem,FALSE,
+W1977023526,1,Cognition,TRUE,
+W1977023526,2,Decision Making,TRUE,
+W1977023526,3,Semantics,TRUE,
+W1977023526,4,Humans,FALSE,
+W2134991575,1,Breast Neoplasms,TRUE,diagnostic imaging
+W2134991575,2,Clinical Competence,TRUE,
+W2134991575,3,Mammography,TRUE,statistics & numerical data
+W2134991575,4,Physicians,TRUE,statistics & numerical data
+W2134991575,5,Adult,FALSE,
+W2134991575,6,Aged,FALSE,
+W2134991575,7,Breast Neoplasms,FALSE,
+W2134991575,8,Clinical Competence,FALSE,standards
+W2134991575,9,Colorado,FALSE,
+W2134991575,10,Confidence Intervals,FALSE,
+W2134991575,11,False Negative Reactions,FALSE,
+W2134991575,12,False Positive Reactions,FALSE,
+W2134991575,13,Female,FALSE,
+W2134991575,14,Humans,FALSE,
+W2134991575,15,Logistic Models,FALSE,
+W2134991575,16,Male,FALSE,
+W2134991575,17,Mammography,FALSE,
+W2134991575,18,Mammography,FALSE,standards
+W2134991575,19,Middle Aged,FALSE,
+W2134991575,20,Multivariate Analysis,FALSE,
+W2134991575,21,New Mexico,FALSE,
+W2134991575,22,Odds Ratio,FALSE,
+W2134991575,23,Physicians,FALSE,standards
+W2134991575,24,Physicians,FALSE,
+W2134991575,25,Predictive Value of Tests,FALSE,
+W2134991575,26,San Francisco,FALSE,
+W2134991575,27,Sensitivity and Specificity,FALSE,
+W2134991575,28,Vermont,FALSE,
+W2075423963,1,Computational Biology,TRUE,methods
+W2075423963,2,"Models, Immunological",TRUE,
+W2075423963,3,Algorithms,FALSE,
+W2075423963,4,Animals,FALSE,
+W2075423963,5,Artificial Intelligence,FALSE,
+W2075423963,6,Computational Biology,FALSE,
+W2075423963,7,Computer Simulation,FALSE,
+W2075423963,8,Humans,FALSE,
+W2075423963,9,Immune System,FALSE,
+W2075423963,10,"Models, Theoretical",FALSE,
+W2075423963,11,"Neural Networks, Computer",FALSE,
+W2075423963,12,"Pattern Recognition, Automated",FALSE,
+W2075423963,13,Reproducibility of Results,FALSE,
+W2075423963,14,Software,FALSE,
+W1982681236,1,Artificial Intelligence,TRUE,
+W1982681236,2,"Databases, Factual",TRUE,statistics & numerical data
+W1982681236,3,Pharmacology,TRUE,statistics & numerical data
+W1982681236,4,Quantitative Structure-Activity Relationship,TRUE,
+W1982681236,5,Algorithms,FALSE,
+W1982681236,6,Cluster Analysis,FALSE,
+W1982681236,7,"Data Interpretation, Statistical",FALSE,
+W1982681236,8,"Databases, Factual",FALSE,
+W1982681236,9,Drug Design,FALSE,
+W1982681236,10,"Models, Molecular",FALSE,
+W1982681236,11,"Models, Statistical",FALSE,
+W1982681236,12,Molecular Conformation,FALSE,
+W1982681236,13,Nonlinear Dynamics,FALSE,
+W1982681236,14,Pharmacology,FALSE,
+W1982681236,15,Predictive Value of Tests,FALSE,
+W1982681236,16,Tetrahydrofolate Dehydrogenase,FALSE,
+W1982681236,17,Tetrahydrofolate Dehydrogenase,FALSE,chemistry
+W2087097325,1,Fuzzy Logic,TRUE,
+W2087097325,2,Motivation,TRUE,
+W2087097325,3,"Neural Networks, Computer",TRUE,
+W2087097325,4,"Pattern Recognition, Automated",TRUE,
+W2087097325,5,Artificial Intelligence,FALSE,
+W2087097325,6,Computer Simulation,FALSE,
+W2087097325,7,"Generalization, Psychological",FALSE,
+W2087097325,8,Humans,FALSE,
+W2087097325,9,Software,FALSE,
+W126212902,1,Knowledge,TRUE,
+W126212902,2,"Students, Medical",TRUE,
+W126212902,3,User-Computer Interface,TRUE,
+W126212902,4,Adult,FALSE,
+W126212902,5,"Education, Medical, Undergraduate",FALSE,
+W126212902,6,Female,FALSE,
+W126212902,7,Humans,FALSE,
+W126212902,8,Male,FALSE,
+W126212902,9,United States,FALSE,
+W2015663142,1,Algorithms,TRUE,
+W2015663142,2,Artifacts,TRUE,
+W2015663142,3,Chemical Industry,TRUE,methods
+W2015663142,4,Fuzzy Logic,TRUE,
+W2015663142,5,"Models, Statistical",TRUE,
+W2015663142,6,Stochastic Processes,TRUE,
+W2015663142,7,Chemical Industry,FALSE,
+W2015663142,8,Computer Simulation,FALSE,
+W2015663142,9,Feedback,FALSE,
+W2015663142,10,Fermentation,FALSE,physiology
+W2015663142,11,Fermentation,FALSE,
+W2015663142,12,Pilot Projects,FALSE,
+W2015663142,13,Systems Theory,FALSE,
+W2032143425,1,Educational Status,TRUE,
+W2032143425,2,Health Education,TRUE,
+W2032143425,3,Periodicals as Topic,TRUE,
+W2032143425,4,Reading,TRUE,
+W2032143425,5,Humans,FALSE,
+W2082952851,1,Brassicaceae,TRUE,metabolism
+W2082952851,2,"Metals, Heavy",TRUE,pharmacokinetics
+W2082952851,3,Tomography,TRUE,methods
+W2082952851,4,Biological Transport,FALSE,
+W2082952851,5,Biological Transport,FALSE,physiology
+W2082952851,6,Brassicaceae,FALSE,physiology
+W2082952851,7,Brassicaceae,FALSE,
+W2082952851,8,Fluorescence,FALSE,
+W2082952851,9,"Metals, Heavy",FALSE,
+W2082952851,10,"Microscopy, Electron, Scanning",FALSE,
+W2082952851,11,Plant Leaves,FALSE,
+W2082952851,12,Plant Leaves,FALSE,metabolism
+W2082952851,13,Plant Leaves,FALSE,ultrastructure
+W2082952851,14,Plant Roots,FALSE,
+W2082952851,15,Plant Roots,FALSE,metabolism
+W2082952851,16,Plant Stems,FALSE,
+W2082952851,17,Plant Stems,FALSE,metabolism
+W2082952851,18,Synchrotrons,FALSE,
+W2082952851,19,Tissue Distribution,FALSE,
+W2082952851,20,Tomography,FALSE,
+W2082952851,21,X-Rays,FALSE,
+W2104965688,1,Computational Biology,TRUE,methods
+W2104965688,2,Proteomics,TRUE,methods
+W2104965688,3,Artificial Intelligence,FALSE,
+W2104965688,4,Computational Biology,FALSE,
+W2104965688,5,Database Management Systems,FALSE,
+W2104965688,6,"Databases, Protein",FALSE,
+W2104965688,7,Humans,FALSE,
+W2104965688,8,MEDLINE,FALSE,
+W2104965688,9,Natural Language Processing,FALSE,
+W2104965688,10,"Pattern Recognition, Automated",FALSE,
+W2104965688,11,Phosphorylation,FALSE,
+W2104965688,12,Proteomics,FALSE,
+W2104965688,13,Signal Transduction,FALSE,
+W2104965688,14,Software,FALSE,
+W2068252071,1,Cognition,TRUE,
+W2068252071,2,Semantics,TRUE,
+W2068252071,3,Visual Perception,TRUE,
+W2068252071,4,Humans,FALSE,
+W2068252071,5,Reaction Time,FALSE,
+W2098955780,1,"Data Interpretation, Statistical",TRUE,
+W2098955780,2,"Diagnosis, Computer-Assisted",TRUE,methods
+W2098955780,3,"Diagnostic Tests, Routine",TRUE,methods
+W2098955780,4,"Models, Biological",TRUE,
+W2098955780,5,"Models, Statistical",TRUE,
+W2098955780,6,ROC Curve,TRUE,
+W2098955780,7,Reproducibility of Results,TRUE,
+W2098955780,8,Computer Simulation,FALSE,
+W2098955780,9,Confidence Intervals,FALSE,
+W2098955780,10,"Diagnosis, Computer-Assisted",FALSE,
+W2098955780,11,"Diagnostic Tests, Routine",FALSE,
+W2098955780,12,Research Design,FALSE,
+W2098955780,13,Sensitivity and Specificity,FALSE,
+W2261787691,1,"Statistics, Nonparametric",TRUE,
+W2261787691,2,Survival Analysis,TRUE,
+W2261787691,3,Treatment Outcome,TRUE,
+W2261787691,4,Algorithms,FALSE,
+W2261787691,5,Clinical Trials as Topic,FALSE,
+W2261787691,6,Neoplasms,FALSE,
+W2107906519,1,HIV,TRUE,genetics
+W2107906519,2,"Models, Genetic",TRUE,
+W2107906519,3,Algorithms,FALSE,
+W2107906519,4,Bayes Theorem,FALSE,
+W2107906519,5,Biomarkers,FALSE,
+W2107906519,6,DNA Mutational Analysis,FALSE,
+W2107906519,7,HIV,FALSE,
+W2107906519,8,HIV Infections,FALSE,
+W2107906519,9,HIV Infections,FALSE,virology
+W2107906519,10,HIV Protease,FALSE,
+W2107906519,11,HIV Protease,FALSE,genetics
+W2107906519,12,Humans,FALSE,
+W2107906519,13,Markov Chains,FALSE,
+W2107906519,14,"Models, Statistical",FALSE,
+W2107906519,15,Monte Carlo Method,FALSE,
+W2107906519,16,Mutation,FALSE,
+W2107906519,17,"Selection, Genetic",FALSE,
+W2146177007,1,Learning,TRUE,
+W2146177007,2,Mathematics,TRUE,
+W2146177007,3,"Models, Psychological",TRUE,
+W2146177007,4,Population Surveillance,TRUE,methods
+W2146177007,5,Child,FALSE,
+W2146177007,6,Female,FALSE,
+W2146177007,7,Humans,FALSE,
+W2146177007,8,Male,FALSE,
+W2146177007,9,Population Surveillance,FALSE,
+W2037924698,1,Cat Diseases,TRUE,diagnostic imaging
+W2037924698,2,Dog Diseases,TRUE,diagnostic imaging
+W2037924698,3,Lung Neoplasms,TRUE,veterinary
+W2037924698,4,Radiographic Image Enhancement,TRUE,instrumentation
+W2037924698,5,Animals,FALSE,
+W2037924698,6,Cat Diseases,FALSE,
+W2037924698,7,Cats,FALSE,
+W2037924698,8,Dog Diseases,FALSE,
+W2037924698,9,Dogs,FALSE,
+W2037924698,10,Lung Neoplasms,FALSE,
+W2037924698,11,Lung Neoplasms,FALSE,diagnostic imaging
+W2037924698,12,Predictive Value of Tests,FALSE,
+W2037924698,13,Radiographic Image Enhancement,FALSE,
+W2037924698,14,"Radiography, Thoracic",FALSE,
+W2037924698,15,"Radiography, Thoracic",FALSE,veterinary
+W1970101133,1,Algorithms,TRUE,
+W1970101133,2,Biological Evolution,TRUE,
+W1970101133,3,Computer Simulation,TRUE,
+W1970101133,4,"Models, Theoretical",TRUE,
+W1970101133,5,Population Density,TRUE,
+W1970101133,6,Mutation,FALSE,genetics
+W1970101133,7,Mutation,FALSE,
+W1970101133,8,"Selection, Genetic",FALSE,
+W2105087447,1,Algorithms,TRUE,
+W2105087447,2,Artificial Intelligence,TRUE,
+W2105087447,3,Biometry,TRUE,methods
+W2105087447,4,Face,TRUE,anatomy & histology
+W2105087447,5,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2105087447,6,"Pattern Recognition, Automated",TRUE,methods
+W2105087447,7,Photography,TRUE,methods
+W2105087447,8,Biometry,FALSE,
+W2105087447,9,Face,FALSE,
+W2105087447,10,Humans,FALSE,
+W2105087447,11,Image Enhancement,FALSE,
+W2105087447,12,Image Enhancement,FALSE,methods
+W2105087447,13,"Image Interpretation, Computer-Assisted",FALSE,
+W2105087447,14,Information Storage and Retrieval,FALSE,methods
+W2105087447,15,Information Storage and Retrieval,FALSE,
+W2105087447,16,"Pattern Recognition, Automated",FALSE,
+W2105087447,17,Photography,FALSE,
+W2105087447,18,Reproducibility of Results,FALSE,
+W2105087447,19,Sensitivity and Specificity,FALSE,
+W2054498688,1,Algorithms,TRUE,
+W2054498688,2,Artificial Intelligence,TRUE,
+W2054498688,3,Breast Neoplasms,TRUE,diagnosis
+W2054498688,4,Diabetes Mellitus,TRUE,diagnosis
+W2054498688,5,"Diagnosis, Computer-Assisted",TRUE,methods
+W2054498688,6,"Models, Biological",TRUE,
+W2054498688,7,"Pattern Recognition, Automated",TRUE,methods
+W2054498688,8,Breast Neoplasms,FALSE,
+W2054498688,9,Computer Simulation,FALSE,
+W2054498688,10,Computing Methodologies,FALSE,
+W2054498688,11,Decision Support Techniques,FALSE,
+W2054498688,12,Diabetes Mellitus,FALSE,
+W2054498688,13,"Diagnosis, Computer-Assisted",FALSE,
+W2054498688,14,Humans,FALSE,
+W2054498688,15,"Models, Statistical",FALSE,
+W2054498688,16,"Numerical Analysis, Computer-Assisted",FALSE,
+W2054498688,17,"Pattern Recognition, Automated",FALSE,
+W2054498688,18,Stochastic Processes,FALSE,
+W1996930579,1,Algorithms,TRUE,
+W1996930579,2,Artificial Intelligence,TRUE,
+W1996930579,3,Face,TRUE,anatomy & histology
+W1996930579,4,"Image Interpretation, Computer-Assisted",TRUE,methods
+W1996930579,5,Information Storage and Retrieval,TRUE,methods
+W1996930579,6,"Pattern Recognition, Automated",TRUE,methods
+W1996930579,7,Subtraction Technique,TRUE,
+W1996930579,8,Cluster Analysis,FALSE,
+W1996930579,9,Computer Graphics,FALSE,
+W1996930579,10,Computer Simulation,FALSE,
+W1996930579,11,Face,FALSE,
+W1996930579,12,Female,FALSE,
+W1996930579,13,Humans,FALSE,
+W1996930579,14,Image Enhancement,FALSE,methods
+W1996930579,15,Image Enhancement,FALSE,
+W1996930579,16,"Image Interpretation, Computer-Assisted",FALSE,
+W1996930579,17,Information Storage and Retrieval,FALSE,
+W1996930579,18,"Models, Biological",FALSE,
+W1996930579,19,"Models, Statistical",FALSE,
+W1996930579,20,"Numerical Analysis, Computer-Assisted",FALSE,
+W1996930579,21,"Pattern Recognition, Automated",FALSE,
+W1996930579,22,Photography,FALSE,methods
+W1996930579,23,Photography,FALSE,
+W1996930579,24,Reproducibility of Results,FALSE,
+W1996930579,25,Sample Size,FALSE,
+W1996930579,26,Sensitivity and Specificity,FALSE,
+W1996930579,27,"Signal Processing, Computer-Assisted",FALSE,
+W2099954138,1,Cervical Intraepithelial Neoplasia,TRUE,pathology
+W2099954138,2,Cervix Uteri,TRUE,pathology
+W2099954138,3,Statistics as Topic,TRUE,methods
+W2099954138,4,Uterine Cervical Neoplasms,TRUE,pathology
+W2099954138,5,Biopsy,FALSE,
+W2099954138,6,Cervical Intraepithelial Neoplasia,FALSE,
+W2099954138,7,Cervical Intraepithelial Neoplasia,FALSE,classification
+W2099954138,8,Cervical Intraepithelial Neoplasia,FALSE,diagnosis
+W2099954138,9,Cervix Uteri,FALSE,
+W2099954138,10,Female,FALSE,
+W2099954138,11,Histological Techniques,FALSE,methods
+W2099954138,12,Histological Techniques,FALSE,standards
+W2099954138,13,Histological Techniques,FALSE,
+W2099954138,14,Humans,FALSE,
+W2099954138,15,Observer Variation,FALSE,
+W2099954138,16,Reproducibility of Results,FALSE,
+W2099954138,17,"Spectrometry, Fluorescence",FALSE,methods
+W2099954138,18,"Spectrometry, Fluorescence",FALSE,
+W2099954138,19,Statistics as Topic,FALSE,
+W2099954138,20,Uterine Cervical Neoplasms,FALSE,
+W2099954138,21,Uterine Cervical Neoplasms,FALSE,classification
+W2099954138,22,Uterine Cervical Neoplasms,FALSE,diagnosis
+W2144870310,1,Algorithms,TRUE,
+W2144870310,2,Cell Nucleus,TRUE,ultrastructure
+W2144870310,3,Cervix Uteri,TRUE,cytology
+W2144870310,4,Image Enhancement,TRUE,methods
+W2144870310,5,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2144870310,6,"Microscopy, Confocal",TRUE,methods
+W2144870310,7,"Models, Biological",TRUE,
+W2144870310,8,"Pattern Recognition, Automated",TRUE,methods
+W2144870310,9,Artificial Intelligence,FALSE,
+W2144870310,10,Cell Nucleus,FALSE,
+W2144870310,11,Cervix Uteri,FALSE,
+W2144870310,12,Computer Simulation,FALSE,
+W2144870310,13,Female,FALSE,
+W2144870310,14,Humans,FALSE,
+W2144870310,15,Image Enhancement,FALSE,
+W2144870310,16,"Image Interpretation, Computer-Assisted",FALSE,
+W2144870310,17,Information Storage and Retrieval,FALSE,
+W2144870310,18,Information Storage and Retrieval,FALSE,methods
+W2144870310,19,"Microscopy, Confocal",FALSE,
+W2144870310,20,"Models, Statistical",FALSE,
+W2144870310,21,"Pattern Recognition, Automated",FALSE,
+W2144870310,22,Reproducibility of Results,FALSE,
+W2144870310,23,Sensitivity and Specificity,FALSE,
+W2020076805,1,Cervix Uteri,TRUE,virology
+W2020076805,2,Chromatin,TRUE,virology
+W2020076805,3,Papillomaviridae,TRUE,
+W2020076805,4,Papillomavirus Infections,TRUE,diagnosis
+W2020076805,5,Uterine Cervical Diseases,TRUE,virology
+W2020076805,6,Adolescent,FALSE,
+W2020076805,7,Adult,FALSE,
+W2020076805,8,Aged,FALSE,
+W2020076805,9,"Aged, 80 and over",FALSE,
+W2020076805,10,Biopsy,FALSE,
+W2020076805,11,Cervix Uteri,FALSE,ultrastructure
+W2020076805,12,Cervix Uteri,FALSE,
+W2020076805,13,Chromatin,FALSE,ultrastructure
+W2020076805,14,Chromatin,FALSE,
+W2020076805,15,Female,FALSE,
+W2020076805,16,Humans,FALSE,
+W2020076805,17,"Image Processing, Computer-Assisted",FALSE,methods
+W2020076805,18,"Image Processing, Computer-Assisted",FALSE,
+W2020076805,19,Middle Aged,FALSE,
+W2020076805,20,Papanicolaou Test,FALSE,
+W2020076805,21,Papillomavirus Infections,FALSE,genetics
+W2020076805,22,Papillomavirus Infections,FALSE,virology
+W2020076805,23,Papillomavirus Infections,FALSE,
+W2020076805,24,Polymerase Chain Reaction,FALSE,
+W2020076805,25,Sensitivity and Specificity,FALSE,
+W2020076805,26,Uterine Cervical Diseases,FALSE,pathology
+W2020076805,27,Uterine Cervical Diseases,FALSE,genetics
+W2020076805,28,Uterine Cervical Diseases,FALSE,
+W2020076805,29,Vaginal Smears,FALSE,
+W2035411063,1,Adenocarcinoma,TRUE,diagnosis
+W2035411063,2,Adenocarcinoma,TRUE,pathology
+W2035411063,3,Logistic Models,TRUE,
+W2035411063,4,Uterine Cervical Neoplasms,TRUE,diagnosis
+W2035411063,5,Uterine Cervical Neoplasms,TRUE,pathology
+W2035411063,6,Adenocarcinoma,FALSE,classification
+W2035411063,7,Adenocarcinoma,FALSE,genetics
+W2035411063,8,Adenocarcinoma,FALSE,
+W2035411063,9,"DNA, Neoplasm",FALSE,
+W2035411063,10,"DNA, Neoplasm",FALSE,analysis
+W2035411063,11,Female,FALSE,
+W2035411063,12,Humans,FALSE,
+W2035411063,13,"Image Processing, Computer-Assisted",FALSE,
+W2035411063,14,Quality Control,FALSE,
+W2035411063,15,Uterine Cervical Neoplasms,FALSE,genetics
+W2035411063,16,Uterine Cervical Neoplasms,FALSE,classification
+W2035411063,17,Uterine Cervical Neoplasms,FALSE,
+W2140259714,1,Breast Neoplasms,TRUE,diagnostic imaging
+W2140259714,2,"Diagnosis, Computer-Assisted",TRUE,instrumentation
+W2140259714,3,Mammography,TRUE,instrumentation
+W2140259714,4,Mass Screening,TRUE,
+W2140259714,5,"Radiographic Image Interpretation, Computer-Assisted",TRUE,
+W2140259714,6,Adult,FALSE,
+W2140259714,7,Aged,FALSE,
+W2140259714,8,"Aged, 80 and over",FALSE,
+W2140259714,9,Breast Neoplasms,FALSE,
+W2140259714,10,Breast Neoplasms,FALSE,epidemiology
+W2140259714,11,"Diagnosis, Computer-Assisted",FALSE,
+W2140259714,12,Female,FALSE,
+W2140259714,13,Humans,FALSE,
+W2140259714,14,Incidence,FALSE,
+W2140259714,15,Logistic Models,FALSE,
+W2140259714,16,Mammography,FALSE,
+W2140259714,17,Middle Aged,FALSE,
+W2140259714,18,Prevalence,FALSE,
+W2140259714,19,Prospective Studies,FALSE,
+W2006336297,1,Bayes Theorem,TRUE,
+W2006336297,2,Linear Models,TRUE,
+W2006336297,3,Adult,FALSE,
+W2006336297,4,Algorithms,FALSE,
+W2006336297,5,Biometry,FALSE,
+W2006336297,6,Female,FALSE,
+W2006336297,7,Humans,FALSE,
+W2006336297,8,Pregnancy,FALSE,
+W2006336297,9,Time Factors,FALSE,
+W2146742884,1,Acoustic Stimulation,TRUE,methods
+W2146742884,2,Speech Acoustics,TRUE,
+W2146742884,3,Voice Quality,TRUE,
+W2146742884,4,Acoustic Stimulation,FALSE,statistics & numerical data
+W2146742884,5,Acoustic Stimulation,FALSE,
+W2146742884,6,Adult,FALSE,
+W2146742884,7,Female,FALSE,
+W2146742884,8,Humans,FALSE,
+W2146742884,9,Male,FALSE,
+W2146742884,10,Middle Aged,FALSE,
+W2146742884,11,Radio Waves,FALSE,
+W2146742884,12,Reproducibility of Results,FALSE,
+W2146742884,13,Selection Bias,FALSE,
+W2146742884,14,Sex Factors,FALSE,
+W2146742884,15,Software,FALSE,
+W2146742884,16,United States,FALSE,
+W1996740367,1,Anomia,TRUE,therapy
+W1996740367,2,Aphasia,TRUE,complications
+W1996740367,3,Speech Therapy,TRUE,methods
+W1996740367,4,Aged,FALSE,
+W1996740367,5,Anomia,FALSE,etiology
+W1996740367,6,Anomia,FALSE,
+W1996740367,7,Aphasia,FALSE,etiology
+W1996740367,8,Aphasia,FALSE,therapy
+W1996740367,9,Aphasia,FALSE,
+W1996740367,10,Cognition,FALSE,
+W1996740367,11,Female,FALSE,
+W1996740367,12,Humans,FALSE,
+W1996740367,13,Mental Recall,FALSE,
+W1996740367,14,Middle Aged,FALSE,
+W1996740367,15,Speech Therapy,FALSE,
+W1996740367,16,Stroke,FALSE,complications
+W1996740367,17,Stroke,FALSE,
+W1996740367,18,Time Factors,FALSE,
+W1996740367,19,Treatment Outcome,FALSE,
+W2133421046,1,Algorithms,TRUE,
+W2133421046,2,Brain,TRUE,anatomy & histology
+W2133421046,3,Image Enhancement,TRUE,methods
+W2133421046,4,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2133421046,5,"Imaging, Three-Dimensional",TRUE,methods
+W2133421046,6,Magnetic Resonance Imaging,TRUE,methods
+W2133421046,7,Subtraction Technique,TRUE,
+W2133421046,8,Brain,FALSE,
+W2133421046,9,Humans,FALSE,
+W2133421046,10,Image Enhancement,FALSE,
+W2133421046,11,"Image Interpretation, Computer-Assisted",FALSE,
+W2133421046,12,"Imaging, Three-Dimensional",FALSE,
+W2133421046,13,Magnetic Resonance Imaging,FALSE,
+W2133421046,14,Reproducibility of Results,FALSE,
+W2133421046,15,Sensitivity and Specificity,FALSE,
+W2133421046,16,"Signal Processing, Computer-Assisted",FALSE,
+W2152941701,1,Brain,TRUE,physiology
+W2152941701,2,Brain Mapping,TRUE,methods
+W2152941701,3,"Diagnosis, Computer-Assisted",TRUE,methods
+W2152941701,4,Electroencephalography,TRUE,methods
+W2152941701,5,Evoked Potentials,TRUE,physiology
+W2152941701,6,"Models, Neurological",TRUE,
+W2152941701,7,"Pattern Recognition, Automated",TRUE,methods
+W2152941701,8,Action Potentials,FALSE,
+W2152941701,9,Action Potentials,FALSE,physiology
+W2152941701,10,Algorithms,FALSE,
+W2152941701,11,Brain,FALSE,
+W2152941701,12,Brain Mapping,FALSE,
+W2152941701,13,"Diagnosis, Computer-Assisted",FALSE,
+W2152941701,14,Electroencephalography,FALSE,
+W2152941701,15,Evoked Potentials,FALSE,
+W2152941701,16,Humans,FALSE,
+W2152941701,17,"Pattern Recognition, Automated",FALSE,
+W2144603320,1,Association Learning,TRUE,
+W2144603320,2,Memory,TRUE,
+W2144603320,3,"Neural Networks, Computer",TRUE,
+W2144603320,4,Association Learning,FALSE,physiology
+W2144603320,5,Memory,FALSE,physiology
+W2134991575,1,Breast Neoplasms,TRUE,diagnostic imaging
+W2134991575,2,Clinical Competence,TRUE,
+W2134991575,3,Mammography,TRUE,statistics & numerical data
+W2134991575,4,Physicians,TRUE,statistics & numerical data
+W2134991575,5,Adult,FALSE,
+W2134991575,6,Aged,FALSE,
+W2134991575,7,Breast Neoplasms,FALSE,
+W2134991575,8,Clinical Competence,FALSE,standards
+W2134991575,9,Colorado,FALSE,
+W2134991575,10,Confidence Intervals,FALSE,
+W2134991575,11,False Negative Reactions,FALSE,
+W2134991575,12,False Positive Reactions,FALSE,
+W2134991575,13,Female,FALSE,
+W2134991575,14,Humans,FALSE,
+W2134991575,15,Logistic Models,FALSE,
+W2134991575,16,Male,FALSE,
+W2134991575,17,Mammography,FALSE,
+W2134991575,18,Mammography,FALSE,standards
+W2134991575,19,Middle Aged,FALSE,
+W2134991575,20,Multivariate Analysis,FALSE,
+W2134991575,21,New Mexico,FALSE,
+W2134991575,22,Odds Ratio,FALSE,
+W2134991575,23,Physicians,FALSE,standards
+W2134991575,24,Physicians,FALSE,
+W2134991575,25,Predictive Value of Tests,FALSE,
+W2134991575,26,San Francisco,FALSE,
+W2134991575,27,Sensitivity and Specificity,FALSE,
+W2134991575,28,Vermont,FALSE,
+W1970449218,1,Adenocarcinoma,TRUE,pathology
+W1970449218,2,Breast Neoplasms,TRUE,pathology
+W1970449218,3,Neoplasm Staging,TRUE,methods
+W1970449218,4,Specimen Handling,TRUE,
+W1970449218,5,Tissue Fixation,TRUE,methods
+W1970449218,6,Adenocarcinoma,FALSE,classification
+W1970449218,7,Adenocarcinoma,FALSE,
+W1970449218,8,Breast Neoplasms,FALSE,classification
+W1970449218,9,Breast Neoplasms,FALSE,
+W1970449218,10,Female,FALSE,
+W1970449218,11,Humans,FALSE,
+W1970449218,12,Neoplasm Staging,FALSE,
+W1970449218,13,Tissue Fixation,FALSE,
+W1489288704,1,Algorithms,TRUE,
+W1489288704,2,Computational Biology,TRUE,methods
+W1489288704,3,Proteins,TRUE,chemistry
+W1489288704,4,Sequence Alignment,TRUE,methods
+W1489288704,5,Sequence Alignment,TRUE,statistics & numerical data
+W1489288704,6,Animals,FALSE,
+W1489288704,7,Computational Biology,FALSE,
+W1489288704,8,Humans,FALSE,
+W1489288704,9,Proteins,FALSE,
+W1489288704,10,Sequence Alignment,FALSE,
+W2155763684,1,Algorithms,TRUE,
+W2155763684,2,Artificial Intelligence,TRUE,
+W2155763684,3,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2155763684,4,"Models, Biological",TRUE,
+W2155763684,5,Movement,TRUE,
+W2155763684,6,"Pattern Recognition, Automated",TRUE,methods
+W2155763684,7,Video Recording,TRUE,methods
+W2155763684,8,Computer Simulation,FALSE,
+W2155763684,9,Humans,FALSE,
+W2155763684,10,Image Enhancement,FALSE,methods
+W2155763684,11,Image Enhancement,FALSE,
+W2155763684,12,"Image Interpretation, Computer-Assisted",FALSE,
+W2155763684,13,Information Storage and Retrieval,FALSE,
+W2155763684,14,Information Storage and Retrieval,FALSE,methods
+W2155763684,15,Markov Chains,FALSE,
+W2155763684,16,"Models, Statistical",FALSE,
+W2155763684,17,"Pattern Recognition, Automated",FALSE,
+W2155763684,18,Subtraction Technique,FALSE,
+W2155763684,19,Video Recording,FALSE,
+W2054498688,1,Algorithms,TRUE,
+W2054498688,2,Artificial Intelligence,TRUE,
+W2054498688,3,Breast Neoplasms,TRUE,diagnosis
+W2054498688,4,Diabetes Mellitus,TRUE,diagnosis
+W2054498688,5,"Diagnosis, Computer-Assisted",TRUE,methods
+W2054498688,6,"Models, Biological",TRUE,
+W2054498688,7,"Pattern Recognition, Automated",TRUE,methods
+W2054498688,8,Breast Neoplasms,FALSE,
+W2054498688,9,Computer Simulation,FALSE,
+W2054498688,10,Computing Methodologies,FALSE,
+W2054498688,11,Decision Support Techniques,FALSE,
+W2054498688,12,Diabetes Mellitus,FALSE,
+W2054498688,13,"Diagnosis, Computer-Assisted",FALSE,
+W2054498688,14,Humans,FALSE,
+W2054498688,15,"Models, Statistical",FALSE,
+W2054498688,16,"Numerical Analysis, Computer-Assisted",FALSE,
+W2054498688,17,"Pattern Recognition, Automated",FALSE,
+W2054498688,18,Stochastic Processes,FALSE,
+W2162473406,1,Algorithms,TRUE,
+W2162473406,2,Artificial Intelligence,TRUE,
+W2162473406,3,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2162473406,4,Information Storage and Retrieval,TRUE,methods
+W2162473406,5,"Pattern Recognition, Automated",TRUE,methods
+W2162473406,6,Subtraction Technique,TRUE,
+W2162473406,7,Cluster Analysis,FALSE,
+W2162473406,8,Image Enhancement,FALSE,
+W2162473406,9,Image Enhancement,FALSE,methods
+W2162473406,10,"Image Interpretation, Computer-Assisted",FALSE,
+W2162473406,11,"Imaging, Three-Dimensional",FALSE,
+W2162473406,12,"Imaging, Three-Dimensional",FALSE,methods
+W2162473406,13,Information Storage and Retrieval,FALSE,
+W2162473406,14,"Pattern Recognition, Automated",FALSE,
+W2162473406,15,"Signal Processing, Computer-Assisted",FALSE,
+W1967619202,1,Multigene Family,TRUE,
+W1967619202,2,Algorithms,FALSE,
+W1967619202,3,Alzheimer Disease,FALSE,
+W1967619202,4,Alzheimer Disease,FALSE,genetics
+W1967619202,5,Chromosome Mapping,FALSE,
+W1967619202,6,Cluster Analysis,FALSE,
+W1967619202,7,Computer Simulation,FALSE,
+W1967619202,8,Gene Expression Profiling,FALSE,
+W1967619202,9,Gene Expression Regulation,FALSE,
+W1967619202,10,Humans,FALSE,
+W1967619202,11,Likelihood Functions,FALSE,
+W1967619202,12,Linear Models,FALSE,
+W1967619202,13,"Models, Genetic",FALSE,
+W1967619202,14,"Models, Statistical",FALSE,
+W1967619202,15,Multivariate Analysis,FALSE,
+W1967619202,16,Normal Distribution,FALSE,
+W1967619202,17,Oligonucleotide Array Sequence Analysis,FALSE,
+W1967619202,18,Phenotype,FALSE,
+W1967619202,19,Quantitative Trait Loci,FALSE,
+W1967619202,20,Regression Analysis,FALSE,
+W1967619202,21,Sequence Alignment,FALSE,
+W2160410712,1,Algorithms,TRUE,
+W2160410712,2,Artificial Intelligence,TRUE,
+W2160410712,3,Database Management Systems,TRUE,
+W2160410712,4,"Databases, Factual",TRUE,
+W2160410712,5,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2160410712,6,Information Storage and Retrieval,TRUE,methods
+W2160410712,7,"Pattern Recognition, Automated",TRUE,methods
+W2160410712,8,Computer Graphics,FALSE,
+W2160410712,9,Image Enhancement,FALSE,
+W2160410712,10,Image Enhancement,FALSE,methods
+W2160410712,11,"Image Interpretation, Computer-Assisted",FALSE,
+W2160410712,12,"Imaging, Three-Dimensional",FALSE,
+W2160410712,13,"Imaging, Three-Dimensional",FALSE,methods
+W2160410712,14,Information Storage and Retrieval,FALSE,
+W2160410712,15,"Numerical Analysis, Computer-Assisted",FALSE,
+W2160410712,16,"Pattern Recognition, Automated",FALSE,
+W2160410712,17,"Signal Processing, Computer-Assisted",FALSE,
+W2160410712,18,Subtraction Technique,FALSE,
+W2160410712,19,User-Computer Interface,FALSE,
+W2135677493,1,Algorithms,TRUE,
+W2135677493,2,"Biomarkers, Tumor",TRUE,analysis
+W2135677493,3,"Diagnosis, Computer-Assisted",TRUE,methods
+W2135677493,4,Gene Expression Profiling,TRUE,methods
+W2135677493,5,Neoplasm Proteins,TRUE,analysis
+W2135677493,6,Neoplasms,TRUE,metabolism
+W2135677493,7,Neoplasms,TRUE,diagnosis
+W2135677493,8,Artificial Intelligence,FALSE,
+W2135677493,9,"Biomarkers, Tumor",FALSE,
+W2135677493,10,"Diagnosis, Computer-Assisted",FALSE,
+W2135677493,11,Discriminant Analysis,FALSE,
+W2135677493,12,Gene Expression Profiling,FALSE,
+W2135677493,13,Humans,FALSE,
+W2135677493,14,Neoplasm Proteins,FALSE,
+W2135677493,15,Neoplasms,FALSE,
+W2135677493,16,Neoplasms,FALSE,classification
+W2135677493,17,Oligonucleotide Array Sequence Analysis,FALSE,methods
+W2135677493,18,Oligonucleotide Array Sequence Analysis,FALSE,
+W2135677493,19,"Pattern Recognition, Automated",FALSE,methods
+W2135677493,20,"Pattern Recognition, Automated",FALSE,
+W2135677493,21,Reproducibility of Results,FALSE,
+W2135677493,22,Sensitivity and Specificity,FALSE,
+W1484399819,1,Computational Biology,TRUE,statistics & numerical data
+W1484399819,2,Magnetic Resonance Spectroscopy,TRUE,statistics & numerical data
+W1484399819,3,Proteins,TRUE,chemistry
+W1484399819,4,Algorithms,FALSE,
+W1484399819,5,Animals,FALSE,
+W1484399819,6,Computational Biology,FALSE,
+W1484399819,7,Humans,FALSE,
+W1484399819,8,Magnetic Resonance Spectroscopy,FALSE,
+W1484399819,9,Proteins,FALSE,
+W2030982718,1,Agriculture,TRUE,
+W2030982718,2,Arsenic,TRUE,metabolism
+W2030982718,3,Fertilizers,TRUE,
+W2030982718,4,Soil Pollutants,TRUE,analysis
+W2030982718,5,Water Movements,TRUE,
+W2030982718,6,Arsenic,FALSE,
+W2030982718,7,Biotransformation,FALSE,
+W2030982718,8,Kinetics,FALSE,
+W2030982718,9,Minerals,FALSE,chemistry
+W2030982718,10,Minerals,FALSE,
+W2030982718,11,"Models, Biological",FALSE,
+W2030982718,12,Oxidation-Reduction,FALSE,
+W2030982718,13,Soil Pollutants,FALSE,
+W2125689081,1,"Databases, Genetic",TRUE,
+W2125689081,2,Software,TRUE,
+W2125689081,3,Algorithms,FALSE,
+W2125689081,4,Base Sequence,FALSE,
+W2125689081,5,DNA Primers,FALSE,
+W2125689081,6,Sequence Alignment,FALSE,
+W4248783857,1,Algorithms,TRUE,
+W4248783857,2,Cluster Analysis,TRUE,
+W4248783857,3,Learning,TRUE,
+W4248783857,4,Learning,FALSE,physiology
+W2088428059,1,Benzene,TRUE,metabolism
+W2088428059,2,"Models, Biological",TRUE,
+W2088428059,3,Benzene,FALSE,
+W2088428059,4,Benzene,FALSE,pharmacokinetics
+W2088428059,5,"Biodegradation, Environmental",FALSE,
+W2088428059,6,Computer Simulation,FALSE,
+W2088428059,7,Soil Pollutants,FALSE,
+W2088428059,8,Soil Pollutants,FALSE,metabolism
+W2088428059,9,Soil Pollutants,FALSE,pharmacokinetics
+W2088428059,10,Texas,FALSE,
+W2088428059,11,"Water Pollutants, Chemical",FALSE,
+W2088428059,12,"Water Pollutants, Chemical",FALSE,metabolism
+W2088428059,13,"Water Pollutants, Chemical",FALSE,pharmacokinetics
+W2170612159,1,Meteorological Concepts,TRUE,
+W2170612159,2,"Neural Networks, Computer",TRUE,
+W2170612159,3,Radar,TRUE,instrumentation
+W2170612159,4,Artifacts,FALSE,
+W2170612159,5,Quantum Theory,FALSE,
+W2170612159,6,Radar,FALSE,
+W2083491745,1,Algorithms,TRUE,
+W2083491745,2,Genomics,TRUE,methods
+W2083491745,3,"Pattern Recognition, Automated",TRUE,methods
+W2083491745,4,Sequence Alignment,TRUE,methods
+W2083491745,5,Sequence Analysis,TRUE,methods
+W2083491745,6,Cluster Analysis,FALSE,
+W2083491745,7,Genomics,FALSE,
+W2083491745,8,"Numerical Analysis, Computer-Assisted",FALSE,
+W2083491745,9,"Pattern Recognition, Automated",FALSE,
+W2083491745,10,Sequence Alignment,FALSE,
+W2083491745,11,Sequence Analysis,FALSE,
+W2083491745,12,Software,FALSE,
+W1983395058,1,Algorithms,TRUE,
+W1983395058,2,Artificial Intelligence,TRUE,
+W1983395058,3,Decision Support Techniques,TRUE,
+W1983395058,4,Information Storage and Retrieval,TRUE,methods
+W1983395058,5,Logistic Models,TRUE,
+W1983395058,6,Information Storage and Retrieval,FALSE,
+W1983395058,7,Linguistics,FALSE,
+W1983395058,8,Time Factors,FALSE,
+W2024726516,1,Biomedical Research,TRUE,
+W2024726516,2,Cervix Uteri,TRUE,pathology
+W2024726516,3,Colposcopy,TRUE,methods
+W2024726516,4,Gynecology,TRUE,education
+W2024726516,5,Image Enhancement,TRUE,methods
+W2024726516,6,Uterine Cervical Neoplasms,TRUE,diagnosis
+W2024726516,7,Cervix Uteri,FALSE,
+W2024726516,8,Colposcopy,FALSE,
+W2024726516,9,Female,FALSE,
+W2024726516,10,Gynecology,FALSE,
+W2024726516,11,Humans,FALSE,
+W2024726516,12,Image Enhancement,FALSE,
+W2024726516,13,"Image Processing, Computer-Assisted",FALSE,methods
+W2024726516,14,"Image Processing, Computer-Assisted",FALSE,
+W2024726516,15,Reproducibility of Results,FALSE,
+W2024726516,16,Uterine Cervical Neoplasms,FALSE,
+W2009171462,1,Algorithms,TRUE,
+W2009171462,2,Biological Evolution,TRUE,
+W2009171462,3,"Models, Theoretical",FALSE,
+W2009171462,4,Mutation,FALSE,
+W2161645441,1,"Databases, Genetic",TRUE,
+W2161645441,2,Genome,TRUE,
+W2161645441,3,Biological Evolution,FALSE,
+W2161645441,4,Internet,FALSE,
+W2161645441,5,"Promoter Regions, Genetic",FALSE,
+W2069618035,1,"Models, Biological",TRUE,
+W2069618035,2,Mouth,TRUE,physiology
+W2069618035,3,Phonetics,TRUE,
+W2069618035,4,Speech,TRUE,physiology
+W2069618035,5,Vocal Cords,TRUE,physiology
+W2069618035,6,Algorithms,FALSE,
+W2069618035,7,Humans,FALSE,
+W2069618035,8,Linear Models,FALSE,
+W2069618035,9,Mouth,FALSE,
+W2069618035,10,Speech,FALSE,
+W2069618035,11,Vocal Cords,FALSE,
+W2125133735,1,Language,TRUE,
+W2125133735,2,Phonetics,TRUE,
+W2125133735,3,Speech,TRUE,
+W2125133735,4,Speech Acoustics,TRUE,
+W2125133735,5,Acoustic Stimulation,FALSE,
+W2125133735,6,Adult,FALSE,
+W2125133735,7,Analysis of Variance,FALSE,
+W2125133735,8,Female,FALSE,
+W2125133735,9,Humans,FALSE,
+W2125133735,10,Male,FALSE,
+W2125133735,11,Middle Aged,FALSE,
+W2125133735,12,"Models, Theoretical",FALSE,
+W2125133735,13,Speech Production Measurement,FALSE,
+W2125133735,14,Tape Recording,FALSE,
+W2083343572,1,Environmental Pollutants,TRUE,history
+W2083343572,2,Environmental Pollutants,TRUE,analysis
+W2083343572,3,Lead,TRUE,history
+W2083343572,4,Lead,TRUE,analysis
+W2083343572,5,Environmental Monitoring,FALSE,
+W2083343572,6,Environmental Pollutants,FALSE,
+W2083343572,7,Geologic Sediments,FALSE,
+W2083343572,8,Geologic Sediments,FALSE,chemistry
+W2083343572,9,"History, 20th Century",FALSE,
+W2083343572,10,Isotopes,FALSE,
+W2083343572,11,Lead,FALSE,
+W2083343572,12,Mexico,FALSE,
+W2083343572,13,Vehicle Emissions,FALSE,
+W2083343572,14,Vehicle Emissions,FALSE,analysis
+W2146086467,1,Computational Biology,TRUE,methods
+W2146086467,2,"Models, Genetic",TRUE,
+W2146086467,3,Algorithms,FALSE,
+W2146086467,4,Calibration,FALSE,
+W2146086467,5,Computational Biology,FALSE,
+W2146086467,6,Computers,FALSE,
+W2146086467,7,"Databases, Genetic",FALSE,
+W2146086467,8,"Databases, Protein",FALSE,
+W2146086467,9,Internet,FALSE,
+W2146086467,10,Likelihood Functions,FALSE,
+W2146086467,11,Markov Chains,FALSE,
+W2146086467,12,"Models, Biological",FALSE,
+W2146086467,13,"Models, Statistical",FALSE,
+W2146086467,14,"Models, Theoretical",FALSE,
+W2146086467,15,Odds Ratio,FALSE,
+W2146086467,16,"Protein Structure, Secondary",FALSE,
+W2146086467,17,Sequence Alignment,FALSE,
+W2146086467,18,Software,FALSE,
+W2065502072,1,Medical Informatics,TRUE,
+W2065502072,2,Terminology as Topic,TRUE,
+W2065502072,3,Algorithms,FALSE,
+W2065502072,4,Humans,FALSE,
+W2065502072,5,Semantics,FALSE,
+W2065502072,6,Unified Medical Language System,FALSE,
+W2065502072,7,"Vocabulary, Controlled",FALSE,
+W2151749331,1,Algorithms,TRUE,
+W2151749331,2,Artificial Intelligence,TRUE,
+W2151749331,3,"Data Interpretation, Statistical",TRUE,
+W2151749331,4,"Databases, Factual",TRUE,
+W2151749331,5,Information Storage and Retrieval,TRUE,methods
+W2151749331,6,"Pattern Recognition, Automated",TRUE,methods
+W2151749331,7,Sequence Analysis,TRUE,methods
+W2151749331,8,Cluster Analysis,FALSE,
+W2151749331,9,Information Storage and Retrieval,FALSE,
+W2151749331,10,"Numerical Analysis, Computer-Assisted",FALSE,
+W2151749331,11,"Pattern Recognition, Automated",FALSE,
+W2151749331,12,Sequence Analysis,FALSE,
+W2151749331,13,"Signal Processing, Computer-Assisted",FALSE,
+W2107470723,1,Artificial Intelligence,TRUE,
+W2107470723,2,Natural Language Processing,TRUE,
+W2107470723,3,Semantics,TRUE,
+W2107470723,4,Terminology as Topic,TRUE,
+W2107470723,5,Unified Medical Language System,TRUE,
+W1791148566,1,Semantics,FALSE,
+W1791148566,2,Unified Medical Language System,FALSE,
+W2025775670,1,Subject Headings,TRUE,
+W2025775670,2,Unified Medical Language System,TRUE,organization & administration
+W2025775670,3,Unified Medical Language System,TRUE,standards
+W2025775670,4,Animals,FALSE,
+W2025775670,5,"Databases, Factual",FALSE,
+W2025775670,6,"Databases, Factual",FALSE,classification
+W2025775670,7,Humans,FALSE,
+W2025775670,8,Information Storage and Retrieval,FALSE,
+W2025775670,9,Information Storage and Retrieval,FALSE,methods
+W2025775670,10,"Models, Statistical",FALSE,
+W2025775670,11,Organic Chemicals,FALSE,
+W2025775670,12,Semantics,FALSE,
+W2025775670,13,Terminology as Topic,FALSE,
+W2025775670,14,Unified Medical Language System,FALSE,
+W2003743855,1,"Child Abuse, Sexual",TRUE,prevention & control
+W2003743855,2,Erotica,TRUE,
+W2003743855,3,Internet,TRUE,standards
+W2003743855,4,Parenting,TRUE,
+W2003743855,5,Safety,TRUE,standards
+W2003743855,6,Software,TRUE,statistics & numerical data
+W2003743855,7,User-Computer Interface,TRUE,
+W2003743855,8,Adolescent,FALSE,
+W2003743855,9,Behavioral Research,FALSE,
+W2003743855,10,Child,FALSE,
+W2003743855,11,"Child Abuse, Sexual",FALSE,
+W2003743855,12,Data Collection,FALSE,
+W2003743855,13,Female,FALSE,
+W2003743855,14,Humans,FALSE,
+W2003743855,15,Internet,FALSE,statistics & numerical data
+W2003743855,16,Internet,FALSE,
+W2003743855,17,Male,FALSE,
+W2003743855,18,Parent-Child Relations,FALSE,
+W2003743855,19,Risk-Taking,FALSE,
+W2003743855,20,Safety,FALSE,
+W2003743855,21,Software,FALSE,
+W2003743855,22,United States,FALSE,
+W1981473492,1,"Repression, Psychology",TRUE,
+W1981473492,2,Semantics,TRUE,
+W1981473492,3,Truth Disclosure,TRUE,
+W1981473492,4,Humans,FALSE,
+W1981473492,5,Mental Recall,FALSE,
+W2129721555,1,Algorithms,TRUE,
+W2129721555,2,Artificial Intelligence,TRUE,
+W2129721555,3,Information Storage and Retrieval,TRUE,methods
+W2129721555,4,"Pattern Recognition, Automated",TRUE,methods
+W2129721555,5,Cluster Analysis,FALSE,
+W2129721555,6,Information Storage and Retrieval,FALSE,
+W2129721555,7,"Models, Biological",FALSE,
+W2129721555,8,"Models, Statistical",FALSE,
+W2129721555,9,"Numerical Analysis, Computer-Assisted",FALSE,
+W2129721555,10,"Pattern Recognition, Automated",FALSE,
+W2129721555,11,Reproducibility of Results,FALSE,
+W2129721555,12,Sample Size,FALSE,
+W2129721555,13,Sensitivity and Specificity,FALSE,
+W2129721555,14,"Signal Processing, Computer-Assisted",FALSE,
+W2162147429,1,Cognition,TRUE,
+W2162147429,2,Computer Graphics,TRUE,
+W2162147429,3,"Databases, Factual",TRUE,
+W2162147429,4,Information Storage and Retrieval,TRUE,methods
+W2162147429,5,"Models, Theoretical",TRUE,
+W2162147429,6,User-Computer Interface,TRUE,
+W2162147429,7,"Vision, Ocular",TRUE,
+W2162147429,8,Communication,FALSE,
+W2162147429,9,Information Storage and Retrieval,FALSE,
+W1982165114,1,Algorithms,TRUE,
+W1982165114,2,Artificial Intelligence,TRUE,
+W1982165114,3,Breast Neoplasms,TRUE,diagnostic imaging
+W1982165114,4,"Image Interpretation, Computer-Assisted",TRUE,methods
+W1982165114,5,"Models, Biological",TRUE,
+W1982165114,6,Breast Neoplasms,FALSE,classification
+W1982165114,7,Breast Neoplasms,FALSE,
+W1982165114,8,Cluster Analysis,FALSE,
+W1982165114,9,Female,FALSE,
+W1982165114,10,Humans,FALSE,
+W1982165114,11,"Image Interpretation, Computer-Assisted",FALSE,
+W1982165114,12,"Models, Statistical",FALSE,
+W1982165114,13,Reproducibility of Results,FALSE,
+W1982165114,14,Sensitivity and Specificity,FALSE,
+W1982165114,15,Statistical Distributions,FALSE,
+W1982165114,16,Ultrasonography,FALSE,
+W2126407410,1,Algorithms,TRUE,
+W2126407410,2,Lie Detection,TRUE,
+W2126407410,3,Crime,FALSE,psychology
+W2126407410,4,Crime,FALSE,
+W2126407410,5,Deception,FALSE,
+W2126407410,6,False Negative Reactions,FALSE,
+W2126407410,7,Humans,FALSE,
+W2126407410,8,Magnetic Resonance Imaging,FALSE,
+W2126407410,9,Reproducibility of Results,FALSE,
+W2126407410,10,Respiratory Mechanics,FALSE,physiology
+W2126407410,11,Respiratory Mechanics,FALSE,
+W2011301692,1,Cluster Analysis,TRUE,
+W2011301692,2,Gene Expression Profiling,TRUE,
+W2011301692,3,Algorithms,FALSE,
+W2011301692,4,Gene Expression,FALSE,
+W2011301692,5,Wavelet Analysis,FALSE,
+W2019398290,1,Reading,TRUE,
+W2019398290,2,Remedial Teaching,TRUE,
+W2019398290,3,Telephone,TRUE,
+W2019398290,4,Child,FALSE,
+W2019398290,5,Feasibility Studies,FALSE,
+W2019398290,6,Female,FALSE,
+W2019398290,7,Humans,FALSE,
+W2019398290,8,Male,FALSE,
+W2019398290,9,"Outcome and Process Assessment, Health Care",FALSE,
+W2019398290,10,Pilot Projects,FALSE,
+W1997798784,1,Cognition,TRUE,
+W1997798784,2,Learning,TRUE,
+W1997798784,3,"Models, Psychological",TRUE,
+W1997798784,4,Humans,FALSE,
+W1997798784,5,Psychology,FALSE,
+W1997798784,6,Psychology,FALSE,methods
+W1997798784,7,Psychology,FALSE,statistics & numerical data
+W2136071402,1,Disclosure,TRUE,
+W2136071402,2,Exploratory Behavior,TRUE,
+W2136071402,3,Bayes Theorem,FALSE,
+W2136071402,4,Humans,FALSE,
+W2136071402,5,Problem Solving,FALSE,
+W2136071402,6,Time Factors,FALSE,
+W2161634498,1,Algorithms,TRUE,
+W2161634498,2,Artificial Intelligence,TRUE,
+W2161634498,3,Brain Neoplasms,TRUE,pathology
+W2161634498,4,Glioma,TRUE,pathology
+W2161634498,5,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2161634498,6,"Pattern Recognition, Automated",TRUE,methods
+W2161634498,7,Brain Neoplasms,FALSE,
+W2161634498,8,Glioma,FALSE,
+W2161634498,9,Humans,FALSE,
+W2161634498,10,"Image Interpretation, Computer-Assisted",FALSE,
+W2161634498,11,"Pattern Recognition, Automated",FALSE,
+W2161634498,12,Reproducibility of Results,FALSE,
+W2161634498,13,Sensitivity and Specificity,FALSE,
+W2159062022,1,Microcirculation,TRUE,
+W2159062022,2,Neoplasms,TRUE,blood supply
+W2159062022,3,Algorithms,FALSE,
+W2159062022,4,Animals,FALSE,
+W2159062022,5,Blood Vessels,FALSE,
+W2159062022,6,"Cell Line, Tumor",FALSE,
+W2159062022,7,Computer Simulation,FALSE,
+W2159062022,8,Image Enhancement,FALSE,
+W2159062022,9,"Image Processing, Computer-Assisted",FALSE,
+W2159062022,10,"Imaging, Three-Dimensional",FALSE,
+W2159062022,11,Linear Models,FALSE,
+W2159062022,12,Mice,FALSE,
+W2159062022,13,"Mice, SCID",FALSE,
+W2159062022,14,"Microscopy, Confocal",FALSE,
+W2159062022,15,"Models, Biological",FALSE,
+W2159062022,16,"Models, Statistical",FALSE,
+W2159062022,17,Neoplasm Transplantation,FALSE,
+W2159062022,18,Neoplasms,FALSE,
+W2159062022,19,"Neovascularization, Pathologic",FALSE,
+W2159062022,20,Normal Distribution,FALSE,
+W2159062022,21,"Pattern Recognition, Automated",FALSE,
+W2159062022,22,Photons,FALSE,
+W2159062022,23,Regression Analysis,FALSE,
+W2159062022,24,Reproducibility of Results,FALSE,
+W2159062022,25,Time Factors,FALSE,
+W2133724340,1,Algorithms,TRUE,
+W2133724340,2,"Databases, Protein",TRUE,
+W2133724340,3,Proteins,TRUE,ultrastructure
+W2133724340,4,Proteins,TRUE,chemistry
+W2133724340,5,Sequence Alignment,TRUE,methods
+W2133724340,6,"Sequence Analysis, Protein",TRUE,methods
+W2133724340,7,Software,TRUE,
+W2133724340,8,Amino Acid Sequence,FALSE,
+W2133724340,9,Information Storage and Retrieval,FALSE,
+W2133724340,10,Information Storage and Retrieval,FALSE,methods
+W2133724340,11,Molecular Sequence Data,FALSE,
+W2133724340,12,Protein Conformation,FALSE,
+W2133724340,13,Proteins,FALSE,
+W2133724340,14,Sequence Alignment,FALSE,
+W2133724340,15,"Sequence Analysis, Protein",FALSE,
+W2039167473,1,Algorithms,TRUE,
+W2039167473,2,Computer-Assisted Instruction,TRUE,methods
+W2039167473,3,Diagnostic Imaging,TRUE,methods
+W2039167473,4,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2039167473,5,Radiology,TRUE,education
+W2039167473,6,Software,TRUE,
+W2039167473,7,Software Design,TRUE,
+W2039167473,8,Computer-Assisted Instruction,FALSE,
+W2039167473,9,Curriculum,FALSE,
+W2039167473,10,Diagnostic Imaging,FALSE,
+W2039167473,11,"Education, Medical",FALSE,
+W2039167473,12,"Education, Medical",FALSE,methods
+W2039167473,13,"Image Interpretation, Computer-Assisted",FALSE,
+W2039167473,14,Radiology,FALSE,
+W1980173426,1,Behavior,TRUE,physiology
+W1980173426,2,"Neural Networks, Computer",TRUE,
+W1980173426,3,"Reinforcement, Psychology",TRUE,
+W1980173426,4,Algorithms,FALSE,
+W1980173426,5,Behavior,FALSE,
+W1980173426,6,Humans,FALSE,
+W2167553819,1,Protein Array Analysis,TRUE,standards
+W2167553819,2,Protein Array Analysis,TRUE,methods
+W2167553819,3,Cluster Analysis,FALSE,
+W2167553819,4,Protein Array Analysis,FALSE,
+W2410811448,1,Artificial Intelligence,TRUE,
+W2410811448,2,Biomimetic Materials,TRUE,
+W2410811448,3,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2410811448,4,Movement,TRUE,
+W2410811448,5,"Pattern Recognition, Automated",TRUE,methods
+W2410811448,6,"Photoreceptor Cells, Invertebrate",TRUE,physiology
+W2410811448,7,Robotics,TRUE,methods
+W2410811448,8,Algorithms,FALSE,
+W2410811448,9,Animals,FALSE,
+W2410811448,10,Cluster Analysis,FALSE,
+W2410811448,11,Computing Methodologies,FALSE,
+W2410811448,12,Equipment Design,FALSE,methods
+W2410811448,13,Equipment Design,FALSE,
+W2410811448,14,Equipment Failure Analysis,FALSE,
+W2410811448,15,Houseflies,FALSE,
+W2410811448,16,Image Enhancement,FALSE,methods
+W2410811448,17,Image Enhancement,FALSE,
+W2410811448,18,"Image Interpretation, Computer-Assisted",FALSE,
+W2410811448,19,Information Storage and Retrieval,FALSE,
+W2410811448,20,Information Storage and Retrieval,FALSE,methods
+W2410811448,21,"Numerical Analysis, Computer-Assisted",FALSE,
+W2410811448,22,"Pattern Recognition, Automated",FALSE,
+W2410811448,23,"Photoreceptor Cells, Invertebrate",FALSE,
+W2410811448,24,Robotics,FALSE,
+W2410811448,25,Robotics,FALSE,instrumentation
+W2410811448,26,"Signal Processing, Computer-Assisted",FALSE,
+W2410811448,27,Transducers,FALSE,
+W2106223061,1,Database Management Systems,TRUE,
+W2106223061,2,"Databases, Protein",TRUE,
+W2106223061,3,Gene Expression Profiling,TRUE,methods
+W2106223061,4,Information Storage and Retrieval,TRUE,methods
+W2106223061,5,Oryzias,TRUE,metabolism
+W2106223061,6,Proteome,TRUE,metabolism
+W2106223061,7,Animals,FALSE,
+W2106223061,8,Gene Expression Profiling,FALSE,
+W2106223061,9,Information Storage and Retrieval,FALSE,
+W2106223061,10,Internet,FALSE,
+W2106223061,11,Oryzias,FALSE,
+W2106223061,12,Oryzias,FALSE,genetics
+W2106223061,13,Proteome,FALSE,genetics
+W2106223061,14,Proteome,FALSE,
+W2106223061,15,"Sequence Analysis, Protein",FALSE,methods
+W2106223061,16,"Sequence Analysis, Protein",FALSE,
+W2101798517,1,"Models, Neurological",TRUE,
+W2101798517,2,Neurons,TRUE,physiology
+W2101798517,3,Potassium Channels,TRUE,physiology
+W2101798517,4,Action Potentials,FALSE,
+W2101798517,5,Action Potentials,FALSE,physiology
+W2101798517,6,Animals,FALSE,
+W2101798517,7,Dendritic Spines,FALSE,
+W2101798517,8,Dendritic Spines,FALSE,physiology
+W2101798517,9,Membrane Potentials,FALSE,
+W2101798517,10,Membrane Potentials,FALSE,physiology
+W2101798517,11,Neural Conduction,FALSE,
+W2101798517,12,Neural Conduction,FALSE,physiology
+W2101798517,13,Neurons,FALSE,
+W2101798517,14,Nonlinear Dynamics,FALSE,
+W2101798517,15,Potassium Channels,FALSE,
+W2101798517,16,Thoracica,FALSE,
+W4233378925,1,"Calcification, Physiologic",TRUE,
+W4233378925,2,"Image Processing, Computer-Assisted",TRUE,methods
+W4233378925,3,"Imaging, Three-Dimensional",TRUE,methods
+W4233378925,4,Mammography,TRUE,
+W4233378925,5,Female,FALSE,
+W4233378925,6,Humans,FALSE,
+W4233378925,7,"Image Processing, Computer-Assisted",FALSE,statistics & numerical data
+W4233378925,8,"Image Processing, Computer-Assisted",FALSE,
+W4233378925,9,"Imaging, Three-Dimensional",FALSE,statistics & numerical data
+W4233378925,10,"Imaging, Three-Dimensional",FALSE,
+W4233378925,11,Taiwan,FALSE,
+W1965472027,1,"Carcinoma, Non-Small-Cell Lung",TRUE,diagnosis
+W1965472027,2,"Diagnostic Tests, Routine",TRUE,
+W1965472027,3,Lung Neoplasms,TRUE,diagnosis
+W1965472027,4,Mass Screening,TRUE,methods
+W1965472027,5,Prostate-Specific Antigen,TRUE,immunology
+W1965472027,6,Prostatic Neoplasms,TRUE,diagnosis
+W1965472027,7,Prostatic Neoplasms,TRUE,immunology
+W1965472027,8,"Carcinoma, Non-Small-Cell Lung",FALSE,
+W1965472027,9,Humans,FALSE,
+W1965472027,10,Lung Neoplasms,FALSE,
+W1965472027,11,Male,FALSE,
+W1965472027,12,Mass Screening,FALSE,
+W1965472027,13,Neoplasm Staging,FALSE,
+W1965472027,14,Prostate-Specific Antigen,FALSE,
+W1965472027,15,Prostatic Neoplasms,FALSE,
+W1965472027,16,Reproducibility of Results,FALSE,
+W1965472027,17,Sensitivity and Specificity,FALSE,
+W2168545606,1,Algorithms,TRUE,
+W2168545606,2,"Neural Networks, Computer",TRUE,
+W2168545606,3,"Numerical Analysis, Computer-Assisted",TRUE,
+W2168545606,4,"Signal Processing, Computer-Assisted",TRUE,
+W2168545606,5,Computer Simulation,FALSE,
+W2168545606,6,Computer Systems,FALSE,
+W2168545606,7,Online Systems,FALSE,
+W2140031846,1,Algorithms,TRUE,
+W2140031846,2,Computing Methodologies,TRUE,
+W2140031846,3,Information Storage and Retrieval,TRUE,methods
+W2140031846,4,"Models, Statistical",TRUE,
+W2140031846,5,"Neural Networks, Computer",TRUE,
+W2140031846,6,"Numerical Analysis, Computer-Assisted",TRUE,
+W2140031846,7,"Pattern Recognition, Automated",TRUE,methods
+W2140031846,8,Artificial Intelligence,FALSE,
+W2140031846,9,Cluster Analysis,FALSE,
+W2140031846,10,Computer Simulation,FALSE,
+W2140031846,11,Feedback,FALSE,
+W2140031846,12,Information Storage and Retrieval,FALSE,
+W2140031846,13,"Pattern Recognition, Automated",FALSE,
+W2140031846,14,"Signal Processing, Computer-Assisted",FALSE,
+W1992657866,1,Bacteriorhodopsins,TRUE,chemistry
+W1992657866,2,Image Enhancement,TRUE,instrumentation
+W1992657866,3,Interferometry,TRUE,instrumentation
+W1992657866,4,"Models, Biological",TRUE,
+W1992657866,5,Optics and Photonics,TRUE,instrumentation
+W1992657866,6,Subtraction Technique,TRUE,instrumentation
+W1992657866,7,Bacteriorhodopsins,FALSE,
+W1992657866,8,Computer Simulation,FALSE,
+W1992657866,9,Equipment Design,FALSE,
+W1992657866,10,Equipment Failure Analysis,FALSE,
+W1992657866,11,Image Enhancement,FALSE,methods
+W1992657866,12,Image Enhancement,FALSE,
+W1992657866,13,Interferometry,FALSE,methods
+W1992657866,14,Interferometry,FALSE,
+W1992657866,15,Membranes,FALSE,
+W1992657866,16,Optics and Photonics,FALSE,
+W1992657866,17,Subtraction Technique,FALSE,
+W2047138445,1,Phonetics,TRUE,
+W2047138445,2,Sex Characteristics,TRUE,
+W2047138445,3,Speech Acoustics,TRUE,
+W2047138445,4,Speech Perception,TRUE,physiology
+W2047138445,5,Transsexualism,TRUE,physiopathology
+W2047138445,6,Adult,FALSE,
+W2047138445,7,Analysis of Variance,FALSE,
+W2047138445,8,Case-Control Studies,FALSE,
+W2047138445,9,Female,FALSE,
+W2047138445,10,Humans,FALSE,
+W2047138445,11,Male,FALSE,
+W2047138445,12,Middle Aged,FALSE,
+W2047138445,13,Speech Perception,FALSE,
+W2047138445,14,Transsexualism,FALSE,
+W2009936685,1,Cognition,TRUE,
+W2009936685,2,Cognitive Dissonance,TRUE,
+W2009936685,3,Comprehension,TRUE,
+W2009936685,4,"Fixation, Ocular",TRUE,
+W2009936685,5,"Pattern Recognition, Visual",TRUE,
+W2009936685,6,Problem Solving,TRUE,
+W2009936685,7,Reading,TRUE,
+W2009936685,8,Adult,FALSE,
+W2009936685,9,Attention,FALSE,
+W2009936685,10,Female,FALSE,
+W2009936685,11,Humans,FALSE,
+W2009936685,12,Individuality,FALSE,
+W2009936685,13,Male,FALSE,
+W2009936685,14,Mechanics,FALSE,
+W2009936685,15,Statistics as Topic,FALSE,
+W2164337336,1,Biological Clocks,TRUE,physiology
+W2164337336,2,Biomimetics,TRUE,methods
+W2164337336,3,Brain,TRUE,physiology
+W2164337336,4,"Models, Neurological",TRUE,
+W2164337336,5,Nerve Net,TRUE,physiology
+W2164337336,6,Neural Inhibition,TRUE,physiology
+W2164337336,7,"Neural Networks, Computer",TRUE,
+W2164337336,8,Synaptic Transmission,TRUE,physiology
+W2164337336,9,Action Potentials,FALSE,
+W2164337336,10,Action Potentials,FALSE,physiology
+W2164337336,11,Animals,FALSE,
+W2164337336,12,Artificial Intelligence,FALSE,
+W2164337336,13,Biological Clocks,FALSE,
+W2164337336,14,Biomimetics,FALSE,
+W2164337336,15,Brain,FALSE,
+W2164337336,16,Computer Simulation,FALSE,
+W2164337336,17,Humans,FALSE,
+W2164337336,18,Nerve Net,FALSE,
+W2164337336,19,Neural Inhibition,FALSE,
+W2164337336,20,Robotics,FALSE,methods
+W2164337336,21,Robotics,FALSE,
+W2164337336,22,Synaptic Transmission,FALSE,
+W2112709449,1,Brain,TRUE,physiology
+W2112709449,2,Evoked Potentials,TRUE,physiology
+W2112709449,3,"Models, Neurological",TRUE,
+W2112709449,4,Neurons,TRUE,physiology
+W2112709449,5,Algorithms,FALSE,
+W2112709449,6,Animals,FALSE,
+W2112709449,7,Brain,FALSE,
+W2112709449,8,Evoked Potentials,FALSE,
+W2112709449,9,Neurons,FALSE,
+W2014615172,1,Cluster Analysis,TRUE,
+W2014615172,2,Algorithms,FALSE,
+W2014615172,3,"Databases, Factual",FALSE,
+W2014615172,4,Memory,FALSE,
+W2014615172,5,Online Systems,FALSE,
+W1790372863,1,Brain,TRUE,physiology
+W1790372863,2,Electroencephalography,TRUE,
+W1790372863,3,Entropy,TRUE,
+W1790372863,4,"Models, Neurological",TRUE,
+W1790372863,5,Sex Characteristics,TRUE,
+W1790372863,6,Adult,FALSE,
+W1790372863,7,Brain,FALSE,
+W1790372863,8,Female,FALSE,
+W1790372863,9,Humans,FALSE,
+W1790372863,10,Male,FALSE,
+W1790372863,11,Nonlinear Dynamics,FALSE,
+W1994332489,1,Algorithms,TRUE,
+W1994332489,2,Biopolymers,TRUE,chemistry
+W1994332489,3,"Models, Chemical",TRUE,
+W1994332489,4,Sequence Alignment,TRUE,methods
+W1994332489,5,Sequence Analysis,TRUE,methods
+W1994332489,6,Biopolymers,FALSE,
+W1994332489,7,Computer Simulation,FALSE,
+W1994332489,8,"Models, Statistical",FALSE,
+W1994332489,9,Sequence Alignment,FALSE,
+W1994332489,10,Sequence Analysis,FALSE,
+W2133157470,1,Breast,TRUE,pathology
+W2133157470,2,Breast Neoplasms,TRUE,diagnosis
+W2133157470,3,"Models, Biological",TRUE,
+W2133157470,4,Adult,FALSE,
+W2133157470,5,Aged,FALSE,
+W2133157470,6,"Aged, 80 and over",FALSE,
+W2133157470,7,"Biopsy, Needle",FALSE,
+W2133157470,8,Breast,FALSE,
+W2133157470,9,Breast Neoplasms,FALSE,
+W2133157470,10,Female,FALSE,
+W2133157470,11,Humans,FALSE,
+W2133157470,12,Mammography,FALSE,
+W2133157470,13,Middle Aged,FALSE,
+W2133157470,14,Predictive Value of Tests,FALSE,
+W2133157470,15,Retrospective Studies,FALSE,
+W2133157470,16,Risk Factors,FALSE,
+W2133157470,17,"Ultrasonography, Mammary",FALSE,
+W2028140761,1,Dermoscopy,TRUE,methods
+W2028140761,2,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2028140761,3,"Pattern Recognition, Automated",TRUE,methods
+W2028140761,4,Skin,TRUE,pathology
+W2028140761,5,Skin Neoplasms,TRUE,pathology
+W2028140761,6,Algorithms,FALSE,
+W2028140761,7,Artificial Intelligence,FALSE,
+W2028140761,8,Humans,FALSE,
+W2028140761,9,Image Enhancement,FALSE,methods
+W2028140761,10,Melanoma,FALSE,pathology
+W2028140761,11,Reproducibility of Results,FALSE,
+W2028140761,12,Retrospective Studies,FALSE,
+W2028140761,13,Sensitivity and Specificity,FALSE,
+W1988294241,1,Color,TRUE,
+W1988294241,2,Dermoscopy,TRUE,methods
+W1988294241,3,"Image Processing, Computer-Assisted",TRUE,
+W1988294241,4,Melanoma,TRUE,pathology
+W1988294241,5,Skin Neoplasms,TRUE,pathology
+W1988294241,6,Dermoscopy,FALSE,
+W1988294241,7,Humans,FALSE,
+W1988294241,8,Melanoma,FALSE,
+W1988294241,9,"Models, Statistical",FALSE,
+W1988294241,10,"Neural Networks, Computer",FALSE,
+W1988294241,11,Skin Neoplasms,FALSE,
+W1966702183,1,Environmental Monitoring,TRUE,methods
+W1966702183,2,Fresh Water,TRUE,chemistry
+W1966702183,3,Hydrocarbons,TRUE,analysis
+W1966702183,4,Minerals,TRUE,chemistry
+W1966702183,5,"Water Pollutants, Chemical",TRUE,analysis
+W1966702183,6,"Biodegradation, Environmental",FALSE,
+W1966702183,7,Electric Conductivity,FALSE,
+W1966702183,8,Environmental Monitoring,FALSE,
+W1966702183,9,Fresh Water,FALSE,
+W1966702183,10,Hydrocarbons,FALSE,metabolism
+W1966702183,11,Hydrocarbons,FALSE,
+W1966702183,12,Michigan,FALSE,
+W1966702183,13,Minerals,FALSE,
+W1966702183,14,"Water Pollutants, Chemical",FALSE,
+W1966702183,15,"Water Pollutants, Chemical",FALSE,metabolism
+W2158856320,1,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2158856320,2,Melanoma,TRUE,diagnosis
+W2158856320,3,"Models, Statistical",TRUE,
+W2158856320,4,Skin Neoplasms,TRUE,diagnosis
+W2158856320,5,"Carcinoma, Basal Cell",FALSE,
+W2158856320,6,"Carcinoma, Basal Cell",FALSE,diagnosis
+W2158856320,7,"Carcinoma, Basal Cell",FALSE,pathology
+W2158856320,8,Humans,FALSE,
+W2158856320,9,"Image Interpretation, Computer-Assisted",FALSE,
+W2158856320,10,Keratosis,FALSE,
+W2158856320,11,Keratosis,FALSE,diagnosis
+W2158856320,12,Keratosis,FALSE,pathology
+W2158856320,13,Melanoma,FALSE,
+W2158856320,14,Melanoma,FALSE,pathology
+W2158856320,15,Nevus,FALSE,diagnosis
+W2158856320,16,Nevus,FALSE,pathology
+W2158856320,17,Nevus,FALSE,
+W2158856320,18,Skin Neoplasms,FALSE,pathology
+W2158856320,19,Skin Neoplasms,FALSE,
+W2070278423,1,"Neural Networks, Computer",TRUE,
+W2070278423,2,Algorithms,FALSE,
+W2070278423,3,Costs and Cost Analysis,FALSE,
+W2070278423,4,"Data Interpretation, Statistical",FALSE,
+W2070278423,5,"Models, Neurological",FALSE,
+W2070278423,6,"Reinforcement, Psychology",FALSE,
+W2074993393,1,Learning,TRUE,
+W2074993393,2,"Neural Networks, Computer",TRUE,
+W2074993393,3,Neurons,FALSE,
+W2074993393,4,Neurons,FALSE,physiology
+W2141666225,1,Language,TRUE,
+W2141666225,2,Adolescent,FALSE,
+W2141666225,3,Adult,FALSE,
+W2141666225,4,Aged,FALSE,
+W2141666225,5,Humans,FALSE,
+W2141666225,6,Learning,FALSE,
+W2141666225,7,Middle Aged,FALSE,
+W2141666225,8,Multilingualism,FALSE,
+W2141666225,9,Phonetics,FALSE,
+W2141666225,10,Psychoacoustics,FALSE,
+W2141666225,11,Psycholinguistics,FALSE,
+W2141666225,12,Speech Acoustics,FALSE,
+W2141666225,13,Speech Perception,FALSE,
+W2023344380,1,Computer Simulation,TRUE,
+W2023344380,2,Electric Fish,TRUE,physiology
+W2023344380,3,"Models, Neurological",TRUE,
+W2023344380,4,"Neurons, Afferent",TRUE,physiology
+W2023344380,5,Animals,FALSE,
+W2023344380,6,Electric Fish,FALSE,
+W2023344380,7,Electric Stimulation,FALSE,
+W2023344380,8,"Neurons, Afferent",FALSE,
+W2023344380,9,Sensory Receptor Cells,FALSE,physiology
+W2023344380,10,Sensory Receptor Cells,FALSE,
+W2023344380,11,Sensory Thresholds,FALSE,
+W2023344380,12,Stochastic Processes,FALSE,
+W1968056609,1,Cells,TRUE,cytology
+W1968056609,2,Algorithms,FALSE,
+W1968056609,3,Animals,FALSE,
+W1968056609,4,Cell Shape,FALSE,
+W1968056609,5,Cells,FALSE,
+W1968056609,6,Mice,FALSE,
+W1968056609,7,"Microscopy, Fluorescence",FALSE,
+W1968056609,8,Software,FALSE,
+W2111354489,1,Multilingualism,TRUE,
+W2111354489,2,Phonetics,TRUE,
+W2111354489,3,Adult,FALSE,
+W2111354489,4,Age Factors,FALSE,
+W2111354489,5,Analysis of Variance,FALSE,
+W2111354489,6,Child,FALSE,
+W2111354489,7,Humans,FALSE,
+W2111354489,8,Language Tests,FALSE,
+W2111354489,9,Learning,FALSE,
+W2111354489,10,Speech Acoustics,FALSE,
+W2118855341,1,Language,TRUE,
+W2118855341,2,Phonetics,TRUE,
+W2118855341,3,Speech Acoustics,TRUE,
+W2118855341,4,Voice,TRUE,
+W2118855341,5,Adolescent,FALSE,
+W2118855341,6,Adult,FALSE,
+W2118855341,7,Age Factors,FALSE,
+W2118855341,8,Child,FALSE,
+W2118855341,9,Discriminant Analysis,FALSE,
+W2118855341,10,England,FALSE,
+W2118855341,11,Female,FALSE,
+W2118855341,12,Humans,FALSE,
+W2118855341,13,Male,FALSE,
+W2118855341,14,Middle Aged,FALSE,
+W2118855341,15,Sex Factors,FALSE,
+W1978758900,1,Amnesia,TRUE,psychology
+W1978758900,2,Amnesia,TRUE,physiopathology
+W1978758900,3,Paired-Associate Learning,TRUE,physiology
+W1978758900,4,Perception,TRUE,physiology
+W1978758900,5,"Recognition, Psychology",TRUE,physiology
+W1978758900,6,Adult,FALSE,
+W1978758900,7,Aged,FALSE,
+W1978758900,8,"Aged, 80 and over",FALSE,
+W1978758900,9,Amnesia,FALSE,
+W1978758900,10,Case-Control Studies,FALSE,
+W1978758900,11,Hippocampus,FALSE,physiopathology
+W1978758900,12,Hippocampus,FALSE,
+W1978758900,13,Humans,FALSE,
+W1978758900,14,Male,FALSE,
+W1978758900,15,Neuropsychological Tests,FALSE,statistics & numerical data
+W1978758900,16,Neuropsychological Tests,FALSE,
+W1978758900,17,Paired-Associate Learning,FALSE,
+W1978758900,18,Perception,FALSE,
+W1978758900,19,Perceptual Masking,FALSE,
+W1978758900,20,Reaction Time,FALSE,
+W1978758900,21,Reaction Time,FALSE,physiology
+W1978758900,22,"Recognition, Psychology",FALSE,
+W1978758900,23,Retrospective Studies,FALSE,
+W1978758900,24,Temporal Lobe,FALSE,physiopathology
+W1978758900,25,Temporal Lobe,FALSE,
+W2021086567,1,Music,TRUE,
+W2021086567,2,"Palate, Soft",TRUE,physiology
+W2021086567,3,Pharyngeal Muscles,TRUE,physiology
+W2021086567,4,Speech Acoustics,TRUE,
+W2021086567,5,Voice,TRUE,physiology
+W2021086567,6,Adult,FALSE,
+W2021086567,7,Analysis of Variance,FALSE,
+W2021086567,8,Female,FALSE,
+W2021086567,9,Humans,FALSE,
+W2021086567,10,Middle Aged,FALSE,
+W2021086567,11,"Palate, Soft",FALSE,
+W2021086567,12,Pharyngeal Muscles,FALSE,
+W2021086567,13,Pressure,FALSE,
+W2021086567,14,Pulmonary Ventilation,FALSE,
+W2021086567,15,Pulmonary Ventilation,FALSE,physiology
+W2021086567,16,Reproducibility of Results,FALSE,
+W2021086567,17,Voice,FALSE,
+W2142157734,1,Craniocerebral Trauma,TRUE,physiopathology
+W2142157734,2,Craniocerebral Trauma,TRUE,diagnosis
+W2142157734,3,"Diagnosis, Computer-Assisted",TRUE,methods
+W2142157734,4,Intracranial Pressure,TRUE,
+W2142157734,5,"Models, Biological",TRUE,
+W2142157734,6,"Signal Processing, Computer-Assisted",TRUE,
+W2142157734,7,Computer Simulation,FALSE,
+W2142157734,8,Craniocerebral Trauma,FALSE,
+W2142157734,9,"Diagnosis, Computer-Assisted",FALSE,
+W2142157734,10,Humans,FALSE,
+W2142157734,11,"Models, Statistical",FALSE,
+W2142157734,12,Stochastic Processes,FALSE,
+W2061329611,1,Elephants,TRUE,
+W2061329611,2,Phonetics,TRUE,
+W2061329611,3,"Signal Processing, Computer-Assisted",TRUE,
+W2061329611,4,Sound Spectrography,TRUE,classification
+W2061329611,5,Speech Acoustics,TRUE,
+W2061329611,6,"Vocalization, Animal",TRUE,classification
+W2061329611,7,Acoustics,FALSE,
+W2061329611,8,Animal Identification Systems,FALSE,
+W2061329611,9,Animal Identification Systems,FALSE,classification
+W2061329611,10,Animals,FALSE,
+W2061329611,11,Female,FALSE,
+W2061329611,12,Fourier Analysis,FALSE,
+W2061329611,13,Male,FALSE,
+W2061329611,14,Markov Chains,FALSE,
+W2061329611,15,Reproducibility of Results,FALSE,
+W2061329611,16,Sound Spectrography,FALSE,
+W2061329611,17,Sound Spectrography,FALSE,statistics & numerical data
+W2061329611,18,"Vocalization, Animal",FALSE,
+W2113494864,1,Autonomic Nervous System Diseases,TRUE,genetics
+W2113494864,2,DNA,TRUE,genetics
+W2113494864,3,HLA-DQ Antigens,TRUE,genetics
+W2113494864,4,Sarcoidosis,TRUE,genetics
+W2113494864,5,Adult,FALSE,
+W2113494864,6,Alleles,FALSE,
+W2113494864,7,Autonomic Nervous System Diseases,FALSE,
+W2113494864,8,Autonomic Nervous System Diseases,FALSE,complications
+W2113494864,9,Autonomic Nervous System Diseases,FALSE,immunology
+W2113494864,10,DNA,FALSE,
+W2113494864,11,Disease Progression,FALSE,
+W2113494864,12,Female,FALSE,
+W2113494864,13,Gene Frequency,FALSE,
+W2113494864,14,Genetic Markers,FALSE,
+W2113494864,15,HLA-DQ Antigens,FALSE,
+W2113494864,16,HLA-DQ beta-Chains,FALSE,
+W2113494864,17,Humans,FALSE,
+W2113494864,18,Linkage Disequilibrium,FALSE,
+W2113494864,19,Male,FALSE,
+W2113494864,20,Phenotype,FALSE,
+W2113494864,21,Retrospective Studies,FALSE,
+W2113494864,22,Sarcoidosis,FALSE,immunology
+W2113494864,23,Sarcoidosis,FALSE,complications
+W2113494864,24,Sarcoidosis,FALSE,
+W2408907060,1,Fractals,TRUE,
+W2408907060,2,Leadership,TRUE,
+W2408907060,3,"Models, Statistical",TRUE,
+W2408907060,4,Nonlinear Dynamics,TRUE,
+W2408907060,5,Group Processes,FALSE,
+W2408907060,6,Humans,FALSE,
+W2408907060,7,Problem Solving,FALSE,
+W2152941701,1,Brain,TRUE,physiology
+W2152941701,2,Brain Mapping,TRUE,methods
+W2152941701,3,"Diagnosis, Computer-Assisted",TRUE,methods
+W2152941701,4,Electroencephalography,TRUE,methods
+W2152941701,5,Evoked Potentials,TRUE,physiology
+W2152941701,6,"Models, Neurological",TRUE,
+W2152941701,7,"Pattern Recognition, Automated",TRUE,methods
+W2152941701,8,Action Potentials,FALSE,
+W2152941701,9,Action Potentials,FALSE,physiology
+W2152941701,10,Algorithms,FALSE,
+W2152941701,11,Brain,FALSE,
+W2152941701,12,Brain Mapping,FALSE,
+W2152941701,13,"Diagnosis, Computer-Assisted",FALSE,
+W2152941701,14,Electroencephalography,FALSE,
+W2152941701,15,Evoked Potentials,FALSE,
+W2152941701,16,Humans,FALSE,
+W2152941701,17,"Pattern Recognition, Automated",FALSE,
+W2093826426,1,"Inhibition, Psychological",TRUE,
+W2093826426,2,Mental Recall,TRUE,
+W2093826426,3,Reading,TRUE,
+W2093826426,4,Semantics,TRUE,
+W2093826426,5,Discrimination Learning,FALSE,
+W2093826426,6,Humans,FALSE,
+W2093826426,7,Psychophysics,FALSE,
+W2093826426,8,Reaction Time,FALSE,
+W2004565795,1,Algorithms,TRUE,
+W2004565795,2,Biological Evolution,TRUE,
+W2004565795,3,Computing Methodologies,TRUE,
+W2004565795,4,"Models, Genetic",TRUE,
+W2004565795,5,"Numerical Analysis, Computer-Assisted",TRUE,
+W2004565795,6,Computer Simulation,FALSE,
+W2072938413,1,Aircraft,TRUE,
+W2072938413,2,Cooperative Behavior,TRUE,
+W2072938413,3,Efficiency,TRUE,
+W2072938413,4,"Models, Psychological",TRUE,
+W2072938413,5,Organizational Objectives,TRUE,
+W2072938413,6,Safety,TRUE,
+W2072938413,7,Adult,FALSE,
+W2072938413,8,Cues,FALSE,
+W2072938413,9,Female,FALSE,
+W2072938413,10,Humans,FALSE,
+W2072938413,11,Linear Models,FALSE,
+W2072938413,12,Male,FALSE,
+W2072938413,13,Personal Construct Theory,FALSE,
+W2072938413,14,Problem Solving,FALSE,
+W2124369546,1,Algorithms,TRUE,
+W2124369546,2,Artificial Intelligence,TRUE,
+W2124369546,3,Handwriting,TRUE,
+W2124369546,4,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2124369546,5,Information Storage and Retrieval,TRUE,methods
+W2124369546,6,"Models, Statistical",TRUE,
+W2124369546,7,"Pattern Recognition, Automated",TRUE,methods
+W2124369546,8,Cluster Analysis,FALSE,
+W2124369546,9,Computer Simulation,FALSE,
+W2124369546,10,Image Enhancement,FALSE,
+W2124369546,11,Image Enhancement,FALSE,methods
+W2124369546,12,"Image Interpretation, Computer-Assisted",FALSE,
+W2124369546,13,Information Storage and Retrieval,FALSE,
+W2124369546,14,Normal Distribution,FALSE,
+W2124369546,15,"Numerical Analysis, Computer-Assisted",FALSE,
+W2124369546,16,"Pattern Recognition, Automated",FALSE,
+W2129085665,1,Algorithms,TRUE,
+W2129085665,2,Gene Expression Profiling,TRUE,methods
+W2129085665,3,Proteins,TRUE,analysis
+W2129085665,4,Proteins,TRUE,chemistry
+W2129085665,5,Proteomics,TRUE,methods
+W2129085665,6,Sequence Alignment,TRUE,methods
+W2129085665,7,"Sequence Analysis, Protein",TRUE,methods
+W2129085665,8,Amino Acid Sequence,FALSE,
+W2129085665,9,"Databases, Protein",FALSE,
+W2129085665,10,Gene Expression Profiling,FALSE,
+W2129085665,11,Linguistics,FALSE,
+W2129085665,12,Linguistics,FALSE,methods
+W2129085665,13,Molecular Sequence Data,FALSE,
+W2129085665,14,Natural Language Processing,FALSE,
+W2129085665,15,Proteins,FALSE,classification
+W2129085665,16,Proteins,FALSE,
+W2129085665,17,Proteomics,FALSE,
+W2129085665,18,Sequence Alignment,FALSE,
+W2129085665,19,"Sequence Analysis, Protein",FALSE,
+W2129085665,20,Structure-Activity Relationship,FALSE,
+W1995334159,1,"Models, Biological",TRUE,
+W1995334159,2,Phonation,TRUE,physiology
+W1995334159,3,Vibration,TRUE,
+W1995334159,4,Vocal Cords,TRUE,physiology
+W1995334159,5,Adult,FALSE,
+W1995334159,6,Biomechanical Phenomena,FALSE,
+W1995334159,7,Female,FALSE,
+W1995334159,8,Humans,FALSE,
+W1995334159,9,Male,FALSE,
+W1995334159,10,Nonlinear Dynamics,FALSE,
+W1995334159,11,Phonation,FALSE,
+W1995334159,12,Sex Characteristics,FALSE,
+W1995334159,13,Vocal Cords,FALSE,
+W1995334159,14,Voice,FALSE,
+W1995334159,15,Voice,FALSE,physiology
+W2055639572,1,"Models, Biological",TRUE,
+W2055639572,2,Phonation,TRUE,physiology
+W2055639572,3,Vocal Cords,TRUE,anatomy & histology
+W2055639572,4,Vocal Cords,TRUE,physiology
+W2055639572,5,Age Factors,FALSE,
+W2055639572,6,Child,FALSE,
+W2055639572,7,Female,FALSE,
+W2055639572,8,Humans,FALSE,
+W2055639572,9,Male,FALSE,
+W2055639572,10,Organ Size,FALSE,
+W2055639572,11,Phonation,FALSE,
+W2055639572,12,Sex Characteristics,FALSE,
+W2055639572,13,Speech Acoustics,FALSE,
+W2055639572,14,Vibration,FALSE,
+W2055639572,15,Vocal Cords,FALSE,
+W2022712300,1,Phonation,TRUE,physiology
+W2022712300,2,Speech,TRUE,physiology
+W2022712300,3,Adult,FALSE,
+W2022712300,4,Chi-Square Distribution,FALSE,
+W2022712300,5,Female,FALSE,
+W2022712300,6,Humans,FALSE,
+W2022712300,7,Phonation,FALSE,
+W2022712300,8,Sex Factors,FALSE,
+W2022712300,9,Sound Spectrography,FALSE,
+W2022712300,10,Speech,FALSE,
+W2022712300,11,Speech Production Measurement,FALSE,
+W2143661751,1,Biometry,TRUE,methods
+W2143661751,2,Bayes Theorem,FALSE,
+W2143661751,3,Biometry,FALSE,
+W2143661751,4,Female,FALSE,
+W2143661751,5,Fertilization,FALSE,physiology
+W2143661751,6,Fertilization,FALSE,
+W2143661751,7,Humans,FALSE,
+W2143661751,8,Menstrual Cycle,FALSE,
+W2143661751,9,Menstrual Cycle,FALSE,blood
+W2143661751,10,"Models, Biological",FALSE,
+W2143661751,11,"Models, Statistical",FALSE,
+W2143661751,12,Pregnancy,FALSE,
+W2143661751,13,Progesterone,FALSE,
+W2143661751,14,Progesterone,FALSE,blood
+W2016626996,1,Ambulatory Care Information Systems,TRUE,organization & administration
+W2016626996,2,Influenza Vaccines,TRUE,administration & dosage
+W2016626996,3,"Medical Records Systems, Computerized",TRUE,organization & administration
+W2016626996,4,Vaccination,TRUE,
+W2016626996,5,Aged,FALSE,
+W2016626996,6,Ambulatory Care Information Systems,FALSE,
+W2016626996,7,Chronic Disease,FALSE,
+W2016626996,8,Computer Communication Networks,FALSE,
+W2016626996,9,"Databases, Factual",FALSE,
+W2016626996,10,Humans,FALSE,
+W2016626996,11,Influenza Vaccines,FALSE,
+W2016626996,12,"Medical Records Systems, Computerized",FALSE,
+W2016626996,13,Reminder Systems,FALSE,
+W2151749331,1,Algorithms,TRUE,
+W2151749331,2,Artificial Intelligence,TRUE,
+W2151749331,3,"Data Interpretation, Statistical",TRUE,
+W2151749331,4,"Databases, Factual",TRUE,
+W2151749331,5,Information Storage and Retrieval,TRUE,methods
+W2151749331,6,"Pattern Recognition, Automated",TRUE,methods
+W2151749331,7,Sequence Analysis,TRUE,methods
+W2151749331,8,Cluster Analysis,FALSE,
+W2151749331,9,Information Storage and Retrieval,FALSE,
+W2151749331,10,"Numerical Analysis, Computer-Assisted",FALSE,
+W2151749331,11,"Pattern Recognition, Automated",FALSE,
+W2151749331,12,Sequence Analysis,FALSE,
+W2151749331,13,"Signal Processing, Computer-Assisted",FALSE,
+W2030012730,1,Databases as Topic,TRUE,
+W2030012730,2,Internet,TRUE,instrumentation
+W2030012730,3,Mass Screening,TRUE,instrumentation
+W2030012730,4,Mass Screening,TRUE,methods
+W2030012730,5,Software,TRUE,
+W2030012730,6,Humans,FALSE,
+W2030012730,7,Internet,FALSE,
+W2030012730,8,Mass Screening,FALSE,
+W1980173426,1,Behavior,TRUE,physiology
+W1980173426,2,"Neural Networks, Computer",TRUE,
+W1980173426,3,"Reinforcement, Psychology",TRUE,
+W1980173426,4,Algorithms,FALSE,
+W1980173426,5,Behavior,FALSE,
+W1980173426,6,Humans,FALSE,
+W2163046202,1,Algorithms,TRUE,
+W2163046202,2,Artificial Intelligence,TRUE,
+W2163046202,3,Least-Squares Analysis,TRUE,
+W2163046202,4,"Models, Statistical",TRUE,
+W2163046202,5,"Pattern Recognition, Automated",TRUE,methods
+W2163046202,6,Computer Simulation,FALSE,
+W2163046202,7,"Pattern Recognition, Automated",FALSE,
+W2167553819,1,Protein Array Analysis,TRUE,standards
+W2167553819,2,Protein Array Analysis,TRUE,methods
+W2167553819,3,Cluster Analysis,FALSE,
+W2167553819,4,Protein Array Analysis,FALSE,
+W2059891013,1,Association,TRUE,
+W2059891013,2,Memory,TRUE,
+W2059891013,3,Narration,TRUE,
+W2059891013,4,Semantics,TRUE,
+W2059891013,5,Humans,FALSE,
+W2059891013,6,Mental Recall,FALSE,
+W2239372830,1,Classification,TRUE,methods
+W2239372830,2,Oligonucleotide Array Sequence Analysis,TRUE,
+W2239372830,3,Classification,FALSE,
+W2239372830,4,Humans,FALSE,
+W2239372830,5,Liver Transplantation,FALSE,classification
+W2239372830,6,Liver Transplantation,FALSE,
+W2029692362,1,Colonic Polyps,TRUE,diagnostic imaging
+W2029692362,2,Colonic Polyps,TRUE,diagnosis
+W2029692362,3,"Colonography, Computed Tomographic",TRUE,methods
+W2029692362,4,Biophysical Phenomena,FALSE,
+W2029692362,5,Biophysics,FALSE,
+W2029692362,6,Colonic Polyps,FALSE,
+W2029692362,7,"Colonography, Computed Tomographic",FALSE,statistics & numerical data
+W2029692362,8,"Colonography, Computed Tomographic",FALSE,
+W2029692362,9,"Diagnosis, Computer-Assisted",FALSE,
+W2029692362,10,False Positive Reactions,FALSE,
+W2029692362,11,Humans,FALSE,
+W2029692362,12,"Models, Anatomic",FALSE,
+W2029692362,13,"Tomography, Spiral Computed",FALSE,
+W2029692362,14,"Tomography, X-Ray Computed",FALSE,
