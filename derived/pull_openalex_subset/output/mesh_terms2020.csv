@@ -1,0 +1,199 @@
+id,which_mesh,term,is_major_topic,qualifier_name
+W3093661799,1,Environmental Restoration and Remediation,TRUE,
+W3093661799,2,Groundwater,TRUE,
+W3093661799,3,"Water Pollutants, Chemical",TRUE,
+W3093661799,4,Environmental Monitoring,FALSE,
+W3093661799,5,South Carolina,FALSE,
+W3093661799,6,"Water Pollutants, Chemical",FALSE,analysis
+W3093510483,1,Computer Simulation,TRUE,
+W3093510483,2,Deep Learning,TRUE,
+W3093510483,3,Hydrodynamics,TRUE,
+W3093510483,4,Data Mining,FALSE,
+W3093510483,5,"Neural Networks, Computer",FALSE,
+W3042598028,1,Basidiomycota,TRUE,
+W3042598028,2,"Fungicides, Industrial",TRUE,
+W3042598028,3,Plant Diseases,FALSE,
+W3042598028,4,Plant Leaves,FALSE,
+W3042598028,5,"Spores, Fungal",FALSE,
+W3042598028,6,Triticum,FALSE,
+W3109296347,1,"Flight, Animal",TRUE,
+W3109296347,2,Animals,FALSE,
+W3109296347,3,Biomechanical Phenomena,FALSE,
+W3109296347,4,"Models, Biological",FALSE,
+W3109296347,5,"Wings, Animal",FALSE,
+W3108449292,1,Brain Mapping,TRUE,methods
+W3108449292,2,Electroencephalography,TRUE,methods
+W3108449292,3,Epilepsy,TRUE,physiopathology
+W3108449292,4,Patient-Specific Modeling,TRUE,
+W3108449292,5,Adolescent,FALSE,
+W3108449292,6,Adult,FALSE,
+W3108449292,7,Brain Mapping,FALSE,
+W3108449292,8,Electroencephalography,FALSE,
+W3108449292,9,Epilepsy,FALSE,
+W3108449292,10,Epilepsy,FALSE,diagnosis
+W3108449292,11,Evoked Potentials,FALSE,
+W3108449292,12,Female,FALSE,
+W3108449292,13,Head,FALSE,
+W3108449292,14,Head,FALSE,anatomy & histology
+W3108449292,15,Humans,FALSE,
+W3108449292,16,Male,FALSE,
+W3108449292,17,Middle Aged,FALSE,
+W2999541819,1,Carbon Cycle,TRUE,
+W2999541819,2,"Extinction, Biological",TRUE,
+W2999541819,3,Volcanic Eruptions,TRUE,
+W2999541819,4,Carbon Dioxide,FALSE,
+W2999541819,5,Carbon Dioxide,FALSE,analysis
+W2999541819,6,Global Warming,FALSE,
+W2999541819,7,Mexico,FALSE,
+W2999541819,8,"Models, Theoretical",FALSE,
+W3009490961,1,Groundwater,TRUE,
+W3009490961,2,Droughts,FALSE,
+W3009490961,3,Hydrology,FALSE,
+W3009490961,4,Water,FALSE,
+W3009490961,5,Water Supply,FALSE,
+W3045022196,1,Activities of Daily Living,TRUE,
+W3045022196,2,Coronavirus Infections,TRUE,epidemiology
+W3045022196,3,Noise,TRUE,
+W3045022196,4,"Pneumonia, Viral",TRUE,epidemiology
+W3045022196,5,COVID-19,FALSE,
+W3045022196,6,Coronavirus Infections,FALSE,
+W3045022196,7,Humans,FALSE,
+W3045022196,8,Pandemics,FALSE,
+W3045022196,9,"Pneumonia, Viral",FALSE,
+W3045022196,10,Quarantine,FALSE,
+W3031206783,1,Exobiology,TRUE,
+W3031206783,2,Extraterrestrial Environment,TRUE,
+W3031206783,3,Mars,TRUE,
+W3031206783,4,Caves,FALSE,
+W3031206783,5,Computer Simulation,FALSE,
+W3031206783,6,Ice,FALSE,
+W3031206783,7,Space Flight,FALSE,
+W3022396958,1,Algorithms,TRUE,
+W3022396958,2,"Tomography, X-Ray Computed",TRUE,
+W3022396958,3,Ultrasonography,FALSE,
+W3016878551,1,Capsid,TRUE,chemistry
+W3016878551,2,"Models, Biological",TRUE,
+W3016878551,3,"Models, Chemical",TRUE,
+W3016878551,4,Viruses,TRUE,chemistry
+W3016878551,5,Capsid,FALSE,metabolism
+W3016878551,6,Capsid,FALSE,
+W3016878551,7,Molecular Dynamics Simulation,FALSE,
+W3016878551,8,Temperature,FALSE,
+W3016878551,9,Viruses,FALSE,metabolism
+W3016878551,10,Viruses,FALSE,
+W3004896280,1,Cerebral Small Vessel Diseases,TRUE,pathology
+W3004896280,2,Cerebrospinal Fluid,TRUE,metabolism
+W3004896280,3,Glymphatic System,TRUE,metabolism
+W3004896280,4,"Models, Neurological",TRUE,
+W3004896280,5,Neuropil,TRUE,metabolism
+W3004896280,6,Animals,FALSE,
+W3004896280,7,Cerebral Small Vessel Diseases,FALSE,
+W3004896280,8,Cerebral Small Vessel Diseases,FALSE,diagnosis
+W3004896280,9,Cerebrospinal Fluid,FALSE,
+W3004896280,10,Diffusion,FALSE,
+W3004896280,11,"Disease Models, Animal",FALSE,
+W3004896280,12,Extracellular Fluid,FALSE,
+W3004896280,13,Extracellular Fluid,FALSE,metabolism
+W3004896280,14,Female,FALSE,
+W3004896280,15,Glymphatic System,FALSE,
+W3004896280,16,Glymphatic System,FALSE,diagnostic imaging
+W3004896280,17,Glymphatic System,FALSE,pathology
+W3004896280,18,Humans,FALSE,
+W3004896280,19,Hydrodynamics,FALSE,
+W3004896280,20,Magnetic Resonance Imaging,FALSE,
+W3004896280,21,Male,FALSE,
+W3004896280,22,Neuropil,FALSE,
+W3004896280,23,Rats,FALSE,
+W3085469340,1,Hydrothermal Vents,TRUE,
+W3085469340,2,Minerals,TRUE,analysis
+W3085469340,3,"Earth, Planet",FALSE,
+W3085469340,4,Exobiology,FALSE,
+W3085469340,5,Hydrothermal Vents,FALSE,chemistry
+W3085469340,6,Minerals,FALSE,
+W3085469340,7,"Printing, Three-Dimensional",FALSE,
+W3029835241,1,RNA,TRUE,chemical synthesis
+W3029835241,2,Acetaldehyde,FALSE,analogs & derivatives
+W3029835241,3,Cyanamide,FALSE,chemical synthesis
+W3029835241,4,"Evolution, Chemical",FALSE,
+W3029835241,5,Gamma Rays,FALSE,
+W3029835241,6,Imidazoles,FALSE,chemical synthesis
+W3029835241,7,"Models, Chemical",FALSE,
+W3029835241,8,Origin of Life,FALSE,
+W3029835241,9,Oxazoles,FALSE,chemical synthesis
+W3029835241,10,Photochemistry,FALSE,
+W3029835241,11,Water,FALSE,chemistry
+W3101596487,1,Antimicrobial Cationic Peptides,TRUE,chemistry
+W3101596487,2,Lipid Bilayers,TRUE,chemistry
+W3101596487,3,Membrane Proteins,TRUE,chemistry
+W3101596487,4,Antimicrobial Cationic Peptides,FALSE,
+W3101596487,5,Lipid Bilayers,FALSE,
+W3101596487,6,Mass Spectrometry,FALSE,
+W3101596487,7,Membrane Proteins,FALSE,
+W3101596487,8,Molecular Structure,FALSE,
+W3101596487,9,Surface Properties,FALSE,
+W3000269196,1,Iron,TRUE,chemistry
+W3000269196,2,Ferric Compounds,FALSE,
+W3000269196,3,Iron,FALSE,
+W3000269196,4,Oxidation-Reduction,FALSE,
+W3000269196,5,Romania,FALSE,
+W3000269196,6,Seawater,FALSE,
+W3047258735,1,Computer Simulation,FALSE,
+W3047258735,2,Software,FALSE,
+W3112377358,1,Image Enhancement,TRUE,methods
+W3112377358,2,"Image Processing, Computer-Assisted",TRUE,methods
+W3112377358,3,Magnetic Resonance Imaging,TRUE,methods
+W3112377358,4,Algorithms,FALSE,
+W3112377358,5,Brain,FALSE,diagnostic imaging
+W3112377358,6,Humans,FALSE,
+W3112377358,7,Knee,FALSE,diagnostic imaging
+W3112377358,8,Monte Carlo Method,FALSE,
+W3112377358,9,Sensitivity and Specificity,FALSE,
+W3092625506,1,Phospholipids,TRUE,chemistry
+W3092625506,2,Phospholipids,TRUE,chemical synthesis
+W3092625506,3,Acylation,FALSE,
+W3092625506,4,Artificial Cells,FALSE,
+W3092625506,5,Cell Membrane,FALSE,
+W3092625506,6,Cell Membrane,FALSE,metabolism
+W3092625506,7,Phospholipids,FALSE,
+W3092625506,8,Phospholipids,FALSE,metabolism
+W3092625506,9,Protein Biosynthesis,FALSE,
+W3092625506,10,Water,FALSE,
+W3092625506,11,Water,FALSE,chemistry
+W2998068331,1,Hydrothermal Vents,TRUE,chemistry
+W2998068331,2,Minerals,TRUE,chemistry
+W2998068331,3,Oceans and Seas,TRUE,
+W2998068331,4,Temperature,TRUE,
+W2998068331,5,Hydrothermal Vents,FALSE,
+W2998068331,6,Minerals,FALSE,
+W2998068331,7,Trace Elements,FALSE,chemistry
+W2998068331,8,Trace Elements,FALSE,
+W3024430920,1,Amino Acid Sequence,FALSE,
+W3024430920,2,Amino Acids,FALSE,
+W3024430920,3,Hemolysin Proteins,FALSE,
+W3024430920,4,Nanopores,FALSE,
+W3024430920,5,Peptides,FALSE,
+W3004997463,1,Exobiology,TRUE,methods
+W3004997463,2,Geologic Sediments,TRUE,chemistry
+W3004997463,3,Mars,TRUE,
+W3004997463,4,Minerals,TRUE,analysis
+W3004997463,5,Biomarkers,FALSE,
+W3004997463,6,Biomarkers,FALSE,analysis
+W3004997463,7,Exobiology,FALSE,
+W3004997463,8,Ferric Compounds,FALSE,
+W3004997463,9,Ferric Compounds,FALSE,analysis
+W3004997463,10,Geologic Sediments,FALSE,
+W3004997463,11,Geologic Sediments,FALSE,analysis
+W3004997463,12,Geologic Sediments,FALSE,microbiology
+W3004997463,13,Lakes,FALSE,
+W3004997463,14,Lakes,FALSE,analysis
+W3004997463,15,Lakes,FALSE,chemistry
+W3004997463,16,Lipids,FALSE,
+W3004997463,17,Lipids,FALSE,analysis
+W3004997463,18,Minerals,FALSE,
+W3004997463,19,Sulfates,FALSE,
+W3004997463,20,Sulfates,FALSE,analysis
+W3004997463,21,Western Australia,FALSE,
+W3092768690,1,Biosensing Techniques,TRUE,
+W3092768690,2,Hydrogen Peroxide,TRUE,
+W3092768690,3,Acids,FALSE,
+W3092768690,4,Catalase,FALSE,

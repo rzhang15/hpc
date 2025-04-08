@@ -69,7 +69,7 @@ process_article <- function(article) {
   
   bind_cols(ids, abstract_len, doi, jrnl, title, pub_date, retracted, cite_count, pub_type, pub_type_crossref, pmid, which_athr, author_data)
 }
-years <- 2009:2015  # Define the years you want to loop over
+years <- 2015  # Define the years you want to loop over
 for (year in years) {
   # Initialize an empty list to hold works for the current year
   works_year <- list()

@@ -12,10 +12,10 @@ global dropbox_dir "~/dropbox (harvard university)/scientific equipment"
 global dropbox_dir "$sci_equip"
 global derived_output "${dropbox_dir}/derived_output_hpc/"
 
-cd "$github/hpc/derived/pull_openalex_1702/code"
+cd "$github/hpc/derived/pull_openalex_1312_2611/code"
 
 global min_year = 2005
-global max_year = 2015 
+global max_year = 2014 
 
 * Code
 program main
@@ -71,20 +71,20 @@ program append_files
     drop which_athr2
     bys id which_athr (which_affl) : replace which_affl = _n 
     gisid id which_athr which_affl
-    save "${derived_output}/pull_openalex_1702/openalex_all_jrnls_merged", replace
+    save "${derived_output}/pull_openalex_1312_2611/openalex_all_jrnls_merged", replace
     preserve
 	gcontract id, nomiss
 	drop _freq
-	save "${derived_output}/pull_openalex_1702/list_of_works", replace
+	save "${derived_output}/pull_openalex_1312_2611/list_of_works", replace
 	restore
 	preserve
 	gcontract athr_id, nomiss
 	drop _freq
-	save "${derived_output}/pull_openalex_1702/list_of_athrs", replace
+	save "${derived_output}/pull_openalex_1312_2611/list_of_athrs", replace
 	restore
     gcontract inst_id, nomiss
     drop _freq
-    save "${derived_output}/pull_openalex_1702/list_of_insts", replace
+    save "${derived_output}/pull_openalex_1312_2611/list_of_insts", replace
 end
 program append_mesh
         forval i = $min_year / $max_year {
@@ -115,8 +115,8 @@ program append_mesh
         replace gen_mesh = rev_mesh if mi(gen_mesh)
         drop rev_mesh
         contract id gen_mesh qualifier_name, nomiss
-		merge m:1 id using "${derived_output}/pull_openalex_1702/list_of_works", assert(1 2 3) keep(3) nogen
-        save "${derived_output}/pull_openalex_1702/contracted_gen_mesh_all_jrnls", replace
+		merge m:1 id using "${derived_output}/pull_openalex_1312_2611/list_of_works", assert(1 2 3) keep(3) nogen
+        save "${derived_output}/pull_openalex_1312_2611/contracted_gen_mesh_all_jrnls", replace
 end
 program append_concepts
         forval i = $min_year / $max_year {
@@ -133,8 +133,8 @@ program append_concepts
             di "`i'"
             cap qui append using ../output/topics`i'
         }
-		merge m:1 id using "${derived_output}/pull_openalex_1702/list_of_works", assert(1 2 3) keep(3) nogen
-        save "${derived_output}/pull_openalex_1702/topics_all_jrnls_merged",replace
+		merge m:1 id using "${derived_output}/pull_openalex_1312_2611/list_of_works", assert(1 2 3) keep(3) nogen
+        save "${derived_output}/pull_openalex_1312_2611/topics_all_jrnls_merged",replace
 end
 program append_grants
         forval i = $min_year / $max_year {
@@ -151,7 +151,7 @@ program append_grants
             di "`i'"
             cap qui append using ../output/grants`i'
         }
-		merge m:1 id using "${derived_output}/pull_openalex_1702/list_of_works", assert(1 2 3) keep(3) nogen
-        save "${derived_output}/pull_openalex_1702/grants_all_jrnls_merged",replace
+		merge m:1 id using "${derived_output}/pull_openalex_1312_2611/list_of_works", assert(1 2 3) keep(3) nogen
+        save "${derived_output}/pull_openalex_1312_2611/grants_all_jrnls_merged",replace
 end
 main

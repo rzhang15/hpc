@@ -5,3 +5,4 @@ derived/pull_openalex_1312_2611/code/.gitattributes
 derived/pull_openalex_1312_2611/code/.here
 derived/pull_openalex_1312_2611/code/.RData
 derived/pull_openalex_1312_2611/code/.Rhistory
+*.dta

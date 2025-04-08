@@ -1,0 +1,630 @@
+id,which_mesh,term,is_major_topic,qualifier_name
+W2002433156,1,Crystallization,TRUE,methods
+W2002433156,2,"Fractionation, Field Flow",TRUE,methods
+W2002433156,3,Nanostructures,TRUE,ultrastructure
+W2002433156,4,Nanostructures,TRUE,chemistry
+W2002433156,5,Nanotechnology,TRUE,methods
+W2002433156,6,Ultracentrifugation,TRUE,methods
+W2002433156,7,Crystallization,FALSE,
+W2002433156,8,"Fractionation, Field Flow",FALSE,
+W2002433156,9,Macromolecular Substances,FALSE,
+W2002433156,10,Macromolecular Substances,FALSE,chemistry
+W2002433156,11,Materials Testing,FALSE,
+W2002433156,12,Molecular Conformation,FALSE,
+W2002433156,13,Nanostructures,FALSE,
+W2002433156,14,Nanotechnology,FALSE,
+W2002433156,15,Particle Size,FALSE,
+W2002433156,16,Surface Properties,FALSE,
+W2002433156,17,Ultracentrifugation,FALSE,
+W2096050156,1,Biometry,TRUE,methods
+W2096050156,2,Tidal Volume,TRUE,
+W2096050156,3,Adult,FALSE,
+W2096050156,4,Algorithms,FALSE,
+W2096050156,5,Biometry,FALSE,
+W2096050156,6,Female,FALSE,
+W2096050156,7,Humans,FALSE,
+W2096050156,8,Male,FALSE,
+W2096050156,9,"Models, Statistical",FALSE,
+W2096050156,10,Multivariate Analysis,FALSE,
+W2096050156,11,Panic Disorder,FALSE,chemically induced
+W2096050156,12,Panic Disorder,FALSE,physiopathology
+W2096050156,13,Panic Disorder,FALSE,
+W2096050156,14,Sodium Lactate,FALSE,administration & dosage
+W2096050156,15,Sodium Lactate,FALSE,
+W2096050156,16,Tidal Volume,FALSE,drug effects
+W1979449170,1,Algorithms,TRUE,
+W1979449170,2,Image Enhancement,TRUE,methods
+W1979449170,3,"Image Interpretation, Computer-Assisted",TRUE,methods
+W1979449170,4,Printing,TRUE,methods
+W1979449170,5,"Signal Processing, Computer-Assisted",TRUE,
+W1979449170,6,Computer Simulation,FALSE,
+W1979449170,7,Image Enhancement,FALSE,
+W1979449170,8,"Image Interpretation, Computer-Assisted",FALSE,
+W1979449170,9,"Models, Statistical",FALSE,
+W1979449170,10,Printing,FALSE,
+W1979449170,11,Reproducibility of Results,FALSE,
+W1979449170,12,Sensitivity and Specificity,FALSE,
+W1979449170,13,Statistical Distributions,FALSE,
+W2086937521,1,"Membranes, Artificial",TRUE,
+W2086937521,2,Elasticity,FALSE,
+W2086937521,3,Glass,FALSE,
+W2086937521,4,Glass,FALSE,chemistry
+W2086937521,5,Polymers,FALSE,
+W2086937521,6,Polymers,FALSE,chemistry
+W2086937521,7,Surface Properties,FALSE,
+W1994731691,1,Biodiversity,TRUE,
+W1994731691,2,Biological Evolution,TRUE,
+W1994731691,3,Ecosystem,TRUE,
+W1994731691,4,Fossils,TRUE,
+W1994731691,5,Animals,FALSE,
+W1994731691,6,Seawater,FALSE,
+W2085899256,1,Cell Survival,TRUE,radiation effects
+W2085899256,2,"Hyperthermia, Induced",TRUE,methods
+W2085899256,3,"Models, Biological",TRUE,
+W2085899256,4,Prostatic Neoplasms,TRUE,pathology
+W2085899256,5,Prostatic Neoplasms,TRUE,physiopathology
+W2085899256,6,Cell Survival,FALSE,
+W2085899256,7,Computer Simulation,FALSE,
+W2085899256,8,Humans,FALSE,
+W2085899256,9,"Hyperthermia, Induced",FALSE,
+W2085899256,10,Male,FALSE,
+W2085899256,11,Prostatic Neoplasms,FALSE,therapy
+W2085899256,12,Prostatic Neoplasms,FALSE,
+W2085899256,13,"Tumor Cells, Cultured",FALSE,
+W2167377577,1,Algorithms,TRUE,
+W2167377577,2,Computer Graphics,TRUE,
+W2167377577,3,Image Enhancement,TRUE,methods
+W2167377577,4,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2167377577,5,"Imaging, Three-Dimensional",TRUE,methods
+W2167377577,6,Rheology,TRUE,methods
+W2167377577,7,"Signal Processing, Computer-Assisted",TRUE,
+W2167377577,8,Computer Simulation,FALSE,
+W2167377577,9,Finite Element Analysis,FALSE,
+W2167377577,10,Image Enhancement,FALSE,
+W2167377577,11,"Image Interpretation, Computer-Assisted",FALSE,
+W2167377577,12,"Imaging, Three-Dimensional",FALSE,
+W2167377577,13,"Models, Theoretical",FALSE,
+W2167377577,14,"Numerical Analysis, Computer-Assisted",FALSE,
+W2167377577,15,Rheology,FALSE,
+W2167377577,16,Systems Integration,FALSE,
+W1971809418,1,Electrochemistry,TRUE,methods
+W1971809418,2,Iron,TRUE,chemistry
+W1971809418,3,Nanotechnology,TRUE,methods
+W1971809418,4,Electrochemistry,FALSE,
+W1971809418,5,Electrochemistry,FALSE,instrumentation
+W1971809418,6,Hydrogen-Ion Concentration,FALSE,
+W1971809418,7,Iron,FALSE,
+W1971809418,8,Nanotechnology,FALSE,
+W1971809418,9,Nanotechnology,FALSE,instrumentation
+W1971809418,10,Oxidation-Reduction,FALSE,
+W1989032102,1,Organosilicon Compounds,TRUE,chemistry
+W1989032102,2,Polystyrenes,TRUE,chemistry
+W1989032102,3,"Microscopy, Atomic Force",FALSE,
+W1989032102,4,Molecular Structure,FALSE,
+W1989032102,5,Organosilicon Compounds,FALSE,
+W1989032102,6,Polystyrenes,FALSE,
+W1989032102,7,Temperature,FALSE,
+W1989032102,8,Time Factors,FALSE,
+W2114507223,1,Feeding Behavior,TRUE,physiology
+W2114507223,2,Gills,TRUE,physiology
+W2114507223,3,Pulsatile Flow,TRUE,physiology
+W2114507223,4,Tilapia,TRUE,physiology
+W2114507223,5,Animals,FALSE,
+W2114507223,6,Feeding Behavior,FALSE,
+W2114507223,7,Gills,FALSE,
+W2114507223,8,Mouth,FALSE,
+W2114507223,9,Mouth,FALSE,physiology
+W2114507223,10,Pulsatile Flow,FALSE,
+W2114507223,11,Tilapia,FALSE,
+W2105618266,1,Environmental Monitoring,TRUE,methods
+W2105618266,2,Water Movements,TRUE,
+W2105618266,3,Environmental Monitoring,FALSE,
+W2105618266,4,Tomography,FALSE,
+W2105618266,5,United States,FALSE,
+W2105618266,6,Virginia,FALSE,
+W2129002420,1,Mars,TRUE,
+W2129002420,2,Silicates,TRUE,analysis
+W2129002420,3,Water,TRUE,
+W2129002420,4,Extraterrestrial Environment,FALSE,
+W2129002420,5,Iron,FALSE,analysis
+W2129002420,6,Iron,FALSE,
+W2129002420,7,Magnesium,FALSE,analysis
+W2129002420,8,Magnesium,FALSE,
+W2129002420,9,Silicates,FALSE,
+W2129002420,10,Spectrum Analysis,FALSE,
+W2123142395,1,Algorithms,TRUE,
+W2123142395,2,Artifacts,TRUE,
+W2123142395,3,Image Enhancement,TRUE,methods
+W2123142395,4,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2123142395,5,"Signal Processing, Computer-Assisted",TRUE,
+W2123142395,6,Computer Simulation,FALSE,
+W2123142395,7,Image Enhancement,FALSE,
+W2123142395,8,"Image Interpretation, Computer-Assisted",FALSE,
+W2123142395,9,"Models, Statistical",FALSE,
+W2123142395,10,Regression Analysis,FALSE,
+W2123142395,11,Reproducibility of Results,FALSE,
+W2123142395,12,Sensitivity and Specificity,FALSE,
+W2092943460,1,Membranes,TRUE,chemistry
+W2092943460,2,Amines,FALSE,chemistry
+W2092943460,3,Calcium,FALSE,chemistry
+W2092943460,4,Cations,FALSE,
+W2092943460,5,"Chromatography, Gel",FALSE,
+W2092943460,6,Environment,FALSE,
+W2092943460,7,Fatty Acids,FALSE,chemistry
+W2092943460,8,Fluorescent Dyes,FALSE,pharmacology
+W2092943460,9,Hydrogen-Ion Concentration,FALSE,
+W2092943460,10,Iron,FALSE,chemistry
+W2092943460,11,Lauric Acids,FALSE,chemistry
+W2092943460,12,Magnesium,FALSE,chemistry
+W2092943460,13,Molecular Conformation,FALSE,
+W2092943460,14,Permeability,FALSE,
+W2018857832,1,Algorithms,TRUE,
+W2018857832,2,Face,TRUE,anatomy & histology
+W2018857832,3,Image Enhancement,TRUE,methods
+W2018857832,4,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2018857832,5,"Imaging, Three-Dimensional",TRUE,methods
+W2018857832,6,"Pattern Recognition, Automated",TRUE,methods
+W2018857832,7,Subtraction Technique,TRUE,
+W2018857832,8,Face,FALSE,
+W2018857832,9,Humans,FALSE,
+W2018857832,10,Image Enhancement,FALSE,
+W2018857832,11,"Image Interpretation, Computer-Assisted",FALSE,
+W2018857832,12,"Imaging, Three-Dimensional",FALSE,
+W2018857832,13,"Pattern Recognition, Automated",FALSE,
+W2018857832,14,Reproducibility of Results,FALSE,
+W2018857832,15,Sensitivity and Specificity,FALSE,
+W2138921237,1,Biological Evolution,TRUE,
+W2138921237,2,Ice Cover,TRUE,
+W2138921237,3,Oxygen,TRUE,metabolism
+W2138921237,4,Photosystem II Protein Complex,TRUE,metabolism
+W2138921237,5,Archaea,FALSE,
+W2138921237,6,Archaea,FALSE,metabolism
+W2138921237,7,Geologic Sediments,FALSE,
+W2138921237,8,Geologic Sediments,FALSE,microbiology
+W2138921237,9,Geologic Sediments,FALSE,analysis
+W2138921237,10,Hydrogen Peroxide,FALSE,
+W2138921237,11,Hydrogen Peroxide,FALSE,metabolism
+W2138921237,12,Ice Cover,FALSE,microbiology
+W2138921237,13,Lipid Metabolism,FALSE,
+W2138921237,14,"Models, Biological",FALSE,
+W2138921237,15,Oxygen,FALSE,
+W2138921237,16,Photosynthesis,FALSE,
+W2138921237,17,Photosystem II Protein Complex,FALSE,
+W2138921237,18,Sterols,FALSE,
+W2138921237,19,Sterols,FALSE,biosynthesis
+W2138921237,20,Time Factors,FALSE,
+W2138921237,21,Ultraviolet Rays,FALSE,
+W2034753284,1,Colloids,TRUE,chemistry
+W2034753284,2,"Models, Chemical",TRUE,
+W2034753284,3,Colloids,FALSE,
+W2034753284,4,Elasticity,FALSE,
+W2034753284,5,Pressure,FALSE,
+W2100562008,1,Drug Carriers,TRUE,
+W2100562008,2,Nanoparticles,TRUE,
+W2100562008,3,Thermodynamics,TRUE,
+W2100562008,4,Paclitaxel,FALSE,
+W2100562008,5,Paclitaxel,FALSE,chemistry
+W1996037294,1,Exobiology,TRUE,methods
+W1996037294,2,Goals,TRUE,
+W1996037294,3,Mars,TRUE,
+W1996037294,4,Space Simulation,TRUE,
+W1996037294,5,Technology,TRUE,
+W1996037294,6,Exobiology,FALSE,
+W1996037294,7,Geography,FALSE,
+W1996037294,8,Research,FALSE,
+W1996037294,9,Robotics,FALSE,
+W1996037294,10,Spain,FALSE,
+W2074261783,1,Antibodies,TRUE,immunology
+W2074261783,2,Exobiology,TRUE,methods
+W2074261783,3,Immunoassay,TRUE,methods
+W2074261783,4,Mars,TRUE,
+W2074261783,5,Protein Array Analysis,TRUE,
+W2074261783,6,Space Simulation,TRUE,instrumentation
+W2074261783,7,Space Simulation,TRUE,methods
+W2074261783,8,Antibodies,FALSE,
+W2074261783,9,Antigens,FALSE,
+W2074261783,10,Bacillus subtilis,FALSE,
+W2074261783,11,Bacillus subtilis,FALSE,immunology
+W2074261783,12,DNA,FALSE,
+W2074261783,13,Exobiology,FALSE,
+W2074261783,14,Exobiology,FALSE,instrumentation
+W2074261783,15,Fluorescence,FALSE,
+W2074261783,16,Immunoassay,FALSE,
+W2074261783,17,Laboratories,FALSE,
+W2074261783,18,Reproducibility of Results,FALSE,
+W2074261783,19,Space Simulation,FALSE,
+W1529824884,1,Algorithms,TRUE,
+W1529824884,2,Artificial Intelligence,TRUE,
+W1529824884,3,"Colonography, Computed Tomographic",TRUE,methods
+W1529824884,4,"Imaging, Three-Dimensional",TRUE,methods
+W1529824884,5,"Pattern Recognition, Automated",TRUE,methods
+W1529824884,6,"Radiographic Image Interpretation, Computer-Assisted",TRUE,methods
+W1529824884,7,Colon,FALSE,diagnostic imaging
+W1529824884,8,Colon,FALSE,
+W1529824884,9,"Colonography, Computed Tomographic",FALSE,
+W1529824884,10,Humans,FALSE,
+W1529824884,11,"Imaging, Three-Dimensional",FALSE,
+W1529824884,12,"Pattern Recognition, Automated",FALSE,
+W1529824884,13,Radiographic Image Enhancement,FALSE,methods
+W1529824884,14,Radiographic Image Enhancement,FALSE,
+W1529824884,15,"Radiographic Image Interpretation, Computer-Assisted",FALSE,
+W1529824884,16,Reproducibility of Results,FALSE,
+W1529824884,17,Sensitivity and Specificity,FALSE,
+W2107407618,1,Carbon Dioxide,TRUE,isolation & purification
+W2107407618,2,Environmental Health,TRUE,
+W2107407618,3,Greenhouse Effect,TRUE,
+W2107407618,4,Carbon Dioxide,FALSE,
+W2107407618,5,Carbon Dioxide,FALSE,analysis
+W2107407618,6,Carbon Dioxide,FALSE,chemistry
+W2107407618,7,Research,FALSE,
+W2107407618,8,Technology,FALSE,
+W1978489636,1,Chlorides,TRUE,
+W1978489636,2,Mars,TRUE,
+W1978489636,3,Water,TRUE,
+W1978489636,4,Chemical Precipitation,FALSE,
+W1978489636,5,Extraterrestrial Environment,FALSE,
+W1978489636,6,Time,FALSE,
+W2099151424,1,Algorithms,TRUE,
+W2099151424,2,Computer Graphics,TRUE,
+W2099151424,3,Image Enhancement,TRUE,methods
+W2099151424,4,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2099151424,5,"Imaging, Three-Dimensional",TRUE,methods
+W2099151424,6,"Signal Processing, Computer-Assisted",TRUE,
+W2099151424,7,Image Enhancement,FALSE,
+W2099151424,8,"Image Interpretation, Computer-Assisted",FALSE,
+W2099151424,9,"Imaging, Three-Dimensional",FALSE,
+W2099151424,10,Reproducibility of Results,FALSE,
+W2099151424,11,Sensitivity and Specificity,FALSE,
+W2117779704,1,Exobiology,TRUE,
+W2117779704,2,Mars,TRUE,
+W2117779704,3,Water,TRUE,
+W2117779704,4,Extraterrestrial Environment,FALSE,
+W2117779704,5,Life,FALSE,
+W2117779704,6,Salinity,FALSE,
+W2016571287,1,Radioisotopes,TRUE,analysis
+W2016571287,2,Seawater,TRUE,analysis
+W2016571287,3,Ships,TRUE,
+W2016571287,4,"Water Pollutants, Radioactive",TRUE,analysis
+W2016571287,5,Brazil,FALSE,
+W2016571287,6,Geography,FALSE,
+W2016571287,7,Radioisotopes,FALSE,
+W2016571287,8,Radium,FALSE,
+W2016571287,9,Radium,FALSE,analysis
+W2016571287,10,Radon,FALSE,
+W2016571287,11,Radon,FALSE,analysis
+W2016571287,12,Seawater,FALSE,
+W2016571287,13,Tritium,FALSE,
+W2016571287,14,Tritium,FALSE,analysis
+W2016571287,15,Water Movements,FALSE,
+W2016571287,16,"Water Pollutants, Radioactive",FALSE,
+W2108082108,1,Algorithms,TRUE,
+W2108082108,2,Computer Graphics,TRUE,
+W2108082108,3,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2108082108,4,"Imaging, Three-Dimensional",TRUE,methods
+W2108082108,5,"Numerical Analysis, Computer-Assisted",TRUE,
+W2108082108,6,User-Computer Interface,TRUE,
+W2108082108,7,"Image Interpretation, Computer-Assisted",FALSE,
+W2108082108,8,"Imaging, Three-Dimensional",FALSE,
+W2134427293,1,Algorithms,TRUE,
+W2134427293,2,Image Enhancement,TRUE,methods
+W2134427293,3,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2134427293,4,"Imaging, Three-Dimensional",TRUE,methods
+W2134427293,5,Image Enhancement,FALSE,
+W2134427293,6,"Image Interpretation, Computer-Assisted",FALSE,
+W2134427293,7,"Imaging, Three-Dimensional",FALSE,
+W2134427293,8,Reproducibility of Results,FALSE,
+W2134427293,9,Sensitivity and Specificity,FALSE,
+W2140037310,1,Artificial Intelligence,TRUE,
+W2140037310,2,Brain,TRUE,anatomy & histology
+W2140037310,3,Diffusion Magnetic Resonance Imaging,TRUE,methods
+W2140037310,4,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2140037310,5,"Imaging, Three-Dimensional",TRUE,methods
+W2140037310,6,"Nerve Fibers, Myelinated",TRUE,ultrastructure
+W2140037310,7,"Pattern Recognition, Automated",TRUE,methods
+W2140037310,8,Algorithms,FALSE,
+W2140037310,9,Brain,FALSE,
+W2140037310,10,Diffusion Magnetic Resonance Imaging,FALSE,
+W2140037310,11,Humans,FALSE,
+W2140037310,12,Image Enhancement,FALSE,methods
+W2140037310,13,Image Enhancement,FALSE,
+W2140037310,14,"Image Interpretation, Computer-Assisted",FALSE,
+W2140037310,15,"Imaging, Three-Dimensional",FALSE,
+W2140037310,16,"Nerve Fibers, Myelinated",FALSE,
+W2140037310,17,"Pattern Recognition, Automated",FALSE,
+W2140037310,18,Sensitivity and Specificity,FALSE,
+W2094163096,1,Algorithms,TRUE,
+W2094163096,2,Computer Graphics,TRUE,
+W2094163096,3,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2094163096,4,"Imaging, Three-Dimensional",TRUE,methods
+W2094163096,5,"Pattern Recognition, Automated",TRUE,methods
+W2094163096,6,Computer Simulation,FALSE,
+W2094163096,7,Image Enhancement,FALSE,methods
+W2094163096,8,Image Enhancement,FALSE,
+W2094163096,9,"Image Interpretation, Computer-Assisted",FALSE,
+W2094163096,10,"Imaging, Three-Dimensional",FALSE,
+W2094163096,11,"Models, Theoretical",FALSE,
+W2094163096,12,"Pattern Recognition, Automated",FALSE,
+W2094163096,13,Reproducibility of Results,FALSE,
+W2094163096,14,Sensitivity and Specificity,FALSE,
+W1512531441,1,Artificial Intelligence,TRUE,
+W1512531441,2,Brain,TRUE,anatomy & histology
+W1512531441,3,"Image Interpretation, Computer-Assisted",TRUE,methods
+W1512531441,4,"Imaging, Three-Dimensional",TRUE,methods
+W1512531441,5,Magnetic Resonance Imaging,TRUE,methods
+W1512531441,6,"Pattern Recognition, Automated",TRUE,methods
+W1512531441,7,Subtraction Technique,TRUE,
+W1512531441,8,Algorithms,FALSE,
+W1512531441,9,Brain,FALSE,
+W1512531441,10,Computer Simulation,FALSE,
+W1512531441,11,Humans,FALSE,
+W1512531441,12,Image Enhancement,FALSE,
+W1512531441,13,Image Enhancement,FALSE,methods
+W1512531441,14,"Image Interpretation, Computer-Assisted",FALSE,
+W1512531441,15,"Imaging, Three-Dimensional",FALSE,
+W1512531441,16,Magnetic Resonance Imaging,FALSE,
+W1512531441,17,"Models, Biological",FALSE,
+W1512531441,18,"Models, Statistical",FALSE,
+W1512531441,19,"Pattern Recognition, Automated",FALSE,
+W1512531441,20,Reproducibility of Results,FALSE,
+W1512531441,21,Sensitivity and Specificity,FALSE,
+W1995533541,1,Diagnostic Imaging,TRUE,instrumentation
+W1995533541,2,Diagnostic Imaging,TRUE,methods
+W1995533541,3,"Image Interpretation, Computer-Assisted",TRUE,methods
+W1995533541,4,"Pattern Recognition, Automated",TRUE,methods
+W1995533541,5,Algorithms,FALSE,
+W1995533541,6,Artifacts,FALSE,
+W1995533541,7,Computer Simulation,FALSE,
+W1995533541,8,Diagnostic Imaging,FALSE,
+W1995533541,9,Equipment Design,FALSE,
+W1995533541,10,Humans,FALSE,
+W1995533541,11,"Image Interpretation, Computer-Assisted",FALSE,
+W1995533541,12,"Models, Statistical",FALSE,
+W1995533541,13,Normal Distribution,FALSE,
+W1995533541,14,"Pattern Recognition, Automated",FALSE,
+W1995533541,15,"Phantoms, Imaging",FALSE,
+W1995533541,16,Poisson Distribution,FALSE,
+W1995533541,17,ROC Curve,FALSE,
+W1995533541,18,Reproducibility of Results,FALSE,
+W1995533541,19,Time Factors,FALSE,
+W1577218018,1,Algorithms,TRUE,
+W1577218018,2,Breast Neoplasms,TRUE,diagnostic imaging
+W1577218018,3,Image Enhancement,TRUE,methods
+W1577218018,4,"Image Interpretation, Computer-Assisted",TRUE,methods
+W1577218018,5,"Ultrasonography, Mammary",TRUE,methods
+W1577218018,6,Breast Neoplasms,FALSE,
+W1577218018,7,Female,FALSE,
+W1577218018,8,Humans,FALSE,
+W1577218018,9,Image Enhancement,FALSE,
+W1577218018,10,"Image Interpretation, Computer-Assisted",FALSE,
+W1577218018,11,"Phantoms, Imaging",FALSE,
+W1577218018,12,Reproducibility of Results,FALSE,
+W1577218018,13,Sensitivity and Specificity,FALSE,
+W1577218018,14,"Ultrasonography, Mammary",FALSE,
+W1577218018,15,"Ultrasonography, Mammary",FALSE,instrumentation
+W1978489636,1,Chlorides,TRUE,
+W1978489636,2,Mars,TRUE,
+W1978489636,3,Water,TRUE,
+W1978489636,4,Chemical Precipitation,FALSE,
+W1978489636,5,Extraterrestrial Environment,FALSE,
+W1978489636,6,Time,FALSE,
+W1999366992,1,Mars,TRUE,
+W1999366992,2,Extraterrestrial Environment,FALSE,
+W1999366992,3,Geologic Sediments,FALSE,
+W2009073540,1,"Evolution, Planetary",TRUE,
+W2009073540,2,Exobiology,TRUE,
+W2009073540,3,Extraterrestrial Environment,TRUE,chemistry
+W2009073540,4,Planets,TRUE,
+W2009073540,5,Water Movements,TRUE,
+W2009073540,6,Extraterrestrial Environment,FALSE,
+W2009073540,7,Time Factors,FALSE,
+W2073764164,1,Erythrocyte Deformability,TRUE,physiology
+W2073764164,2,Erythrocytes,TRUE,physiology
+W2073764164,3,Microcirculation,TRUE,physiology
+W2073764164,4,"Models, Cardiovascular",TRUE,
+W2073764164,5,Biomechanical Phenomena,FALSE,
+W2073764164,6,Blood Flow Velocity,FALSE,
+W2073764164,7,Cell Movement,FALSE,
+W2073764164,8,Computer Simulation,FALSE,
+W2073764164,9,Erythrocyte Count,FALSE,
+W2073764164,10,Erythrocyte Deformability,FALSE,
+W2073764164,11,Erythrocytes,FALSE,
+W2073764164,12,Humans,FALSE,
+W2073764164,13,Microcirculation,FALSE,
+W2082546330,1,Dietary Supplements,TRUE,
+W2082546330,2,Phosphorus,TRUE,chemistry
+W2082546330,3,Polyphosphates,TRUE,chemical synthesis
+W2082546330,4,Oxidation-Reduction,FALSE,
+W2082546330,5,Phosphorus,FALSE,
+W2082546330,6,Polyphosphates,FALSE,
+W2162792257,1,Computer-Aided Design,TRUE,
+W2162792257,2,Image Enhancement,TRUE,instrumentation
+W2162792257,3,"Models, Theoretical",TRUE,
+W2162792257,4,Photography,TRUE,instrumentation
+W2162792257,5,Refractometry,TRUE,instrumentation
+W2162792257,6,Computer Simulation,FALSE,
+W2162792257,7,Equipment Design,FALSE,
+W2162792257,8,Equipment Failure Analysis,FALSE,
+W2162792257,9,Image Enhancement,FALSE,
+W2162792257,10,Miniaturization,FALSE,
+W2162792257,11,Photography,FALSE,methods
+W2162792257,12,Photography,FALSE,
+W2162792257,13,Refractometry,FALSE,
+W2050060187,1,Multiprotein Complexes,TRUE,chemistry
+W2050060187,2,Protein Conformation,TRUE,
+W2050060187,3,"Spectrometry, Mass, Electrospray Ionization",TRUE,methods
+W2050060187,4,Animals,FALSE,
+W2050060187,5,Humans,FALSE,
+W2050060187,6,Multiprotein Complexes,FALSE,
+W2050060187,7,"Spectrometry, Mass, Electrospray Ionization",FALSE,
+W2050060187,8,Surface Properties,FALSE,
+W2054530914,1,Laboratories,TRUE,
+W2054530914,2,Mars,TRUE,
+W2054530914,3,Neutrons,TRUE,
+W2054530914,4,Space Flight,TRUE,instrumentation
+W2054530914,5,United States National Aeronautics and Space Administration,TRUE,
+W2054530914,6,Hydrogen,FALSE,
+W2054530914,7,Hydrogen,FALSE,analysis
+W2054530914,8,"Numerical Analysis, Computer-Assisted",FALSE,
+W2054530914,9,Soil,FALSE,
+W2054530914,10,Soil,FALSE,analysis
+W2054530914,11,Space Flight,FALSE,
+W2054530914,12,United States,FALSE,
+W2043100058,1,Cold Temperature,TRUE,
+W2043100058,2,"Earth, Planet",TRUE,
+W2043100058,3,Macromolecular Substances,TRUE,analysis
+W2043100058,4,Saturn,TRUE,
+W2043100058,5,Calibration,FALSE,
+W2043100058,6,Hydrolysis,FALSE,
+W2043100058,7,Kinetics,FALSE,
+W2043100058,8,Macromolecular Substances,FALSE,
+W2043100058,9,Mass Spectrometry,FALSE,
+W2043100058,10,Reference Standards,FALSE,
+W2043100058,11,Solutions,FALSE,
+W2043100058,12,Water,FALSE,
+W2040882787,1,Algorithms,TRUE,
+W2040882787,2,Artifacts,TRUE,
+W2040882787,3,Image Enhancement,TRUE,methods
+W2040882787,4,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2040882787,5,"Imaging, Three-Dimensional",TRUE,methods
+W2040882787,6,Lasers,TRUE,
+W2040882787,7,Image Enhancement,FALSE,
+W2040882787,8,"Image Interpretation, Computer-Assisted",FALSE,
+W2040882787,9,"Imaging, Three-Dimensional",FALSE,
+W2040882787,10,Reproducibility of Results,FALSE,
+W2040882787,11,Sensitivity and Specificity,FALSE,
+W2024362397,1,Moon,TRUE,
+W2024362397,2,Neutrons,TRUE,
+W2024362397,3,Cold Temperature,FALSE,
+W2024362397,4,Equipment Design,FALSE,
+W2024362397,5,Extraterrestrial Environment,FALSE,
+W2024362397,6,Hydrogen,FALSE,
+W2024362397,7,Ice,FALSE,
+W2024362397,8,"Models, Theoretical",FALSE,
+W2024362397,9,Space Flight,FALSE,
+W2024362397,10,Space Flight,FALSE,instrumentation
+W2024362397,11,Spacecraft,FALSE,
+W2024362397,12,Spacecraft,FALSE,instrumentation
+W2024362397,13,United States,FALSE,
+W2024362397,14,United States National Aeronautics and Space Administration,FALSE,
+W3100244701,1,Electromagnetic Fields,TRUE,
+W3100244701,2,"Models, Theoretical",TRUE,
+W3100244701,3,Radiometry,TRUE,methods
+W3100244701,4,Computer Simulation,FALSE,
+W3100244701,5,Radiation Dosage,FALSE,
+W3100244701,6,Radiometry,FALSE,
+W3100244701,7,"Scattering, Radiation",FALSE,
+W3100244701,8,"Stress, Mechanical",FALSE,
+W2111947589,1,"Models, Theoretical",TRUE,
+W2111947589,2,Tomography,TRUE,methods
+W2111947589,3,Water Movements,TRUE,
+W2111947589,4,Software,FALSE,
+W2111947589,5,Tomography,FALSE,
+W2122207860,1,Algorithms,TRUE,
+W2122207860,2,Face,TRUE,anatomy & histology
+W2122207860,3,"Image Interpretation, Computer-Assisted",TRUE,
+W2122207860,4,"Pattern Recognition, Automated",TRUE,
+W2122207860,5,Face,FALSE,
+W2122207860,6,Female,FALSE,
+W2122207860,7,Humans,FALSE,
+W2122207860,8,Male,FALSE,
+W2076443951,1,Jupiter,TRUE,
+W2076443951,2,Space Flight,TRUE,instrumentation
+W2076443951,3,"Spectroscopy, Near-Infrared",TRUE,
+W2076443951,4,Atmosphere,FALSE,
+W2076443951,5,Atmosphere,FALSE,chemistry
+W2076443951,6,Extraterrestrial Environment,FALSE,
+W2076443951,7,Extraterrestrial Environment,FALSE,chemistry
+W2076443951,8,Space Flight,FALSE,
+W2076443951,9,Water,FALSE,
+W2076443951,10,Water,FALSE,analysis
+W2060304649,1,Alkanes,TRUE,chemistry
+W2060304649,2,"Membranes, Artificial",TRUE,
+W2060304649,3,Silver,TRUE,chemistry
+W2060304649,4,Sulfhydryl Compounds,TRUE,chemistry
+W2060304649,5,Water,TRUE,chemistry
+W2060304649,6,Alkanes,FALSE,
+W2060304649,7,Molecular Structure,FALSE,
+W2060304649,8,Silver,FALSE,
+W2060304649,9,"Spectrum Analysis, Raman",FALSE,
+W2060304649,10,Sulfhydryl Compounds,FALSE,
+W2060304649,11,Surface Properties,FALSE,
+W2060304649,12,Water,FALSE,
+W2060304649,13,Wettability,FALSE,
+W2044667750,1,Soil Pollutants,TRUE,analysis
+W2044667750,2,Soil Pollutants,TRUE,chemistry
+W2044667750,3,Soil Pollutants,FALSE,
+W2044667750,4,Solubility,FALSE,
+W2044667750,5,Solvents,FALSE,
+W2044667750,6,Solvents,FALSE,chemistry
+W2044667750,7,Water Movements,FALSE,
+W2019233032,1,Minerals,TRUE,chemistry
+W2019233032,2,"Spectrum Analysis, Raman",TRUE,methods
+W2019233032,3,Light,FALSE,
+W2019233032,4,Minerals,FALSE,
+W2019233032,5,Pressure,FALSE,
+W2019233032,6,"Scattering, Radiation",FALSE,
+W2019233032,7,"Spectrum Analysis, Raman",FALSE,
+W2016571287,1,Radioisotopes,TRUE,analysis
+W2016571287,2,Seawater,TRUE,analysis
+W2016571287,3,Ships,TRUE,
+W2016571287,4,"Water Pollutants, Radioactive",TRUE,analysis
+W2016571287,5,Brazil,FALSE,
+W2016571287,6,Geography,FALSE,
+W2016571287,7,Radioisotopes,FALSE,
+W2016571287,8,Radium,FALSE,
+W2016571287,9,Radium,FALSE,analysis
+W2016571287,10,Radon,FALSE,
+W2016571287,11,Radon,FALSE,analysis
+W2016571287,12,Seawater,FALSE,
+W2016571287,13,Tritium,FALSE,
+W2016571287,14,Tritium,FALSE,analysis
+W2016571287,15,Water Movements,FALSE,
+W2016571287,16,"Water Pollutants, Radioactive",FALSE,
+W2109466155,1,Artificial Intelligence,TRUE,
+W2109466155,2,Image Enhancement,TRUE,methods
+W2109466155,3,"Image Interpretation, Computer-Assisted",TRUE,methods
+W2109466155,4,Information Storage and Retrieval,TRUE,methods
+W2109466155,5,"Pattern Recognition, Automated",TRUE,methods
+W2109466155,6,"Data Interpretation, Statistical",FALSE,
+W2109466155,7,Image Enhancement,FALSE,
+W2109466155,8,"Image Interpretation, Computer-Assisted",FALSE,
+W2109466155,9,Information Storage and Retrieval,FALSE,
+W2109466155,10,"Pattern Recognition, Automated",FALSE,
+W1969390103,1,Aluminum Oxide,TRUE,chemistry
+W1969390103,2,Proteome,TRUE,analysis
+W1969390103,3,"Spectrometry, Mass, Electrospray Ionization",TRUE,instrumentation
+W1969390103,4,"Spectrometry, Mass, Electrospray Ionization",TRUE,methods
+W1969390103,5,Aluminum Oxide,FALSE,
+W1969390103,6,Animals,FALSE,
+W1969390103,7,Cattle,FALSE,
+W1969390103,8,Glass,FALSE,chemistry
+W1969390103,9,Glass,FALSE,
+W1969390103,10,"Microscopy, Electron, Scanning",FALSE,
+W1969390103,11,Particle Size,FALSE,
+W1969390103,12,Polymers,FALSE,chemistry
+W1969390103,13,Polymers,FALSE,
+W1969390103,14,Polymethacrylic Acids,FALSE,chemistry
+W1969390103,15,Polymethacrylic Acids,FALSE,
+W1969390103,16,Polytetrafluoroethylene,FALSE,
+W1969390103,17,Polytetrafluoroethylene,FALSE,chemistry
+W1969390103,18,Porosity,FALSE,
+W1969390103,19,Proteome,FALSE,
+W1969390103,20,Reserpine,FALSE,
+W1969390103,21,Reserpine,FALSE,analysis
+W1969390103,22,Sensitivity and Specificity,FALSE,
+W1969390103,23,"Serum Albumin, Bovine",FALSE,
+W1969390103,24,"Serum Albumin, Bovine",FALSE,analysis
+W1969390103,25,"Spectrometry, Mass, Electrospray Ionization",FALSE,
+W1969390103,26,Surface Properties,FALSE,
+W1969390103,27,Time Factors,FALSE,
+W1969390103,28,Trypsin,FALSE,pharmacology
+W1969390103,29,Trypsin,FALSE,
+W2033228904,1,Nanotechnology,TRUE,ethics
+W2033228904,2,Nanotechnology,TRUE,trends
+W2033228904,3,Public Opinion,TRUE,
+W2033228904,4,Religion and Science,TRUE,
+W2033228904,5,Nanotechnology,FALSE,
+W2114510642,1,Environmental Restoration and Remediation,TRUE,methods
+W2114510642,2,"Water Pollutants, Chemical",TRUE,
+W2114510642,3,Environmental Restoration and Remediation,FALSE,
+W2114510642,4,"Models, Theoretical",FALSE,

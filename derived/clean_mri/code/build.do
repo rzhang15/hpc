@@ -18,6 +18,7 @@ program main
 	append_nsf_mri_grants
 	nsf_mri_compute
 	merge_institutional_details
+	merge_price_deflator
 	
 end 
 
@@ -195,6 +196,46 @@ program merge_institutional_details
 	drop _merge
 	
 	save "$derived_output/clean_mri/mri_compute_grants.dta", replace 
+	
+end 
+
+program merge_price_deflator
+
+	import delimited "$raw/BEA/Table 1-1-9 Implicit Price Deflators for Gross Domestic Product.csv", ///
+			clear varnames(4)
+			
+	label variable v2 "Type"
+			
+	foreach v of varlist _all {
+		local x : variable label `v'
+		ren `v' deflator_`x'
+	}
+	
+	destring deflator_1970-deflator_2023, force replace
+	drop deflator_Line 
+	
+	* Reshape to have to variables by year 
+	ren deflator_Type Type
+	keep if inlist(Type, "        Gross domestic product", "Gross private domestic investment")
+		replace Type = "gdp" if Type == "        Gross domestic product"
+		replace Type = "gpdi" if Type == "Gross private domestic investment"
+	
+	* Two reshapes to have dataset unique on year 
+	reshape long deflator_, i(Type) j(year)
+	reshape wide deflator_, i(year) j(Type) string
+	
+	* Label variables 
+	label variable deflator_gdp "Gross Domestic Product Implicit Price Deflators (BEA)"
+	label variable deflator_gpdi "Gross Private Domestic Investment Implicit Price Deflators (BEA)"
+	
+	isid year 
+	pwcorr deflator*
+	
+	* Merge into NSF data
+	ren year start_year
+	merge 1:m start_year using "$derived_output/clean_mri/mri_compute_grants.dta", nogen keep(using matched) 
+	
+	save "$derived_output/clean_mri/mri_compute_grants.dta", replace
 	
 end 
 
